@@ -1,0 +1,67 @@
+# Scraping targets per jurisdiction.
+# Each jurisdiction lists the bodies whose agendas we track and where they live.
+# Many small Utah cities use a few common platforms: Granicus, CivicPlus, or a
+# WordPress page with PDF links. Update these URLs once and the scraper handles
+# the rest.
+
+jurisdictions:
+
+  tooele_county:
+    name: "Tooele County"
+    bodies:
+      - body: "Planning Commission"
+        # Verify URL once repo is created — county sometimes restructures.
+        url: "https://www.tooeleco.gov/government/county-departments/community-development/planning-zoning/planning-commission/"
+        type: "html_pdf_links"   # parser strategy: scrape page for .pdf hrefs
+      - body: "County Council"
+        url: "https://www.tooeleco.gov/government/county-council/"
+        type: "html_pdf_links"
+
+  grantsville:
+    name: "Grantsville City"
+    bodies:
+      - body: "Planning Commission"
+        url: "https://grantsvilleut.gov/agendas-and-minutes/"
+        type: "html_pdf_links"
+      - body: "City Council"
+        url: "https://grantsvilleut.gov/agendas-and-minutes/"
+        type: "html_pdf_links"
+
+  erda:
+    name: "Erda City"
+    bodies:
+      - body: "Planning Commission"
+        url: "https://erdacity.org/"   # Erda is new; verify exact agendas page
+        type: "html_pdf_links"
+      - body: "City Council"
+        url: "https://erdacity.org/"
+        type: "html_pdf_links"
+
+# Item classifier keywords. Order matters — first match wins.
+classifier:
+  rules:
+    - label: "annexation"
+      keywords: ["annexation", "annex", "petition to annex"]
+    - label: "rezone"
+      keywords: ["rezone", "rezoning", "zone change", "zoning amendment", "zone map amendment"]
+    - label: "general_plan_amendment"
+      keywords: ["general plan amendment", "future land use map", "GPA", "land use element"]
+    - label: "subdivision"
+      keywords: ["subdivision", "preliminary plat", "final plat", "concept plan", "plat amendment"]
+    - label: "site_plan"
+      keywords: ["site plan", "design review"]
+    - label: "conditional_use"
+      keywords: ["conditional use", "CUP"]
+    - label: "ordinance"
+      keywords: ["ordinance", "ord. no", "ord no"]
+    - label: "public_hearing_other"
+      keywords: ["public hearing"]
+    - label: "other"
+      keywords: []
+
+# Address/parcel extraction patterns (regex)
+extraction:
+  parcel_pattern: '\b\d{2}-\d{3}-\d-\d{4}\b'   # Tooele format: 00-000-0-0000
+  acreage_pattern: '(\d+(?:\.\d+)?)\s*(?:acres?|ac\.)'
+  density_pattern: '(\d+(?:\.\d+)?)\s*(?:units?/acre|du/ac|dwelling units per acre)'
+  address_pattern: '\b\d{1,5}\s+[NSEW]?\s*\d{0,4}\s*[NSEW]?\s+(?:Main|Street|St|Ave|Road|Rd|Way|Lane|Ln|Blvd|Hwy|Highway|Drive|Dr)\b'
