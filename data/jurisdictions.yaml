@@ -58,17 +58,26 @@ jurisdictions:
   tooele_county:
     name: "Tooele County (Unincorporated)"
     zoning_layer: 4
+    # Agendas are in Tyler Meeting Manager (JavaScript SPA) — not directly scrapable.
+    # The scraper fetches the planning page and filters for keyword-relevant PDF links.
     agenda_url: "https://www.tooeleco.org/260/Planning-Commission"
     council_url: "https://www.tooeleco.org/143/Commission-Meetings"
+    scraper_type: "tooele_county"
 
   grantsville:
     name: "Grantsville City"
     zoning_layer: 7
-    agenda_url: "https://www.grantsvillecity.org/government/city-council"
-    planning_url: "https://www.grantsvillecity.org/government/planning-commission"
+    # Correct domain is grantsvilleut.gov — grantsvillecity.org times out.
+    # PDFs are in a date-organized table with direct href links.
+    agenda_url: "https://www.grantsvilleut.gov/government/city_council.php"
+    planning_url: "https://www.grantsvilleut.gov/departments/community___economic_development/planning_commission.php"
+    scraper_type: "grantsvilleut"
 
   erda:
     name: "Erda City"
     zoning_layer: 1
-    agenda_url: "https://erdacity.com/city-council"
-    planning_url: "https://erdacity.com/planning-commission"
+    # Erda website (Squarespace) has no agenda pages as of 2026-04.
+    # Incorporated 2021, still building out public records infrastructure.
+    agenda_url: null
+    planning_url: null
+    scraper_type: "unavailable"
