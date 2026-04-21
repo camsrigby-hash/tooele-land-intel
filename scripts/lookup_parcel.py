@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tooele Land Intel — parcel lookup.
+Tooele Land Intel - parcel lookup.
 
 Usage:
     python scripts/lookup_parcel.py 01-440-0-0019
@@ -15,7 +15,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
-from arcgis import query_layer, query_by_point, get_parcel_centroid
+from arcgis import query_layer, query_by_point, query_by_point_radius, get_parcel_centroid
 
 ROOT = Path(__file__).parent.parent
 CFG_PATH = ROOT / "data" / "jurisdictions.yaml"
@@ -25,7 +25,6 @@ def load_cfg() -> dict:
     with open(CFG_PATH) as f:
         cfg = yaml.safe_load(f)
     base = cfg["arcgis_base"]
-    # Expand {arcgis_base} template strings
     def expand(val):
         if isinstance(val, str):
             return val.replace("{arcgis_base}", base)
@@ -57,28 +56,63 @@ def lookup_zoning(cfg: dict, lon: float, lat: float) -> dict:
         rows = query_by_point(url, lon, lat)
         if rows:
             r = rows[0]
+            # NOTE: landuse_code intentionally dropped - source field stores
+            # a Google Doc URL, not a code. See jurisdictions.yaml.
             return {
                 "zone_code": r.get(zf["zone_code"]),
                 "description": r.get(zf["description"]),
                 "jurisdiction_layer": layer_name,
                 "jurisdiction": r.get(zf["jurisdiction"]),
-                "landuse_code": r.get(zf["landuse_code"]),
                 "ordinance": r.get(zf["ordinance"]),
             }
     return {}
 
 
 def lookup_general_plan(cfg: dict, lon: float, lat: float) -> dict:
+    """Look up the 2022 Tooele County GP designation at (lon, lat).
+
+    Strict point-in-polygon first. If the centroid falls in an unassigned
+    hole in the GP layer, fall back to a radius search and return all
+    distinct designations within fallback_radius_m meters.
+    """
     gp = cfg["general_plan"]
     gf = gp["fields"]
+    radius_m = gp.get("fallback_radius_m", 250)
+
+    # 1) Strict hit at the centroid.
     rows = query_by_point(gp["url"], lon, lat)
-    if not rows:
+    if rows:
+        r = rows[0]
+        return {
+            "landuse_code": r.get(gf["landuse_code"]),
+            "name": r.get(gf["name"]),
+            "notes": r.get(gf["notes"]),
+            "match": "centroid",
+        }
+
+    # 2) Fallback: list every distinct designation within radius_m meters.
+    nearby = query_by_point_radius(gp["url"], lon, lat, radius_m)
+    if not nearby:
         return {}
-    r = rows[0]
+
+    seen = {}
+    for r in nearby:
+        key = (r.get(gf["landuse_code"]), r.get(gf["name"]))
+        if key not in seen:
+            seen[key] = {
+                "landuse_code": r.get(gf["landuse_code"]),
+                "name": r.get(gf["name"]),
+                "notes": r.get(gf["notes"]),
+            }
+
     return {
-        "landuse_code": r.get(gf["landuse_code"]),
-        "name": r.get(gf["name"]),
-        "notes": r.get(gf["notes"]),
+        "match": "nearby",
+        "radius_m": radius_m,
+        "note": (
+            f"Parcel centroid falls in an unassigned area of the 2022 "
+            f"Tooele County GP. Listing designations within {radius_m}m."
+        ),
+        "designations": list(seen.values()),
     }
 
 
@@ -124,10 +158,15 @@ def main():
         zoning.get("jurisdiction", ""),
     )
 
-    # General Plan layer (GeneralPlan_2022_LandUseCA) covers Tooele City area only.
-    # Erda (incorporated 2021) and Grantsville General Plans are not yet in the county GIS.
-    if not general_plan and jurisdiction not in ("Tooele City",):
-        general_plan = {"note": f"General Plan data not available in county GIS for {jurisdiction}. Check the city directly."}
+    # The 2022 County GP has partial coverage. If neither the strict intersect
+    # nor the radius fallback returned anything, we're truly outside coverage.
+    if not general_plan:
+        general_plan = {
+            "note": (
+                f"No 2022 County GP coverage within radius of this parcel. "
+                f"For {jurisdiction}, check the city's own general plan document."
+            )
+        }
 
     result = {
         "parcel_id": parcel_id,

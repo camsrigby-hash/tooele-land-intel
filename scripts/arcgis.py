@@ -37,12 +37,39 @@ def query_layer(url: str, where: str, out_fields: str = "*", geometry: Optional[
 
 
 def query_by_point(url: str, lon: float, lat: float, out_fields: str = "*") -> list[dict]:
-    """Spatial query — return features whose geometry contains (lon, lat)."""
+    """Spatial query - return features whose geometry contains (lon, lat)."""
     params = {
         "geometry": f"{lon},{lat}",
         "geometryType": "esriGeometryPoint",
         "spatialRel": "esriSpatialRelIntersects",
         "inSR": "4326",
+        "outFields": out_fields,
+        "returnGeometry": "false",
+        "f": "json",
+    }
+    resp = SESSION.get(f"{url}/query", params=params, timeout=TIMEOUT)
+    resp.raise_for_status()
+    data = resp.json()
+    if "error" in data:
+        raise RuntimeError(f"ArcGIS error: {data['error']}")
+    return [f["attributes"] for f in data.get("features", [])]
+
+
+def query_by_point_radius(url: str, lon: float, lat: float, radius_m: float,
+                          out_fields: str = "*") -> list[dict]:
+    """Spatial query - return features within radius_m meters of (lon, lat).
+
+    Used as a fallback when a strict point-in-polygon query returns nothing
+    but neighboring polygons still carry useful context (e.g. the 2022
+    Tooele County General Plan has patchy coverage).
+    """
+    params = {
+        "geometry": f"{lon},{lat}",
+        "geometryType": "esriGeometryPoint",
+        "spatialRel": "esriSpatialRelIntersects",
+        "inSR": "4326",
+        "distance": radius_m,
+        "units": "esriSRUnit_Meter",
         "outFields": out_fields,
         "returnGeometry": "false",
         "f": "json",
@@ -74,7 +101,6 @@ def get_parcel_centroid(url: str, where: str) -> Optional[tuple[float, float]]:
     geom = features[0].get("centroid") or features[0].get("geometry")
     if not geom:
         return None
-    # centroid returns {x, y}; geometry returns rings — get bbox center
     if "x" in geom:
         return geom["x"], geom["y"]
     if "rings" in geom:
