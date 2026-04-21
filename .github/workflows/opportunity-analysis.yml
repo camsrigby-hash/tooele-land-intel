@@ -1,0 +1,39 @@
+name: Parcel Opportunity Analysis
+
+on:
+  workflow_dispatch:
+    inputs:
+      parcel_id:
+        description: "Tooele County parcel ID (e.g. 01-440-0-0019)"
+        required: true
+        type: string
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run opportunity analysis
+        run: python scripts/analyze_opportunity.py "${{ github.event.inputs.parcel_id }}" --pretty
+
+      - name: Save output as artifact
+        run: |
+          mkdir -p output
+          python scripts/analyze_opportunity.py "${{ github.event.inputs.parcel_id }}" --pretty \
+            > output/opportunity_${{ github.event.inputs.parcel_id }}.json
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: opportunity-result-${{ github.event.inputs.parcel_id }}
+          path: output/
