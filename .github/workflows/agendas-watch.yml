@@ -1,0 +1,48 @@
+name: Weekly Agenda Scrape
+
+on:
+  schedule:
+    # Every Monday at 08:00 UTC (2am MDT / 1am MST)
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      jurisdiction:
+        description: "Jurisdiction to scrape (leave blank for all)"
+        required: false
+        type: choice
+        options:
+          - ""
+          - tooele_county
+          - grantsville
+          - erda
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agenda scraper
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.jurisdiction }}" ]; then
+            ARGS="--jurisdiction ${{ github.event.inputs.jurisdiction }}"
+          fi
+          mkdir -p data/agendas
+          python scripts/scrape_agendas.py $ARGS \
+            --output data/agendas/agendas_$(date +%Y%m%d).json
+
+      - name: Upload agenda results
+        uses: actions/upload-artifact@v4
+        with:
+          name: agendas-${{ github.run_id }}
+          path: data/agendas/

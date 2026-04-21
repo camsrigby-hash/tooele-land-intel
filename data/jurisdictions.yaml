@@ -1,0 +1,74 @@
+arcgis_base: "https://tcgisws.tooeleco.gov/server/rest/services"
+
+# Parcel layer — field names verified against live API on 2026-04-20
+parcels:
+  url: "{arcgis_base}/Parcels/MapServer/0"
+  fields:
+    parcel_id: "Parcel_ID"
+    owner: "PrimaryOwnerName"
+    all_owners: "AllOwners"
+    acres_tax: "TotalAcres"
+    acres_geo: "AcresGeo"
+    situs_address: "SitusAddress"
+    mail_address: "MailToAddress"
+    area_name: "AreaName"
+    section_twp_range: "SectionTownshipRange"
+    total_market: "TotalMarket"
+    property_codes: "PropertyCodes"
+    subdivision: "Subdivision"
+    year_built: "YEARBUILT"
+
+# Zoning layers — each jurisdiction has its own layer
+zoning:
+  url: "{arcgis_base}/Zoning/MapServer"
+  fields:
+    zone_code: "Zone"
+    description: "Descript"
+    label: "Label"
+    jurisdiction: "Jurisdiction"
+    landuse_code: "LanduseCode"
+    ordinance: "Ordinance"
+  layers:
+    erda: 1
+    lake_point: 2
+    municipal: 3           # Tooele City and other municipalities
+    unincorporated: 4      # Tooele County unincorporated
+    grantsville: 7
+
+# Future land use / General Plan (2022)
+# NOTE: This layer covers Tooele City area only. Erda and Grantsville
+# General Plans are not in the county GIS server as of 2026-04.
+# For Erda: check erdacity.com. For Grantsville: check grantsvillecity.org.
+general_plan:
+  url: "{arcgis_base}/GeneralPlan_2022_LandUseCA/MapServer/0"
+  coverage: "Tooele City area only"
+  fields:
+    landuse_code: "Landuse_Ca"
+    name: "Name"
+    notes: "Notes"
+
+# Jurisdiction / municipality boundaries
+municipalities:
+  url: "{arcgis_base}/Municipalities/MapServer"
+  layers:
+    incorporated: 0
+    unincorporated: 1
+
+jurisdictions:
+  tooele_county:
+    name: "Tooele County (Unincorporated)"
+    zoning_layer: 4
+    agenda_url: "https://www.tooeleco.org/260/Planning-Commission"
+    council_url: "https://www.tooeleco.org/143/Commission-Meetings"
+
+  grantsville:
+    name: "Grantsville City"
+    zoning_layer: 7
+    agenda_url: "https://www.grantsvillecity.org/government/city-council"
+    planning_url: "https://www.grantsvillecity.org/government/planning-commission"
+
+  erda:
+    name: "Erda City"
+    zoning_layer: 1
+    agenda_url: "https://erdacity.com/city-council"
+    planning_url: "https://erdacity.com/planning-commission"
