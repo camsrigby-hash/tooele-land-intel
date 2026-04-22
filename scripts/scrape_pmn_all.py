@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Scrape every PMN body listed in jurisdictions.yaml."""
-import subprocess
-import sys
+import subprocess, sys
 from pathlib import Path
 import yaml
 
@@ -29,3 +28,4 @@ for jkey, jcfg in CFG.get("jurisdictions", {}).items():
 if failures:
     print(f"\n{len(failures)} body scrape(s) failed: {failures}", file=sys.stderr)
     sys.exit(1)
+print("✓ All PMN bodies scraped")

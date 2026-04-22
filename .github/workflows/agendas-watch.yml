@@ -2,11 +2,11 @@ name: Weekly Agenda Scrape
 
 on:
   schedule:
-    - cron: "0 8 * * 1"   # Mondays 08:00 UTC
+    - cron: "0 8 * * 1"
   workflow_dispatch:
 
 permissions:
-  contents: write   # required to commit data back
+  contents: write
 
 jobs:
   scrape:
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape city websites (Grantsville)
+      - name: Scrape Grantsville website
         run: |
           mkdir -p data/agendas
           python scripts/scrape_agendas.py \
@@ -31,14 +31,14 @@ jobs:
             --output data/agendas/web_grantsville_$(date +%Y%m%d).json
         continue-on-error: true
 
-      - name: Scrape Utah PMN bodies (Erda + Grantsville)
+      - name: Scrape Utah PMN bodies
         run: python scripts/scrape_pmn_all.py
         continue-on-error: true
 
-      - name: Persist all results to CSV
+      - name: Persist to CSV
         run: python scripts/persist_to_csv.py
 
-      - name: Commit updated CSV
+      - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -46,6 +46,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Weekly agenda scrape: $(date -u +%Y-%m-%d)"
+            git commit -m "Weekly scrape: $(date -u +%Y-%m-%d)"
             git push
           fi
