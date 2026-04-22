@@ -2,19 +2,11 @@ name: Weekly Agenda Scrape
 
 on:
   schedule:
-    # Every Monday at 08:00 UTC (2am MDT / 1am MST)
-    - cron: "0 8 * * 1"
+    - cron: "0 8 * * 1"   # Mondays 08:00 UTC
   workflow_dispatch:
-    inputs:
-      jurisdiction:
-        description: "Jurisdiction to scrape (leave blank for all)"
-        required: false
-        type: choice
-        options:
-          - ""
-          - tooele_county
-          - grantsville
-          - erda
+
+permissions:
+  contents: write   # required to commit data back
 
 jobs:
   scrape:
@@ -31,18 +23,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run agenda scraper
+      - name: Scrape city websites (Grantsville)
         run: |
-          ARGS=""
-          if [ -n "${{ github.event.inputs.jurisdiction }}" ]; then
-            ARGS="--jurisdiction ${{ github.event.inputs.jurisdiction }}"
-          fi
           mkdir -p data/agendas
-          python scripts/scrape_agendas.py $ARGS \
-            --output data/agendas/agendas_$(date +%Y%m%d).json
+          python scripts/scrape_agendas.py \
+            --jurisdiction grantsville \
+            --output data/agendas/web_grantsville_$(date +%Y%m%d).json
+        continue-on-error: true
 
-      - name: Upload agenda results
-        uses: actions/upload-artifact@v4
-        with:
-          name: agendas-${{ github.run_id }}
-          path: data/agendas/
+      - name: Scrape Utah PMN bodies (Erda + Grantsville)
+        run: python scripts/scrape_pmn_all.py
+        continue-on-error: true
+
+      - name: Persist all results to CSV
+        run: python scripts/persist_to_csv.py
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/agenda_items.csv data/agendas/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly agenda scrape: $(date -u +%Y-%m-%d)"
+            git push
+          fi
