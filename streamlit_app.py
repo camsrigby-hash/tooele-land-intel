@@ -5,7 +5,11 @@ import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).parent
-CSV = ROOT / "data" / "agenda_items.csv"
+SPLIT_CSV = ROOT / "data" / "agenda_items_split.csv"
+BASE_CSV = ROOT / "data" / "agenda_items.csv"
+CSV = SPLIT_CSV if SPLIT_CSV.exists() else BASE_CSV
+LATEST_DIGEST = ROOT / "data" / "latest_digest.md"
+COST_CSV = ROOT / "data" / "api_costs.csv"
 
 st.set_page_config(page_title="Tooele Land Intel", page_icon="◆", layout="wide")
 st.markdown("""<style>
@@ -18,6 +22,7 @@ st.markdown("""<style>
   .pill-cup    { background:#dde3ec; color:#5b6f8a; }
   .pill-other  { background:#eee; color:#666; }
   .meta { color:#87806f; font-size:12px; }
+  .digest-box { background:#fffbf2; border-left:4px solid #b04a1f; padding:16px 20px; margin:16px 0; border-radius:4px; }
 </style>""", unsafe_allow_html=True)
 
 c1, c2 = st.columns([3,1])
@@ -27,6 +32,13 @@ with c1:
 with c2:
     if CSV.exists():
         st.metric("Last refresh", pd.Timestamp.fromtimestamp(CSV.stat().st_mtime).strftime("%b %d, %Y"))
+
+# ── Weekly Digest (top of page, if available) ────────────────────────────
+if LATEST_DIGEST.exists():
+    with st.container():
+        st.markdown('<div class="digest-box">', unsafe_allow_html=True)
+        st.markdown(LATEST_DIGEST.read_text())
+        st.markdown('</div>', unsafe_allow_html=True)
 
 mode = st.radio("Mode", ["Territory", "Parcel"], horizontal=True, label_visibility="collapsed")
 
@@ -61,7 +73,7 @@ if mode == "Territory":
         cdf = fdf[fdf["jurisdiction"]==city]
         if cdf.empty: continue
         st.markdown(f'<h2 class="city-header">{city} · {len(cdf)} items</h2>', unsafe_allow_html=True)
-        for _, row in cdf.head(15).iterrows():
+        for _, row in cdf.head(25).iterrows():
             ptype = str(row.get("item_type") or "other").lower() if pd.notna(row.get("item_type")) else "other"
             cls = {"rezone":"pill-rezone","residential_subdivision":"pill-subdiv",
                    "annexation":"pill-annex","conditional_use":"pill-cup"}.get(ptype, "pill-other")
@@ -72,9 +84,9 @@ if mode == "Territory":
                 <strong style="margin-left:8px;">{row['title']}</strong>
                 <div class="meta">{mdate} · {body} · <a href="{row['url']}" target="_blank">source</a></div>
                 </div>""", unsafe_allow_html=True)
-        if len(cdf) > 15:
-            with st.expander(f"Show {len(cdf)-15} more from {city}"):
-                st.dataframe(cdf.tail(len(cdf)-15)[["meeting_date","title","item_type","url"]],
+        if len(cdf) > 25:
+            with st.expander(f"Show {len(cdf)-25} more from {city}"):
+                st.dataframe(cdf.tail(len(cdf)-25)[["meeting_date","title","item_type","url"]],
                              use_container_width=True, hide_index=True)
 else:
     st.markdown("### Parcel Opportunity Analysis")
@@ -92,5 +104,20 @@ else:
             except Exception as e:
                 st.error(f"Error: {e}")
 
+# ── Footer: API cost tracking ─────────────────────────────────────────────
 st.markdown("---")
-st.caption("Tooele Land Intel · Build 0.5 · GitHub Actions + Streamlit Cloud")
+footer_cols = st.columns([3,1])
+with footer_cols[0]:
+    st.caption("Tooele Land Intel · Build 0.6 · GitHub Actions + Streamlit Cloud")
+with footer_cols[1]:
+    if COST_CSV.exists():
+        try:
+            cost_df = pd.read_csv(COST_CSV)
+            cost_df["timestamp"] = pd.to_datetime(cost_df["timestamp"])
+            month_ago = pd.Timestamp.utcnow().tz_localize(None) - pd.Timedelta(days=30)
+            # Handle timezone-aware timestamps from CSV
+            cost_df["timestamp"] = cost_df["timestamp"].dt.tz_localize(None) if cost_df["timestamp"].dt.tz is not None else cost_df["timestamp"]
+            recent_cost = cost_df[cost_df["timestamp"] >= month_ago]["cost_usd"].sum()
+            st.caption(f"API cost (30d): ${recent_cost:.2f}")
+        except Exception:
+            pass

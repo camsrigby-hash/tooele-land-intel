@@ -1,0 +1,53 @@
+name: Weekly LLM Enrichment & Digest
+
+on:
+  schedule:
+    - cron: "30 8 * * 1"   # Mondays 08:30 UTC — 30 min after agendas-watch
+  workflow_dispatch:
+    inputs:
+      skip_split:
+        description: "Skip agenda splitting (digest only)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Split agendas with Haiku
+        if: github.event.inputs.skip_split != 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/split_agenda_items.py
+
+      - name: Generate weekly digest with Opus
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/weekly_digest.py
+
+      - name: Commit enriched data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/agenda_items_split.csv data/digests/ data/latest_digest.md data/api_costs.csv 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly LLM enrichment: $(date -u +%Y-%m-%d)"
+            git push
+          fi
