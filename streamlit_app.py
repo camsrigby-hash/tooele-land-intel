@@ -62,7 +62,7 @@ if mode == "Territory":
         if cdf.empty: continue
         st.markdown(f'<h2 class="city-header">{city} · {len(cdf)} items</h2>', unsafe_allow_html=True)
         for _, row in cdf.head(15).iterrows():
-            ptype = (row.get("item_type") or "other").lower()
+            ptype = str(row.get("item_type") or "other").lower() if pd.notna(row.get("item_type")) else "other"
             cls = {"rezone":"pill-rezone","residential_subdivision":"pill-subdiv",
                    "annexation":"pill-annex","conditional_use":"pill-cup"}.get(ptype, "pill-other")
             mdate = row["meeting_date"].strftime("%b %d, %Y") if pd.notna(row["meeting_date"]) else "—"
