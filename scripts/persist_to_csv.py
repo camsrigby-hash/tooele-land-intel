@@ -8,6 +8,15 @@ ROOT = Path(__file__).parent.parent
 AGENDA_DIR = ROOT / "data" / "agendas"
 CSV_PATH = ROOT / "data" / "agenda_items.csv"
 DATE_IN_URL = re.compile(r'(\d{1,2})[.\-](\d{1,2})[.\-](20\d{2})')
+JURISDICTION_ALIASES = {
+    "Grantsville City": "Grantsville",
+    "Erda City": "Erda",
+    "Tooele County (Unincorporated)": "Tooele County",
+}
+
+def normalize_jurisdiction(name):
+    return JURISDICTION_ALIASES.get(name, name)
+
 CSV_FIELDS = ["id","jurisdiction","body","meeting_date","title","item_type","confidence","url","agenda_text","source","scraped_at"]
 
 def extract_meeting_date(url, text=""):
@@ -26,7 +35,7 @@ def extract_meeting_date(url, text=""):
 
 def normalize_pmn(notice, body, juris):
     md = notice.get("event_date_iso","")[:10] if notice.get("event_date_iso") else ""
-    return {"id":f"pmn_{notice.get('notice_id','')}","jurisdiction":juris,"body":body,
+    return {"id":f"pmn_{notice.get('notice_id','')}","jurisdiction":normalize_jurisdiction(juris),"body":body,
             "meeting_date":md,"title":notice.get("title",""),"item_type":"","confidence":"",
             "url":notice.get("notice_url",""),"agenda_text":(notice.get("agenda_text") or "")[:2000],
             "source":"pmn","scraped_at":datetime.utcnow().isoformat()+"Z"}
@@ -35,7 +44,7 @@ def normalize_web(item):
     pdf = item.get("pdf_url","")
     text = item.get("pdf_text_excerpt","") or ""
     cls = item.get("classification",{}) or {}
-    return {"id":f"web_{abs(hash(pdf))}","jurisdiction":item.get("jurisdiction",""),"body":"",
+    return {"id":f"web_{abs(hash(pdf))}","jurisdiction":normalize_jurisdiction(item.get("jurisdiction","")),"body":"",
             "meeting_date":extract_meeting_date(pdf,text),"title":item.get("link_text",""),
             "item_type":cls.get("type",""),"confidence":cls.get("confidence",""),
             "url":pdf,"agenda_text":text[:2000],"source":"web",
