@@ -1,0 +1,377 @@
+{
+  "generated_at": "2026-04-24T14:39:22.549162+00:00",
+  "cities_analyzed": 2,
+  "cities": {
+    "Erda": {
+      "city": "Erda",
+      "growth_score": 12.1,
+      "grade": "D",
+      "total_signals": 7,
+      "signal_counts": {
+        "NEW_SUBDIVISION": 4,
+        "COMMERCIAL_PROJECT": 3
+      },
+      "active_developers": [
+        "Cindy Toone",
+        "Derald Anderson",
+        "Devore Automotive",
+        "Michael Jensen"
+      ],
+      "most_recent_activity": "2026-04-28",
+      "top_signals": [
+        {
+          "id": "pmn_1053641_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "CUP 2025-120: Conditional use permit for agricultural landscape business yard at 655 E Bates Canyon Rd",
+          "date": "2026-01-27",
+          "developer": "Michael Jensen",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1053641_item1",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "CUP 2025-121: Conditional use permit for home-based automotive repair business at 2342 W Erda Way",
+          "date": "2026-01-27",
+          "developer": "Devore Automotive",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1065005_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit 2026-25 for Cottage Business at 3944 Spiral Springs Rd",
+          "date": "2026-03-10",
+          "developer": "Cindy Toone",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1042975_item0",
+          "signal_type": "NEW_SUBDIVISION",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 35.0,
+          "title": "Proposed 7C Subdivision 2nd Amendment Preliminary Plat",
+          "date": "2025-12-09",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1061791_item0",
+          "signal_type": "NEW_SUBDIVISION",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 35.0,
+          "title": "Oquirrh Point Phase 1 Preliminary Plat (2nd amendment) - 851 lot residential subdivision",
+          "date": "2026-02-24",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1072573_item0",
+          "signal_type": "NEW_SUBDIVISION",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 35.0,
+          "title": "Copper Cove Preliminary Plat Phase 1 - 45 lot residential subdivision at northeast corner of development",
+          "date": "2026-04-15",
+          "developer": "Derald Anderson",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1074883_item0",
+          "signal_type": "NEW_SUBDIVISION",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 35.0,
+          "title": "Copper Cove Preliminary Plat Phase 1 - 45 lot residential subdivision at northeast corner of development",
+          "date": "2026-04-28",
+          "developer": "Derald Anderson",
+          "acres": null,
+          "units": null
+        }
+      ]
+    },
+    "Grantsville": {
+      "city": "Grantsville",
+      "growth_score": 100.0,
+      "grade": "A",
+      "total_signals": 57,
+      "signal_counts": {
+        "COMMERCIAL_PROJECT": 14,
+        "GENERAL_PLAN_AMENDMENT": 8,
+        "NEW_SUBDIVISION": 20,
+        "REZONE": 14,
+        "ANNEXATION": 1
+      },
+      "active_developers": [
+        "Cody Johnson",
+        "Courtny Rossow",
+        "Dave Christensen",
+        "Kelly Price",
+        "Patsy Perry",
+        "Russell Wallis",
+        "Scott Roskelley",
+        "Shelton Ross",
+        "Spencer Ostler",
+        "Tori McCurdy"
+      ],
+      "most_recent_activity": "nan",
+      "top_signals": [
+        {
+          "id": "web_6008253384243511395_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Appeal of Zoning Administrator's denial of request to keep three large animals at 1076 Windflower Lane due to barn setback non-compliance",
+          "date": "2025-08-21",
+          "developer": "Tori McCurdy",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_1719831333336907146_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for Spence Rents equipment rental business at 40 E Main Street",
+          "date": "2025-09-04",
+          "developer": "Spencer Ostler",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_4815831657363905066_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional use permit for Cirque Roskelley trapeze and aerial silks training business at 775 S Cedar Road",
+          "date": "2025-11-04",
+          "developer": "Scott Roskelley",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_28158917702835663_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional use permit for Russell Wallis home-based business for storage and rental of roll-off dumpsters and trailer unit at 334 S Banister Lane",
+          "date": "2025-12-02",
+          "developer": "Russell Wallis",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_4093468542894817629_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional use permit for Russell Wallis home-based business for storage and rental of roll-off dumpsters and trailer unit at 334 S Banister Lane",
+          "date": "2025-12-02",
+          "developer": "Russell Wallis",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1046547_item2",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Proposed conditional use permit for Kelly Price to have up to twenty-four (24) chickens on her residential property located at 594 Quirk Street, in the R-1-21 zone",
+          "date": "2026-01-06",
+          "developer": "Kelly Price",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1050789_item2",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Discussion of proposed new use for Micro-Entrepreneurship within the RM-7 zoning designation",
+          "date": "2026-01-20",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1057723_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Appeal of Zoning Administrator's denial of request to keep one large animal at 565 S. McKay Circle in R-1-21 zoning district",
+          "date": "2026-02-17",
+          "developer": "Courtny Rossow",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1057723_item1",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for micro-entrepreneurship home-based business (farm stand and cottage food products) at 10 W Clark Street in RM-7 zoning district",
+          "date": "2026-02-17",
+          "developer": "Vickie Lake and Kathleen Hunt",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1064203_item4",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Consideration of proposed Dave Christensen single lot development and private lane at approximately 417 E Durfee Street",
+          "date": "2026-03-17",
+          "developer": "Dave Christensen",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_7821155890528902292_item1",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for Patsy Perry to own and operate BnP Firearms and So Much More, LLC",
+          "date": "2026-04-07",
+          "developer": "Patsy Perry",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1068897_item1",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for Patsy Perry to operate BnP Firearms and So Much More, LLC home-based business at 176 S Hale Street",
+          "date": "2026-04-07",
+          "developer": "Patsy Perry",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1068897_item2",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for Cody Johnson to establish Accessory Farm Employee Housing at 587 E Durfee Street",
+          "date": "2026-04-07",
+          "developer": "Cody Johnson",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1071703_item0",
+          "signal_type": "COMMERCIAL_PROJECT",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 56.0,
+          "title": "Conditional Use Permit for Shelton Ross to operate outdoor RV storage in Commercial Shopping Zone at 519 West Main Street",
+          "date": "2026-04-21",
+          "developer": "Shelton Ross",
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_1065678160231082841_item0",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone of 655 S. Willow Street, 635 S. Willow Street, 387 E. Nygreen Street, 400 E. Heritage Lane, 420 E. Heritage Lane, and parcel 18-049-0-000R from RR-1 to R-1-21",
+          "date": "2025-11-18",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_1016475354763989838_item0",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone of 587 E Main Street from C-D (Commercial Development District) to RM-15 (Multiple Residential District)",
+          "date": "2025-12-16",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "web_1016475354763989838_item1",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone of 15 N Center Street and 9 N Center Street",
+          "date": "2025-12-16",
+          "developer": null,
+          "acres": null,
+          "units": null
+        },
+        {
+          "id": "pmn_1050789_item1",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone of Apple Street Townhomes Subdivision from A-10 and R-1-12 to RM-15 (Multiple Residential District)",
+          "date": "2026-01-20",
+          "developer": null,
+          "acres": 0.95,
+          "units": null
+        },
+        {
+          "id": "pmn_1054275_item2",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone parcels 01-130-0-0008, 01-130-0-0016, and 01-130-0-0014 from A-10 (Agricultural) to General Manufacturing (MG) district",
+          "date": "2026-02-03",
+          "developer": null,
+          "acres": 51.6,
+          "units": null
+        },
+        {
+          "id": "pmn_1054275_item3",
+          "signal_type": "REZONE",
+          "status": "PROPOSED",
+          "growth_score": null,
+          "weighted_score": 49.0,
+          "title": "Rezone parcels 01-131-0-0002, 01-130-0-0009, 01-130-0-0008, 01-130-0-0016, and 01-130-0-0014 from A-10 (Agricultural) to Mixed Use District (M-U) for the Crossing at Willow Creek Subdivision",
+          "date": "2026-02-03",
+          "developer": null,
+          "acres": 102.4,
+          "units": null
+        }
+      ]
+    }
+  }
+}
