@@ -1,3 +1,4 @@
 timestamp,script,model,input_tokens,output_tokens,cost_usd,items
 2026-04-23T06:25:29.562713+00:00,split_agenda_items,claude-haiku-4-5-20251001,40555,10496,0.093035,80
 2026-04-23T06:26:01.197944+00:00,weekly_digest,claude-opus-4-7,3162,1706,0.17538,25
+2026-04-24T22:13:15.187034+00:00,geocode_items,claude-haiku-4-5-20251001,6000,1500,0.0108,18
