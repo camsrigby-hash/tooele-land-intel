@@ -117,7 +117,7 @@ def aggregate(csv_path: Path) -> dict:
         else:
             grade = "D"
 
-        dates = sorted([d for d in data["recent_dates"] if d], reverse=True)
+        dates = sorted([d for d in data["recent_dates"] if d and d not in ("nan", "None")], reverse=True)
         most_recent = dates[0] if dates else None
 
         top_signals = sorted(

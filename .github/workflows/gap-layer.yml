@@ -32,11 +32,14 @@ jobs:
       - name: Build gap layer (Erda + Grantsville)
         run: python scripts/build_gap_layer.py --max 6000
 
+      - name: Enrich road adjacency
+        run: python scripts/enrich_roads.py
+
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/gap_layer.geojson data/stip_projects.geojson
+          git add data/gap_layer.geojson data/stip_projects.geojson data/roads_enrichment.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
