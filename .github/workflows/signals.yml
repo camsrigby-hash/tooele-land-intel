@@ -1,0 +1,67 @@
+name: Daily Signal Scrape & Correlation
+
+on:
+  schedule:
+    - cron: "0 14 * * *"  # Daily at 14:00 UTC (08:00 MDT)
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Look-back window in days"
+        required: false
+        default: "30"
+      threshold:
+        description: "Correlation score threshold (0.0–1.0)"
+        required: false
+        default: "0.6"
+
+permissions:
+  contents: write
+
+jobs:
+  signals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape news RSS feeds
+        run: python scripts/scrape_news_rss.py --days ${{ github.event.inputs.days || 30 }}
+
+      - name: Scrape Reddit
+        env:
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT:    ${{ secrets.REDDIT_USER_AGENT }}
+        run: python scripts/scrape_reddit.py --days ${{ github.event.inputs.days || 30 }}
+        # Continues even if Reddit creds are absent — script exits cleanly with empty CSV.
+
+      - name: Correlate signals to agenda items
+        env:
+          ANTHROPIC_API_KEY:       ${{ secrets.ANTHROPIC_API_KEY }}
+          CORRELATION_THRESHOLD:   ${{ github.event.inputs.threshold || 0.6 }}
+        run: python scripts/correlate_signals.py --days ${{ github.event.inputs.days || 30 }}
+
+      - name: Commit signal data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/signals_news.csv \
+            data/signals_reddit.csv \
+            data/signal_correlations.csv \
+            data/api_costs.csv \
+            2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily signals: $(date -u +%Y-%m-%d)"
+            git push
+          fi
