@@ -19,9 +19,20 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import feedparser
+import requests
 
 ROOT = Path(__file__).parent.parent
 OUT_CSV = ROOT / "data" / "signals_news.csv"
+
+# User-Agent for all feed requests. Reddit blocks Python's default UA, so we
+# use a descriptive one for every feed (harmless for non-Reddit feeds).
+RSS_USER_AGENT = "wasatch-intel-rss/1.0 (https://github.com/camsrigby-hash/wasatch-intel)"
+
+# Shared session. feedparser's urllib backend doesn't pass custom headers
+# reliably on all platforms; we use requests for the HTTP fetch and hand the
+# content bytes to feedparser for XML parsing.
+_SESSION = requests.Session()
+_SESSION.headers.update({"User-Agent": RSS_USER_AGENT})
 
 # Feeds that commonly cover Tooele Valley / Wasatch Front development.
 # Any feed that returns a non-200 or empty result is skipped gracefully.
@@ -32,6 +43,13 @@ RSS_FEEDS = [
     ("ksl_utah",           "https://www.ksl.com/rss/utah"),
     ("salt_lake_tribune",  "https://www.sltrib.com/feed/"),
     ("udot_news",          "https://www.udot.utah.gov/connect/news/rss-feed/"),
+    # Reddit RSS — no auth, no API approval required. Same posts as PRAW
+    # but slightly less metadata (no score/num_comments). Deduplicated in
+    # correlate_signals.py when/if PRAW output also exists.
+    ("r/Utah",             "https://www.reddit.com/r/Utah/.rss"),
+    ("r/SaltLakeCity",     "https://www.reddit.com/r/SaltLakeCity/.rss"),
+    ("r/UtahPolitics",     "https://www.reddit.com/r/UtahPolitics/.rss"),
+    ("r/tooele",           "https://www.reddit.com/r/tooele/.rss"),
 ]
 
 # Keywords to filter entries — at least one must appear in title or summary.
@@ -76,10 +94,11 @@ def scrape_feeds(cutoff: datetime) -> list[dict]:
 
     for feed_name, feed_url in RSS_FEEDS:
         try:
-            feed = feedparser.parse(feed_url)
-            if feed.bozo and not feed.entries:
-                # Feed failed to parse and has no entries — skip
-                print(f"  skip {feed_name}: parse error or empty feed", file=sys.stderr)
+            resp = _SESSION.get(feed_url, timeout=15)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+            if not feed.entries:
+                print(f"  skip {feed_name}: no entries", file=sys.stderr)
                 continue
         except Exception as exc:
             print(f"  skip {feed_name}: {exc}", file=sys.stderr)

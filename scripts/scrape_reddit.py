@@ -1,13 +1,27 @@
 #!/usr/bin/env python3
-"""Scrape Reddit for Tooele Valley land-development signals via PRAW.
+"""Reddit Data API ingestion via PRAW.
 
-Requires GitHub Secrets:
-    REDDIT_CLIENT_ID      — from reddit.com/prefs/apps (script-type app)
-    REDDIT_CLIENT_SECRET  — same
-    REDDIT_USER_AGENT     — e.g. "wasatch-intel/1.0 (cam.s.rigby@gmail.com)"
+STATUS as of 2026-04-25: This script is the SECONDARY Reddit ingestion path.
+RSS-based ingestion in scrape_news_rss.py is the PRIMARY path (no auth, no
+approval gate, operational today).
 
-If any of the three env vars are absent, the script logs a warning and exits
-cleanly with an empty CSV so the rest of the signals workflow still runs.
+This script becomes the primary path when Reddit Data API access is approved
+under the Responsible Builder Policy:
+  https://support.reddithelp.com/hc/en-us/articles/42728983564564
+
+Until approval lands, this script soft-fails — it writes an empty
+signals_reddit.csv and exits cleanly when REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET,
+or REDDIT_USER_AGENT env vars are absent. signals.yml continues without error.
+
+When approval lands:
+  1. Add REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT as GitHub
+     Secrets to the tooele-land-intel repo (reddit.com/prefs/apps, script-type app).
+  2. This script's richer output (with score, num_comments, subreddit_subscribers)
+     automatically populates signals_reddit.csv on the next workflow run.
+  3. Decide whether to remove the four r/* RSS feeds from scrape_news_rss.py
+     to avoid duplicate signals, or keep both for redundancy (recommended: keep
+     both — RSS catches posts faster; API gives richer metadata for correlation).
+     correlate_signals.py deduplicates by URL, preferring the PRAW row.
 
 Outputs: data/signals_reddit.csv
 

@@ -95,6 +95,34 @@ FIELDNAMES = [
 ]
 
 
+# ── Dedup helper ─────────────────────────────────────────────────────────────
+
+def _dedup_signals(reddit_rows: list[dict], news_rows: list[dict]) -> list[dict]:
+    """Merge Reddit PRAW rows and RSS news rows, preferring PRAW on URL collision.
+
+    When both paths are active, the same Reddit post appears in signals_reddit.csv
+    (via PRAW, richer: score/num_comments/author) and signals_news.csv (via RSS,
+    thinner). We prefer the PRAW row since it has more metadata for correlation.
+    Non-Reddit news rows are always kept.
+    """
+    # Index PRAW rows by URL for O(1) lookup
+    praw_by_url: dict[str, dict] = {}
+    for row in reddit_rows:
+        url = row.get("url", "").strip()
+        if url:
+            praw_by_url[url] = row
+
+    merged: list[dict] = list(reddit_rows)  # start with all PRAW rows
+    for row in news_rows:
+        url = row.get("url", "").strip()
+        if url and url in praw_by_url:
+            # RSS duplicate of a PRAW row — drop it
+            continue
+        merged.append(row)
+
+    return merged
+
+
 # ── CSV helpers ───────────────────────────────────────────────────────────────
 
 def _read_csv(path: Path) -> list[dict]:
@@ -251,11 +279,16 @@ def main(days: int = 30, threshold: float = CORR_THRESHOLD) -> None:
 
     client = anthropic.Anthropic(api_key=api_key)
 
-    # Load signals
+    # Load signals and dedup (PRAW rows preferred over RSS duplicates by URL)
     reddit_rows = _read_csv(REDDIT_CSV)
     news_rows   = _read_csv(NEWS_CSV)
-    signals     = reddit_rows + news_rows
-    print(f"Loaded {len(reddit_rows)} Reddit + {len(news_rows)} news signals", file=sys.stderr)
+    signals     = _dedup_signals(reddit_rows, news_rows)
+    dropped     = (len(reddit_rows) + len(news_rows)) - len(signals)
+    print(
+        f"Loaded {len(reddit_rows)} PRAW + {len(news_rows)} news signals "
+        f"→ {len(signals)} after dedup ({dropped} RSS duplicates dropped)",
+        file=sys.stderr,
+    )
 
     # Load agendas (wider look-back — 4× the signal window)
     agendas = _load_agendas(days)
