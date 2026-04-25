@@ -8,8 +8,8 @@ For every parcel inside each MVP city's bbox:
   5. gap_score = max(0, gp_intensity - zoning_intensity)
 
 Output: data/gap_layer.geojson — FeatureCollection of parcel polygons in WGS84
-with properties { apn, zoning, generalPlan, gap_score, jurisdiction, acres,
-zoning_intensity, gp_intensity }.
+with properties { apn, zoning, current_zone_label, generalPlan, gp_designation_label,
+gap_score, developable, jurisdiction, acres, zoning_intensity, gp_intensity }.
 
 Honest caveats:
   - GP coverage is patchy (Tooele Co 2022 GP only). Parcels with no GP hit
@@ -108,6 +108,64 @@ GP_INTENSITY: dict[str, int] = {
     "EM": 6,        # Extractive / Mining
     "MU": 8,        # Mixed Use
 }
+
+ZONING_LABEL: dict[str, str] = {
+    "A-20":   "Agricultural (20-acre min)",
+    "A-40":   "Agricultural (40-acre min)",
+    "A-10":   "Agricultural (10-acre min)",
+    "AG":     "Agricultural",
+    "A-1":    "Agricultural (1-acre min)",
+    "RR-10":  "Rural Residential (10-acre min)",
+    "RR-5":   "Rural Residential (5-acre min)",
+    "RR-2.5": "Rural Residential (2.5-acre min)",
+    "RR-2":   "Rural Residential (2-acre min)",
+    "RR-1":   "Rural Residential (1-acre min)",
+    "R-1-21": "Single-Family Residential (21,000 sq ft)",
+    "R-1-12": "Single-Family Residential (12,000 sq ft)",
+    "R-1-10": "Single-Family Residential (10,000 sq ft)",
+    "R-1-8":  "Single-Family Residential (8,000 sq ft)",
+    "R-1":    "Single-Family Residential",
+    "R-2":    "Single-Family Residential (medium density)",
+    "R-3":    "Multi-Family Residential",
+    "RM-7":   "Multi-Family Residential (7 du/ac)",
+    "RM-15":  "Multi-Family Residential (15 du/ac)",
+    "MD":     "Medium-Density Residential",
+    "MU":     "Mixed Use",
+    "MU-40":  "Mixed Use (40-acre overlay)",
+    "CN":     "Neighborhood Commercial",
+    "CD":     "Downtown Commercial",
+    "CG":     "General Commercial",
+    "CH":     "Highway Commercial",
+    "CS":     "Commercial Services",
+    "CM":     "Commercial Manufacturing",
+    "C-T":    "Commercial Transitional",
+    "MG":     "General Manufacturing",
+    "MG-EX":  "General Manufacturing (Extractive)",
+    "M":      "Manufacturing",
+    "EM":     "Extractive/Mining",
+    "P-2":    "Public/Quasi-Public",
+    "P-C":    "Planned Commercial",
+    "PUD":    "Planned Unit Development",
+}
+
+GP_LABEL: dict[str, str] = {
+    "AG":  "Agricultural",
+    "OS":  "Open Space",
+    "LIR": "Low-Intensity Residential",
+    "MIR": "Medium-Intensity Residential",
+    "HIR": "High-Intensity Residential",
+    "CM":  "Commercial",
+    "CS":  "Commercial Services",
+    "M":   "Manufacturing",
+    "EM":  "Extractive/Mining",
+    "MU":  "Mixed Use",
+}
+
+import re as _re
+_PUBLIC_OWNER_RE = _re.compile(
+    r"UTAH DEPARTMENT OF TRANSPORTATION|UDOT|STATE OF UTAH|UNITED STATES|^USA$",
+    _re.IGNORECASE,
+)
 
 
 # ── ArcGIS helpers ──────────────────────────────────────────────────────────
@@ -271,22 +329,30 @@ def build_city(city_key: str, max_parcels: int,
             gap_score = max(0, g_int - z_int)
             n_scored += 1
 
-        apn = props.get("Parcel_ID")
+        apn = props.get("Parcel_ID") or ""
+        owner = props.get("PrimaryOwnerName") or ""
+        is_row = "ROAD" in apn.upper() or "ROW" in apn.upper()
+        is_public = bool(_PUBLIC_OWNER_RE.search(owner))
+        developable = not (is_row or is_public)
+
         out.append({
             "type": "Feature",
             "geometry": geom,
             "properties": {
-                "apn":              apn,
-                "jurisdiction":     label,
-                "zoning":           zone_code,
-                "zoning_jurisdiction": zone_jurisdiction,
-                "zoning_intensity": z_int,
-                "generalPlan":      gp_code,
-                "gp_intensity":     g_int,
-                "gap_score":        gap_score,
-                "acres":            props.get("TotalAcres"),
-                "owner":            props.get("PrimaryOwnerName"),
-                "address":          props.get("SitusAddress"),
+                "apn":                  apn or None,
+                "jurisdiction":         label,
+                "zoning":               zone_code,
+                "zoning_jurisdiction":  zone_jurisdiction,
+                "zoning_intensity":     z_int,
+                "current_zone_label":   ZONING_LABEL.get(zone_code, zone_code) if zone_code else None,
+                "generalPlan":          gp_code,
+                "gp_intensity":         g_int,
+                "gp_designation_label": GP_LABEL.get(gp_code, gp_code) if gp_code else None,
+                "gap_score":            gap_score,
+                "developable":          developable,
+                "acres":                props.get("TotalAcres"),
+                "owner":                owner or None,
+                "address":              props.get("SitusAddress"),
             },
         })
 
