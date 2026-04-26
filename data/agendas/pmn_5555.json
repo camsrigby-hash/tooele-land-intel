@@ -1,0 +1,271 @@
+{
+  "source": "utah_pmn",
+  "jurisdiction": "Draper City",
+  "public_body": "City Council",
+  "body_id": "5555",
+  "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
+  "scraped_at": "2026-04-26T03:05:42.563518+00:00",
+  "notices": [
+    {
+      "notice_id": "1074857",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074857.html",
+      "title": "City Council - Cancelled",
+      "event_date": "June 16, 2026 05:30 PM",
+      "event_date_iso": "2026-06-16T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\nTuesday, June 16, 2026, 5:30 PM\r\n1020 E Pioneer Rd,\r\nDraper, Utah 84020\r\nCouncil Chambers\r\n\r\n\r\nTHE JUNE 16, 2026 CITY COUNCIL MEETING HAS BEEN CANCELLED\r\n\r\n\r\nNicole Smedley, CMC, City Recorder\r\nDraper City, State of Utah\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City\r\nCouncil meeting to be held June 16, 2026, were posted at Draper City Hall, Draper City\r\nwebsite www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 21, 2026 04:30 PM",
+      "attachments": [
+        {
+          "file_name": "2026-06-16_CityCouncil_Agenda.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1422045.pdf",
+          "date_added": "2026/04/21 04:30 PM",
+          "file_id": "1422045"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071619",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071619.html",
+      "title": "City Council Agenda - Cancelled",
+      "event_date": "May 5, 2026 05:30 PM",
+      "event_date_iso": "2026-05-05T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "The City Council Meeting for May 5, 2026 has been cancelled.\r\n\r\nNew meeting will be May 12, 2026.",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 04:26 PM",
+      "attachments": [
+        {
+          "file_name": "2026-05-05_CityCouncil_Agenda_Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415781.pdf",
+          "date_added": "2026/04/08 04:26 PM",
+          "file_id": "1415781"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1075635",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075635.html",
+      "title": "City Council Agenda",
+      "event_date": "April 28, 2026 05:30 PM",
+      "event_date_iso": "2026-04-28T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, April 28, 2026, 5:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nReport: Traffic Committee - Scott\r\n\r\nDiscussion: Water Supply Outlook - Mike\r\n\r\nCouncil / Manager Reports\r\n\r\n\r\n7:00 PM BUSINESS SESSION (COUNCIL CHAMBERS)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tOaths of Office - Draper City Police Department Master Officers\r\n\r\n4.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n5.\tConsent Items\r\n\r\n5.a Approve the minutes of the April 7, 2026 City Council meeting\r\n\r\n5.b Approve Resolution #26-18\r\n\r\nA resolution reappointing Keri Brown to serve as a member of the Draper City Parks, Trails and Recreation Committee.\r\n\r\n6.\tItems for Council Consideration\r\n\r\n6.a Public Hearing: Providing Local Consent for a Special Use Permit for W8 Distributing Inc dba Jade Bloom. Staff report by Travis DeJong.\r\n \r\n7.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held April 28, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn. Posted this 24th day of April, 2026. \r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 24, 2026 02:39 PM",
+      "attachments": [
+        {
+          "file_name": "2026-04-28 CityCouncil_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1423731.pdf",
+          "date_added": "2026/04/24 02:39 PM",
+          "file_id": "1423731"
+        },
+        {
+          "file_name": "2026-04-28 CityCouncil_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1423733.pdf",
+          "date_added": "2026/04/24 02:39 PM",
+          "file_id": "1423733"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1064615",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064615.html",
+      "title": "City Council Agenda - Cancelled",
+      "event_date": "April 21, 2026 05:30 PM",
+      "event_date_iso": "2026-04-21T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\n\r\nTuesday, April 21, 2026, 5:30 PM\r\n\r\n1020 E Pioneer Rd,\r\n\r\nDraper, Utah 84020\r\n\r\nCouncil Chambers\r\n\r\nTHE APRIL 21, 2026 CITY COUNCIL MEETING HAS BEEN CANCELLED\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held April 21, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nNicole Smedley, CMC, City Recorder Draper City, State of Utah\r\n\r\nIn compliance with the Americans with Disabilities Act, any individuals needing special accommodations or services during this meeting shall notify Nicole Smedley, City Recorder at (801) 576-6502 or nicole.smedley@draperutah.gov, at least 24 hours prior to the meeting.",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "March 09, 2026 08:17 AM",
+      "attachments": [
+        {
+          "file_name": "2026-04-21_CityCouncil_Agenda_Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1401775.pdf",
+          "date_added": "2026/03/09 08:17 AM",
+          "file_id": "1401775"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071533",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071533.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1714; City Initiated Alpine-Draper Boundary Adjustment Zoning Map Amendment",
+      "event_date": "April 8, 2026 01:03 PM",
+      "event_date_iso": "2026-04-08T13:03:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1714\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1714 Amending the Official Zoning Map of Draper City by removing from the map approximately 0.45 acres of property located at approximately 16001 South 3500 East within Draper City, otherwise known as the City Initiated Alpine-Draper Boundary Adjustment Zoning Map Amendment. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 01:04 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1714.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415593.pdf",
+          "date_added": "2026/04/08 01:04 PM",
+          "file_id": "1415593"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071531",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071531.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1713; City Initiated Alpine-Draper Boundary Adjustment Land Use Map Amendment",
+      "event_date": "April 8, 2026 01:01 PM",
+      "event_date_iso": "2026-04-08T13:01:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1713\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1713 Amending the Official Land Use Map of Draper City by removing from the map approximately 0.45 acres of property located at approximately 16001 South 3500 East within Draper City, otherwise known as the City Initiated Alpine-Draper Boundary Adjustment Land Use Map Amendment. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 01:03 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1713.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415591.pdf",
+          "date_added": "2026/04/08 01:02 PM",
+          "file_id": "1415591"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071505",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071505.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1717; Approving the Bangerter Crossroads Development Agreement at approximately 13782 South 300 East",
+      "event_date": "April 8, 2026 12:33 PM",
+      "event_date_iso": "2026-04-08T12:33:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1717\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1717 Approving the Bangerter Crossroads Development Agreement for approximately 17.88 acres of property located at approximately 13782 South 300 East within Draper City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 12:34 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1717.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415563.pdf",
+          "date_added": "2026/04/08 12:34 PM",
+          "file_id": "1415563"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071499",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071499.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1716; Approving the Openshaw Corner Development Agreement at approximately 207 East 13800 South",
+      "event_date": "April 8, 2026 12:32 PM",
+      "event_date_iso": "2026-04-08T12:32:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1716\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1716 Approving the Openshaw Corner Development Agreement for approximately 1.44 acres of property located at approximately 207 East 13800 South within Draper City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 12:33 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1716.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415551.pdf",
+          "date_added": "2026/04/08 12:32 PM",
+          "file_id": "1415551"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071497",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071497.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1715; Amending the text of the Land Use and Development Code of the Draper Municipal Code relating to Private Schools",
+      "event_date": "April 8, 2026 12:30 PM",
+      "event_date_iso": "2026-04-08T12:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1715\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1715 Amending the text of the Land Use and Development Code of the Draper Municipal Code relating to Private Schools. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 12:31 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1715.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415549.pdf",
+          "date_added": "2026/04/08 12:30 PM",
+          "file_id": "1415549"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1071495",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071495.html",
+      "title": "Notice of Ordinance Adoption - Ordinance #1712; Boundary Adjustment with Alpine City",
+      "event_date": "April 8, 2026 12:28 PM",
+      "event_date_iso": "2026-04-08T12:28:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1712\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1712 Adjusting the common boundaries between Draper City and Alpine City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest:  Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 08, 2026 12:29 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1712.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1415547.pdf",
+          "date_added": "2026/04/08 12:29 PM",
+          "file_id": "1415547"
+        }
+      ],
+      "canceled": false
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "source": "utah_pmn",
+  "jurisdiction": "Spanish Fork City",
+  "public_body": "City Council",
+  "body_id": "5",
+  "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
+  "scraped_at": "2026-04-26T03:06:52.214241+00:00",
+  "notices": [
+    {
+      "notice_id": "1073721",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073721.html",
+      "title": "Spanish Fork City Council",
+      "event_date": "April 21, 2026 06:00 PM",
+      "event_date_iso": "2026-04-21T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Tuesday, April 21, 2026\r\nSpanish Fork City Council Meeting\r\n\r\nCITY COUNCIL AGENDA\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on April 21, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Budget\r\nB. Self-generation Power Projects\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. SPANISH FORK 101\r\nA. Water Outlook and Conservation Report & Highlights\r\n\r\n8. CONSENT ITEMS\r\nA. Minutes of City Council for Spanish Fork City - 04-07-2026\r\nB. 80 S 100 W Real Estate Purchase Agreement\r\nC. ~ 1300 S Main Real Estate Purchase Agreement\r\nD. Spanish Fork Airport Taxiway Bravo Phase 2 Contract Award\r\n\r\n9. PUBLIC HEARING\r\nA. Ordinance to Approve a Title 15 Amendment for Religious Structures\r\nB. Ordinance Hales Two-lot Zone Change\r\nC. Resolution authorizing creation of the Stockman Flats Public Infrastructure Districts (PID)\r\nD. Ordinance to Approve the Andy Ridge Zone Change\r\n\r\n10. NEW BUSINESS\r\nA. Dennis McGraw Fence Height Approval Request\r\n\r\n11. DISCUSSION\r\nA. Transportation Utility Fee\r\nB. Project Signage Plans\r\n\r\n12. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n13. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "April 16, 2026 04:36 PM",
+      "attachments": [
+        {
+          "file_name": "Adopted City Council Draft Minutes April 7, 2026 (1).pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1422339.pdf",
+          "date_added": "2026/04/22 10:17 AM",
+          "file_id": "1422339"
+        },
+        {
+          "file_name": "ORD Template Public Notice Website.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422337.pdf",
+          "date_added": "2026/04/22 10:17 AM",
+          "file_id": "1422337"
+        },
+        {
+          "file_name": "PRESENTATION CC Work Session 4-21-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422341.pdf",
+          "date_added": "2026/04/22 10:17 AM",
+          "file_id": "1422341"
+        },
+        {
+          "file_name": "PRESENTATION Utah HB425 City Road Funding (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422343.pdf",
+          "date_added": "2026/04/22 10:17 AM",
+          "file_id": "1422343"
+        },
+        {
+          "file_name": "PRESENTATION.citycouncil.4-21-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422345.pdf",
+          "date_added": "2026/04/22 10:19 AM",
+          "file_id": "1422345"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1070257",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070257.html",
+      "title": "Spanish Fork City Council",
+      "event_date": "April 7, 2026 06:00 PM",
+      "event_date_iso": "2026-04-07T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Tuesday, April 7, 2026\r\nSpanish Fork City Council Meeting\r\nCITY COUNCIL AGENDA\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on April 7, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Budget\r\nB. Report on Research Trip\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\nC. Ceremonial Oath of Office\r\nD. Follow-up to Previous Comments\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. CONSENT ITEMS\r\nA. Minutes of City Council for Spanish Fork City - 03-24-2026\r\nB. Release of Sewer Easement in Whispering Pines Subdivision\r\n\r\n8. PUBLIC HEARING\r\nA. Ordinance to Adopt the Updated Land Use Element of the General Plan\r\nB. Ordinance Land Use Element and Growth Boundary Amendment\r\nC. Disposition of surplus land located at 1172 S. Bradford Lane\r\n\r\n9. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n10. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "April 02, 2026 04:12 PM",
+      "attachments": [
+        {
+          "file_name": "03 Adopted City Council Minutes 03-24-2026 (1).pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1416523.pdf",
+          "date_added": "2026/04/09 08:40 PM",
+          "file_id": "1416523"
+        },
+        {
+          "file_name": "PRESENTATION.landuseelement.4-7-2026 (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1416525.pdf",
+          "date_added": "2026/04/09 08:40 PM",
+          "file_id": "1416525"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1068225",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068225.html",
+      "title": "Spanish Fork City Council Public Notice",
+      "event_date": "April 7, 2026 06:00 PM",
+      "event_date_iso": "2026-04-07T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "Public Hearing Notice\r\nCity Council Meeting: April 6, 2026 at 6:00 p.m.\r\nLocation: Library Hall Council Chambers\r\n\r\n80 South Main Street\r\nSpanish Fork, Utah\r\n\r\nProposal: Disposition of up to 1.8 acres of City Property located at\r\napproximately 1172 South Bradford Lane, Spanish Fork. Being a portion ofUtah\r\nCounty Parcel #27:041:0035.\r\nFor more information contact: Travis Warren at 801.804.4557 or by email at\r\ntwarren@spanishfork.gov",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "March 23, 2026 02:58 PM",
+      "attachments": [
+        {
+          "file_name": "Disposition of Property - Property Located at ~ 1172 S Bradford Lane.docx (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1409081.pdf",
+          "date_added": "2026/03/23 02:57 PM",
+          "file_id": "1409081"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1067637",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1067637.html",
+      "title": "Spanish Fork City Council",
+      "event_date": "March 24, 2026 06:00 PM",
+      "event_date_iso": "2026-03-24T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Tuesday, March 24, 2026\r\nSpanish Fork City Council Meeting\r\nCITY COUNCIL AGENDA\r\n\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on March 24, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Stockman Flats Public Infrastructure District (PID)\r\nB. Fit60+ Pass & Senior Meals\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\nC. Recognitions\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. SPANISH FORK 101\r\nA. Food for Fines\r\n\r\n8. CONSENT ITEMS\r\nA. Minutes of Spanish Fork City 02-17-2026\r\nB. Resolution Approving Interlocal Agreement with Utah County for Waterline Easement\r\nC. Participation in National Opioid Settlement against Remnant Defendants\r\nD. Energy Assistance with the State of Utah\r\nE. Eighth Amendment to San Miguel Land Exchange Agreement\r\nF. Gary Thomas Easement Agreement\r\nG. Resolution Approving the MWPP Self Assessment Report\r\nH. Agreement Forensic Nursing Employee Drug Testing\r\nI. Empower Retirement - Amendment to Recordkeeping Services Agreement\r\n\r\n9. PUBLIC HEARING\r\nA. Ordinance to Approve a Zone Change for the Villas at Annie's Acres\r\nB. Amended Preliminary Plat for the Villas at Annies Acres\r\nC. Disposition of City Owned Property at ~1300 South Main\r\nD. Ordinance for Title 15 Amendments to Change the Setback Requirement for Power Substations in the Public Facilities Zone and the Allowed Fence Height in the Public Facilities Zone\r\nE. Ordinance Title 15.4.12.070 Reimbursable Projects - Impact Fee Deadline Update\r\n\r\n10. NEW BUSINESS\r\nA. Station 61 GMP and Construction Agreement\r\nB. Sponsorship Agreement with Utah County for the Spanish Fork Competition Pool\r\nC. Resolution for the Utah County Interlocal Agreement Addendum 4\r\nD. Ordinance approving Water Use and Preservation Element of the General Plan\r\nE. Federal Consulting Contract - Barker Leavitt\r\n\r\n11. DISCUSSION\r\nA. Planning Commission's recommendation on the proposed Land Use Element and Growth Boundary Amendment\r\n\r\n12. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\n\r\nA. Closed Meeting\r\n13. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "March 19, 2026 05:18 PM",
+      "attachments": [
+        {
+          "file_name": "02 Adopted City Council Minutes 02-17-2026 - Google Docs.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1411941.pdf",
+          "date_added": "2026/03/31 07:46 AM",
+          "file_id": "1411941"
+        },
+        {
+          "file_name": "PRESENTATION SF 101(3_24_26).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1411943.pdf",
+          "date_added": "2026/03/31 07:46 AM",
+          "file_id": "1411943"
+        },
+        {
+          "file_name": "PRESENTATION Work Session 60+ Program Proposal.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1411945.pdf",
+          "date_added": "2026/03/31 07:46 AM",
+          "file_id": "1411945"
+        },
+        {
+          "file_name": "presentation.citycouncil CD .3-24-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1411947.pdf",
+          "date_added": "2026/03/31 07:47 AM",
+          "file_id": "1411947"
+        },
+        {
+          "file_name": "PRESENTATION WS PID-IFD Requests.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1412095.pdf",
+          "date_added": "2026/03/31 11:52 AM",
+          "file_id": "1412095"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1063127",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1063127.html",
+      "title": "Spanish Fork City Council Public Notice of a Public Hearing Disposition of City Property",
+      "event_date": "March 24, 2026 06:00 PM",
+      "event_date_iso": "2026-03-24T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "Public Hearing Notice\r\n\r\nCity Council Meeting: March 24, 2026 at 6:00 p.m.\r\n\r\nLocation:  Library Hall Council Chambers\r\n80 South Main Street\r\nSpanish Fork, Utah \r\n\r\nProposal: Disposition of up to 4.849 acres of City Property located at approximately 1300 S Main Street, Spanish Fork. Utah County Parcel #25:028:0111.\r\n\r\nFor more information contact: Tyler Jacobson at 801.804.4508 or by email at tjacobson@spanishfork.gov.",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "March 02, 2026 01:39 PM",
+      "attachments": [
+        {
+          "file_name": "Disposition of Property - Property Located at ~ 1300 S Main Street .docx (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1398653.pdf",
+          "date_added": "2026/03/02 01:39 PM",
+          "file_id": "1398653"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1062479",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062479.html",
+      "title": "City Council for March 3, 2026 is canceled",
+      "event_date": "March 3, 2026 06:00 PM",
+      "event_date_iso": "2026-03-03T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "The Spanish Fork City Council meeting previously scheduled for March 3 , 2026, is canceled.",
+      "meeting_location": "40 South Main Street Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "February 26, 2026 02:24 PM",
+      "attachments": [],
+      "canceled": true
+    },
+    {
+      "notice_id": "1059415",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1059415.html",
+      "title": "Spanish Fork City Council",
+      "event_date": "February 17, 2026 06:00 PM",
+      "event_date_iso": "2026-02-17T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Tuesday, February 17, 2026\r\nSpanish Fork City Council Meeting\r\nCITY COUNCIL AGENDA\r\n\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on February 17, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Transportation Utility Fee\r\nB. Spanish Fork Community Network (SFCN) Internet Survey\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\nC. Recognitions\r\nD. Follow up to previous Comments\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. CONSENT ITEMS\r\nA. Minutes of Spanish Fork City Work Session 01-29-2026 thru 02-1-2026\r\nB. Minutes of Spanish Fork City Council Meeting 02-03-2026\r\nC. Resolution approving the 2026 Cooperative Agreement with the Utah Division of Forestry, Fire and State Lands\r\n\r\n8. PUBLIC HEARING\r\nA. Ordinance to Approve the Old Dominion Zoning Text Amendment\r\nB. Ordinance to Approve the Omega Morgan Zoning Text Amendment\r\n\r\n9. NEW BUSINESS\r\nA. Golf/Parks Maintenance Shop - Contract/Notice of Award/Notice to Proceed\r\nB. Resolution amending the Fee Schedule\r\n\r\n10. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n\r\n11. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "February 12, 2026 04:17 PM",
+      "attachments": [
+        {
+          "file_name": "02 Adopted City Council Minutes 02-03-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1394303.pdf",
+          "date_added": "2026/02/19 04:41 PM",
+          "file_id": "1394303"
+        },
+        {
+          "file_name": "Adopted 01 CC Work Session Annual Conference (Midway) Minutes Jan 29,30,31, 2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1394305.pdf",
+          "date_added": "2026/02/19 04:41 PM",
+          "file_id": "1394305"
+        },
+        {
+          "file_name": "CC Worksession 2-17-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1394307.pdf",
+          "date_added": "2026/02/19 04:41 PM",
+          "file_id": "1394307"
+        },
+        {
+          "file_name": "City Council ALA Pick Up.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1394309.pdf",
+          "date_added": "2026/02/19 04:42 PM",
+          "file_id": "1394309"
+        },
+        {
+          "file_name": "Ordinance Cert.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1394311.pdf",
+          "date_added": "2026/02/19 04:42 PM",
+          "file_id": "1394311"
+        },
+        {
+          "file_name": "presentation.cc.2-17-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1394313.pdf",
+          "date_added": "2026/02/19 04:42 PM",
+          "file_id": "1394313"
+        },
+        {
+          "file_name": "Work Session Feb 17 2026 - InternetPricing.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1394315.pdf",
+          "date_added": "2026/02/19 04:43 PM",
+          "file_id": "1394315"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1055757",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055757.html",
+      "title": "AMENDED Spanish Fork City Council",
+      "event_date": "February 3, 2026 06:00 PM",
+      "event_date_iso": "2026-02-03T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "Tuesday, February 3, 2026\r\nSpanish Fork City Council Meeting\r\nCITY COUNCIL AGENDA\r\n\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on February 3, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Industrial Large Power Users\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\nC. Ceremonial Oath of Office\r\nD. Recognitions\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. CONSENT ITEMS\r\nA. Minutes of Spanish Fork City Council Meeting - 1-20-2026\r\nB. Memorandum of Understanding - Service Missionary Volunteers\r\nC. Real Estate Purchase Contract Agreement - 30 S 100 W #1-2\r\n\r\n8. PUBLIC HEARING\r\nA. Ordinance for the Brent Money Annexation\r\n\r\n9. NEW BUSINESS\r\nA. Resolution Selecting a 911 Ambulance and Inter-Facility Transfer Provider\r\nB. Fairgrounds Arena Project Phase 1 Contract\r\n\r\n10. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n\r\n11. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "January 29, 2026 05:50 PM",
+      "attachments": [
+        {
+          "file_name": "01 Adopted City Council Minutes 01-20-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1386651.pdf",
+          "date_added": "2026/02/04 11:27 AM",
+          "file_id": "1386651"
+        },
+        {
+          "file_name": "02 Adopted City Council Minutes 02-03-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1394317.pdf",
+          "date_added": "2026/02/19 04:45 PM",
+          "file_id": "1394317"
+        },
+        {
+          "file_name": "Ordinance Template Ord A01-2026 Brent Money Annexation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1386653.pdf",
+          "date_added": "2026/02/04 11:27 AM",
+          "file_id": "1386653"
+        },
+        {
+          "file_name": "PRESENTATION CD.cc.2-3-2026 (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1386655.pdf",
+          "date_added": "2026/02/04 11:28 AM",
+          "file_id": "1386655"
+        },
+        {
+          "file_name": "PRESENTATION Fairgrounds Renovations City Council Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1386657.pdf",
+          "date_added": "2026/02/04 11:28 AM",
+          "file_id": "1386657"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1054777",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1054777.html",
+      "title": "Spanish Fork City Council Notice of a Quorum Public Notice",
+      "event_date": "January 30, 2026 06:00 PM",
+      "event_date_iso": "2026-01-30T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "SPANISH FORK CITY COUNCIL NOTICE OF QUORUM\r\n  January 29, 2026, 6 pm to 7:30 pm Dinner\r\n  Back 40 Ranch House Grill at 1223 N. Highway 40 Heber City, UT 84032\r\n  January 30, 2026, 6 pm to 7:30 pm Dinner\r\n  Midway Community Center at 160 W Main Street, Midway, UT 84049\r\n\r\nNotice is Hereby Given that a quorum of the Spanish Fork City Council will attend Dinner at the previous locations after work sessions.\r\nNO OFFICIAL CITY BUSINESS WILL BE CONDUCTED.\r\nCERTIFICATE OF POSTING\r\nI, Tara Silver, the duly appointed City Recorder, certify that the foregoing notice was posted at the Spanish Fork Police Department, the Spanish Fork Parks and Recreation Building, and the principal offi ce of the public body. The notice was also posted on the Utah State website (https://www.utah.gov/pmn/index.html) and on Spanish Fork City's website (https://www.spanishfork.org/government/public_meetings/index.php) .\r\nPosted and dated this 26th day of January, 2026.\r\nTara Silver\r\nCity Recorder UCC, CMC",
+      "meeting_location": "160 Main Street Midway, UT 84049 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "January 26, 2026 10:45 AM",
+      "attachments": [
+        {
+          "file_name": "Notice of a Quorum Midway January 29 & 30, 2026 6_00 pm - 7_30 pm .pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1382319.pdf",
+          "date_added": "2026/01/26 10:45 AM",
+          "file_id": "1382319"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1054773",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1054773.html",
+      "title": "Spanish Fork City Council Notice of a Quorum Public Notice",
+      "event_date": "January 29, 2026 06:00 PM",
+      "event_date_iso": "2026-01-29T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "SPANISH FORK CITY COUNCIL NOTICE OF QUORUM \r\n\r\nJanuary 29, 2026, 6 pm to 7:30 pm Dinner\r\nBack 40 Ranch House Grill at 1223 N. Highway 40 Heber City, UT 84032\r\n\r\nJanuary 30, 2026, 6 pm to 7:30 pm Dinner\r\nMidway Community Center at 160 W Main Street, Midway, UT 84049 \r\n\r\nNotice is Hereby Given that a quorum of the Spanish Fork City Council will attend Dinner at the previous locations after work sessions. \r\nNO OFFICIAL CITY BUSINESS WILL BE CONDUCTED. \r\n\r\nCERTIFICATE OF POSTING \r\nI, Tara Silver, the duly appointed City Recorder, certify that the foregoing notice was posted at the Spanish Fork Police Department, the Spanish Fork Parks and Recreation Building, and the principal office of the public body.  The notice was also posted on the Utah State website (https://www.utah.gov/pmn/index.html)  and on Spanish Fork City's website (https://www.spanishfork.org/government/public_meetings/index.php) . \r\n\r\nPosted and dated this 26th day of January, 2026.\r\n\r\n  Tara Silver\r\n  City Recorder UCC, CMC",
+      "meeting_location": "1223 N. Highway 40 Heber City, UT 84032 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "January 26, 2026 10:41 AM",
+      "attachments": [
+        {
+          "file_name": "Notice of a Quorum Midway January 29 & 30, 2026 6_00 pm - 7_30 pm .pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1382317.pdf",
+          "date_added": "2026/01/26 10:41 AM",
+          "file_id": "1382317"
+        }
+      ],
+      "canceled": false
+    }
+  ]
+}

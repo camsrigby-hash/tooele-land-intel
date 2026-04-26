@@ -1,11 +1,66 @@
 {
   "source": "utah_pmn",
-  "jurisdiction": "Erda",
+  "jurisdiction": "Erda City",
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-04-23T05:22:37.329007+00:00",
+  "scraped_at": "2026-04-26T03:02:51.458595+00:00",
   "notices": [
+    {
+      "notice_id": "1075207",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075207.html",
+      "title": "Notice of Public Hearing on Requests to Disconnect from Erda City",
+      "event_date": "May 14, 2026 07:00 PM",
+      "event_date_iso": "2026-05-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY PROPOSED DISCONNECTION PETITIONS\r\nNOTICE IS HEREBY GIVEN as required by Utah Code Ann. §10-2-501 that the Erda City Council will hold a public hearing to consider two separate petitions for the disconnection of certain real property from the corporate limits of Erda City.\r\nThe public hearing will be held on May 14, 2026, at 7:00 p.m., at the Deseret Peak Complex, 2930 Hwy 112, Tooele, UT, 84074.\r\nIn the public hearing, any person may speak and submit documents regarding the disconnection proposal.\r\nWritten comments/documents may be submitted to: Jennifer Poole, Erda City Recorder jpoole@erda.gov (435) 243-5577\r\nA copy of the disconnection petition is available for public inspection during regular business hours at the Erda City Fire Station, 2163 W Erda Way, Erda, Utah 84074 and on the Erda City Website at erda.gov\r\nDATED this 20th day of April, 2026.\r\n/s/ Jennifer Poole Erda City Recorder\r\nPUBLISH: __________, 2026",
+      "meeting_location": "2930 Hwy 112 Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "April 23, 2026 08:13 AM",
+      "attachments": [
+        {
+          "file_name": "West and EastDisconnect Legal Notice (Brems changes 4-20-2026).docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422801.pdf",
+          "date_added": "2026/04/23 08:10 AM",
+          "file_id": "1422801"
+        },
+        {
+          "file_name": "East Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422803.pdf",
+          "date_added": "2026/04/23 08:11 AM",
+          "file_id": "1422803"
+        },
+        {
+          "file_name": "West Request (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422805.pdf",
+          "date_added": "2026/04/23 08:11 AM",
+          "file_id": "1422805"
+        },
+        {
+          "file_name": "Exhibit A  West Disconnect (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422807.pdf",
+          "date_added": "2026/04/23 08:12 AM",
+          "file_id": "1422807"
+        },
+        {
+          "file_name": "Exhibit A East Disconnect (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422809.pdf",
+          "date_added": "2026/04/23 08:12 AM",
+          "file_id": "1422809"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1074875",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074875.html",
@@ -229,31 +284,6 @@
       "canceled": true
     },
     {
-      "notice_id": "1055537",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055537.html",
-      "title": "City Council Meeting Schedule 2026 Dates",
-      "event_date": "February 12, 2026 07:00 PM",
-      "event_date_iso": "2026-02-12T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Erda City Council 2026 Meeting dates\r\n\r\nMeetings will be held the 2nd and 4th Thursday of the month\r\nAll meetings will be held at 7:00 pm at the Erda City Office/Fire Station  at 2163 W. Erda Way, Erda, UT.\r\n\r\nJanuary 08\r\nJanuary 22\r\nFebruary 12\r\nFebruary 26\r\nMarch 12\r\nMarch 26\r\nApril 09\r\nApril 23\r\nMay 14\r\nMay 28\r\nJune 11\r\nJune 25\r\nJuly 09\r\nJuly 23  \r\nAugust 13\r\nAugust 27\r\nSeptember 10\r\nSeptember 24\r\nOctober 08\r\nOctober 22\r\nNovember 12\r\nNovember 26  (Canceled for Thanksgiving Holiday)\r\nDecember 10\r\nDecember 24  (Canceled for Christmas Holiday)",
-      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "January 29, 2026 11:13 AM",
-      "attachments": [
-        {
-          "file_name": "Erda City Council 2026 Meeting dates.docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1384053.pdf",
-          "date_added": "2026/01/29 11:10 AM",
-          "file_id": "1384053"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1058383",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1058383.html",
       "title": "Erda City Council Meeting",
@@ -328,20 +358,28 @@
       "canceled": false
     },
     {
-      "notice_id": "1055517",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055517.html",
-      "title": "Meet and Greet with Tooele County Officials",
-      "event_date": "February 6, 2026 02:00 PM",
-      "event_date_iso": "2026-02-06T14:00:00",
+      "notice_id": "1055537",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055537.html",
+      "title": "City Council Meeting Schedule 2026 Dates",
+      "event_date": "February 12, 2026 07:00 PM",
+      "event_date_iso": "2026-02-12T19:00:00",
       "notice_types": [
-        "Meeting"
+        "Notice"
       ],
-      "agenda_text": "There will be a meet and greet on Friday February 6th 2026 at 2pm held at 47 S. Main St, Tooele, UT, 84074 in the Innovation Room in the Tooele County Building.\r\nMeet and Greet with Tooele County City Manager and City Council Members",
-      "meeting_location": "47 S Main St Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "Erda City Council 2026 Meeting dates\r\n\r\nMeetings will be held the 2nd and 4th Thursday of the month\r\nAll meetings will be held at 7:00 pm at the Erda City Office/Fire Station  at 2163 W. Erda Way, Erda, UT.\r\n\r\nJanuary 08\r\nJanuary 22\r\nFebruary 12\r\nFebruary 26\r\nMarch 12\r\nMarch 26\r\nApril 09\r\nApril 23\r\nMay 14\r\nMay 28\r\nJune 11\r\nJune 25\r\nJuly 09\r\nJuly 23  \r\nAugust 13\r\nAugust 27\r\nSeptember 10\r\nSeptember 24\r\nOctober 08\r\nOctober 22\r\nNovember 12\r\nNovember 26  (Canceled for Thanksgiving Holiday)\r\nDecember 10\r\nDecember 24  (Canceled for Christmas Holiday)",
+      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": "Sheldon Birch",
       "contact_email": "sbirch@erda.gov",
-      "posted_on": "January 29, 2026 10:21 AM",
-      "attachments": [],
+      "posted_on": "January 29, 2026 11:13 AM",
+      "attachments": [
+        {
+          "file_name": "Erda City Council 2026 Meeting dates.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1384053.pdf",
+          "date_added": "2026/01/29 11:10 AM",
+          "file_id": "1384053"
+        }
+      ],
       "canceled": false
     }
   ]

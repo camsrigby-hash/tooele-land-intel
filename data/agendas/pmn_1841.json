@@ -1,11 +1,52 @@
 {
   "source": "utah_pmn",
-  "jurisdiction": "Grantsville",
+  "jurisdiction": "Grantsville City",
   "public_body": "Grantsville City Planning Commission",
   "body_id": "1841",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1841.html",
-  "scraped_at": "2026-04-23T05:22:25.357898+00:00",
+  "scraped_at": "2026-04-26T03:02:39.536079+00:00",
   "notices": [
+    {
+      "notice_id": "1075645",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075645.html",
+      "title": "Planning Commission Regular Meeting May 5, 2026",
+      "event_date": "May 5, 2026 07:00 PM",
+      "event_date_iso": "2026-05-05T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, May 5, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nAGENDA\r\n1.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of proposed amendments to Grantsville Land Use Ordinance Section 4.5, Lot Standards and Street Frontage.\r\n2.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of an appeal by Teresa Outzs of the Zoning Administrator's denial of a Kennel Permit (six (6) dogs) and a Conditional Use Permit (twelve (12) chickens, hens only) at 176 E Elisabeth Court, located in the R-1-21 zoning district, due to failure to meet open space requirements.\r\n3.\tPresentation and Discussion: Discussion of a proposed concept for the Le Property in the Mixed Use (M-U) zoning designation, located at 454 East Main Street.\r\n4.\tPresentation and Discussion: Discussion of a proposed General Plan Amendment for parcels 01-059-0-0041, 01-059-0-0001, 01-059-0-0028, and 01-059-0-0027, amending the land use designation from Rural Residential 1 and High Single-Family Residential to High Single-Family Residential for the Orion Subdivision, located approximately at 800 East Main Street.\r\n5.\tPresentation and Discussion: Discussion of a proposed Rezone for parcels 01-059-0-0041, 01-059-0-0001, 01-059-0-0028, and 01-059-0-0027, from RR-1, RM-7, to RM-15 for the Orion Subdivision, located approximately at 800 East Main Street.\r\n6.\tApproval of minutes from the April 7, 2026 Planning Commission Regular Meeting.\r\n7.\tReport from City Staff.\r\n8.\tOpen Forum for Planning Commissioners.\r\n9.\tReport from City Council.\r\n10.\tAdjourn\r\n\r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411\r\nBy Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411",
+      "meeting_location": "429 E Main St. Grantsville , UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shelby Moore",
+      "contact_email": "smoore@grantsvilleut.gov",
+      "posted_on": "April 24, 2026 03:07 PM",
+      "attachments": [
+        {
+          "file_name": "2026.05.05 - Public Notice - Appeal.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1423749.pdf",
+          "date_added": "2026/04/24 03:06 PM",
+          "file_id": "1423749"
+        },
+        {
+          "file_name": "2026.05.05 -Public Notice - Code Amendment.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1423751.pdf",
+          "date_added": "2026/04/24 03:06 PM",
+          "file_id": "1423751"
+        },
+        {
+          "file_name": "PC Agenda 5-5-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1423753.pdf",
+          "date_added": "2026/04/24 03:07 PM",
+          "file_id": "1423753"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1071703",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071703.html",
@@ -614,68 +655,6 @@
           "url": "https://www.utah.gov/pmn/files/1378103.pdf",
           "date_added": "2026/01/15 04:55 PM",
           "file_id": "1378103"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1046547",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1046547.html",
-      "title": "Planning Commission Regular Meeting January 6, 2026",
-      "event_date": "January 6, 2026 07:00 PM",
-      "event_date_iso": "2026-01-06T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, January 6, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nPUBLIC HEARING\r\na)\tConsideration of the proposed Master Development Agreement for Cloward Court Subdivision located at 713 E Main Street.\r\nb)\tConsideration of the proposed Access and Maintenance Easement Agreement for Cloward Court Subdivision located at 713 E Main Street.\r\nc)\tProposed conditional use permit for Kelly Price to have up to twenty-four (24) chickens on her residential property located at 594 Quirk Street, in the R-1-21 zone. \r\nAGENDA\r\n1.\tConsideration of the proposed Access and Maintenance Easement Agreement for Cloward Court Subdivision located at 713 E Main Street.\r\n2.\tConsideration of the proposed Master Development Agreement for Cloward Court Subdivision located at 713 E Main Street.\r\n3.\tProposed conditional use permit for Kelly Price to have up to twenty-four (24) chickens on her residential property located at 594 Quirk Street, in the R-1-21 zone. \r\n4.\tElection of the Planning Commission Officers.\r\n5.\tApproval of minutes from the December 16, 2025 Planning Commission Regular Meeting.\r\n6.\tReport from City Staff.\r\n7.\tOpen Forum for Planning Commissioners.\r\n8.\tReport from City Council.\r\n9.\tAdjourn. \r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nhttps://us02web.zoom.us/j/4358843411\r\nPasscode: 3411\r\n\r\nBy Phone Call: 1-253-215-8782\r\nMeeting ID: 4358843411#",
-      "meeting_location": "429 E Main Street Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shelby Moore",
-      "contact_email": "smoore@grantsvilleut.gov",
-      "posted_on": "December 17, 2025 10:09 AM",
-      "attachments": [
-        {
-          "file_name": "01-06-2026 - PC Regular Meeting Audio.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1373143.mp3",
-          "date_added": "2026/01/07 12:01 PM",
-          "file_id": "1373143"
-        },
-        {
-          "file_name": "01-06-2026 - PC Regular Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1381301.pdf",
-          "date_added": "2026/01/23 09:13 AM",
-          "file_id": "1381301"
-        },
-        {
-          "file_name": "12-15-2025 - Public Notice - Cloward - Easement Agreement.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1368871.pdf",
-          "date_added": "2025/12/18 04:45 PM",
-          "file_id": "1368871"
-        },
-        {
-          "file_name": "12-15-2025 - Public Notice - Cloward - MDA.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1368873.pdf",
-          "date_added": "2025/12/18 04:45 PM",
-          "file_id": "1368873"
-        },
-        {
-          "file_name": "12-15-2025 - Public Notice - CUP Chickens.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1368879.pdf",
-          "date_added": "2025/12/18 04:53 PM",
-          "file_id": "1368879"
-        },
-        {
-          "file_name": "Combined Planning Commission Meeting 1-6-26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1369217.pdf",
-          "date_added": "2025/12/19 11:47 AM",
-          "file_id": "1369217"
         }
       ],
       "canceled": false
