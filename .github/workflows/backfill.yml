@@ -1,0 +1,73 @@
+name: Phase 10 Historical Backfill (one-time)
+
+# Run manually from the Actions tab. workflow_dispatch only — this should
+# not trigger automatically. After successful completion the script archives
+# itself; subsequent runs are no-ops.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (scrape + count only, no Haiku/geocoding)"
+        required: false
+        type: boolean
+        default: false
+      months_back:
+        description: "Months of history to fetch (default 24)"
+        required: false
+        type: string
+        default: "24"
+      skip_geocode:
+        description: "Skip geocoding (faster, run geocode.yml separately)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120   # 2-hour ceiling; 13 jurisdictions × 1.5s rate limit = ~20 min scrape
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run backfill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/backfill_historical.py \
+            --months-back ${{ github.event.inputs.months_back || '24' }} \
+            ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }} \
+            ${{ github.event.inputs.skip_geocode == 'true' && '--skip-geocode' || '' }} \
+            --no-archive
+
+      - name: Commit results
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/agenda_items.csv \
+            data/agenda_items_split.csv \
+            data/items_geocoded.csv \
+            data/city_signal_scores.json \
+            data/api_costs.csv \
+            data/agendas/ \
+            2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Phase 10 backfill: $(date -u +%Y-%m-%d)"
+            git push
+          fi
