@@ -497,6 +497,12 @@ def build_argparser() -> argparse.ArgumentParser:
         help="Path to jurisdictions.yaml; scrapes every entry with pmn_body_id set.",
     )
     p.add_argument(
+        "--jurisdiction-label",
+        default=None,
+        help="Override the jurisdiction label in the output JSON (canonical city name). "
+             "Only applies when --body-id is used. Falls back to PMN entity name if omitted.",
+    )
+    p.add_argument(
         "--months-back",
         type=int,
         default=24,
@@ -547,7 +553,7 @@ def main(argv: list[str] | None = None) -> int:
     months_back = args.months_back if args.months_back and args.months_back > 0 else None
 
     if args.body_id:
-        targets = [{"name": None, "pmn_body_id": args.body_id}]
+        targets = [{"name": args.jurisdiction_label, "pmn_body_id": args.body_id}]
     else:
         targets = load_jurisdictions(args.jurisdictions)
         if not targets:

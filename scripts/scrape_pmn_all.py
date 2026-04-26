@@ -12,11 +12,14 @@ OUTDIR.mkdir(parents=True, exist_ok=True)
 failures = []
 for jkey, jcfg in CFG.get("jurisdictions", {}).items():
     body_ids = jcfg.get("pmn_body_ids", {}) or {}
+    canonical_name = jcfg.get("name", jkey)
     for body_name, body_id in body_ids.items():
         print(f"  Scraping PMN body {body_id} ({body_name})", file=sys.stderr)
         result = subprocess.run(
             [sys.executable, str(ROOT / "scripts" / "scrape_utah_pmn.py"),
-             "--body-id", str(body_id), "--output-dir", str(OUTDIR)],
+             "--body-id", str(body_id),
+             "--jurisdiction-label", canonical_name,
+             "--output-dir", str(OUTDIR)],
             capture_output=True, text=True
         )
         if result.returncode != 0:

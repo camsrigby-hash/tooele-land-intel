@@ -12,6 +12,17 @@ JURISDICTION_ALIASES = {
     "Grantsville City": "Grantsville",
     "Erda City": "Erda",
     "Tooele County (Unincorporated)": "Tooele County",
+    "Tooele City": "Tooele",
+    "Lehi City": "Lehi",
+    "Saratoga Springs City": "Saratoga Springs",
+    "Eagle Mountain City": "Eagle Mountain",
+    "South Jordan City": "South Jordan",
+    "Herriman City": "Herriman",
+    "Bluffdale City": "Bluffdale",
+    "Draper City": "Draper",
+    "American Fork City": "American Fork",
+    "Vineyard City": "Vineyard",
+    "Spanish Fork City": "Spanish Fork",
 }
 
 def normalize_jurisdiction(name):

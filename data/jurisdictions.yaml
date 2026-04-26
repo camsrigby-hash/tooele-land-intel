@@ -61,3 +61,68 @@ jurisdictions:
     pmn_body_ids:
       Erda City Council: 7509
       Erda Planning Commission: 7563
+  tooele_city:
+    name: Tooele City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Tooele City Council: 685
+      Tooele City Planning Commission: 687
+  lehi:
+    name: Lehi City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Lehi City Council: 2512
+      Lehi Planning Commission: 2651
+  saratoga_springs:
+    name: Saratoga Springs City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Saratoga Springs City Council: 1727
+      Saratoga Springs Planning Commission: 1854
+  eagle_mountain:
+    name: Eagle Mountain City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Eagle Mountain City Council: 535
+      Eagle Mountain Planning Commission: 536
+  south_jordan:
+    name: South Jordan City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      South Jordan City Council: 1031
+      South Jordan Planning Commission: 1032
+  herriman:
+    name: Herriman City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Herriman City Council: 1155
+      Herriman Planning Commission: 1151
+  bluffdale:
+    name: Bluffdale City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Bluffdale City Council & Planning Commission: 2803
+  draper:
+    name: Draper City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Draper City Council: 5555
+      Draper Planning Commission: 383
+  american_fork:
+    name: American Fork City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      American Fork City Council: 180
+      American Fork Planning Commission: 183
+  vineyard:
+    name: Vineyard City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Vineyard City Council: 530
+      Vineyard Planning Commission: 531
+  spanish_fork:
+    name: Spanish Fork City
+    scraper_type: pmn_only
+    pmn_body_ids:
+      Spanish Fork City Council: 5
+      Spanish Fork Planning Commission: 6
