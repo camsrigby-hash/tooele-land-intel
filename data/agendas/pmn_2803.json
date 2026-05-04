@@ -4,8 +4,35 @@
   "public_body": "City Council & Planning Commission",
   "body_id": "2803",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2803.html",
-  "scraped_at": "2026-04-27T13:13:32.353096+00:00",
+  "scraped_at": "2026-05-04T13:18:37.978763+00:00",
   "notices": [
+    {
+      "notice_id": "1077009",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077009.html",
+      "title": "Text Amendment for Sign EMC's",
+      "event_date": "May 13, 2026 06:00 PM",
+      "event_date_iso": "2026-05-13T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that a public meeting will be held before the Bluffdale City City Council on Wednesday, May 13, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on a proposed Text Amendment to update the City Code as follows:\r\n-\tChapter 11.220.070.A - to add provisions for gas station electronic display signs. A new section will be added to allow electronic display signs for gas stations with a minimum display interval of three (3) seconds. \r\n-\tChapter 11.220.030 - to add a new definition for 'Gas Station Electronic Display Sign' to address this specific type of sign.\r\nYesco, Applicant.  Ellen Oakman, Staff Presenter (Application 2026-10).\r\n\r\nIn addition to attendance at the City Council, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Text Amendment' in the subject line of the email. \r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\n2222 West 14400 South\r\nBluffdale, UT 84065",
+      "meeting_location": "2222 W 14400 S Bluffdale, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "April 30, 2026 04:19 PM",
+      "attachments": [
+        {
+          "file_name": "EMC Sign Code - CC Notice - 5.13.26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1426069.pdf",
+          "date_added": "2026/04/30 04:19 PM",
+          "file_id": "1426069"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1065863",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1065863.html",

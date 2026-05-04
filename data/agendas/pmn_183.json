@@ -4,12 +4,12 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-04-27T13:14:17.925833+00:00",
+  "scraped_at": "2026-05-04T13:19:26.750185+00:00",
   "notices": [
     {
       "notice_id": "1074985",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074985.html",
-      "title": "Planning Commission Public Notice",
+      "title": "Planning Commission Public Notice, Agenda and Packet",
       "event_date": "May 6, 2026 06:30 PM",
       "event_date_iso": "2026-05-06T18:30:00",
       "notice_types": [
@@ -17,7 +17,7 @@
         "Meeting",
         "Hearing"
       ],
-      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on May 6, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings to consider general plan modifications.\r\n\r\no\tReview and recommendation on a proposed Annexation Agreement, known as 620 South Annexation, located at approximately 6695 West 7300 North, American Fork City. On approximately 7.03 acres, the property will be annexed into American Fork City and be given the PF Public Facilities zoning designation.\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on May 6, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings to consider general plan modifications.\r\n\r\no\tReview and recommendation on a proposed Annexation Agreement, known as 620 South Annexation, located at approximately 6695 West 7300 North, American Fork City. On approximately 7.03 acres, the property will be annexed into American Fork City and be given the PF Public Facilities zoning designation.\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.\r\n\r\n\r\nRegular Session\r\nMay 6, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________Planning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission will meet in regular session on May 6, 2026, at the American Fork City Hall, 31 North Church Street commencing at 6:30 PM. The agenda shall be as follows:\r\n\r\n1.\tRegular Session\r\na.\tPledge of Allegiance\r\nb.\tRoll Call\r\n\r\n2.\tPublic Comments\r\na.\tUp to a 20-minute public comment period to receive public comments. Each speaker is limited to two minutes.\r\n\r\n3.\tCommon Consent Agenda (Common Consent is that class of Commission action that requires no further discussion or which is routine in nature. All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda).\r\na.\tApproval of the April 15, 2026, Planning Commission Work Session minutes\r\nb.\tApproval of the April 22, 2026, Planning Commission minutes\r\n\r\n4.\tPublic Hearings (Public Hearings is that class of Commission action that requires further discussion on General Plan changes, Zone changes, and Code Text Amendments that alter the land use characteristics of American Fork City. Public Hearing items will have the chance for the public to speak upon.)\r\na.\tPublic hearing, review and recommendation on a proposed Annexation Agreement, known as 620 South Annexation, located at approximately 6695 West 7300 North, American Fork City. On approximately 6.869 acres, the property will be annexed into American Fork City and be given the Residential (R1-20,000) zoning designation.\r\n\r\n5.\tAction Items (Action Items is that class of Commission action that requires further discussion on Site Plans and proposed zoning designation for annexing areas. The Planning Commission will have authority to approve Site Plans for final action and provide recommendations for the zone of annexing property.)\r\na.\tReview and action on an application for a Site Plan, known as High Pointe Apartments, located at 620 S 740 E, American Fork City. The Site Plan consists of 3.46 acres and is in the PC Planned Community Zone.   \r\n\r\n\r\n5.\tOther Business\r\na.\tUpcoming Projects\r\n\r\n6.\tAdjournment\r\n\r\nDated this 29th day of April 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
       "meeting_location": "31 N Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
       "contact_name": null,
       "contact_email": null,
@@ -29,6 +29,13 @@
           "url": "https://www.utah.gov/pmn/files/1422421.pdf",
           "date_added": "2026/04/22 11:32 AM",
           "file_id": "1422421"
+        },
+        {
+          "file_name": "05.06.2026 PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425921.pdf",
+          "date_added": "2026/04/30 02:23 PM",
+          "file_id": "1425921"
         }
       ],
       "canceled": false

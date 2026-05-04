@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-04-27T13:12:38.477758+00:00",
+  "scraped_at": "2026-05-04T13:17:38.175249+00:00",
   "notices": [
+    {
+      "notice_id": "1076475",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076475.html",
+      "title": "PCPH 05.12.2026 Overland ARMDA Amendment, Alternate Energy Overlay Zone, and Concept Plans",
+      "event_date": "May 12, 2026 06:30 PM",
+      "event_date_iso": "2026-05-12T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\nThe Eagle Mountain Planning Commission will hold public hearings on May 12, 2026, at 6:30\r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005. The Planning \r\nCommission will receive public comments concerning the following items:\r\nOverland ARMDA Amendment: On March 25th, 2026, the City Council approved the \r\n5th Amendment to the Overland ARMDA with Terra Smith's Eagle Mountain, LLC. Prior to \r\nexecution of the Amendment the developer determined that it would like to add another \r\nparty to the agreement, Smith's Food & Drug Center, Inc., and to request one additional \r\nexception to a City development standard in relation to slope requirements for retention \r\nbasins. The amendment is being sought to make those changes and to correct a clerical error \r\nin the agreement that gives the incorrect name of Terra Smith's Eagle Mountain, LLC. EMC \r\nPoint of Contact: Marcus Draper, mdraper@eaglemountain.gov.\r\nEagle Mountain Municipal Code Amendments: \r\nEMMC 16.15: An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain \r\nMunicipal Code Chapter 16.15 Concept Plans. EMC Point of Contact: Brandon Larsen, \r\nblarsen@eaglemountain.gov.\r\nEMMC 17.64 - Alternative Energy Overlay Zone: Eagle Mountain City is proposing the \r\ncreation of an overlay zone known as the Alternative Energy Overlay Zone (AEOZ) which \r\nwould allow for the development of a variety of types of power generation facilities at \r\napproved locations. The AEOZ is not being proposed at this time to be applied to any property \r\nand would generally be contemplated for use on request. The AEOZ contains a number of \r\nrequirements and restrictions regarding power generation facility development including \r\ndemonstration of approval from state and federal entities as applicable. EMC Staff Point of \r\nContact: Evan Berrett, eberrett@eaglemountain.gov.\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611. \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov.\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS",
+      "meeting_location": "1650 Stage Coach Run 1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "April 29, 2026 12:11 PM",
+      "attachments": [
+        {
+          "file_name": "05.12.2026 PCPH Overland ARMDA Amendment, AEOZ, and Concept Plans.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425409.pdf",
+          "date_added": "2026/04/29 03:14 PM",
+          "file_id": "1425409"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1073331",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073331.html",
@@ -81,6 +107,13 @@
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "April 09, 2026 09:39 AM",
       "attachments": [
+        {
+          "file_name": "Approved 04.14.2026 PC Meeting Minutes (002) - signed.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1425019.pdf",
+          "date_added": "2026/04/29 09:54 AM",
+          "file_id": "1425019"
+        },
         {
           "file_name": "4.14.26 PC Agenda.docx",
           "category": "Public Information Handout",
@@ -313,46 +346,6 @@
           "url": "https://www.utah.gov/pmn/files/1390537.pdf",
           "date_added": "2026/02/12 09:06 AM",
           "file_id": "1390537"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1060827",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1060827.html",
-      "title": "Planning Commission Public Meeting",
-      "event_date": "February 24, 2026 05:30 PM",
-      "event_date_iso": "2026-02-24T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nFEBRUARY 24, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tDISCUSSION - Setback Exception for OpenGov Application PLGA-26-8 (anticipated time 15 minutes)\r\n\r\n\t1.B.\tDISCUSSION - Future Land Use Map (anticipated time - 45 minutes)\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tFebruary 10. 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tPUBLIC HEARING/ACTION ITEM - Williams Development Agreement\r\n\r\nBACKGROUND: (Presented by City Attorney, Marcus Draper) Williams is an independent power producer. They are looking to co-locate a natural gas power facility on the Stadion parcel to facilitate the Meta data center expansion. The new natural gas facility would be located on the Stadion property, which is zoned RTI. Pursuant to the Stadion development agreement, natural gas power is a permitted accessory use on the property. Nevertheless, the parties have negotiated a development agreement to provide additional clarification of the rights and responsibilities of Williams and the City in relation to the natural gas power facility. Williams would be required to install any necessary public infrastructure for their development. Williams is asking for a few exceptions to the city code. Most notably, they are asking to be allowed to go up to 75 dB in sound. This exceeds the City's nighttime limit, which is 65dB, but is consistent with industrial noise limits in neighboring communities. Williams is also asking to be allowed to use above ground power distribution lines on the property.\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
-      "meeting_location": "1650 E. Stagecoach Run CN136001 - Eagle Mountain City, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "February 19, 2026 12:31 PM",
-      "attachments": [
-        {
-          "file_name": "2.24.2026 Approved Meeting Minutes - signed.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1404039.pdf",
-          "date_added": "2026/03/12 10:48 AM",
-          "file_id": "1404039"
-        },
-        {
-          "file_name": "2.24.26 PC Agenda.docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1393919.docx",
-          "date_added": "2026/02/19 12:31 PM",
-          "file_id": "1393919"
-        },
-        {
-          "file_name": "2.24.26 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1393921.pdf",
-          "date_added": "2026/02/19 12:31 PM",
-          "file_id": "1393921"
         }
       ],
       "canceled": false

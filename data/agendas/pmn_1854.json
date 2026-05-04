@@ -4,8 +4,25 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-04-27T13:12:15.801879+00:00",
+  "scraped_at": "2026-05-04T13:17:12.860331+00:00",
   "notices": [
+    {
+      "notice_id": "1077243",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077243.html",
+      "title": "Notice of Public Hearing for Planning Commission",
+      "event_date": "May 14, 2026 06:00 PM",
+      "event_date_iso": "2026-05-14T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on May 14, in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.09.11 - Drive-thru Requirements. The proposed amendment would remove the requirement that a three-foot raised median or planter be required between a drive-thru lane and the parking area. Meghana Chachra as applicant. Citywide. Developer-initiated. \r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 01, 2026 01:26 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1075421",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075421.html",
@@ -70,6 +87,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "April 09, 2026 06:10 PM",
       "attachments": [
+        {
+          "file_name": "2026-04-16 pc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1426459.pdf",
+          "date_added": "2026/05/01 01:23 PM",
+          "file_id": "1426459"
+        },
         {
           "file_name": "2026-04-16 PC Agenda.pdf",
           "category": "Public Information Handout",
@@ -253,23 +277,6 @@
           "file_id": "1397989"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1059617",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1059617.html",
-      "title": "Notice of Public Hearings for Planning Commission",
-      "event_date": "February 26, 2026 06:00 PM",
-      "event_date_iso": "2026-02-26T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on February 26, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tTrails Master Plan General Plan Amendment. The proposed amendment would provide an update to the Trails chapter of the Parks, Open Space, and Trails Master Plan. This includes updated city-wide maps of trails, trailheads, and bicycle lanes, and updated tables and figures to more accurately reflect these networks. Citywide. City-initiated.  \r\n2.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.02 - Definitions; and 19.05 - Supplementary Regulations.  The proposed amendment would add regulations for City-owned office trailers. Citywide. City-Initiated.\r\n3.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.02 - Definitions; 19.05 - Establishment of Land Use Zones and Official Map; and Chapter 19.05 - Supplementary Regulations. The proposed amendment would update regulations for Auto Repair uses and Car Washes. Citywide. City-Initiated.\r\n\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "February 13, 2026 12:08 PM",
-      "attachments": [],
       "canceled": false
     }
   ]

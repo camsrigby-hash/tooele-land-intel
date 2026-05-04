@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-04-27T13:14:06.413747+00:00",
+  "scraped_at": "2026-05-04T13:19:14.642446+00:00",
   "notices": [
+    {
+      "notice_id": "1076037",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076037.html",
+      "title": "05.26.26 Public Hearing - 620 South Annexation",
+      "event_date": "May 26, 2026 07:00 PM",
+      "event_date_iso": "2026-05-26T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING OF THE CITY'S INTENT TO ANNEX REAL PROPERTY LOCATED AT APPROXIMATELY 700 WEST 620 SOUTH, AMERICAN FORK.\r\n\r\nOn April 14, 2026, the City Council of American Fork, Utah, adopted Resolution No. 2026-04-15R, indicating its intent to annex the following described real property:\r\n\r\n\t620 SOUTH ANNEXATION\r\n\t (700 WEST 620 SOUTH)\r\n\r\nBEGINNING AT A POINT LOCATED SOUTH 89°52'20' WEST ALONG SECTION LINE 1672.42 FEET FROM THE SOUTHEAST CORNER OF SECTION 22, TOWNSHIP 5 SOUTH, RANGE 1 EAST, SALT LAKE BASE AND MERIDIAN;\r\n\r\nTHENCE SOUTH 28.58 FEET;  THENCE WEST 498.06 FEET;  THENCE ALONG THE AF10 ANNEXATION BOUNDARY THE FOLLOWING THREE COURSES AND DISTANCES:  1) NORTH 0°01'04' WEST 27.47 FEET,  2) NORTH 89°52'20' EAST 25.67 FEET, AND 3) NORTH 0°00'06' WEST 577.22 FEET;  THENCE ALONG THE DIXIE FENN ANNEXATION PLAT 'A' THE FOLLOWING TWO COURSES AND DISTANCES: 1) NORTH 22.33 FEET,  AND 2) SOUTH 89°59'29' EAST 472.41 FEET;  THENCE SOUTH 598.42 FEET TO THE POINT OF BEGINNING.\r\n\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with the regular session on May 26, 2026, at 7:00 p.m. in the American Fork City Hall, 31 North Church Street, for the purpose of receiving public comment regarding the proposed annexation.\r\n\r\nThe City Council may annex the above described real property unless, at or before the public hearing, written protests to the annexation are filed by the owners of real property that is located within the area proposed for annexation in accordance with applicable provisions of UCA 10-2-812.\r\nThis annexation is be pursued without a petition in accordance with UCA 10-2-812.\r\n\r\nCopies of a map showing the location of the annexation area are available for review by the public at the City Recorders Office, 51 East Main Street, during normal business hours.\r\n\r\nDated this 27 day of April 2026       \t\r\n \r\nTerilyn Lurker, City Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "April 27, 2026 05:51 PM",
+      "attachments": [
+        {
+          "file_name": "Public Hearing Notice - 620 South Annexation.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1424401.pdf",
+          "date_added": "2026/04/27 05:51 PM",
+          "file_id": "1424401"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1074725",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074725.html",
@@ -20,6 +46,23 @@
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "April 21, 2026 12:20 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1077169",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077169.html",
+      "title": "05.05.2026 City Council work session agenda",
+      "event_date": "May 5, 2026 04:00 PM",
+      "event_date_iso": "2026-05-05T16:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMAY 5, 2026\r\n\t\tWORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a work session on Tuesday, May 5, 2026, in the City Administration Conference Room, located at 51 East Main Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nWORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tLegislative update with the state legislative representatives.\r\n2.\tDiscussion on proposed amendments to the city code.\r\n3.\tAdjourn. \r\n\r\nDated the 1st day of May 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
+      "meeting_location": "51 E Main American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "May 01, 2026 10:55 AM",
       "attachments": [],
       "canceled": false
     },
@@ -55,25 +98,15 @@
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "April 23, 2026 05:08 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1070243",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070243.html",
-      "title": "04.14.26 Public Hearing - Abandoned, Seized, Found property - cancelled",
-      "event_date": "April 14, 2026 07:00 PM",
-      "event_date_iso": "2026-04-14T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
+      "attachments": [
+        {
+          "file_name": "04.28.26 WS Agenda and packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425919.pdf",
+          "date_added": "2026/04/30 02:22 PM",
+          "file_id": "1425919"
+        }
       ],
-      "agenda_text": "This Public Hearing has been cancelled.",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003-2360 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "April 02, 2026 03:58 PM",
-      "attachments": [],
       "canceled": false
     },
     {
@@ -99,6 +132,24 @@
           "file_id": "1416763"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1070243",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070243.html",
+      "title": "04.14.26 Public Hearing - Abandoned, Seized, Found property - cancelled",
+      "event_date": "April 14, 2026 07:00 PM",
+      "event_date_iso": "2026-04-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "This Public Hearing has been cancelled.",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003-2360 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "April 02, 2026 03:58 PM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -141,6 +192,23 @@
       "canceled": false
     },
     {
+      "notice_id": "1064209",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064209.html",
+      "title": "03.24.26 Public Hearing - Surplus Property",
+      "event_date": "March 24, 2026 07:00 PM",
+      "event_date_iso": "2026-03-24T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 24, 2026\r\nPUBLIC HEARING\r\n\r\n\r\n\t\r\n\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, March 24, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the declaration of the following parcels to be surplus:\r\nAF Crossings Plat A-1 Parcel A-2, Parcel Number 34:797:0002 containing approximately 0.56 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-2 Parcel B-2, Parcel Number 34:798:0002 containing approximately 7.37 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-3 Parcel C-2, Parcel Number  34:799:0002 containing approximately 0.56 acres located in the vicinity of 700 South 25 West. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 5th day of March 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "March 05, 2026 07:01 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1067903",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1067903.html",
       "title": "03.24.2026 City Council agenda",
@@ -168,87 +236,6 @@
           "url": "https://www.utah.gov/pmn/files/1408407.pdf",
           "date_added": "2026/03/20 02:02 PM",
           "file_id": "1408407"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1064209",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064209.html",
-      "title": "03.24.26 Public Hearing - Surplus Property",
-      "event_date": "March 24, 2026 07:00 PM",
-      "event_date_iso": "2026-03-24T19:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 24, 2026\r\nPUBLIC HEARING\r\n\r\n\r\n\t\r\n\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, March 24, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the declaration of the following parcels to be surplus:\r\nAF Crossings Plat A-1 Parcel A-2, Parcel Number 34:797:0002 containing approximately 0.56 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-2 Parcel B-2, Parcel Number 34:798:0002 containing approximately 7.37 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-3 Parcel C-2, Parcel Number  34:799:0002 containing approximately 0.56 acres located in the vicinity of 700 South 25 West. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 5th day of March 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "March 05, 2026 07:01 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1066226",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1066226.html",
-      "title": "03.17.26 City Council work session agenda",
-      "event_date": "March 17, 2026 04:00 PM",
-      "event_date_iso": "2026-03-17T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 17, 2026\r\n\t\tWORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a work session on Tuesday, March 17, 2026, in City Hall, located at 31 North Church Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nWORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tDiscussion on the proposed zoning map amendments.\r\n2.\tDiscussion on the fiscal year 2027 Perpetual Care, IT, Broadband, RDA, Water, Sewer, Storm Drain, and Sanitation funds.\r\n3.\tAdjourn. \r\n\r\nDated the 13th day of March 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "March 13, 2026 02:39 PM",
-      "attachments": [
-        {
-          "file_name": "03.17.26 WS Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1418647.pdf",
-          "date_added": "2026/04/15 10:52 AM",
-          "file_id": "1418647"
-        },
-        {
-          "file_name": "03.17.26 WS Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1405238.pdf",
-          "date_added": "2026/03/13 02:39 PM",
-          "file_id": "1405238"
-        },
-        {
-          "file_name": "03.17.26 WS agenda and packet - with revised presentation.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1413813.pdf",
-          "date_added": "2026/04/02 06:38 PM",
-          "file_id": "1413813"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062611",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062611.html",
-      "title": "03.10.26 Public Hearing - Trail Easement Vacation",
-      "event_date": "March 10, 2026 07:00 PM",
-      "event_date_iso": "2026-03-10T19:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 10, 2026\r\nPUBLIC HEARING NOTICE\r\n\r\n\r\n\r\n\r\nPUBLIC HEARING -\tVACATION OF PORTION OF A TRAIL EASEMENT\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, March 10, 2026, at 7:00 p.m. at the American Fork City Hall, 31 N. Church Street. The City Council will receive public comments regarding the following:\r\n-\tA proposed vacation of a portion of a trail easement at 300 East 1700 South. The portion of the trail easement to be vacated is as shown on the map below. Action is scheduled for the regular session where the City Council may act on the proposed trail easement vacation.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCopies of the proposed vacation are available at the City Administrative Offices, 51 E. Main Street.  All interested people are invited to attend and make comments.\r\nPosted this 26th day of February 2026.\r\n  \r\nTerilyn Lurker, City Recorder",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "February 26, 2026 10:31 PM",
-      "attachments": [
-        {
-          "file_name": "03.10.26 Trail Easement Vacation.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1397715.pdf",
-          "date_added": "2026/02/26 10:31 PM",
-          "file_id": "1397715"
         }
       ],
       "canceled": false

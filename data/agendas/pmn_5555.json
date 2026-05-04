@@ -4,12 +4,12 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-04-27T13:13:43.726774+00:00",
+  "scraped_at": "2026-05-04T13:18:50.094234+00:00",
   "notices": [
     {
       "notice_id": "1074857",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074857.html",
-      "title": "City Council - Cancelled",
+      "title": "City Council Agenda - Cancelled",
       "event_date": "June 16, 2026 05:30 PM",
       "event_date_iso": "2026-06-16T17:30:00",
       "notice_types": [
@@ -23,11 +23,37 @@
       "posted_on": "April 21, 2026 04:30 PM",
       "attachments": [
         {
-          "file_name": "2026-06-16_CityCouncil_Agenda.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1422045.pdf",
-          "date_added": "2026/04/21 04:30 PM",
-          "file_id": "1422045"
+          "file_name": "2026-06-16_CityCouncil_Agenda_Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1424361.pdf",
+          "date_added": "2026/04/27 04:15 PM",
+          "file_id": "1424361"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1075953",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075953.html",
+      "title": "City Council Agenda - Cancelled",
+      "event_date": "May 12, 2026 05:30 PM",
+      "event_date_iso": "2026-05-12T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\n\r\nTuesday, May 12, 2026, 5:30 PM\r\n\r\n1020 E Pioneer Rd,\r\n\r\nDraper, Utah 84020\r\n\r\nCouncil Chambers\r\n\r\n\r\nTHE CITY COUNCIL MEETING FOR MAY 12, 2026 HAS BEEN CANCELLED.\r\n\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held May 12, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nNicole Smedley, CMC, City Recorder Draper City, State of Utah",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "April 27, 2026 02:56 PM",
+      "attachments": [
+        {
+          "file_name": "2026-05-12_CityCouncil_Agenda_Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1424285.pdf",
+          "date_added": "2026/04/27 02:55 PM",
+          "file_id": "1424285"
         }
       ],
       "canceled": false
@@ -87,6 +113,41 @@
           "url": "https://www.utah.gov/pmn/files/1423733.pdf",
           "date_added": "2026/04/24 02:39 PM",
           "file_id": "1423733"
+        },
+        {
+          "file_name": "2026-04-28_CityCouncil_Recap.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425339.pdf",
+          "date_added": "2026/04/29 02:04 PM",
+          "file_id": "1425339"
+        },
+        {
+          "file_name": "Pioneer Road Improvements Exhibit_26.04.28_V2.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425459.pdf",
+          "date_added": "2026/04/29 04:03 PM",
+          "file_id": "1425459"
+        },
+        {
+          "file_name": "JVWCD Member Agency Meeting Presentation_Water Conservation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425461.pdf",
+          "date_added": "2026/04/29 04:08 PM",
+          "file_id": "1425461"
+        },
+        {
+          "file_name": "Public Comment Handout_Dimple Dell.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425463.pdf",
+          "date_added": "2026/04/29 04:08 PM",
+          "file_id": "1425463"
+        },
+        {
+          "file_name": "Public Comment Handout_Private Street Garbage Rates.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425465.pdf",
+          "date_added": "2026/04/29 04:09 PM",
+          "file_id": "1425465"
         }
       ],
       "canceled": false
@@ -238,31 +299,6 @@
           "url": "https://www.utah.gov/pmn/files/1415549.pdf",
           "date_added": "2026/04/08 12:30 PM",
           "file_id": "1415549"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1071495",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071495.html",
-      "title": "Notice of Ordinance Adoption - Ordinance #1712; Boundary Adjustment with Alpine City",
-      "event_date": "April 8, 2026 12:28 PM",
-      "event_date_iso": "2026-04-08T12:28:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on April 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1712\r\n\r\nOn April 7, 2026, the Draper City Council Adopted Ordinance #1712 Adjusting the common boundaries between Draper City and Alpine City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 8th day of April, 2026.\r\n\r\nAttest:  Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "April 08, 2026 12:29 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1712.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1415547.pdf",
-          "date_added": "2026/04/08 12:29 PM",
-          "file_id": "1415547"
         }
       ],
       "canceled": false

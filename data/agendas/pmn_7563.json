@@ -4,7 +4,7 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-04-27T13:11:07.642457+00:00",
+  "scraped_at": "2026-05-04T13:15:59.518598+00:00",
   "notices": [
     {
       "notice_id": "1074883",
@@ -22,6 +22,13 @@
       "contact_email": "rbrimley@erda.gov",
       "posted_on": "April 21, 2026 06:13 PM",
       "attachments": [
+        {
+          "file_name": "4-28-26 Audio of Planning Commission Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1425595.mp3",
+          "date_added": "2026/04/30 08:06 AM",
+          "file_id": "1425595"
+        },
         {
           "file_name": "Copper Cove Master Development Agreement (1).pdf",
           "category": "Public Information Handout",
@@ -67,6 +74,13 @@
           "url": "https://www.utah.gov/pmn/files/1420191.mp3",
           "date_added": "2026/04/17 10:25 AM",
           "file_id": "1420191"
+        },
+        {
+          "file_name": "4-15-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1425589.pdf",
+          "date_added": "2026/04/30 08:01 AM",
+          "file_id": "1425589"
         },
         {
           "file_name": "4-15-26 Planning Commission Agenda.docx (1).pdf",
@@ -123,6 +137,13 @@
           "url": "https://www.utah.gov/pmn/files/1404874.mp3",
           "date_added": "2026/03/13 10:46 AM",
           "file_id": "1404874"
+        },
+        {
+          "file_name": "3-10-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1424775.pdf",
+          "date_added": "2026/04/28 02:21 PM",
+          "file_id": "1424775"
         },
         {
           "file_name": "CUP Staff Report 3944 Spiral Springs Reenew Retreat (1).pdf",

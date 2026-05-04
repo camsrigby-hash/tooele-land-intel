@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-04-27T13:13:24.274232+00:00",
+  "scraped_at": "2026-05-04T13:18:28.188036+00:00",
   "notices": [
+    {
+      "notice_id": "1076839",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076839.html",
+      "title": "Planning Commision Meeting",
+      "event_date": "May 6, 2026 06:00 PM",
+      "event_date_iso": "2026-05-06T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "PLANNING COMMISSION AGENDA\r\nWednesday, May 06, 2026\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman Planning Commission shall assemble for a\r\nmeeting in the City Council Chambers, located at\r\n5355 WEST HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\n6:00 PM WORK MEETING (Fort Herriman Conference Room)\r\n1.\tCommission Business\r\n\r\n1.1.\tReview of City Council Decisions - Michael Maloy, Planning Director\r\n\r\n1.2.\tReview of Agenda Items - Planning Staff\r\n\r\n1.3.\tReview and Discuss Land Development Codes, Standards, Policies, Best Practices, and Potential Amendments to Ensure Compliance with State and City Codes - Michael Maloy, Planning Director\r\n\r\n2.\tAdjournment\r\n\r\n7:00 PM REGULAR PLANNING COMMISSION MEETING (Council Chambers)\r\n3.\tCall to Order\r\n\r\n3.1.\tInvocation, Thought, Reading and/or Pledge of Allegiance\r\n\r\n3.2.\tRoll Call\r\n\r\n3.3.\tConflicts of Interest\r\n\r\n3.4.\tApproval of Minutes for the April 01, 2026 Planning Commission Meeting\r\n\r\n4.\tAdministrative Items \r\nAdministrative items are reviewed based on standards outlined in the ordinance. Public comment may be taken on relevant and credible evidence regarding the application compliance with the ordinance.\r\n4.1.\tReview and Consider Approval of a Conditional Use Permit for a 7-11 Convenience Store and Gas Station Located Approximately at 11833 S Teton Falls Lane in the C-2 Commercial Zone.\r\nApplicant: Elliott Smith, TerraForm Companies, LLC (authorized agent)\r\nAcres: (+/-)1.56\r\nFile No: C2026-041\r\n\r\n4.2.\tReview and Consider Approval of a Conditional Use Permit to Relocate Existing Transmission Lines and Four Transmission Utility Poles Located Approximately at the Corner of Redwood Road and Porter Rockwell.\r\nApplicant: Brad Knoles, Rocky Mountain Power (authorized agent)\r\nAcres: (+/-)60\r\nFile No: C2026-051\r\n\r\n4.3.\tReview and Consider Approval of a Conditional Use Permit for a Personal Instruction Service (i.e., a Brazilian Jiu-Jitsu Gym) Located at 14352 S Via Molvero Way, Suite D, in the MU-2 Mixed Use Zone.\r\nApplicant: Bruno Lopes (authorized agent, business owner)\r\nSquare Feet: (+/-)1,987 (gross square footage)\r\nFile No: C2026-059\r\n\r\n5.\tChair and Commission Comments\r\n\r\n6.\tFuture Meetings\r\n\r\n6.1.\tNext City Council Meeting: May 13, 2026\r\n\r\n6.2.\tNext Planning Commission Meeting: May 20, 2026\r\n\r\n7.\tAdjournment\r\n\r\nIn accordance with the Americans with Disabilities Act, Herriman City will make reasonable accommodation for participation in the meeting. Request assistance by contacting Herriman City at (801) 446-5323 and provide at least 48 hours advance notice of the meeting.\r\nELECTRONIC PARTICIPATION: Members of the City Council may participate electronically via telephone, Skype, or other electronic means during this meeting.\r\nPUBLIC COMMENT POLICY AND PROCEDURE: The purpose of public comment is to allow citizens to address items on the agenda. Citizens requesting to address the Commission will be asked to complete a written comment form and present it to the City Recorder. In general, the chair will allow an individual three minutes to address the Commission. A spokesperson, recognized as representing a group in attendance, may be allowed up to five minutes. This policy also applies to all public hearings. \r\nI, Angela Hansen, certify the foregoing agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body, at the principal office of the public body, on the Utah State Public Notice website www.utah.gov/pmn/index.html and on Herriman City's website at www.herriman.gov  Posted and dated this 30th day of April 2026 Angela Hansen, Deputy City Recorder",
+      "meeting_location": "5355 W Herriman Main Street Herriman City, UT Show in Apple Maps Show in Google Maps",
+      "contact_name": "Angela Hansen",
+      "contact_email": "anhansen@herriman.gov",
+      "posted_on": "April 30, 2026 11:03 AM",
+      "attachments": [
+        {
+          "file_name": "2026_05_06 PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425743.pdf",
+          "date_added": "2026/04/30 11:03 AM",
+          "file_id": "1425743"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1071977",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071977.html",
@@ -297,53 +322,6 @@
           "url": "https://www.utah.gov/pmn/files/1390837.pdf",
           "date_added": "2026/02/12 01:22 PM",
           "file_id": "1390837"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1055671",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055671.html",
-      "title": "Planning Commision Meeting",
-      "event_date": "February 4, 2026 06:00 PM",
-      "event_date_iso": "2026-02-04T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "PLANNING COMMISSION AGENDA\r\nWednesday, February 04, 2026\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman Planning Commission shall assemble for a\r\nmeeting in the City Council Chambers, located at\r\n5355 WEST HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\n6:00 PM WORK MEETING (Fort Herriman Conference Room)\r\n1.\tCommission Business\r\n\r\n1.1.\tReview of City Council Decisions - Michael Maloy, Planning Director\r\n\r\n1.2.\tReview of Agenda Items - Planning Staff\r\n\r\n1.3.\tReview and Discuss Land Development Codes, Standards, Policies, Best Practices, and Potential Amendments to Ensure Compliance with Utah State and Herriman City Regulations- Michael Maloy, AICP, Planning Director\r\n\r\n2.\tAdjournment\r\n7:00 PM REGULAR PLANNING COMMISSION MEETING (Council Chambers)\r\n3.\tCall to Order\r\n\r\n3.1.\tInvocation, Thought, Reading and/or Pledge of Allegiance\r\n\r\n3.2.\tRoll Call\r\n\r\n3.3.\tConflicts of Interest\r\n\r\n3.4.\tApproval of Minutes for the January 07, 2026 Planning Commission Meeting\r\n\r\n4.\tAdministrative Items \r\nAdministrative items are reviewed based on standards outlined in the ordinance. Public comment may be taken on relevant and credible evidence regarding the application compliance with the ordinance.\r\n4.1.\tRe-consideration of final building elevations and landscape plans for commercial development in Copper View Plaza Building 7 at 12252 S Herriman Auto Row in the C-2 Commercial Zone.\r\nApplicant: Aaron Osmond, Mountain View Plaza LLC (property owner)\r\nAcres: (+/-)0.5\r\nFile No: C2025-082\r\n\r\n5.\tLegislative Items \r\nLegislative items are recommendations to the City Council. Broad public input will be taken and considered on each item. All legislative items recommended at this meeting will be scheduled for a decision at the next available City Council meeting. \r\n5.1.\t(Continued from January 21, 2026 Meeting) Review and consider a recommendation to amend Title 10 Land Development Code to permit detached Accessory Dwelling Units on properties that contain a single-family home, subject to compliance with specific additional zoning regulations, applicable building codes, and adopted engineering standards, if approved by the Herriman City Council.\r\nApplicant: Herriman City\r\nFile No: Z2026-002\r\n\r\n6.\tChair and Commission Comments\r\n\r\n7.\tFuture Meetings\r\n\r\n7.1.\tNext City Council Meeting: February 11, 2026\r\n\r\n7.2.\tNext Planning Commission Meeting: February 18, 2026\r\n\r\n8.\tAdjournment\r\nIn accordance with the Americans with Disabilities Act, Herriman City will make reasonable accommodation for participation in the meeting. Request assistance by contacting Herriman City at (801) 446-5323 and provide at least 48 hours advance notice of the meeting.\r\nELECTRONIC PARTICIPATION: Members of the City Council may participate electronically via telephone, Skype, or other electronic means during this meeting.\r\nPUBLIC COMMENT POLICY AND PROCEDURE: The purpose of public comment is to allow citizens to address items on the agenda. Citizens requesting to address the Commission will be asked to complete a written comment form and present it to the City Recorder. In general, the chair will allow an individual three minutes to address the Commission. A spokesperson, recognized as representing a group in attendance, may be allowed up to five minutes. This policy also applies to all public hearings. \r\nI, Angela Hansen, certify the foregoing agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body, at the principal office of the public body, on the Utah State Public Notice website www.utah.gov/pmn/index.html and on Herriman City's website at www.herriman.gov  Posted and dated this 29th day of January, 2026 Angela Hansen, Deputy City Recorder",
-      "meeting_location": "5355 W Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Angela Hansen",
-      "contact_email": "anhansen@herriman.gov",
-      "posted_on": "January 29, 2026 02:59 PM",
-      "attachments": [
-        {
-          "file_name": "2026_02_04 PCM.MP3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1387055.MP3",
-          "date_added": "2026/02/05 08:24 AM",
-          "file_id": "1387055"
-        },
-        {
-          "file_name": "2026_02_04 PCWM.MP3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1387057.MP3",
-          "date_added": "2026/02/05 08:24 AM",
-          "file_id": "1387057"
-        },
-        {
-          "file_name": "2026_02_04 PC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1400465.pdf",
-          "date_added": "2026/03/05 10:48 AM",
-          "file_id": "1400465"
-        },
-        {
-          "file_name": "2026_02_04 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1384359.pdf",
-          "date_added": "2026/01/29 02:59 PM",
-          "file_id": "1384359"
         }
       ],
       "canceled": false

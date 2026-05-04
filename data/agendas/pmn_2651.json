@@ -4,8 +4,26 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-04-27T13:11:53.029972+00:00",
+  "scraped_at": "2026-05-04T13:16:48.330871+00:00",
   "notices": [
+    {
+      "notice_id": "1076755",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076755.html",
+      "title": "Public Hearings Notice",
+      "event_date": "May 14, 2026 07:00 PM",
+      "event_date_iso": "2026-05-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 14, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in lieu for connectivity. \r\n\r\nPublic hearing and consideration of Michael Southwick's request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West. \r\n\r\nPublic hearing and consideration of Gardner's request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 1940 North 3600 West.  \r\n\r\nPublic hearing and consideration of Grow Development's request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "April 30, 2026 09:44 AM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1071783",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071783.html",
@@ -164,24 +182,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "February 26, 2026 09:23 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1063359",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1063359.html",
-      "title": "Planning Commission Work Session Agenda",
-      "event_date": "March 5, 2026 05:30 PM",
-      "event_date_iso": "2026-03-05T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "Lehi Planning Commission Meeting\r\nAgenda\r\nMarch 5, 2026\r\n5:30 PM - Lehi City Council Chambers, (153 N. 100 E., Lehi, UT 84043)\r\n\r\n1. Call to Order\r\n2. State training requirements for Planning Commissioners\r\n3. Utah Open and Public Meetings Act Training\r\n4. Review the application process, DRC, etc.\r\n5. Review of DRC and Planning Commission Meeting Statistics\r\n6. Walk through of new City Hall\r\n7. Adjournment\r\n\r\nPublic is invited to attend all open meetings\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to\r\nparticipate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269\r\nThis Agenda has been posted in accordance with Utah Code §§ 63G-30-102\r\nAgendas may be amended up to 24 hours prior to a meeting\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public\r\nElectronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "153 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "March 03, 2026 09:34 AM",
       "attachments": [],
       "canceled": false
     }

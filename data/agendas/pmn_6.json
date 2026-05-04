@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-04-27T13:14:58.259703+00:00",
+  "scraped_at": "2026-05-04T13:20:10.167730+00:00",
   "notices": [
+    {
+      "notice_id": "1076953",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076953.html",
+      "title": "Spanish Fork City - Planning Commission",
+      "event_date": "May 6, 2026 06:00 PM",
+      "event_date_iso": "2026-05-06T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "SF Logo\r\nWednesday, May 6, 2026\r\nPlanning Commission\r\nPlanning Commission Agenda\r\nPUBLIC NOTICE is hereby given that the Planning Commission of Spanish Fork, Utah, will hold a meeting in the City Council Chambers at Library Hall, on the second floor, 80 South Main Street, Spanish Fork, Utah, with a work session commencing at 5:15 p.m., and the Planning Commission Meeting commencing at 6:00 p.m. on May 6, 2026.\r\nPlanning Commissioners\r\n\r\nTodd Mitchell\r\nShauna Warnick\r\nMichelle Carroll\r\nMichael Clayson\r\nPaul Dayton\r\nDave Woodhouse\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Planning Commission Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If you need special accommodation to participate in the meeting, please contact the Community Development Office at 801-804-4580.\r\n1. 5:15pm WORK SESSION - No formal actions are taken in a work session.\r\nA. THOMAS MULTI-FAMILY CONCEPT REVIEW.\r\n2. 6:00 Agenda Items\r\n3. Minutes\r\nA. April 1, 2026.\r\n4. Zone Change (Public Hearing)\r\nA. STATION 61 - ARGYLE SUBSTATION ZONE CHANGE. This proposal involves changing the zoning from R-O and R-1-6 to P-F to accommodate the development of a new City Fire Station and power substation at 137 West Center Street.\r\nB. ARROWHEAD COMMERCIAL. This proposal involves changing the zoning from R-1-12 to C-2 General Commercial located at approximately 450 West 1675 South.\r\n5. Project Signage Plans\r\nA. MAVERIK CONVENIENCE STORE SIGNAGE PLAN. This proposal involves approval of a signage plan for a convenience store location at 1399 North Main Street.\r\nB. DOUG SMITH PROJECT SIGNAGE PLAN. This proposal involves the approval of a signage plan for a proposed auto dealership located at approximately 200 East 2940 North.\r\n6. Adjourn\r\nEnd",
+      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Kasey Woodard",
+      "contact_email": "kwoodard@spanishfork.org",
+      "posted_on": "April 30, 2026 02:58 PM",
+      "attachments": [
+        {
+          "file_name": "BoardDocs® LT.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1425967.pdf",
+          "date_added": "2026/04/30 02:58 PM",
+          "file_id": "1425967"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1069033",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069033.html",
