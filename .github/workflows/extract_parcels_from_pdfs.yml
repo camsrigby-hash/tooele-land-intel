@@ -1,0 +1,63 @@
+name: Extract parcels from PDFs (Phase 12)
+
+# Runs after the geocoding pass; fills coordinates for items that previously
+# couldn't be resolved by reading the FULL PDF body via Haiku 4.5.
+
+on:
+  workflow_run:
+    workflows: ["Geocode agenda items"]
+    types:
+      - completed
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Cap Haiku calls (0 = unlimited)"
+        required: false
+        default: "0"
+      dry_run:
+        description: "Dry run (count only, no Haiku calls)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Extract parcel IDs from PDFs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.limit }}" ] && [ "${{ github.event.inputs.limit }}" != "0" ]; then
+            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          fi
+          python scripts/extract_parcels_from_pdfs.py $ARGS
+
+      - name: Commit extraction outputs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/items_geocoded.csv data/parcel_resolutions.csv data/api_costs.csv data/cron_status/ data/cache/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Extract parcels (Phase 12): $(date -u +%Y-%m-%d)"
+            git push
+          fi

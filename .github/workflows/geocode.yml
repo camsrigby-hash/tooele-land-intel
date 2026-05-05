@@ -30,11 +30,17 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/geocode_items.py
 
+      - name: Record cron heartbeat
+        if: always()
+        run: |
+          STATUS="${{ job.status == 'success' && 'success' || 'failure' }}"
+          bash scripts/write_cron_heartbeat.sh geocode "$STATUS" "" "geocode_items.py 4-strategy pass"
+
       - name: Commit geocoded data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/items_geocoded.csv data/api_costs.csv data/cache/ 2>/dev/null || true
+          git add data/items_geocoded.csv data/api_costs.csv data/cache/ data/cron_status/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

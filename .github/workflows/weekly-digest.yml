@@ -43,11 +43,17 @@ jobs:
       - name: Aggregate city signals
         run: python scripts/aggregate_city_signals.py
 
+      - name: Record cron heartbeat
+        if: always()
+        run: |
+          STATUS="${{ job.status == 'success' && 'success' || 'failure' }}"
+          bash scripts/write_cron_heartbeat.sh weekly-digest "$STATUS" "" "split + digest + aggregate"
+
       - name: Commit enriched data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/agenda_items_split.csv data/digests/ data/latest_digest.md data/api_costs.csv data/city_signal_scores.json 2>/dev/null || true
+          git add data/agenda_items_split.csv data/digests/ data/latest_digest.md data/api_costs.csv data/city_signal_scores.json data/cron_status/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

@@ -63,6 +63,7 @@ PROMPT = (
     '{\n'
     '  "title": "one-sentence description (include project name, address, or parcel if mentioned)",\n'
     '  "signal_type": "REZONE | NEW_SUBDIVISION | COMMERCIAL_PROJECT | MINIFLEX_OPPORTUNITY | INFRASTRUCTURE | ANNEXATION | GENERAL_PLAN_AMENDMENT | LARGE_PROJECT | DEVELOPER_ACTIVITY | null",\n'
+    '  "is_signage": true | false,\n'
     '  "description": "plain English description of what is happening",\n'
     '  "location": "address or cross streets as stated in document, or null",\n'
     '  "parcel_ids": ["XX-XXX-X-XXXX parcel IDs"] or [],\n'
@@ -85,6 +86,9 @@ PROMPT = (
     "- GENERAL_PLAN_AMENDMENT: future land use map or general plan changes\n"
     "- LARGE_PROJECT: development 50+ units or 5+ acres\n"
     "- DEVELOPER_ACTIVITY: named developer appearing, no other category fits\n\n"
+    'is_signage: set to true ONLY for sign-permit-only filings (pole sign, monument sign, wall sign, '
+    'freestanding sign, billboard, electronic message center, sign code amendment) where there is no '
+    "other development context. A real estate development item that happens to mention signs is NOT signage.\n\n"
     "Return [] if no substantive items found.\n\n"
     "Meeting text:\n"
 )
@@ -210,7 +214,12 @@ def main():
             new["id"]          = f"{row['id']}_item{idx}"
             new["title"]       = it.get("title") or row["title"]
             new["signal_type"] = sanitize_signal(it.get("signal_type", ""))
-            if not new.get("item_type"):
+            # Signage-only filings (pole signs, billboards, etc.) get item_type=signage
+            # so the wasatch-intel /developers route can default-exclude them.
+            is_signage = bool(it.get("is_signage"))
+            if is_signage:
+                new["item_type"] = "signage"
+            elif not new.get("item_type"):
                 new["item_type"] = new["signal_type"].lower() if new["signal_type"] else "other"
             new["confidence"]  = 0.9
             new["description"] = it.get("description", "")

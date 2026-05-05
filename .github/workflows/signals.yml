@@ -49,6 +49,12 @@ jobs:
           CORRELATION_THRESHOLD:   ${{ github.event.inputs.threshold || 0.6 }}
         run: python scripts/correlate_signals.py --days ${{ github.event.inputs.days || 30 }}
 
+      - name: Record cron heartbeat
+        if: always()
+        run: |
+          STATUS="${{ job.status == 'success' && 'success' || 'failure' }}"
+          bash scripts/write_cron_heartbeat.sh signals "$STATUS" "" "news+reddit+correlate"
+
       - name: Commit signal data
         run: |
           git config user.name  "github-actions[bot]"
@@ -58,6 +64,7 @@ jobs:
             data/signals_reddit.csv \
             data/signal_correlations.csv \
             data/api_costs.csv \
+            data/cron_status/ \
             2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
