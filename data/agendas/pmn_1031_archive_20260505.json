@@ -1,0 +1,60 @@
+{
+  "source": "utah_pmn",
+  "jurisdiction": "South Jordan City",
+  "public_body": "City Council",
+  "body_id": "1031",
+  "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
+  "scraped_at": "2026-05-05T21:43:13.058620+00:00",
+  "notices": [
+    {
+      "notice_id": "1077547",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077547.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "May 8, 2026 04:00 PM",
+      "event_date_iso": "2026-05-08T16:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members\r\nmay Attend the Following Event:\r\n\r\nUSU Talmage Arena Ribbon Cutting\r\n2100 West 11400 South\r\nSouth Jordan, UT 84095\r\nFriday, May 8, 2026\r\n4:00 - 5:00 p.m.\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\n\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: \u00a7\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 4th Day of May, 2026.",
+      "meeting_location": "2100 West 11400 South Bastian Agricultural Center South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "May 04, 2026 10:07 AM",
+      "attachments": [
+        {
+          "file_name": "05-08-2026 UPN Potential Quorum Notice - USU Talmage Arena Ribbon Cutting.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1426893.pdf",
+          "date_added": "2026/05/04 10:07 AM",
+          "file_id": "1426893"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1077539",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077539.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "May 5, 2026 11:30 AM",
+      "event_date_iso": "2026-05-05T11:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE Notice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members\r\nmay Attend the Following Event:\r\n\r\nSouth Valley Chamber Small Business \r\nGlenmoor Golf Club\r\n9800 Monroe St #806, Sandy, UT 84070\r\nTuesday, May 5, 2026\r\n11:30 a.m. - 1:00 p.m.\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\n\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: \u00a7\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 4th Day of May, 2026.",
+      "meeting_location": "9800 Monroe St #806 Sandy, UT 84070 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "May 04, 2026 10:04 AM",
+      "attachments": [
+        {
+          "file_name": "05-05-2026 UPN Potential Quorum Notice - SVC Small Business 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1426885.pdf",
+          "date_added": "2026/05/04 10:04 AM",
+          "file_id": "1426885"
+        }
+      ],
+      "canceled": false
+    }
+  ]
+}

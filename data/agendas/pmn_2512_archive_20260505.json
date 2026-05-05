@@ -1,0 +1,28 @@
+{
+  "source": "utah_pmn",
+  "jurisdiction": "Lehi City",
+  "public_body": "City Council",
+  "body_id": "2512",
+  "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
+  "scraped_at": "2026-05-05T21:42:00.077706+00:00",
+  "notices": [
+    {
+      "notice_id": "1078137",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078137.html",
+      "title": "Lehi City Council Work Session Agenda",
+      "event_date": "May 11, 2026 12:00 PM",
+      "event_date_iso": "2026-05-11T12:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "Lehi City Council Meeting\r\nAgenda\r\nMay 11, 2026\r\n12:00 PM - Lehi Civic Center, Council Chambers (131 N. 100 E., Lehi, Utah)\r\nI. Lunch, Welcome and Opening Comment\r\nII. Discussion Items\r\nA. Discussion of the Electric Cost of Service and Rate Design Study Lehi Draft Report May 4.pdf\r\nB. Continue with Budget Review Discussions\r\n1. Power Department\r\n2. Fiber Department\r\n3. Development Services (Building Inspections)\r\n4. Economic Development\r\n5. Streets\r\n6. Engineering\r\n7. Water/PI/Sewer/Drainage\r\n8. Fleet\r\n9. Recreation\r\n10. Non-Departmental\r\nC. Discuss any Revisions to the Budget\r\nIII. Adjournment",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 05, 2026 02:51 PM",
+      "attachments": [],
+      "canceled": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "workflow_name": "pmn-archive",
+  "ran_at": "2026-05-05T21:45:32.693560+00:00",
+  "status": "success",
+  "duration_ms": 297346,
+  "items_processed": 5,
+  "notes": "25 bodies, 5 new, 0 failed"
+}

@@ -1,0 +1,36 @@
+{
+  "source": "utah_pmn",
+  "jurisdiction": "American Fork City",
+  "public_body": "City Council",
+  "body_id": "180",
+  "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
+  "scraped_at": "2026-05-05T21:44:36.228550+00:00",
+  "notices": [
+    {
+      "notice_id": "1077583",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077583.html",
+      "title": "05.12.26 Public Hearing - Chipman/Stake Center Annexation",
+      "event_date": "May 12, 2026 07:00 PM",
+      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Public Hearing Notice - Chipman/Stake Center Annexation\r\nNotice is hereby given that a petition for annexation was filed with American Fork City. The petition, which was accepted by the city council on October 22, 2024, covers approximately 24 acres consisting of property located at approximately 515 South 100 West.  The city recorder certified the petition, and the legislative body provided notice according to Utah Code 10-2-406. A 30-day period was allowed to give property owners and affected entities the opportunity to submit written protests. A public hearing was previously held on February 25, 2025.\r\nA public hearing will be held on Tuesday, May 12, at 7 p.m. at the American Fork City Hall (31 N. Church Street) to allow the public to comment on the Chipman/Stake Center Annexation. After the public hearing, American Fork City may choose to deny or grant the petition and annex the area described in the petition. \r\nThe complete annexation petition is available for inspection and copying at the American Fork City Recorder's office (51 E. Main Street, American Fork) or by emailing tlurker@americanfork.gov\r\nDated this 30th day of April 2026.\r\n/s/ Terilyn Lurker, City Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "May 04, 2026 11:30 AM",
+      "attachments": [
+        {
+          "file_name": "7. Public Hearing Notice - Chipman Stake Center Annexation 05.12.26.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1426987.pdf",
+          "date_added": "2026/05/04 11:30 AM",
+          "file_id": "1426987"
+        }
+      ],
+      "canceled": false
+    }
+  ]
+}
