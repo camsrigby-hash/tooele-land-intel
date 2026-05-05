@@ -35,11 +35,17 @@ jobs:
       - name: Enrich road adjacency
         run: python scripts/enrich_roads.py
 
+      - name: Record cron heartbeat
+        if: always()
+        run: |
+          STATUS="${{ job.status == 'success' && 'success' || 'failure' }}"
+          bash scripts/write_cron_heartbeat.sh gap-layer "$STATUS" "" "STIP + gap layer + roads"
+
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/gap_layer.geojson data/stip_projects.geojson data/roads_enrichment.json
+          git add data/gap_layer.geojson data/stip_projects.geojson data/roads_enrichment.json data/cron_status/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
