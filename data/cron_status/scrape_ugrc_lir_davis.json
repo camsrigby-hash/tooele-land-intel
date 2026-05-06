@@ -1,7 +1,7 @@
 {
   "workflow_name": "scrape_ugrc_lir_davis",
-  "ran_at": "2026-05-06T05:27:50Z",
-  "status": "failure",
-  "items_processed": null,
+  "ran_at": "2026-05-06T06:13:57Z",
+  "status": "success",
+  "items_processed": 152563,
   "notes": "county=davis dry_run=false"
 }
