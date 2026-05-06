@@ -74,15 +74,24 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Gzip CSVs over 90 MB to stay under GitHub's 100 MB file limit
+          # Store CSVs: plain if <90MB, gzipped if 90-99MB, release asset if >=100MB compressed
           CSV_FILE="data/raw/parcels_${{ matrix.county }}.csv"
           if [ -f "$CSV_FILE" ]; then
             SIZE_MB=$(( $(stat -c%s "$CSV_FILE") / 1048576 ))
             if [ "$SIZE_MB" -ge 90 ]; then
               echo "CSV is ${SIZE_MB}MB, compressing..."
               gzip -9 "$CSV_FILE"
-              git rm --cached "$CSV_FILE" 2>/dev/null || true
-              git add "data/raw/parcels_${{ matrix.county }}.csv.gz" 2>/dev/null || true
+              GZ_SIZE_MB=$(( $(stat -c%s "${CSV_FILE}.gz") / 1048576 ))
+              if [ "$GZ_SIZE_MB" -ge 90 ]; then
+                echo "Compressed CSV is ${GZ_SIZE_MB}MB — uploading to GitHub release (too large for git)..."
+                gh release create "large-parcels" --title "Large county parcel CSVs" --notes "Auto-managed by scrape workflow" 2>/dev/null || true
+                gh release upload "large-parcels" "${CSV_FILE}.gz" --clobber
+                rm "${CSV_FILE}.gz"
+                echo "Uploaded parcels_${{ matrix.county }}.csv.gz to large-parcels release"
+              else
+                git rm --cached "$CSV_FILE" 2>/dev/null || true
+                git add "${CSV_FILE}.gz" 2>/dev/null || true
+              fi
             else
               git add "$CSV_FILE" 2>/dev/null || true
             fi
