@@ -1,0 +1,7 @@
+{
+  "workflow_name": "scrape_ugrc_lir_wasatch",
+  "ran_at": "2026-05-06T05:27:52Z",
+  "status": "failure",
+  "items_processed": null,
+  "notes": "county=wasatch dry_run=false"
+}
