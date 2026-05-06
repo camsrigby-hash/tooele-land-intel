@@ -74,7 +74,19 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "data/raw/parcels_${{ matrix.county }}.csv" 2>/dev/null || true
+          # Gzip CSVs over 90 MB to stay under GitHub's 100 MB file limit
+          CSV_FILE="data/raw/parcels_${{ matrix.county }}.csv"
+          if [ -f "$CSV_FILE" ]; then
+            SIZE_MB=$(( $(stat -c%s "$CSV_FILE") / 1048576 ))
+            if [ "$SIZE_MB" -ge 90 ]; then
+              echo "CSV is ${SIZE_MB}MB, compressing..."
+              gzip -9 "$CSV_FILE"
+              git rm --cached "$CSV_FILE" 2>/dev/null || true
+              git add "data/raw/parcels_${{ matrix.county }}.csv.gz" 2>/dev/null || true
+            else
+              git add "$CSV_FILE" 2>/dev/null || true
+            fi
+          fi
           git add "data/cache/lir/${{ matrix.county }}/" 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
