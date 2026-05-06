@@ -1,7 +1,7 @@
 {
   "workflow_name": "scrape_ugrc_lir_salt_lake",
-  "ran_at": "2026-05-06T14:51:27Z",
+  "ran_at": "2026-05-06T15:58:08Z",
   "status": "failure",
-  "items_processed": null,
+  "items_processed": 394510,
   "notes": "county=salt_lake dry_run=false"
 }
