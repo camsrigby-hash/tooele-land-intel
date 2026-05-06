@@ -24,21 +24,36 @@ jobs:
         county: [tooele, salt_lake, utah, davis, weber, wasatch, box_elder]
     runs-on: ubuntu-latest
     timeout-minutes: 360
-    if: ${{ github.event.inputs.county == 'all' || github.event.inputs.county == matrix.county }}
 
     steps:
+      - name: Check county filter
+        id: filter
+        run: |
+          INPUT="${{ github.event.inputs.county }}"
+          COUNTY="${{ matrix.county }}"
+          if [ "$INPUT" = "all" ] || [ "$INPUT" = "$COUNTY" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Skipping $COUNTY (input county: $INPUT)"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.filter.outputs.run == 'true'
 
       - name: Set up Python
+        if: steps.filter.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: steps.filter.outputs.run == 'true'
         run: pip install -r requirements.txt
 
       - name: Scrape ${{ matrix.county }}
+        if: steps.filter.outputs.run == 'true'
         id: scrape
         run: |
           ARGS="--county ${{ matrix.county }}"
@@ -46,7 +61,6 @@ jobs:
             ARGS="$ARGS --dry-run"
           fi
           python scripts/scrape_ugrc_lir.py $ARGS
-          # Capture row count for heartbeat
           if [ "${{ github.event.inputs.dry_run }}" != "true" ]; then
             CSV_FILE="data/raw/parcels_${{ matrix.county }}.csv"
             if [ -f "$CSV_FILE" ]; then
@@ -56,7 +70,7 @@ jobs:
           fi
 
       - name: Commit CSV output
-        if: github.event.inputs.dry_run != 'true'
+        if: steps.filter.outputs.run == 'true' && github.event.inputs.dry_run != 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -66,7 +80,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "feat(13b-2): scrape ${{ matrix.county }} parcels ($(date -u +%Y-%m-%d))"
-            # Retry push with rebase to handle concurrent matrix pushes
             for i in 1 2 3; do
               git pull --rebase origin "${{ github.ref_name }}" && git push && break
               echo "Push attempt $i failed, retrying in $((i * 5))s..."
@@ -75,7 +88,7 @@ jobs:
           fi
 
       - name: Write cron heartbeat
-        if: always()
+        if: steps.filter.outputs.run == 'true' && always()
         run: |
           STATUS="${{ job.status }}"
           [ "$STATUS" = "success" ] || STATUS="failure"
