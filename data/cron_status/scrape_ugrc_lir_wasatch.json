@@ -1,6 +1,6 @@
 {
   "workflow_name": "scrape_ugrc_lir_wasatch",
-  "ran_at": "2026-05-06T06:04:13Z",
+  "ran_at": "2026-05-06T14:18:40Z",
   "status": "success",
   "items_processed": 31838,
   "notes": "county=wasatch dry_run=false"
