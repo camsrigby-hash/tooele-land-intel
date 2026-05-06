@@ -1,0 +1,97 @@
+name: Scrape UGRC LIR parcels (Phase 13b-2)
+
+on:
+  workflow_dispatch:
+    inputs:
+      county:
+        description: "County to scrape (tooele|salt_lake|utah|davis|weber|wasatch|box_elder|all)"
+        required: false
+        default: "all"
+      dry_run:
+        description: "Dry run (probe endpoint + count only, no write)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    name: "Scrape ${{ matrix.county }}"
+    strategy:
+      fail-fast: false
+      matrix:
+        county: [tooele, salt_lake, utah, davis, weber, wasatch, box_elder]
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    if: ${{ github.event.inputs.county == 'all' || github.event.inputs.county == matrix.county }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape ${{ matrix.county }}
+        id: scrape
+        run: |
+          ARGS="--county ${{ matrix.county }}"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python scripts/scrape_ugrc_lir.py $ARGS
+          # Capture row count for heartbeat
+          if [ "${{ github.event.inputs.dry_run }}" != "true" ]; then
+            CSV_FILE="data/raw/parcels_${{ matrix.county }}.csv"
+            if [ -f "$CSV_FILE" ]; then
+              ROW_COUNT=$(( $(wc -l < "$CSV_FILE") - 1 ))
+              echo "row_count=$ROW_COUNT" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Commit CSV output
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "data/raw/parcels_${{ matrix.county }}.csv" 2>/dev/null || true
+          git add "data/cache/lir/${{ matrix.county }}/" 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "feat(13b-2): scrape ${{ matrix.county }} parcels ($(date -u +%Y-%m-%d))"
+            # Retry push with rebase to handle concurrent matrix pushes
+            for i in 1 2 3; do
+              git pull --rebase origin "${{ github.ref_name }}" && git push && break
+              echo "Push attempt $i failed, retrying in $((i * 5))s..."
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Write cron heartbeat
+        if: always()
+        run: |
+          STATUS="${{ job.status }}"
+          [ "$STATUS" = "success" ] || STATUS="failure"
+          ITEMS="${{ steps.scrape.outputs.row_count }}"
+          bash scripts/write_cron_heartbeat.sh \
+            "scrape_ugrc_lir_${{ matrix.county }}" \
+            "$STATUS" \
+            "${ITEMS:-}" \
+            "county=${{ matrix.county }} dry_run=${{ github.event.inputs.dry_run }}"
+          git config user.name  "github-actions[bot]" 2>/dev/null || true
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com" 2>/dev/null || true
+          git add "data/cron_status/" 2>/dev/null || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: heartbeat scrape_ugrc_lir_${{ matrix.county }} $STATUS"
+            for i in 1 2 3; do
+              git pull --rebase origin "${{ github.ref_name }}" && git push && break
+              sleep $((i * 3))
+            done
+          fi
