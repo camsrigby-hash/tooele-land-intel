@@ -1,0 +1,62 @@
+name: Fetch Census ACS Block-Group Income
+
+# Phase 13b-6a: Fetches ACS 2023 5-year B19013_001E at block-group level
+# for all 7 Utah counties and commits census_acs_blockgroups.csv to data/raw/.
+# Spec: wasatch-intel/docs/PHASE_13_ENRICHMENT_ARCH.md §1.10, §5 13b-6a
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (probe ACS endpoints and count, do not write CSV)"
+        type: boolean
+        default: false
+
+  # Annual refresh — Census ACS 5-year releases every December
+  schedule:
+    - cron: "0 4 15 12 *"  # December 15 at 04:00 UTC
+
+jobs:
+  fetch-acs:
+    name: Fetch ACS Block Groups
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Census ACS data
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python scripts/fetch_census_acs.py --dry-run
+          else
+            python scripts/fetch_census_acs.py
+          fi
+
+      - name: Commit artifacts
+        if: ${{ inputs.dry_run != true && success() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw/census_acs_blockgroups.csv \
+                  data/cache/census_acs/ || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: update census_acs_blockgroups.csv [skip ci]"
+            git push
+          fi
