@@ -1,7 +1,7 @@
 {
   "workflow_name": "scrape_ugrc_lir_box_elder",
-  "ran_at": "2026-05-06T05:27:42Z",
-  "status": "failure",
-  "items_processed": null,
+  "ran_at": "2026-05-06T06:05:42Z",
+  "status": "success",
+  "items_processed": 46730,
   "notes": "county=box_elder dry_run=false"
 }
