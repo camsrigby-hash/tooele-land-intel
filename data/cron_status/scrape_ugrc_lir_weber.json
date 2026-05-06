@@ -1,7 +1,7 @@
 {
   "workflow_name": "scrape_ugrc_lir_weber",
-  "ran_at": "2026-05-06T14:51:25Z",
-  "status": "failure",
-  "items_processed": null,
+  "ran_at": "2026-05-06T15:05:39Z",
+  "status": "success",
+  "items_processed": 202986,
   "notes": "county=weber dry_run=false"
 }
