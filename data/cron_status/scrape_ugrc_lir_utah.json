@@ -1,7 +1,7 @@
 {
   "workflow_name": "scrape_ugrc_lir_utah",
-  "ran_at": "2026-05-06T14:51:31Z",
-  "status": "failure",
-  "items_processed": null,
+  "ran_at": "2026-05-06T15:18:59Z",
+  "status": "success",
+  "items_processed": 327655,
   "notes": "county=utah dry_run=false"
 }
