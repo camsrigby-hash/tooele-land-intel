@@ -69,6 +69,29 @@ jobs:
             fi
           fi
 
+      - name: Strip polygon_geojson from CSV
+        if: steps.filter.outputs.run == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          CSV_FILE="data/raw/parcels_${{ matrix.county }}.csv"
+          if [ ! -f "$CSV_FILE" ]; then exit 0; fi
+          python3 - <<'PYEOF'
+          import csv, os, sys
+          county = "${{ matrix.county }}"
+          src = f"data/raw/parcels_{county}.csv"
+          tmp = f"data/raw/parcels_{county}.tmp.csv"
+          with open(src, newline="", encoding="utf-8") as fin, \
+               open(tmp, "w", newline="", encoding="utf-8") as fout:
+              reader = csv.DictReader(fin)
+              fields = [f for f in reader.fieldnames if f != "polygon_geojson"]
+              writer = csv.DictWriter(fout, fieldnames=fields, extrasaction="ignore")
+              writer.writeheader()
+              for row in reader:
+                  writer.writerow(row)
+          os.replace(tmp, src)
+          size_mb = os.path.getsize(src) / 1_048_576
+          print(f"Stripped polygon_geojson from {src} → {size_mb:.1f} MB", flush=True)
+          PYEOF
+
       - name: Commit CSV output
         if: steps.filter.outputs.run == 'true' && github.event.inputs.dry_run != 'true'
         run: |
