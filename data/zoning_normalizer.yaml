@@ -1,0 +1,335 @@
+# Phase 13b-5 zoning normalizer for Wasatch Intel parcel scoring.
+#
+# Primary mappings are keyed by raw machine-readable zone strings when a parcel
+# CSV contains a zone_class / zoning / zone_code-style column. Scores measure
+# generic commercial fit, not entitlement certainty:
+#   1.0 = pure commercial zoning (B, C, GC, retail-permitted)
+#   0.7 = mixed-use with a commercial component (MU, MU-CN, TOD)
+#   0.4 = light industrial / flex (M-1, LI, BP)
+#   0.2 = high-density residential (R-M, R-3, MF)
+#   0.0 = single-family residential, agricultural, conservation, open space
+#
+# The current checked-in UGRC LIR parcel CSVs in this repository do not include
+# a zone_class-like column. score_parcel_zoning.py therefore supports the
+# property_class_fallback mappings below so the workflow can produce a current
+# file while preserving source_zone_string and normalized_class transparency.
+version: phase-13b-5
+score_field: zoning_score
+primary_source_columns:
+  - zone_class
+  - zoning_class
+  - zoning
+  - zone
+  - zone_code
+  - zonecode
+  - zoning_code
+  - current_zone
+  - land_use_zone
+  - landuse_zone
+  - base_zone
+normalization:
+  pure_commercial:
+    score: 1.0
+    strings:
+      - B
+      - B-1
+      - B-2
+      - B-3
+      - B1
+      - B2
+      - B3
+      - BP-C
+      - Business Park Commercial
+      - C
+      - C-1
+      - C-2
+      - C-3
+      - C-4
+      - C1
+      - C2
+      - C3
+      - C4
+      - CB
+      - CBD
+      - CC
+      - C-C
+      - CC-1
+      - CG
+      - C-G
+      - CH
+      - C-H
+      - CL
+      - C-L
+      - CM
+      - C-M
+      - CN
+      - C-N
+      - CO
+      - C-O
+      - CP
+      - C-P
+      - CR
+      - C-R
+      - CS
+      - C-S
+      - GC
+      - GC-1
+      - GC-2
+      - General Commercial
+      - Highway Commercial
+      - HC
+      - H-C
+      - Neighborhood Commercial
+      - NC
+      - N-C
+      - Regional Commercial
+      - RC
+      - R-C
+      - Retail Commercial
+      - SC
+      - Shopping Center
+      - Town Center Commercial
+      - TC-C
+      - Village Commercial
+      - VC
+      - Commercial
+      - Commercial - Retail
+      - Commercial - Office Space
+      - Vacant - Commercial
+  mixed_use_commercial:
+    score: 0.7
+    strings:
+      - MU
+      - M-U
+      - MU-C
+      - MU-CN
+      - MU-N
+      - MU-R
+      - MUC
+      - MUN
+      - MX
+      - MXD
+      - MXD-C
+      - Mixed Use
+      - Mixed-Use
+      - Commercial-Mixed
+      - Commercial Mixed Use
+      - Neighborhood Mixed Use
+      - Village Mixed Use
+      - Town Center
+      - TC
+      - T-C
+      - TOD
+      - TOD-C
+      - Transit Oriented Development
+      - Form Based Mixed Use
+      - FB-MU
+  light_industrial_flex:
+    score: 0.4
+    strings:
+      - BP
+      - B-P
+      - Business Park
+      - Flex
+      - Flex Industrial
+      - I-1
+      - I1
+      - IP
+      - I-P
+      - Industrial Park
+      - LI
+      - L-I
+      - Light Industrial
+      - M-1
+      - M1
+      - Manufacturing 1
+      - MP
+      - M-P
+      - Planned Industrial
+      - Research Park
+      - RP
+      - Commercial - Industrial
+      - Industrial
+  high_density_residential:
+    score: 0.2
+    strings:
+      - A-20
+      - Apartment
+      - HDR
+      - High Density Residential
+      - MF
+      - M-F
+      - Multi Family
+      - Multi-Family
+      - Multifamily
+      - R-3
+      - R3
+      - R-4
+      - R4
+      - R-5
+      - R5
+      - R-M
+      - RM
+      - RM-7
+      - RM-10
+      - RM-12
+      - RM-15
+      - RM-25
+      - RMF
+      - R-MF
+      - Residential Mixed Density
+      - Commercial - Apartment & Condo
+  low_fit_noncommercial:
+    score: 0.0
+    strings:
+      - A
+      - A-1
+      - A-5
+      - A-10
+      - AG
+      - Agriculture
+      - Agricultural
+      - AP
+      - Airport
+      - CEM
+      - Cemetery
+      - Conservation
+      - COS
+      - Estate Residential
+      - ER
+      - FAA Mkt
+      - Forest Recreation
+      - FR
+      - Greenbelt
+      - M-2
+      - M2
+      - Heavy Industrial
+      - HI
+      - H-I
+      - Mining
+      - OS
+      - Open Space
+      - Parks
+      - PR
+      - Public Facility
+      - PF
+      - P-F
+      - Public Use
+      - PUD Residential
+      - R
+      - R-1
+      - R1
+      - R-1-10
+      - R-1-12
+      - R-1-15
+      - R-1-20
+      - R-1-40
+      - R-2
+      - R2
+      - RA
+      - R-A
+      - R-E
+      - RE
+      - RR
+      - R-R
+      - Rural Residential
+      - Single Family Residential
+      - SF
+      - S-F
+      - Residential
+      - Vacant
+      - Vacant - Agricultural
+      - Tax Exempt
+      - Tax Exempt - Government
+      - Tax Exempt - Charitable Organization or Religious
+      - Tax Exempt - Other
+      - Exempt
+      - Recreational
+      - Undeveloped
+      - NON-FAA
+      - Centrally Assessed
+      - Personal Property
+      - New
+property_class_fallback:
+  Commercial:
+    score: 1.0
+    normalized_class: pure_commercial_property_class_fallback
+  Commercial - Retail:
+    score: 1.0
+    normalized_class: pure_commercial_property_class_fallback
+  Commercial - Office Space:
+    score: 1.0
+    normalized_class: pure_commercial_property_class_fallback
+  Vacant - Commercial:
+    score: 1.0
+    normalized_class: pure_commercial_property_class_fallback
+  Mixed Use:
+    score: 0.7
+    normalized_class: mixed_use_property_class_fallback
+  Commercial - Apartment & Condo:
+    score: 0.2
+    normalized_class: high_density_residential_property_class_fallback
+  Commercial - Industrial:
+    score: 0.4
+    normalized_class: light_industrial_property_class_fallback
+  Industrial:
+    score: 0.4
+    normalized_class: light_industrial_property_class_fallback
+  ? ''
+  : score: 0.0
+    normalized_class: no_property_class_low_fit_fallback
+  Unknown:
+    score: 0.0
+    normalized_class: unknown_property_class_low_fit_fallback
+  Residential:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Agricultural:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Vacant:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Vacant - Agricultural:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Greenbelt:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Tax Exempt:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Tax Exempt - Government:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Tax Exempt - Charitable Organization or Religious:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Tax Exempt - Other:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Exempt:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Recreational:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Undeveloped:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  NON-FAA:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  FAA Mkt:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Centrally Assessed:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  Personal Property:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+  New:
+    score: 0.0
+    normalized_class: low_fit_property_class_fallback
+unscored_values: []
