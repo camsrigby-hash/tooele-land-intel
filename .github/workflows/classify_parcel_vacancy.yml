@@ -1,0 +1,106 @@
+name: Classify Parcel Vacancy
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_glob:
+        description: "County parcel CSV glob"
+        required: false
+        default: "data/raw/parcels_*.csv"
+      commit_results:
+        description: "Commit regenerated parcel_vacancy_class.csv"
+        required: false
+        default: "true"
+  pull_request:
+    paths:
+      - "scripts/classify_parcel_vacancy.py"
+      - "data/raw/parcels_*.csv"
+      - ".github/workflows/classify_parcel_vacancy.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run vacancy classifier
+        run: |
+          python scripts/classify_parcel_vacancy.py \
+            --input-glob "${{ github.event.inputs.input_glob || 'data/raw/parcels_*.csv' }}" \
+            --output data/raw/parcel_vacancy_class.csv \
+            --summary data/raw/parcel_vacancy_class_summary.txt
+
+      - name: Validate vacancy output
+        run: |
+          python - <<'PY'
+          import csv
+          from collections import Counter
+          path = "data/raw/parcel_vacancy_class.csv"
+          allowed = {"vacant", "partial", "developed", "unknown"}
+          rows = 0
+          counts = Counter()
+          seen = set()
+          duplicates = 0
+          with open(path, newline="", encoding="utf-8") as f:
+              reader = csv.DictReader(f)
+              expected = ["parcel_id", "vacancy_class", "source_signal"]
+              if reader.fieldnames != expected:
+                  raise SystemExit(f"Unexpected header {reader.fieldnames}; expected {expected}")
+              for row in reader:
+                  rows += 1
+                  pid = (row.get("parcel_id") or "").strip()
+                  vacancy_class = (row.get("vacancy_class") or "").strip()
+                  if not pid:
+                      raise SystemExit("Blank parcel_id encountered")
+                  if pid in seen:
+                      duplicates += 1
+                  seen.add(pid)
+                  if vacancy_class not in allowed:
+                      raise SystemExit(f"Invalid vacancy_class {vacancy_class!r} for {pid}")
+                  counts[vacancy_class] += 1
+          if rows == 0:
+              raise SystemExit("No rows written")
+          if duplicates:
+              raise SystemExit(f"Duplicate parcel_id rows found: {duplicates}")
+          vacant_pct = counts["vacant"] / rows * 100
+          developed_pct = counts["developed"] / rows * 100
+          unknown_pct = counts["unknown"] / rows * 100
+          print(f"rows={rows} counts={dict(counts)}")
+          print(f"vacant_pct={vacant_pct:.2f} developed_pct={developed_pct:.2f} unknown_pct={unknown_pct:.2f}")
+          if not 5 <= vacant_pct <= 25:
+              raise SystemExit(f"Vacant distribution outside sanity band: {vacant_pct:.2f}%")
+          if not 60 <= developed_pct <= 90:
+              raise SystemExit(f"Developed distribution outside sanity band: {developed_pct:.2f}%")
+          if unknown_pct >= 5:
+              raise SystemExit(f"Unknown distribution outside sanity band: {unknown_pct:.2f}%")
+          PY
+
+      - name: Upload vacancy artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: parcel-vacancy-class
+          path: |
+            data/raw/parcel_vacancy_class.csv
+            data/raw/parcel_vacancy_class_summary.txt
+
+      - name: Commit regenerated vacancy CSV
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.commit_results != 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/parcel_vacancy_class.csv
+          if git diff --staged --quiet; then
+            echo "No vacancy classification changes to commit"
+          else
+            git commit -m "Classify parcel vacancy"
+            git push
+          fi
