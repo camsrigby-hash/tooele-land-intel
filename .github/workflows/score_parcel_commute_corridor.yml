@@ -1,0 +1,84 @@
+name: Score parcel commute corridor (Phase 13b-7)
+
+on:
+  workflow_dispatch:
+    inputs:
+      refresh_ramps:
+        description: "Refresh UGRC ramp cache before scoring"
+        required: false
+        default: "true"
+      upload_artifacts:
+        description: "Upload generated CSV and UGRC cache as artifacts"
+        required: false
+        default: "true"
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip pandas numpy requests
+
+      - name: Download large parcel release assets when needed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p data/raw
+          for county in salt_lake utah weber; do
+            if [ -f "data/raw/parcels_${county}.csv" ] || [ -f "data/raw/parcels_${county}.csv.gz" ]; then
+              echo "Found parcels_${county} in repository"
+            else
+              gh release download large-parcels \
+                -p "parcels_${county}.csv.gz" \
+                -R camsrigby-hash/tooele-land-intel \
+                -D data/raw/
+            fi
+          done
+
+      - name: Generate commute corridor scores
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.refresh_ramps }}" = "true" ]; then
+            FLAGS="--refresh-ramps"
+          fi
+          python scripts/score_parcel_commute_corridor.py $FLAGS --chunk-size 50000
+
+      - name: Validate generated score CSV
+        run: |
+          python - << 'PYEOF'
+          import pandas as pd
+          p = "data/raw/parcel_commute_corridor_scores.csv"
+          df = pd.read_csv(p, dtype={"parcel_id": "string"})
+          assert list(df.columns) == [
+              "parcel_id",
+              "commute_corridor_score",
+              "nearest_ramp_id",
+              "distance_mi",
+              "approach_side_bool",
+              "commute_corridor_method",
+          ]
+          assert df["parcel_id"].nunique() == len(df), "CSV must be one row per D1 parcel_id"
+          assert (df["commute_corridor_method"] == "proxy").all(), "Every row must be proxy-tagged"
+          positive_pct = float((df["commute_corridor_score"] > 0).mean())
+          high_pct = float((df["commute_corridor_score"] >= 0.7).mean())
+          print({"rows": len(df), "positive_pct": positive_pct, "score_gte_0_7_pct": high_pct})
+          assert 0.03 <= high_pct <= 0.08, "High-score percentage should remain in the expected 3-8% band"
+          PYEOF
+
+      - name: Upload generated artifacts
+        if: github.event.inputs.upload_artifacts == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase-13b-7-commute-corridor-artifacts
+          path: |
+            data/raw/parcel_commute_corridor_scores.csv
+            data/cache/ugrc_onramps.geojson
