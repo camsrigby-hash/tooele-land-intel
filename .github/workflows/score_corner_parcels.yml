@@ -1,0 +1,106 @@
+name: Score Corner Parcels
+
+on:
+  workflow_dispatch:
+    inputs:
+      counties:
+        description: "Comma-separated counties to score, or 'all'"
+        required: true
+        default: "all"
+      distance_m:
+        description: "Road frontage buffer distance in meters"
+        required: true
+        default: "25"
+      refresh_roads:
+        description: "Refresh cached UGRC road extracts"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+env:
+  PYTHON_VERSION: "3.11"
+  UGRC_ROAD_BATCH_SIZE: "50"
+  UGRC_ROAD_WORKERS: "8"
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "shapely>=2.0.0" requests
+
+      - name: Download large parcel inputs from release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p data/raw
+          if [ ! -f data/raw/parcels_salt_lake.csv.gz ]; then
+            gh release download large-parcels --pattern 'parcels_salt_lake.csv.gz' --dir data/raw --clobber
+          fi
+
+      - name: Score parcel corner frontage
+        run: |
+          COUNTIES="${{ github.event.inputs.counties }}"
+          if [ "$COUNTIES" = "all" ]; then
+            COUNTIES="box_elder,davis,salt_lake,tooele,utah,wasatch,weber"
+          fi
+          EXTRA_ARGS=""
+          if [ "${{ github.event.inputs.refresh_roads }}" = "true" ]; then
+            EXTRA_ARGS="--refresh-roads"
+          fi
+          python scripts/score_corner_parcels.py \
+            --counties "$COUNTIES" \
+            --distance-m "${{ github.event.inputs.distance_m }}" \
+            --output data/raw/parcel_corner_scores.csv \
+            $EXTRA_ARGS
+
+      - name: Validate generated CSV
+        run: |
+          python - <<'PY'
+          import csv
+          from collections import Counter
+          path = 'data/raw/parcel_corner_scores.csv'
+          rows = 0
+          ids = set()
+          score_hist = Counter()
+          with open(path, newline='') as f:
+              reader = csv.DictReader(f)
+              assert reader.fieldnames == ['parcel_id', 'corner_score', 'road_count', 'top_road_class'], reader.fieldnames
+              for row in reader:
+                  rows += 1
+                  ids.add(row['parcel_id'])
+                  score_hist[row['corner_score']] += 1
+          print(f'rows={rows:,}')
+          print(f'unique_parcel_ids={len(ids):,}')
+          print('score_histogram=')
+          for score, count in sorted(score_hist.items(), key=lambda kv: float(kv[0])):
+              print(f'  {score}: {count:,}')
+          if rows == 0:
+              raise SystemExit('No rows generated')
+          if rows != len(ids):
+              raise SystemExit(f'Duplicate parcel_id values found: rows={rows}, unique={len(ids)}')
+          PY
+
+      - name: Upload corner score artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: parcel-corner-scores
+          path: |
+            data/raw/parcel_corner_scores.csv
+            data/cache/ugrc_roads/*.geojson
+          retention-days: 14
