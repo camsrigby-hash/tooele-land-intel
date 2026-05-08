@@ -1,0 +1,105 @@
+name: Score parcel AADT (Phase 13b-4)
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_download:
+        description: "Re-download UDOT AADT cache before scoring"
+        required: false
+        default: "false"
+      commit_outputs:
+        description: "Commit regenerated AADT cache and parcel score CSV"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install geospatial dependencies
+        run: python -m pip install --upgrade shapely pyproj
+
+      - name: Ensure large parcel release inputs are present
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p data/raw
+          for COUNTY in salt_lake utah weber; do
+            if [ ! -f "data/raw/parcels_${COUNTY}.csv" ] && [ ! -f "data/raw/parcels_${COUNTY}.csv.gz" ]; then
+              gh release download large-parcels \
+                -p "parcels_${COUNTY}.csv.gz" \
+                -R camsrigby-hash/tooele-land-intel \
+                -D data/raw/
+            fi
+          done
+
+      - name: Score parcel centroids against UDOT AADT segments
+        run: |
+          ARGS="--progress-every 100000"
+          if [ "${{ github.event.inputs.force_download }}" = "true" ]; then
+            ARGS="$ARGS --force-download"
+          fi
+          python scripts/score_parcel_aadt.py $ARGS
+
+      - name: Validate generated score CSV
+        run: |
+          python - << 'PYEOF'
+          import csv, json
+          from collections import Counter
+          path = 'data/raw/parcel_aadt_scores.csv'
+          counts = Counter()
+          rows = 0
+          with open(path, newline='', encoding='utf-8') as f:
+              for row in csv.DictReader(f):
+                  rows += 1
+                  counts[row['aadt_score']] += 1
+          positive = rows - counts.get('0.0', 0)
+          high = counts.get('0.7', 0) + counts.get('1.0', 0)
+          summary = {
+              'rows': rows,
+              'score_counts': dict(sorted(counts.items())),
+              'positive_share': positive / rows if rows else 0,
+              'high_traffic_share': high / rows if rows else 0,
+          }
+          print(json.dumps(summary, indent=2))
+          if rows != 947863:
+              raise SystemExit(f'Expected 947,863 unique parcel scores, found {rows:,}')
+          if high / rows < 0.05:
+              raise SystemExit('Expected at least 5% of parcels to score >= 0.7')
+          PYEOF
+
+      - name: Upload generated AADT artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: parcel-aadt-scores
+          path: |
+            data/raw/parcel_aadt_scores.csv
+            data/cache/udot_aadt.geojson
+          retention-days: 14
+
+      - name: Commit generated outputs
+        if: ${{ github.event.inputs.commit_outputs == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/parcel_aadt_scores.csv data/cache/udot_aadt.geojson
+          if git diff --cached --quiet; then
+            echo "No output changes to commit."
+          else
+            git commit -m "Generate parcel AADT scores"
+            git push
+          fi
