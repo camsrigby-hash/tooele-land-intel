@@ -1,0 +1,90 @@
+name: Score parcel zoning
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_output:
+        description: "Commit regenerated parcel_zoning_scores.csv back to this branch"
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  score-parcel-zoning:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install pyyaml
+
+      - name: Ensure oversized Salt Lake parcel CSV is present
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f data/raw/parcels_salt_lake.csv.gz ]; then
+            echo "Downloading parcels_salt_lake.csv.gz from large-parcels release asset..."
+            gh release download large-parcels \
+              --repo "${{ github.repository }}" \
+              --pattern parcels_salt_lake.csv.gz \
+              --dir data/raw \
+              --clobber
+          fi
+          ls -lh data/raw/parcels_salt_lake.csv.gz || true
+
+      - name: Generate parcel zoning scores
+        run: |
+          python scripts/score_parcel_zoning.py | tee /tmp/score_parcel_zoning.log
+          test -s data/raw/parcel_zoning_scores.csv
+          ROWS=$(( $(wc -l < data/raw/parcel_zoning_scores.csv) - 1 ))
+          echo "ROW_COUNT=${ROWS}" >> "$GITHUB_ENV"
+          echo "Generated ${ROWS} zoning score rows."
+
+      - name: Upload generated zoning scores artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: parcel-zoning-scores
+          path: |
+            data/raw/parcel_zoning_scores.csv
+            /tmp/score_parcel_zoning.log
+          retention-days: 14
+
+      - name: Commit regenerated output
+        if: ${{ inputs.commit_output == true }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/score_parcel_zoning.py data/zoning_normalizer.yaml data/raw/parcel_zoning_scores.csv .github/workflows/score_parcel_zoning.yml
+          if git diff --staged --quiet; then
+            echo "No zoning scoring changes to commit."
+            exit 0
+          fi
+          git commit -m "feat(13b-5): score parcel zoning"
+          PUSHED=false
+          for delay in 15 30 60; do
+            if git pull --rebase origin "${{ github.ref_name }}" && git push origin HEAD:"${{ github.ref_name }}"; then
+              PUSHED=true
+              break
+            fi
+            echo "Push failed; retrying in ${delay}s..."
+            sleep "$delay"
+          done
+          if [ "$PUSHED" != "true" ]; then
+            echo "ERROR: failed to push regenerated zoning score output"
+            exit 1
+          fi
