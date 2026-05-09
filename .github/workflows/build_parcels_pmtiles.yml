@@ -53,8 +53,10 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install wrangler
-        run: npm install -g wrangler
+      - name: Install wrangler (global, per SD-9)
+        run: |
+          npm install -g wrangler
+          wrangler --version
 
       - name: Install tippecanoe
         run: |
@@ -139,7 +141,28 @@ jobs:
             --raw-dir data/raw \
             --large-parcels-dir data/raw \
             --output /tmp/parcels.ndjson \
-            --stats
+            --stats 2>&1 | tee /tmp/ndjson_build.log
+          SCRIPT_RC=${PIPESTATUS[0]}
+          [ "${SCRIPT_RC}" = "0" ] || { echo "build_parcels_ndjson.py failed (rc=${SCRIPT_RC})" >&2; exit "${SCRIPT_RC}"; }
+
+          # Gate: D1-to-polygon match rate must be ≥95% before tippecanoe runs.
+          # Parses the summary line: "Done. N features written … (M with D1 attrs, X.X% match rate)"
+          MATCH_RATE=$(grep -oP '[\d.]+(?=% match rate)' /tmp/ndjson_build.log | tail -1)
+          if [ -z "${MATCH_RATE}" ]; then
+            echo "ERROR: Could not parse match rate from build output — check build log above." >&2
+            exit 1
+          fi
+          echo "D1 match rate: ${MATCH_RATE}%"
+          python3 - << PYEOF
+          import sys
+          rate = float("${MATCH_RATE}")
+          if rate < 95.0:
+              print(f"ERROR: D1-to-polygon match rate {rate:.1f}% is below the 95% threshold. "
+                    "Aborting — fix D1 export or CSV source mismatch before running tippecanoe.", file=sys.stderr)
+              sys.exit(1)
+          print(f"Match rate gate PASSED: {rate:.1f}% >= 95%")
+          PYEOF
+
           FEATURES=$(wc -l < /tmp/parcels.ndjson)
           echo "FEATURE_COUNT=${FEATURES}" >> "$GITHUB_ENV"
           echo "NDJSON: $(du -sh /tmp/parcels.ndjson | cut -f1), ${FEATURES} features"
@@ -167,6 +190,37 @@ jobs:
             --file /tmp/parcels.pmtiles \
             --content-type application/octet-stream
           echo "Uploaded to R2: ${R2_BUCKET}/${R2_KEY}"
+
+      - name: Verify PMTiles reachable via Worker (range request + magic bytes)
+        if: inputs.dry_run != 'true'
+        run: |
+          WORKER_URL="https://wasatch-intel.cam-s-rigby.workers.dev/tiles/parcels.pmtiles"
+          echo "Verifying: ${WORKER_URL}"
+
+          HTTP_STATUS=$(curl -s -o /tmp/pmtiles_verify.bin -w "%{http_code}" \
+            -H "Range: bytes=0-127" "${WORKER_URL}")
+
+          if [ "${HTTP_STATUS}" != "206" ]; then
+            echo "ERROR: Expected HTTP 206 from Worker range request, got ${HTTP_STATUS}." >&2
+            echo "  Check R2 upload succeeded and Worker /tiles route is operational." >&2
+            exit 1
+          fi
+          echo "HTTP status: ${HTTP_STATUS} — OK"
+
+          # Assert PMTiles magic bytes: first 7 bytes must be ASCII "PMTiles"
+          python3 - << 'PYEOF'
+          import sys
+          with open("/tmp/pmtiles_verify.bin", "rb") as f:
+              magic = f.read(7)
+          expected = b"PMTiles"
+          if magic != expected:
+              print(f"ERROR: PMTiles magic bytes mismatch. Got {magic!r}, expected {expected!r}.", file=sys.stderr)
+              print("  The uploaded file may be corrupt or an error page was returned.", file=sys.stderr)
+              sys.exit(1)
+          print(f"PMTiles magic bytes PASSED: {magic}")
+          PYEOF
+
+          echo "Post-upload verification COMPLETE — HTTP 206 + PMTiles magic bytes confirmed."
 
       - name: Record build in cron_runs
         if: inputs.dry_run != 'true'
