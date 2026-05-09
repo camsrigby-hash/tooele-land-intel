@@ -87,14 +87,14 @@ jobs:
 
           DB = os.environ["D1_DB"]
           PAGE_SIZE = 50_000
-          COLS = [
-              "parcel_id", "corner_score", "aadt_score", "zoning_score",
-              "commute_corridor_score", "vacancy_class", "median_income",
-          ]
+          # parcel_records uses "id" as the PK; alias to parcel_id for build_parcels_ndjson.py join key
+          SELECT_COLS = "id AS parcel_id, corner_score, aadt_score, zoning_score, commute_corridor_score, vacancy_class, median_income"
+          CSV_COLS = ["parcel_id", "corner_score", "aadt_score", "zoning_score",
+                      "commute_corridor_score", "vacancy_class", "median_income"]
 
-          def query_page(db, cols, limit, offset, retries=3):
+          def query_page(db, select_cols, limit, offset, retries=3):
               sql = (
-                  f"SELECT {', '.join(cols)} FROM parcel_records "
+                  f"SELECT {select_cols} FROM parcel_records "
                   f"LIMIT {limit} OFFSET {offset}"
               )
               for attempt in range(1, retries + 1):
@@ -109,7 +109,7 @@ jobs:
                           return data[0].get("results", [])
                       return data.get("results", [])
                   print(f"  Attempt {attempt} failed (rc={result.returncode}); "
-                        f"stderr: {result.stderr[:200]}", file=sys.stderr)
+                        f"stdout: {result.stdout[:300]} | stderr: {result.stderr[:200]}", file=sys.stderr)
                   if attempt < retries:
                       time.sleep(10 * attempt)
               raise RuntimeError(f"D1 query failed after {retries} attempts at offset={offset}")
@@ -118,11 +118,11 @@ jobs:
           total = 0
           offset = 0
           with open(out_path, "w", newline="") as f:
-              writer = csv.DictWriter(f, fieldnames=COLS, extrasaction="ignore")
+              writer = csv.DictWriter(f, fieldnames=CSV_COLS, extrasaction="ignore")
               writer.writeheader()
               while True:
                   print(f"  Page offset={offset:,}...", flush=True)
-                  rows = query_page(DB, COLS, PAGE_SIZE, offset)
+                  rows = query_page(DB, SELECT_COLS, PAGE_SIZE, offset)
                   writer.writerows(rows)
                   total += len(rows)
                   print(f"  Wrote {len(rows):,} rows (running total: {total:,})", flush=True)
