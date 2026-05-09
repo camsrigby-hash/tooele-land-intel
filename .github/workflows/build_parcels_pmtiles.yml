@@ -188,7 +188,8 @@ jobs:
         run: |
           npx wrangler r2 object put "${R2_BUCKET}/${R2_KEY}" \
             --file /tmp/parcels.pmtiles \
-            --content-type application/octet-stream
+            --content-type application/octet-stream \
+            --remote
           echo "Uploaded to R2: ${R2_BUCKET}/${R2_KEY}"
 
       - name: Verify PMTiles reachable via Worker (range request + magic bytes)
