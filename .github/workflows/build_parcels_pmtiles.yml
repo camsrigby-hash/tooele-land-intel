@@ -1,0 +1,185 @@
+name: Build parcels PMTiles
+
+# Phase 14-4 — workflow_dispatch only (no cron). Produces parcels.pmtiles in
+# R2 bucket wasatch-intel-tiles from polygon CSVs + D1 enrichment attributes.
+#
+# REQUIRED SECRETS (add to tooele-land-intel Settings → Secrets → Actions;
+# use the same values as the matching secrets in wasatch-intel):
+#   CLOUDFLARE_API_TOKEN
+#   CLOUDFLARE_ACCOUNT_ID
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run — build NDJSON only, skip tippecanoe + R2 upload"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build-pmtiles:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      D1_DB: wasatch-intel-db
+      R2_BUCKET: wasatch-intel-tiles
+      R2_KEY: parcels.pmtiles
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install wrangler
+        run: npm install -g wrangler
+
+      - name: Install tippecanoe
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y tippecanoe
+          tippecanoe --version
+
+      - name: Download salt_lake parcel CSV from large-parcels release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f data/raw/parcels_salt_lake.csv.gz ]; then
+            echo "Downloading parcels_salt_lake.csv.gz from large-parcels release..."
+            gh release download large-parcels \
+              --repo "${{ github.repository }}" \
+              --pattern parcels_salt_lake.csv.gz \
+              --dir data/raw \
+              --clobber
+          else
+            echo "parcels_salt_lake.csv.gz already present in checkout"
+          fi
+          ls -lh data/raw/parcels_salt_lake.csv.gz
+
+      - name: Export D1 parcel attributes to CSV (paginated)
+        run: |
+          python3 - << 'PYEOF'
+          import csv, json, os, subprocess, sys, time
+
+          DB = os.environ["D1_DB"]
+          PAGE_SIZE = 50_000
+          COLS = [
+              "parcel_id", "corner_score", "aadt_score", "zoning_score",
+              "commute_corridor_score", "vacancy_class", "median_income",
+          ]
+
+          def query_page(db, cols, limit, offset, retries=3):
+              sql = (
+                  f"SELECT {', '.join(cols)} FROM parcel_records "
+                  f"LIMIT {limit} OFFSET {offset}"
+              )
+              for attempt in range(1, retries + 1):
+                  result = subprocess.run(
+                      ["npx", "wrangler", "d1", "execute", db,
+                       "--remote", "--json", "--command", sql],
+                      capture_output=True, text=True,
+                  )
+                  if result.returncode == 0:
+                      data = json.loads(result.stdout)
+                      if isinstance(data, list):
+                          return data[0].get("results", [])
+                      return data.get("results", [])
+                  print(f"  Attempt {attempt} failed (rc={result.returncode}); "
+                        f"stderr: {result.stderr[:200]}", file=sys.stderr)
+                  if attempt < retries:
+                      time.sleep(10 * attempt)
+              raise RuntimeError(f"D1 query failed after {retries} attempts at offset={offset}")
+
+          out_path = "/tmp/d1_parcel_attrs.csv"
+          total = 0
+          offset = 0
+          with open(out_path, "w", newline="") as f:
+              writer = csv.DictWriter(f, fieldnames=COLS, extrasaction="ignore")
+              writer.writeheader()
+              while True:
+                  print(f"  Page offset={offset:,}...", flush=True)
+                  rows = query_page(DB, COLS, PAGE_SIZE, offset)
+                  writer.writerows(rows)
+                  total += len(rows)
+                  print(f"  Wrote {len(rows):,} rows (running total: {total:,})", flush=True)
+                  if len(rows) < PAGE_SIZE:
+                      break
+                  offset += PAGE_SIZE
+                  time.sleep(2)  # gentle rate-limit buffer between pages
+
+          print(f"\nD1 export complete: {total:,} rows → {out_path}")
+          PYEOF
+
+      - name: Build parcel NDJSON
+        run: |
+          python3 scripts/build_parcels_ndjson.py \
+            --d1-export /tmp/d1_parcel_attrs.csv \
+            --raw-dir data/raw \
+            --large-parcels-dir data/raw \
+            --output /tmp/parcels.ndjson \
+            --stats
+          FEATURES=$(wc -l < /tmp/parcels.ndjson)
+          echo "FEATURE_COUNT=${FEATURES}" >> "$GITHUB_ENV"
+          echo "NDJSON: $(du -sh /tmp/parcels.ndjson | cut -f1), ${FEATURES} features"
+
+      - name: Run tippecanoe
+        if: inputs.dry_run != 'true'
+        run: |
+          tippecanoe \
+            --output /tmp/parcels.pmtiles \
+            --layer parcels \
+            --minimum-zoom 6 \
+            --maximum-zoom 14 \
+            --drop-densest-as-needed \
+            --extend-zooms-if-still-dropping \
+            --force \
+            /tmp/parcels.ndjson
+          PMTILES_SIZE=$(du -sh /tmp/parcels.pmtiles | cut -f1)
+          echo "PMTILES_SIZE=${PMTILES_SIZE}" >> "$GITHUB_ENV"
+          echo "parcels.pmtiles: ${PMTILES_SIZE}"
+
+      - name: Upload parcels.pmtiles to R2
+        if: inputs.dry_run != 'true'
+        run: |
+          npx wrangler r2 object put "${R2_BUCKET}/${R2_KEY}" \
+            --file /tmp/parcels.pmtiles \
+            --content-type application/octet-stream
+          echo "Uploaded to R2: ${R2_BUCKET}/${R2_KEY}"
+
+      - name: Record build in cron_runs
+        if: inputs.dry_run != 'true'
+        run: |
+          NOW="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          RUN_ID="pmtiles-$(date -u +%s)"
+          npx wrangler d1 execute "${D1_DB}" --remote --command \
+            "INSERT OR IGNORE INTO cron_runs (id, workflow_name, ran_at, status, items_processed, notes) VALUES ('${RUN_ID}', 'build_parcels_pmtiles', '${NOW}', 'success', ${FEATURE_COUNT:-0}, 'pmtiles_size=${PMTILES_SIZE:-unknown}');"
+
+      - name: Upload NDJSON artifact (3-day retention)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: parcels-ndjson-${{ github.run_id }}
+          path: /tmp/parcels.ndjson
+          retention-days: 3
