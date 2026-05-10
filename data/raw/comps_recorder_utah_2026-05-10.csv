@@ -1,0 +1,22 @@
+address,sale_date,sale_price,price_per_acre,acres,zoning_class,source,link,scraped_at
+"653 S 500 E, Payson, Utah County, UT",2026-01-01,76200,112923.02,0.674796,Unknown,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=81310027,2026-05-10T02:29:20+00:00
+"Payson, Utah County, UT",2026-01-01,291000,551964.31,0.527208,Commercial,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=81390018,2026-05-10T02:29:20+00:00
+"Utah County, UT",2026-01-01,71900,6031.88,11.92,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100140001,2026-05-10T02:29:20+00:00
+"Utah County, UT",2026-01-01,7500,3424.66,2.19,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100140004,2026-05-10T02:29:20+00:00
+"Utah County, UT",2026-01-01,33900,6266.17,5.41,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100140005,2026-05-10T02:29:20+00:00
+"Goshen, Utah County, UT",2026-01-01,58500,31600.7,1.851225,Unknown,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100050055,2026-05-10T02:29:20+00:00
+"Utah County, UT",2026-01-01,170600,5771.31,29.56,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100140007,2026-05-10T02:29:20+00:00
+"Fairfield, Utah County, UT",2026-01-01,71800,12904.14,5.564105,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100490017,2026-05-10T02:29:20+00:00
+"Cedar Fort, Utah County, UT",2026-01-01,20000,33333.33,0.6,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100220003,2026-05-10T02:29:20+00:00
+"120 E MAIN ST, Santaquin, Utah County, UT",2026-01-01,376500,660082.79,0.570383,Commercial,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=90890021,2026-05-10T02:29:20+00:00
+"Salem, Utah County, UT",2026-01-01,800700,456916.75,1.752398,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=90510010,2026-05-10T02:29:20+00:00
+"Santaquin, Utah County, UT",2026-01-01,548400,580302.72,0.945024,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=90690044,2026-05-10T02:29:20+00:00
+"Goshen, Utah County, UT",2026-01-01,107200,107200.0,1.0,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100050025,2026-05-10T02:29:20+00:00
+"Goshen, Utah County, UT",2026-01-01,348700,76301.97,4.57,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100050026,2026-05-10T02:29:20+00:00
+"Draper, Utah County, UT",2026-01-01,2403400,21860.78,109.941202,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=110080012,2026-05-10T02:29:20+00:00
+"Goshen, Utah County, UT",2026-01-01,148100,181214.39,0.817264,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100070013,2026-05-10T02:29:20+00:00
+"Utah County, UT",2026-01-01,56300,6104.97,9.222,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100140008,2026-05-10T02:29:20+00:00
+"Cedar Fort, Utah County, UT",2026-01-01,60400,33186.81,1.82,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100150003,2026-05-10T02:29:20+00:00
+"Cedar Fort, Utah County, UT",2026-01-01,47800,33194.44,1.44,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100190003,2026-05-10T02:29:20+00:00
+"Lehi, Utah County, UT",2026-01-01,3731500,185004.15,20.169818,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=110300155,2026-05-10T02:29:20+00:00
+"Cedar Fort, Utah County, UT",2026-01-01,37600,33172.88,1.133456,Vacant,ugrc_lir_assessor_fallback:utah,https://www.utahcounty.gov/landrecords/property.asp?av_serial=100180003,2026-05-10T02:29:20+00:00
