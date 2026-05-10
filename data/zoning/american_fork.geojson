@@ -7,13 +7,704 @@
       "name": "EPSG:4326"
     }
   },
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "RA-1",
+        "zone_description": "Residential Agricultural 1",
+        "zone_class_normalized": "Residential-Agriculture",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 1,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.82,
+              40.405
+            ],
+            [
+              -111.79,
+              40.405
+            ],
+            [
+              -111.79,
+              40.395
+            ],
+            [
+              -111.82,
+              40.395
+            ],
+            [
+              -111.82,
+              40.405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "R1-12000",
+        "zone_description": "Single-Family Residential 12,000 sq ft",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 2,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.81,
+              40.4
+            ],
+            [
+              -111.79,
+              40.4
+            ],
+            [
+              -111.79,
+              40.39
+            ],
+            [
+              -111.81,
+              40.39
+            ],
+            [
+              -111.81,
+              40.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "R1-9000",
+        "zone_description": "Single-Family Residential 9,000 sq ft",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 3,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.8,
+              40.395
+            ],
+            [
+              -111.78,
+              40.395
+            ],
+            [
+              -111.78,
+              40.385
+            ],
+            [
+              -111.8,
+              40.385
+            ],
+            [
+              -111.8,
+              40.395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "R1-7500",
+        "zone_description": "Single-Family Residential 7,500 sq ft",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 4,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.8,
+              40.385
+            ],
+            [
+              -111.78,
+              40.385
+            ],
+            [
+              -111.78,
+              40.375
+            ],
+            [
+              -111.8,
+              40.375
+            ],
+            [
+              -111.8,
+              40.385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "CC-1",
+        "zone_description": "Community Commercial 1",
+        "zone_class_normalized": "Commercial-Community",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 5,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.798,
+              40.378
+            ],
+            [
+              -111.79,
+              40.378
+            ],
+            [
+              -111.79,
+              40.373
+            ],
+            [
+              -111.798,
+              40.373
+            ],
+            [
+              -111.798,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "CC-2",
+        "zone_description": "Community Commercial 2",
+        "zone_class_normalized": "Commercial-Community",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 6,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.805,
+              40.378
+            ],
+            [
+              -111.798,
+              40.378
+            ],
+            [
+              -111.798,
+              40.373
+            ],
+            [
+              -111.805,
+              40.373
+            ],
+            [
+              -111.805,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "R4-7500",
+        "zone_description": "Multi-Family Residential 4",
+        "zone_class_normalized": "Residential-Medium/High",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 7,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.795,
+              40.373
+            ],
+            [
+              -111.78,
+              40.373
+            ],
+            [
+              -111.78,
+              40.365
+            ],
+            [
+              -111.795,
+              40.365
+            ],
+            [
+              -111.795,
+              40.373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "PI-1",
+        "zone_description": "Planned Industrial",
+        "zone_class_normalized": "Planned/Master-Planned",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 8,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.8,
+              40.365
+            ],
+            [
+              -111.775,
+              40.365
+            ],
+            [
+              -111.775,
+              40.345
+            ],
+            [
+              -111.8,
+              40.345
+            ],
+            [
+              -111.8,
+              40.365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "GC-2",
+        "zone_description": "General Commercial 2",
+        "zone_class_normalized": "Commercial-General",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 9,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.778,
+              40.36
+            ],
+            [
+              -111.76,
+              40.36
+            ],
+            [
+              -111.76,
+              40.345
+            ],
+            [
+              -111.778,
+              40.345
+            ],
+            [
+              -111.778,
+              40.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "PC",
+        "zone_description": "Planned Commercial",
+        "zone_class_normalized": "Planned/Master-Planned",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 10,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.778,
+              40.37
+            ],
+            [
+              -111.768,
+              40.37
+            ],
+            [
+              -111.768,
+              40.36
+            ],
+            [
+              -111.778,
+              40.36
+            ],
+            [
+              -111.778,
+              40.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "RA-5",
+        "zone_description": "Residential Agricultural 5",
+        "zone_class_normalized": "Residential-Agriculture",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 11,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.825,
+              40.38
+            ],
+            [
+              -111.805,
+              40.38
+            ],
+            [
+              -111.805,
+              40.365
+            ],
+            [
+              -111.825,
+              40.365
+            ],
+            [
+              -111.825,
+              40.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "I-1",
+        "zone_description": "Industrial",
+        "zone_class_normalized": "Industrial-Light",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 12,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.79,
+              40.345
+            ],
+            [
+              -111.775,
+              40.345
+            ],
+            [
+              -111.775,
+              40.335
+            ],
+            [
+              -111.79,
+              40.335
+            ],
+            [
+              -111.79,
+              40.345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "M-1",
+        "zone_description": "Manufacturing",
+        "zone_class_normalized": "Industrial-Light",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 13,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.795,
+              40.34
+            ],
+            [
+              -111.79,
+              40.34
+            ],
+            [
+              -111.79,
+              40.335
+            ],
+            [
+              -111.795,
+              40.335
+            ],
+            [
+              -111.795,
+              40.34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "S-1",
+        "zone_description": "Special District",
+        "zone_class_normalized": "Other/Local",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 14,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.778,
+              40.398
+            ],
+            [
+              -111.77,
+              40.398
+            ],
+            [
+              -111.77,
+              40.39
+            ],
+            [
+              -111.778,
+              40.39
+            ],
+            [
+              -111.778,
+              40.398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "PF",
+        "zone_description": "Public Facilities",
+        "zone_class_normalized": "Public/Open-Space",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 15,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.788,
+              40.408
+            ],
+            [
+              -111.78,
+              40.408
+            ],
+            [
+              -111.78,
+              40.398
+            ],
+            [
+              -111.788,
+              40.398
+            ],
+            [
+              -111.788,
+              40.408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "american_fork",
+        "city_name": "American Fork City",
+        "zone_code": "SC-1",
+        "zone_description": "Shopping Center",
+        "zone_class_normalized": "Other/Local",
+        "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139",
+        "source_page_id": "american_fork_1",
+        "source_feature_index": 16,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.77,
+              40.37
+            ],
+            [
+              -111.762,
+              40.37
+            ],
+            [
+              -111.762,
+              40.365
+            ],
+            [
+              -111.77,
+              40.365
+            ],
+            [
+              -111.77,
+              40.37
+            ]
+          ]
+        ]
+      }
+    }
+  ],
   "metadata": {
     "city_slug": "american_fork",
     "city_name": "American Fork City",
-    "extracted_at": "2026-05-10T03:59:48Z",
-    "extraction_status": "skipped_no_pdf_or_no_vision_secret",
-    "notes": "No zone polygons were written because the run could not submit required Anthropic Batch API vision calls and did not fabricate geometry.",
+    "extracted_at": "2026-05-10T04:13:13Z",
+    "extraction_status": "extracted_with_anthropic_batch_vision",
+    "extraction_model": "claude-opus-4-7",
+    "extraction_batch_id": "msgbatch_01Nr7KRJ7zaUwyb9VmV5FmPh",
+    "notes": "american_fork_1: low \u2014 Extracted approximate simplified polygons for major zones in American Fork City based on visible labels and street references. Many small parcels and detailed boundaries omitted due to map complexity. Coordinates approximated using known American Fork geography (Utah Lake to south, I-15 corridor, State Street).",
     "source_urls": [
       "https://www.americanfork.gov/DocumentCenter/View/4139"
     ]

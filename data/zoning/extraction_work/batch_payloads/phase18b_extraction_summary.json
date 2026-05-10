@@ -1,0 +1,258 @@
+{
+  "features_by_city": {
+    "grantsville": 16,
+    "erda": 0,
+    "tooele_city": 0,
+    "lehi": 8,
+    "saratoga_springs": 0,
+    "eagle_mountain": 0,
+    "south_jordan": 0,
+    "herriman": 0,
+    "bluffdale": 0,
+    "draper": 0,
+    "american_fork": 16,
+    "vineyard": 0,
+    "spanish_fork": 14
+  },
+  "unique_zones_by_city": {
+    "grantsville": [
+      "CD",
+      "CG",
+      "MD",
+      "MG",
+      "MG-EX",
+      "MU",
+      "PUD",
+      "R-1-12",
+      "R-1-21",
+      "R-1-8",
+      "RR-1"
+    ],
+    "erda": [],
+    "tooele_city": [],
+    "lehi": [
+      "A-5",
+      "C",
+      "MU",
+      "PC",
+      "R-1-8",
+      "RA-1",
+      "RC",
+      "T-M"
+    ],
+    "saratoga_springs": [],
+    "eagle_mountain": [],
+    "south_jordan": [],
+    "herriman": [],
+    "bluffdale": [],
+    "draper": [],
+    "american_fork": [
+      "CC-1",
+      "CC-2",
+      "GC-2",
+      "I-1",
+      "M-1",
+      "PC",
+      "PF",
+      "PI-1",
+      "R1-12000",
+      "R1-7500",
+      "R1-9000",
+      "R4-7500",
+      "RA-1",
+      "RA-5",
+      "S-1",
+      "SC-1"
+    ],
+    "vineyard": [],
+    "spanish_fork": [
+      "A-E",
+      "C-D",
+      "I-1",
+      "I-3",
+      "P-F",
+      "R-1-12",
+      "R-1-6",
+      "R-1-8",
+      "R-1-9",
+      "R-R"
+    ]
+  },
+  "legend_by_city": {
+    "spanish_fork": {
+      "A-E": "Exclusive Agriculture",
+      "BP": "Business Park",
+      "C-1": "Neighborhood Commercial",
+      "C-2": "General Commercial",
+      "C-D": "Downtown Commercial",
+      "C-O": "Commercial Office",
+      "I-1": "Light Industrial",
+      "I-2": "Medium Industrial",
+      "I-3": "Heavy Industrial",
+      "P-F": "Public Facilities",
+      "R-1-12": "Residential District",
+      "R-1-15": "Residential District",
+      "R-1-20": "Residential District",
+      "R-1-30": "Residential District",
+      "R-1-40": "Residential District",
+      "R-1-6": "Residential District",
+      "R-1-60": "Residential District",
+      "R-1-8": "Residential District",
+      "R-1-80": "Residential District",
+      "R-1-9": "Residential District",
+      "R-3": "Residential District",
+      "R-4": "Residential District",
+      "R-5": "Residential District",
+      "R-O": "Residential Office",
+      "R-R": "Rural Residential",
+      "S-C": "Shopping Center",
+      "UV-C": "Urban Village Commercial"
+    },
+    "lehi": {
+      "A-1": "Agricultural",
+      "A-5": "Agricultural",
+      "BP": "Business Park",
+      "C": "Commercial",
+      "C-I": "Commercial / Industrial",
+      "H/I": "Historical / Industrial",
+      "I": "Industrial",
+      "LI": "Light Industrial",
+      "MU": "Mixed Use Commercial/Residential",
+      "NC": "Neighborhood Commercial",
+      "PC": "Planned Community",
+      "PF": "Public Facilities",
+      "R-1-10": "Residential",
+      "R-1-12": "Residential",
+      "R-1-15": "Residential",
+      "R-1-22": "Residential / Agriculture",
+      "R-1-8": "Residential",
+      "R-2": "Medium Density Residential",
+      "R-3": "High Density Residential",
+      "RA-1": "Residential / Agriculture",
+      "RC": "Resort Community",
+      "T-M": "Technical Manufacturing",
+      "TH-5": "Transitional Holding"
+    },
+    "grantsville": {
+      "A-10": "Agricultural 10 acre",
+      "CD": "Downtown Commercial",
+      "CG": "General Commercial",
+      "CN": "Neighborhood Commercial",
+      "CS": "Shopping Commercial",
+      "MD": "Manufacturing Distribution",
+      "MG": "Manufacturing General",
+      "MG-EX": "Manufacturing General Extraction",
+      "MU": "Mixed Use",
+      "PUD": "Planned Unit Development",
+      "R-1-12": "Single-Family Residential 12,000 sf",
+      "R-1-21": "Single-Family Residential 21,000 sf",
+      "R-1-8": "Single-Family Residential 8,000 sf",
+      "RM-15": "Multi-Family Residential 15",
+      "RM-7": "Multi-Family Residential 7",
+      "RR-1": "Rural Residential 1 acre",
+      "RR-2.5": "Rural Residential 2.5 acre",
+      "RR-5": "Rural Residential 5 acre"
+    },
+    "american_fork": {
+      "CC-1": "Community Commercial 1",
+      "CC-2": "Community Commercial 2",
+      "GC-1": "General Commercial 1",
+      "GC-2": "General Commercial 2",
+      "I-1": "Industrial",
+      "M-1": "Manufacturing",
+      "PC": "Planned Commercial",
+      "PF": "Public Facilities",
+      "PI-1": "Planned Industrial",
+      "PO-1": "Professional Office",
+      "PR-2.3": "Planned Residential 2.3",
+      "PR-3.0": "Planned Residential 3.0",
+      "R1-12000": "Single-Family Residential 12,000 sq ft",
+      "R1-15000": "Single-Family Residential 15,000 sq ft",
+      "R1-20000": "Single-Family Residential 20,000 sq ft",
+      "R1-7500": "Single-Family Residential 7,500 sq ft",
+      "R1-9000": "Single-Family Residential 9,000 sq ft",
+      "R2-7500": "Two-Family Residential 7,500",
+      "R3-7500": "Multi-Family Residential 3",
+      "R4-7500": "Multi-Family Residential 4",
+      "RA-1": "Residential Agricultural 1",
+      "RA-5": "Residential Agricultural 5",
+      "S-1": "Special District",
+      "SC-1": "Shopping Center"
+    }
+  },
+  "page_notes": {
+    "spanish_fork": [
+      "spanish_fork_2: low \u2014 Map lacks coordinate grid and named street labels visible at this resolution. Provided coarse approximate polygons for the largest, most identifiable zone areas (I-1 industrial in NW, R-1-6 core, R-1-9/R-1-12 outer residential, R-R rural residential SW, I-3 heavy industrial SE) based on the city's known footprint around 40.115N, -111.65W. Smaller districts omitted to avoid invented geometry.",
+      "spanish_fork_1: low \u2014 Map lacks explicit coordinate grid; only approximate large-scale zone areas extracted based on Spanish Fork's known geography (centered near 40.115N, -111.654W). Many small parcels omitted due to inability to geographically place reliably."
+    ],
+    "lehi": [
+      "lehi_1: low \u2014 Lehi zoning map is highly complex with hundreds of small parcels. Extracted only large, clearly identifiable zone areas as simplified polygons based on approximate geographic placement using known Lehi landmarks (I-15, Utah Lake, Thanksgiving Point area). Many smaller zones omitted to avoid invented geometry."
+    ],
+    "grantsville": [
+      "grantsville_2: low \u2014 Map shows Deseret Peak area east/southeast of Grantsville. Extracted approximate large-area polygons for major zones (MG, CG, MU) where geographic placement could be inferred from named roads (Hwy 138, Erda Way, Sheep Ln, Hwy 112, Depot Boundary Rd). Smaller residential parcels and PUD overlays omitted due to insufficient georeferencing detail.",
+      "grantsville_1: low \u2014 Map shows Grantsville central area zoning. Extracted approximate generalized polygons for major zone areas based on Main St (HWY 138), Hwy 112, and rough city extents. Detail is highly simplified; many small parcels omitted.",
+      "grantsville_3: low \u2014 Flux Area zoning map northwest of Grantsville. Limited well-known street references for precise georeferencing; approximate simplified polygons provided for the dominant zones (MG north area, MU central, R-1-21 SE, PUD east) based on Hwy 138 / Lincoln Hwy alignment and Grantsville city location."
+    ],
+    "american_fork": [
+      "american_fork_1: low \u2014 Extracted approximate simplified polygons for major zones in American Fork City based on visible labels and street references. Many small parcels and detailed boundaries omitted due to map complexity. Coordinates approximated using known American Fork geography (Utah Lake to south, I-15 corridor, State Street)."
+    ]
+  },
+  "source_urls": {
+    "spanish_fork": [
+      "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Detailed_Letter.pdf",
+      "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Letter.pdf"
+    ],
+    "lehi": [
+      "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf"
+    ],
+    "grantsville": [
+      "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+      "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",
+      "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf"
+    ],
+    "american_fork": [
+      "https://www.americanfork.gov/DocumentCenter/View/4139"
+    ]
+  },
+  "qualities": {
+    "spanish_fork": [
+      "low",
+      "low"
+    ],
+    "lehi": [
+      "low"
+    ],
+    "grantsville": [
+      "low",
+      "low",
+      "low"
+    ],
+    "american_fork": [
+      "low"
+    ]
+  },
+  "rejected_features": 0,
+  "cost": {
+    "input_tokens": 27766,
+    "output_tokens": 13767,
+    "cost_usd": 0.7245,
+    "cost_formula": "Batch input $7.50/MTok + batch output $37.50/MTok"
+  },
+  "processed_pdf_cities": [
+    "american_fork",
+    "grantsville",
+    "lehi",
+    "spanish_fork"
+  ],
+  "skipped_cities": [
+    "bluffdale",
+    "draper",
+    "eagle_mountain",
+    "erda",
+    "herriman",
+    "saratoga_springs",
+    "south_jordan",
+    "tooele_city",
+    "vineyard"
+  ]
+}

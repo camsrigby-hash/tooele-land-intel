@@ -7,13 +7,360 @@
       "name": "EPSG:4326"
     }
   },
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "PC",
+        "zone_description": "Planned Community",
+        "zone_class_normalized": "Planned/Master-Planned",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 1,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.905,
+              40.445
+            ],
+            [
+              -111.87,
+              40.445
+            ],
+            [
+              -111.865,
+              40.43
+            ],
+            [
+              -111.895,
+              40.425
+            ],
+            [
+              -111.905,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "RC",
+        "zone_description": "Resort Community",
+        "zone_class_normalized": "Special/Employment",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 2,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.91,
+              40.425
+            ],
+            [
+              -111.88,
+              40.425
+            ],
+            [
+              -111.865,
+              40.405
+            ],
+            [
+              -111.895,
+              40.4
+            ],
+            [
+              -111.91,
+              40.425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "T-M",
+        "zone_description": "Technical Manufacturing",
+        "zone_class_normalized": "Special/Employment",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 3,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.82,
+              40.44
+            ],
+            [
+              -111.795,
+              40.44
+            ],
+            [
+              -111.795,
+              40.42
+            ],
+            [
+              -111.82,
+              40.42
+            ],
+            [
+              -111.82,
+              40.44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "A-5",
+        "zone_description": "Agricultural",
+        "zone_class_normalized": "Agriculture/Rural",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 4,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.91,
+              40.38
+            ],
+            [
+              -111.88,
+              40.38
+            ],
+            [
+              -111.88,
+              40.355
+            ],
+            [
+              -111.91,
+              40.355
+            ],
+            [
+              -111.91,
+              40.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "RA-1",
+        "zone_description": "Residential / Agriculture",
+        "zone_class_normalized": "Residential-Agriculture",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 5,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.86,
+              40.395
+            ],
+            [
+              -111.82,
+              40.395
+            ],
+            [
+              -111.82,
+              40.37
+            ],
+            [
+              -111.86,
+              40.37
+            ],
+            [
+              -111.86,
+              40.395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "R-1-8",
+        "zone_description": "Residential",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 6,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.83,
+              40.395
+            ],
+            [
+              -111.795,
+              40.395
+            ],
+            [
+              -111.795,
+              40.375
+            ],
+            [
+              -111.83,
+              40.375
+            ],
+            [
+              -111.83,
+              40.395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "MU",
+        "zone_description": "Mixed Use Commercial/Residential",
+        "zone_class_normalized": "Mixed-Use",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 7,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.86,
+              40.39
+            ],
+            [
+              -111.83,
+              40.39
+            ],
+            [
+              -111.825,
+              40.378
+            ],
+            [
+              -111.855,
+              40.38
+            ],
+            [
+              -111.86,
+              40.39
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "lehi",
+        "city_name": "Lehi City",
+        "zone_code": "C",
+        "zone_description": "Commercial",
+        "zone_class_normalized": "Commercial-General",
+        "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+        "source_page_id": "lehi_1",
+        "source_feature_index": 8,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.905,
+              40.42
+            ],
+            [
+              -111.875,
+              40.42
+            ],
+            [
+              -111.87,
+              40.405
+            ],
+            [
+              -111.9,
+              40.405
+            ],
+            [
+              -111.905,
+              40.42
+            ]
+          ]
+        ]
+      }
+    }
+  ],
   "metadata": {
     "city_slug": "lehi",
     "city_name": "Lehi City",
-    "extracted_at": "2026-05-10T03:59:48Z",
-    "extraction_status": "skipped_no_pdf_or_no_vision_secret",
-    "notes": "No zone polygons were written because the run could not submit required Anthropic Batch API vision calls and did not fabricate geometry.",
+    "extracted_at": "2026-05-10T04:13:13Z",
+    "extraction_status": "extracted_with_anthropic_batch_vision",
+    "extraction_model": "claude-opus-4-7",
+    "extraction_batch_id": "msgbatch_01Nr7KRJ7zaUwyb9VmV5FmPh",
+    "notes": "lehi_1: low \u2014 Lehi zoning map is highly complex with hundreds of small parcels. Extracted only large, clearly identifiable zone areas as simplified polygons based on approximate geographic placement using known Lehi landmarks (I-15, Utah Lake, Thanksgiving Point area). Many smaller zones omitted to avoid invented geometry.",
     "source_urls": [
       "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf"
     ]

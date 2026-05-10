@@ -7,13 +7,712 @@
       "name": "EPSG:4326"
     }
   },
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MG",
+        "zone_description": "Manufacturing General",
+        "zone_class_normalized": "Industrial-Medium",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_2",
+        "source_feature_index": 1,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.51,
+              40.625
+            ],
+            [
+              -112.47,
+              40.625
+            ],
+            [
+              -112.47,
+              40.66
+            ],
+            [
+              -112.51,
+              40.66
+            ],
+            [
+              -112.51,
+              40.625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "CG",
+        "zone_description": "Commercial General",
+        "zone_class_normalized": "Commercial-General",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_2",
+        "source_feature_index": 2,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.51,
+              40.595
+            ],
+            [
+              -112.475,
+              40.595
+            ],
+            [
+              -112.475,
+              40.625
+            ],
+            [
+              -112.51,
+              40.625
+            ],
+            [
+              -112.51,
+              40.595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MU",
+        "zone_description": "Mixed Use",
+        "zone_class_normalized": "Mixed-Use",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_2",
+        "source_feature_index": 3,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.555,
+              40.605
+            ],
+            [
+              -112.54,
+              40.605
+            ],
+            [
+              -112.54,
+              40.62
+            ],
+            [
+              -112.555,
+              40.62
+            ],
+            [
+              -112.555,
+              40.605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "R-1-8",
+        "zone_description": "Single Family Residential 8,000 sf",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 1,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.47,
+              40.598
+            ],
+            [
+              -112.455,
+              40.598
+            ],
+            [
+              -112.455,
+              40.604
+            ],
+            [
+              -112.47,
+              40.604
+            ],
+            [
+              -112.47,
+              40.598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "R-1-21",
+        "zone_description": "Single Family Residential 21,000 sf",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 2,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.49,
+              40.585
+            ],
+            [
+              -112.45,
+              40.585
+            ],
+            [
+              -112.45,
+              40.598
+            ],
+            [
+              -112.49,
+              40.598
+            ],
+            [
+              -112.49,
+              40.585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "R-1-12",
+        "zone_description": "Single Family Residential 12,000 sf",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 3,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.45,
+              40.598
+            ],
+            [
+              -112.435,
+              40.598
+            ],
+            [
+              -112.435,
+              40.608
+            ],
+            [
+              -112.45,
+              40.608
+            ],
+            [
+              -112.45,
+              40.598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "CD",
+        "zone_description": "Commercial Downtown",
+        "zone_class_normalized": "Commercial-General",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 4,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.47,
+              40.599
+            ],
+            [
+              -112.455,
+              40.599
+            ],
+            [
+              -112.455,
+              40.602
+            ],
+            [
+              -112.47,
+              40.602
+            ],
+            [
+              -112.47,
+              40.599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MD",
+        "zone_description": "Manufacturing Distribution",
+        "zone_class_normalized": "Industrial-Medium",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 5,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.495,
+              40.612
+            ],
+            [
+              -112.48,
+              40.612
+            ],
+            [
+              -112.48,
+              40.622
+            ],
+            [
+              -112.495,
+              40.622
+            ],
+            [
+              -112.495,
+              40.612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MG",
+        "zone_description": "Manufacturing General",
+        "zone_class_normalized": "Industrial-Medium",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 6,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.435,
+              40.615
+            ],
+            [
+              -112.42,
+              40.615
+            ],
+            [
+              -112.42,
+              40.622
+            ],
+            [
+              -112.435,
+              40.622
+            ],
+            [
+              -112.435,
+              40.615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MG-EX",
+        "zone_description": "Manufacturing General Extraction",
+        "zone_class_normalized": "Industrial-Heavy",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 7,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.49,
+              40.575
+            ],
+            [
+              -112.47,
+              40.575
+            ],
+            [
+              -112.47,
+              40.59
+            ],
+            [
+              -112.49,
+              40.59
+            ],
+            [
+              -112.49,
+              40.575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "RR-1",
+        "zone_description": "Rural Residential 1 acre",
+        "zone_class_normalized": "Residential-Rural",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_1",
+        "source_feature_index": 8,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.495,
+              40.595
+            ],
+            [
+              -112.488,
+              40.595
+            ],
+            [
+              -112.488,
+              40.605
+            ],
+            [
+              -112.495,
+              40.605
+            ],
+            [
+              -112.495,
+              40.595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MG",
+        "zone_description": "Manufacturing General",
+        "zone_class_normalized": "Industrial-Medium",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_3",
+        "source_feature_index": 1,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.52,
+              40.66
+            ],
+            [
+              -112.47,
+              40.66
+            ],
+            [
+              -112.47,
+              40.62
+            ],
+            [
+              -112.5,
+              40.605
+            ],
+            [
+              -112.52,
+              40.61
+            ],
+            [
+              -112.52,
+              40.66
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MU",
+        "zone_description": "Mixed Use",
+        "zone_class_normalized": "Mixed-Use",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_3",
+        "source_feature_index": 2,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.5,
+              40.605
+            ],
+            [
+              -112.45,
+              40.605
+            ],
+            [
+              -112.445,
+              40.58
+            ],
+            [
+              -112.49,
+              40.575
+            ],
+            [
+              -112.5,
+              40.59
+            ],
+            [
+              -112.5,
+              40.605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "R-1-21",
+        "zone_description": "Single-Family Residential 21,000 sf",
+        "zone_class_normalized": "Residential-Low",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_3",
+        "source_feature_index": 3,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.45,
+              40.605
+            ],
+            [
+              -112.42,
+              40.605
+            ],
+            [
+              -112.42,
+              40.58
+            ],
+            [
+              -112.445,
+              40.58
+            ],
+            [
+              -112.45,
+              40.605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "PUD",
+        "zone_description": "Planned Unit Development",
+        "zone_class_normalized": "Planned/Master-Planned",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_3",
+        "source_feature_index": 4,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.45,
+              40.625
+            ],
+            [
+              -112.43,
+              40.625
+            ],
+            [
+              -112.43,
+              40.605
+            ],
+            [
+              -112.45,
+              40.605
+            ],
+            [
+              -112.45,
+              40.625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_slug": "grantsville",
+        "city_name": "Grantsville City",
+        "zone_code": "MD",
+        "zone_description": "Manufacturing Distribution",
+        "zone_class_normalized": "Industrial-Medium",
+        "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+        "source_page_id": "grantsville_3",
+        "source_feature_index": 5,
+        "extraction_method": "anthropic_batch_vision_claude_opus_4_7",
+        "extraction_quality": "low",
+        "confidence": 0.25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.46,
+              40.62
+            ],
+            [
+              -112.45,
+              40.62
+            ],
+            [
+              -112.45,
+              40.605
+            ],
+            [
+              -112.46,
+              40.605
+            ],
+            [
+              -112.46,
+              40.62
+            ]
+          ]
+        ]
+      }
+    }
+  ],
   "metadata": {
     "city_slug": "grantsville",
     "city_name": "Grantsville City",
-    "extracted_at": "2026-05-10T03:59:48Z",
-    "extraction_status": "skipped_no_pdf_or_no_vision_secret",
-    "notes": "No zone polygons were written because the run could not submit required Anthropic Batch API vision calls and did not fabricate geometry.",
+    "extracted_at": "2026-05-10T04:13:13Z",
+    "extraction_status": "extracted_with_anthropic_batch_vision",
+    "extraction_model": "claude-opus-4-7",
+    "extraction_batch_id": "msgbatch_01Nr7KRJ7zaUwyb9VmV5FmPh",
+    "notes": "grantsville_2: low \u2014 Map shows Deseret Peak area east/southeast of Grantsville. Extracted approximate large-area polygons for major zones (MG, CG, MU) where geographic placement could be inferred from named roads (Hwy 138, Erda Way, Sheep Ln, Hwy 112, Depot Boundary Rd). Smaller residential parcels and PUD overlays omitted due to insufficient georeferencing detail. | grantsville_1: low \u2014 Map shows Grantsville central area zoning. Extracted approximate generalized polygons for major zone areas based on Main St (HWY 138), Hwy 112, and rough city extents. Detail is highly simplified; many small parcels omitted. | grantsville_3: low \u2014 Flux Area zoning map northwest of Grantsville. Limited well-known street references for precise georeferencing; approximate simplified polygons provided for the dominant zones (MG north area, MU central, R-1-21 SE, PUD east) based on Hwy 138 / Lincoln Hwy alignment and Grantsville city location.",
     "source_urls": [
       "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
       "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",

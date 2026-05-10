@@ -1,0 +1,51 @@
+[
+  {
+    "custom_id": "american_fork_american_fork_1",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/american_fork_1.jpg",
+    "city_slug": "american_fork",
+    "city_name": "American Fork City",
+    "source_pdf": "https://www.americanfork.gov/DocumentCenter/View/4139"
+  },
+  {
+    "custom_id": "grantsville_grantsville_1",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/grantsville_1.jpg",
+    "city_slug": "grantsville",
+    "city_name": "Grantsville City",
+    "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf"
+  },
+  {
+    "custom_id": "grantsville_grantsville_2",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/grantsville_2.jpg",
+    "city_slug": "grantsville",
+    "city_name": "Grantsville City",
+    "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf"
+  },
+  {
+    "custom_id": "grantsville_grantsville_3",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/grantsville_3.jpg",
+    "city_slug": "grantsville",
+    "city_name": "Grantsville City",
+    "source_pdf": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf"
+  },
+  {
+    "custom_id": "lehi_lehi_1",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/lehi_1.jpg",
+    "city_slug": "lehi",
+    "city_name": "Lehi City",
+    "source_pdf": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf"
+  },
+  {
+    "custom_id": "spanish_fork_spanish_fork_1",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/spanish_fork_1.jpg",
+    "city_slug": "spanish_fork",
+    "city_name": "Spanish Fork City",
+    "source_pdf": "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Detailed_Letter.pdf"
+  },
+  {
+    "custom_id": "spanish_fork_spanish_fork_2",
+    "image": "/home/ubuntu/tooele-land-intel/data/zoning/extraction_work/page_images/spanish_fork_2.jpg",
+    "city_slug": "spanish_fork",
+    "city_name": "Spanish Fork City",
+    "source_pdf": "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Letter.pdf"
+  }
+]

@@ -11,9 +11,11 @@
   "metadata": {
     "city_slug": "herriman",
     "city_name": "Herriman City",
-    "extracted_at": "2026-05-10T03:59:48Z",
-    "extraction_status": "skipped_no_pdf_or_no_vision_secret",
-    "notes": "No zone polygons were written because the run could not submit required Anthropic Batch API vision calls and did not fabricate geometry.",
+    "extracted_at": "2026-05-10T04:13:13Z",
+    "extraction_status": "skipped_no_official_pdf",
+    "extraction_model": "claude-opus-4-7",
+    "extraction_batch_id": null,
+    "notes": "GIS/search sources point to interactive zoning maps; no official zoning PDF found.",
     "source_urls": []
   }
 }
