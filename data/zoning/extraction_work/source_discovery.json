@@ -1,0 +1,130 @@
+[
+  {
+    "city_slug": "grantsville",
+    "page": "https://www.grantsvilleut.gov/departments/community___economic_development/zoning_map.php",
+    "source_url": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Central%20Area%20June%202025%20(1).pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/grantsville_1.pdf",
+    "downloaded": true,
+    "note": "ok bytes=777710 content_type=application/pdf"
+  },
+  {
+    "city_slug": "grantsville",
+    "page": "https://www.grantsvilleut.gov/departments/community___economic_development/zoning_map.php",
+    "source_url": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Deseret%20Peak%20Area%20June%202025%20(1).pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/grantsville_2.pdf",
+    "downloaded": true,
+    "note": "ok bytes=492473 content_type=application/pdf"
+  },
+  {
+    "city_slug": "grantsville",
+    "page": "https://www.grantsvilleut.gov/departments/community___economic_development/zoning_map.php",
+    "source_url": "https://cms9files.revize.com/grantsvilleut/Document_Center/Department/Community%20&%20Economic%20Development/Zoning%20Map/Zoning%20Map%20Flux%20Area%20June%202025%20(1).pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/grantsville_3.pdf",
+    "downloaded": true,
+    "note": "ok bytes=597022 content_type=application/pdf"
+  },
+  {
+    "city_slug": "lehi",
+    "page": "https://www.lehi-ut.gov/business-development/maps/",
+    "source_url": "https://www.lehi-ut.gov/media/ywqioi21/lehi_zoning1pdf.pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/lehi_1.pdf",
+    "downloaded": true,
+    "note": "ok bytes=1618229 content_type=application/pdf"
+  },
+  {
+    "city_slug": "spanish_fork",
+    "page": "https://www.spanishfork.gov/departments/community_development/planning/zoning.php",
+    "source_url": "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Detailed_Letter.pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/spanish_fork_1.pdf",
+    "downloaded": true,
+    "note": "ok bytes=2817762 content_type=application/pdf"
+  },
+  {
+    "city_slug": "spanish_fork",
+    "page": "https://www.spanishfork.gov/departments/community_development/planning/zoning.php",
+    "source_url": "https://www.spanishfork.gov/document_center/Public%20Works/Maps/Planning/Zoning_Letter.pdf",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/spanish_fork_2.pdf",
+    "downloaded": true,
+    "note": "ok bytes=1287134 content_type=application/pdf"
+  },
+  {
+    "city_slug": "american_fork",
+    "page": "https://www.americanfork.gov/276/Planning-Department",
+    "source_url": "https://www.americanfork.gov/DocumentCenter/View/4139",
+    "local_path": "/home/ubuntu/tooele-land-intel/data/zoning/source_pdfs/american_fork_1.pdf",
+    "downloaded": true,
+    "note": "ok bytes=719183 content_type=application/pdf"
+  },
+  {
+    "city_slug": "erda",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Official City Code and Maps page links Zoning Map to an ArcGIS webapp, not a PDF."
+  },
+  {
+    "city_slug": "saratoga_springs",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Planning and Mapping/GIS pages advertise interactive city maps; no official base-zoning PDF found in source discovery."
+  },
+  {
+    "city_slug": "eagle_mountain",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Planning/engineering pages and search results point to interactive ArcGIS zoning app/maps; no official base-zoning PDF found."
+  },
+  {
+    "city_slug": "south_jordan",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "FAQ states zoning is available through an interactive zoning map; no official zoning PDF found."
+  },
+  {
+    "city_slug": "herriman",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "GIS page/search results point to interactive zoning map; no official zoning PDF found."
+  },
+  {
+    "city_slug": "bluffdale",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Maps page and search results point to ArcGIS zoning web map and map-order page; no official zoning PDF found."
+  },
+  {
+    "city_slug": "draper",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Planning/development map collection is an ArcGIS Experience zoning map; no official zoning PDF found."
+  },
+  {
+    "city_slug": "tooele_city",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "City maps page found, but no downloadable official zoning map PDF found in source discovery; available sources appear to be interactive or code PDFs rather than the zoning map."
+  },
+  {
+    "city_slug": "vineyard",
+    "page": "",
+    "source_url": "",
+    "local_path": "",
+    "downloaded": false,
+    "note": "Planning page/search results point to public ArcGIS GIS maps and zoning feature layer; no official base-zoning PDF found."
+  }
+]

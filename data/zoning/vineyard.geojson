@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "name": "vineyard_zoning",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [],
+  "metadata": {
+    "city_slug": "vineyard",
+    "city_name": "Vineyard City",
+    "extracted_at": "2026-05-10T03:59:48Z",
+    "extraction_status": "skipped_no_pdf_or_no_vision_secret",
+    "notes": "No zone polygons were written because the run could not submit required Anthropic Batch API vision calls and did not fabricate geometry.",
+    "source_urls": []
+  }
+}
