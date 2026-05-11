@@ -35,3 +35,4 @@ timestamp,script,model,input_tokens,output_tokens,cost_usd,items
 2026-05-10,correlate_signals,claude-haiku-4-5-20251001,5,2691,369,0.004536
 2026-05-11T17:43:35.353762+00:00,split_agenda_items,claude-haiku-4-5-20251001,278426,91025,0.733551,295
 2026-05-11T17:44:01.222533+00:00,weekly_digest,claude-opus-4-7,17014,1907,0.398235,163
+2026-05-11T17:52:14.679842+00:00,geocode_items,claude-haiku-4-5-20251001,6000,1500,0.0108,30
