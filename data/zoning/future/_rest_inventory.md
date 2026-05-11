@@ -1,5 +1,7 @@
 # Phase 18b-2a REST Future Land Use Inventory
 
+**extraction_date: 2026-05-11**
+
 This inventory records the REST-only future land use and general plan layer checks performed for the Phase 18b-2a extraction. Each extracted layer was queried through public ArcGIS REST, requested with `outSR=4326`, and normalized to the required property schema: `city_slug`, `city_name`, `gp_zone_code`, `gp_zone_description`, `jurisdiction`, `source_rest_url`, `extraction_method='arcgis_rest'`, and `confidence='rest_api'`.
 
 | City | REST status | Output | Feature count | Source layer |
