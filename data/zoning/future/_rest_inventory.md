@@ -12,6 +12,7 @@ This inventory records the REST-only future land use and general plan layer chec
 | Saratoga Springs | Found and extracted | `saratoga_springs_gp.geojson` | 217 | `https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/NLS_LandUseService/FeatureServer/0` |
 | American Fork | Found and extracted | `american_fork_gp.geojson` | 97 | `https://maps.afcity.org/arcgis/rest/services/Planning/Land_Use2/MapServer/0` |
 | Tooele City | Found and extracted | `tooele_city_gp.geojson` | 63 | `https://services3.arcgis.com/3PP5uLqByhZNekjG/arcgis/rest/services/LandUse/FeatureServer/0` |
+| Vineyard | Found and extracted | `vineyard_gp.geojson` | 36 | `https://services.arcgis.com/QdlehUncXjEmQYtI/arcgis/rest/services/Vineyard_Future_Land_Use_View/FeatureServer/0` |
 | Draper | No FLU REST layer found | None | 0 | PDF path |
 | Herriman | No queryable FLU REST layer found | None | 0 | PDF path |
 | Spanish Fork | No FLU REST layer found | None | 0 | PDF path |
@@ -35,6 +36,8 @@ This inventory records the REST-only future land use and general plan layer chec
 **Spanish Fork.** The sources `https://suvgis.spanishfork.org` and `https://www.spanishfork.gov/departments/public_works/download_map_data.php` were checked for public REST services or downloadable map-data references exposing a future land use/general plan polygon layer. No distinct public ArcGIS REST FLU layer was found during this REST-only pass, and current zoning was excluded. Spanish Fork remains on the PDF/manual path.
 
 **Tooele City.** The requested web application `https://tooelecitygis.maps.arcgis.com/apps/webappviewer/index.html?id=ea1fc0fb757a454cae04dd1c36403c60` was inspected through its ArcGIS Online item data. Its backing web map `6f1f4e0c6694494fa8227d04a641784f` exposes separate `LandUse` and `Zoning` services, confirming that `https://services3.arcgis.com/3PP5uLqByhZNekjG/arcgis/rest/services/LandUse/FeatureServer/0` is a distinct future/general land use layer rather than current zoning. The layer includes `LandUseCod` and `LandUseTyp` fields and was extracted to `tooele_city_gp.geojson`.
+
+**Vineyard.** The Vineyard City Public GIS Maps ArcGIS Experience at `https://experience.arcgis.com/experience/5d675261cad649ffb85deee52dcbe1cb` links to a Future Land Use app at `https://experience.arcgis.com/experience/c9c09047fa384f1bba260166293aa2bb`. Inspecting the Experience runtime and backing ArcGIS Online web map `0ac67f56312849328696d12dac0c66b2` exposed the queryable polygon layer `https://services.arcgis.com/QdlehUncXjEmQYtI/arcgis/rest/services/Vineyard_Future_Land_Use_View/FeatureServer/0`, named **Vineyard Future Land Use**. The layer contains a `Land_Use` field with values such as University, Regional Commercial, Open Space, and Vineyard Commerce Center, and was extracted to `vineyard_gp.geojson`.
 
 ## Cities without a public FLU REST layer
 
