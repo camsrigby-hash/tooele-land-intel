@@ -1,5 +1,7 @@
 # Phase 18b-1 Current Zoning REST Inventory
 
+**extraction_date: 2026-05-11**
+
 This inventory records the official or city-linked ArcGIS REST current-zoning sources checked for the 13 active fallback jurisdictions from Phase 13b-5. Each exported GeoJSON feature uses `extraction_method: arcgis_rest` and `confidence: rest_api`; no PDF zoning extraction was attempted in this phase.
 
 **Erda (`erda_ut`).** Checked the official Erda codes and maps page at <https://erda.gov/city-codes-and-maps/>, whose zoning-map link opens the Tooele County GIS ArcGIS web app. A current-zoning polygon REST layer was found at <https://tcgisws.tooeleco.gov/server/rest/services/Zoning/MapServer/1>; the layer name is `Zoning_Erda`, and it exported 63 features to `erda_ut_zoning.geojson`. No major extraction issue was observed.
