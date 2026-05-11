@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-05-04T13:20:10.167730+00:00",
+  "scraped_at": "2026-05-11T17:20:52.231687+00:00",
   "notices": [
     {
       "notice_id": "1076953",
@@ -24,11 +24,25 @@
       "posted_on": "April 30, 2026 02:58 PM",
       "attachments": [
         {
+          "file_name": "pc.5-6-2026.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1429891.mp3",
+          "date_added": "2026/05/07 05:15 PM",
+          "file_id": "1429891"
+        },
+        {
           "file_name": "BoardDocs® LT.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1425967.pdf",
           "date_added": "2026/04/30 02:58 PM",
           "file_id": "1425967"
+        },
+        {
+          "file_name": "agenda.pc.5-6-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1429889.pdf",
+          "date_added": "2026/05/07 05:14 PM",
+          "file_id": "1429889"
         }
       ],
       "canceled": false
@@ -179,47 +193,6 @@
           "url": "https://www.utah.gov/pmn/files/1362471.pdf",
           "date_added": "2025/12/08 02:45 PM",
           "file_id": "1362471"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1034411",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1034411.html",
-      "title": "Spanish Fork City - Planning Commission",
-      "event_date": "November 5, 2025 06:00 PM",
-      "event_date_iso": "2025-11-05T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "SF Logo\r\nWednesday, November 5, 2025\r\nPlanning Commission\r\nPlanning Commission Agenda\r\nPUBLIC NOTICE is hereby given that the Planning Commission of Spanish Fork, Utah, will hold a meeting in the City Council Chambers at Library Hall, on the second floor, 80 South Main Street, Spanish Fork, Utah, with a work session commencing at 5:15 p.m., and the Planning Commission Meeting commencing at 6:00 p.m. on November 5, 2025.\r\nPlanning Commissioners\r\n\r\nTodd Mitchell\r\nShauna Warnick\r\nMichelle Carroll\r\nMichael Clayson\r\nPaul Dayton\r\nDave Woodhouse\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Planning Commission Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If you need special accommodation to participate in the meeting, please contact the Community Development Office at 801-804-4580.\r\n1. 5:15pm WORK SESSION - No formal actions are taken in a work session.\r\n2. 6:00 Agenda Items\r\n3. Minutes\r\nA. October 8, 2025.\r\n4. Zone Change & Preliminary Plat (Public Hearing)\r\nA. ELLIS PARK ZONE CHANGE. This proposal involves a request to change the zoning from R-R to R-1-9 with the Master Planned Development Overlay on a property located at 1113 West 100 South.\r\nB. ELLIS PARK. This proposal involves the approval of a Preliminary Plat for 24 single-family lots as part of a Master Planned Development located at 1113 West 100 South.\r\n5. Annexation Policy Plan (Public Hearing)\r\nA. AMENDED ANNEXATION POLICY PLAN ADOPTION. This proposal involves an amendment to the city's Annexation Policy Plan.\r\n6. Work Session (If Needed)\r\n7. Adjourn\r\nEnd",
-      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Kasey Woodard",
-      "contact_email": "kwoodard@spanishfork.org",
-      "posted_on": "November 03, 2025 08:12 AM",
-      "attachments": [
-        {
-          "file_name": "pc.11-5-2025.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1346349.mp3",
-          "date_added": "2025/11/06 08:46 AM",
-          "file_id": "1346349"
-        },
-        {
-          "file_name": "BoardDocs® LT.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1344295.pdf",
-          "date_added": "2025/11/03 08:12 AM",
-          "file_id": "1344295"
-        },
-        {
-          "file_name": "agenda.pc.11-5-2025.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1346347.pdf",
-          "date_added": "2025/11/06 08:46 AM",
-          "file_id": "1346347"
         }
       ],
       "canceled": false

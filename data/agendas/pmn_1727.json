@@ -4,8 +4,43 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-05-04T13:17:00.544396+00:00",
+  "scraped_at": "2026-05-11T17:17:40.612213+00:00",
   "notices": [
+    {
+      "notice_id": "1078547",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078547.html",
+      "title": "City Council Public Hearing - Notice of Tentative Budget",
+      "event_date": "May 19, 2026 06:00 PM",
+      "event_date_iso": "2026-05-19T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Notice of Public Hearing\r\n\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs Tentative Budget for Fiscal Year 2026-2027.\r\n\r\nThe hearing will be held on Tuesday, May 19, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located at 319 So. Saratoga Road, Saratoga Springs, Utah, 84045.\r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov.   \r\nQuestions and comments may be directed to the Finance Dept. 801-766-9793.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 06, 2026 06:42 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1078515",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078515.html",
+      "title": "Notice of Adoption of Ordinances",
+      "event_date": "May 5, 2026 09:00 PM",
+      "event_date_iso": "2026-05-05T21:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of May 5, 2026, passed and adopted the following Ordinances:\r\n\r\n-\tOrdinance 26-18 (05-05-26) Granting a nonexclusive franchise to operate an internet services telecommunications network in the city of Saratoga Springs.\r\n-\tOrdinance 26-19 (05-05-26) Approving Village Plan 8 for the Beacon Pointe Community.\r\n-\tOrdinance 26-21 (05-05-26) Adopting Amendments to Title 18 - Building and Construction Code, of the City of Saratoga Springs. \r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.\r\n\r\n\r\n\r\nThis notice has been posted on:\r\nThe Utah Public Notice Website,\r\nThe City of Saratoga Springs Website, and\r\nThe City of Saratoga Springs administration building notice board.\r\n\r\n\r\n\r\nDated: May 6, 2026\r\n/s/ Nicolette Fike, City Recorder",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 06, 2026 04:33 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1077383",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077383.html",
@@ -29,18 +64,18 @@
           "file_id": "1426617"
         },
         {
-          "file_name": "2026-05-05 cc packet.pdf",
+          "file_name": "2026-05-05 cc packet updated updated.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1426619.pdf",
-          "date_added": "2026/05/01 04:28 PM",
-          "file_id": "1426619"
+          "url": "https://www.utah.gov/pmn/files/1428113.pdf",
+          "date_added": "2026/05/05 02:22 PM",
+          "file_id": "1428113"
         },
         {
-          "file_name": "Proposed Property Tax Impact Schedule.pdf",
+          "file_name": "Updated Updated Proposed Property Tax Impact Schedule.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1426621.pdf",
-          "date_added": "2026/05/01 04:29 PM",
-          "file_id": "1426621"
+          "url": "https://www.utah.gov/pmn/files/1428115.pdf",
+          "date_added": "2026/05/05 02:22 PM",
+          "file_id": "1428115"
         }
       ],
       "canceled": false
@@ -60,6 +95,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "April 20, 2026 01:16 PM",
       "attachments": [
+        {
+          "file_name": "2026-04-22 cc approved minutes - workshop St. George.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1428971.pdf",
+          "date_added": "2026/05/06 03:37 PM",
+          "file_id": "1428971"
+        },
         {
           "file_name": "2026-04-22 cc agenda workshop.pdf",
           "category": "Public Information Handout",
@@ -103,6 +145,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "April 10, 2026 03:00 PM",
       "attachments": [
+        {
+          "file_name": "2026-04-14 cc approved minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1428967.pdf",
+          "date_added": "2026/05/06 03:36 PM",
+          "file_id": "1428967"
+        },
         {
           "file_name": "2026-04-14 cc packet.pdf",
           "category": "Public Information Handout",
@@ -187,62 +236,6 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "March 25, 2026 01:14 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1067529",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1067529.html",
-      "title": "City Council Meeting",
-      "event_date": "March 24, 2026 06:00 PM",
-      "event_date_iso": "2026-03-24T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA CITY OF SARATOGA SPRINGS\r\nTuesday, March 24, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPresentation: Miss Saratoga Springs Royalty.\r\n5.\tProclamation: Westlake High School Boys Basketball Day.\r\n6.\tReport: Valley Crossroads Chamber of Commerce Report. \r\n7.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tChange orders 1 - 8 for the Lakeshore Trail, Amanda Lane segment project with MC Contractors. \r\nResolution R26-15 (03-24-26). \r\n2.\tAward of Contract for the Saratoga Springs Pony Express Parkway Completion Project with CMT Technical Services. Resolution R26-16 (03-24-26).\r\n3.\tApproval of Minutes: March 03, 2026.\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tASD High School 722 General Plan Amendment from Planned Community and Low Density Residential to Institutional/Civic, Rezone from Planned Community and Agricultural to Institutional/Civic, and Development Agreement, with concept plan. Located approximately at the northwest corner of Ensign Drive and Mountain View Corridor. Frank Pulley of Alpine School District as applicant. Ordinance 26-12 (03-24-26).\r\n2.\tPreliminary Plat and Site plan for ASD High School 722. Located approximately at the Northwest corner of Ensign Drive and Mountain View Corridor. Frank Pulley, Alpine School District as applicant.\r\n3.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, chapters 19.02, 19.04, & 19.05 regarding Auto Repair and Car Wash Standards. City Initiated, Citywide. Ordinance 26-10 (03-24-26).\r\n4.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, chapters 19.02 & 19.05 regarding city-owned office trailers. City Initiated, Citywide. Ordinance 26-11 (03-24-26).\r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "March 19, 2026 02:17 PM",
-      "attachments": [
-        {
-          "file_name": "2026-03-24 cc approved minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1419129.pdf",
-          "date_added": "2026/04/15 05:10 PM",
-          "file_id": "1419129"
-        },
-        {
-          "file_name": "2026-03-24 cc agenda amended.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409187.pdf",
-          "date_added": "2026/03/23 04:43 PM",
-          "file_id": "1409187"
-        },
-        {
-          "file_name": "2026-03-24 cc packet Updated.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409189.pdf",
-          "date_added": "2026/03/23 04:43 PM",
-          "file_id": "1409189"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1063705",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1063705.html",
-      "title": "Notice of Ordinance",
-      "event_date": "March 4, 2026 11:42 AM",
-      "event_date_iso": "2026-03-04T11:42:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of March 3, 2026, passed and adopted the following Ordinances:\r\n\r\n-\tOrdinance 26-06 (03-03-26) Amending the Development Agreement for the Canyon Hollow Development.\r\n-\tOrdinance 26-08 (03-03-26) Amending Title 19 of the Saratoga Springs City Code regarding Home Occupations. \r\n-\tOrdinance 26-09 (03-03-26) Adopting Amendments to the Trails Element of the General Plan.\r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "March 04, 2026 11:43 AM",
       "attachments": [],
       "canceled": false
     }

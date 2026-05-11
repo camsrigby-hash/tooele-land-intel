@@ -4,12 +4,29 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-05-04T13:19:26.750185+00:00",
+  "scraped_at": "2026-05-11T17:20:08.553179+00:00",
   "notices": [
+    {
+      "notice_id": "1078299",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078299.html",
+      "title": "Planning Commission Agenda - Canceled",
+      "event_date": "May 20, 2026 06:30 PM",
+      "event_date_iso": "2026-05-20T18:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "CANCELED - AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA\r\n________________________________________\r\nRegular Session - Canceled\r\nMay 20, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________Planning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission regular session on May 20, 2026, has been canceled.\r\n\r\nDated this 6th day of May 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
+      "meeting_location": "51 East Main American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "May 06, 2026 09:32 AM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1074985",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074985.html",
-      "title": "Planning Commission Public Notice, Agenda and Packet",
+      "title": "Planning Commission Public Notice, Agenda and Amended Packet",
       "event_date": "May 6, 2026 06:30 PM",
       "event_date_iso": "2026-05-06T18:30:00",
       "notice_types": [
@@ -36,6 +53,13 @@
           "url": "https://www.utah.gov/pmn/files/1425921.pdf",
           "date_added": "2026/04/30 02:23 PM",
           "file_id": "1425921"
+        },
+        {
+          "file_name": "05.06.2026 Amended PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1427491.pdf",
+          "date_added": "2026/05/04 04:13 PM",
+          "file_id": "1427491"
         }
       ],
       "canceled": false
@@ -344,31 +368,6 @@
           "url": "https://www.utah.gov/pmn/files/1386229.pdf",
           "date_added": "2026/02/03 06:37 PM",
           "file_id": "1386229"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1055881",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1055881.html",
-      "title": "02.03.26 City Council/Planning Commission joint work session agenda",
-      "event_date": "February 3, 2026 04:00 PM",
-      "event_date_iso": "2026-02-03T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nAMERICAN FORK PLANNING COMMISSION\r\nFEBRUARY 3, 2026\r\n\t\tJOINT WORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a joint work session with the Planning Commission, on Tuesday, February 3, 2026, in the City Administration Conference Room, located at 51 East Main Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nJOINT WORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tDiscussion on the proposal for the city's polycentric plan.\r\n2.\tDiscussion on proposed amendments to the city's municipal code.\r\n3.\tDiscussion on the PARC Tax policies.\r\n4.\tAdjourn. \r\n\r\nDated the 30th day of January 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "January 30, 2026 10:51 AM",
-      "attachments": [
-        {
-          "file_name": "02.03.26 JWS Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1397071.pdf",
-          "date_added": "2026/02/26 08:32 AM",
-          "file_id": "1397071"
         }
       ],
       "canceled": false

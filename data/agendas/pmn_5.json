@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-05-04T13:20:02.780146+00:00",
+  "scraped_at": "2026-05-11T17:20:45.897835+00:00",
   "notices": [
     {
       "notice_id": "1077015",
@@ -21,7 +21,64 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "April 30, 2026 04:38 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "04 Adopted City Council Minutes 04-21-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1430163.pdf",
+          "date_added": "2026/05/08 11:16 AM",
+          "file_id": "1430163"
+        },
+        {
+          "file_name": "ORD Summary Public Notice Website.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430165.pdf",
+          "date_added": "2026/05/08 11:17 AM",
+          "file_id": "1430165"
+        },
+        {
+          "file_name": "New Year Budget Book - Dynamic.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430167.pdf",
+          "date_added": "2026/05/08 11:19 AM",
+          "file_id": "1430167"
+        },
+        {
+          "file_name": "presentation COMMUNITY DEVELOPMENT .citycouncil.5-5-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430169.pdf",
+          "date_added": "2026/05/08 11:20 AM",
+          "file_id": "1430169"
+        },
+        {
+          "file_name": "PRESENTATION FY2027 Tentative Budget Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430171.pdf",
+          "date_added": "2026/05/08 11:20 AM",
+          "file_id": "1430171"
+        },
+        {
+          "file_name": "PRESENTATION FY2027 Tentative Budget Worksession Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430173.pdf",
+          "date_added": "2026/05/08 11:20 AM",
+          "file_id": "1430173"
+        },
+        {
+          "file_name": "PRESENTATION May 5th CC-101.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430175.pdf",
+          "date_added": "2026/05/08 11:20 AM",
+          "file_id": "1430175"
+        },
+        {
+          "file_name": "PRESENTATION SFC Resident Opinion Survey 2025 (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430177.pdf",
+          "date_added": "2026/05/08 11:21 AM",
+          "file_id": "1430177"
+        }
+      ],
       "canceled": false
     },
     {
@@ -80,6 +137,34 @@
       "canceled": false
     },
     {
+      "notice_id": "1068225",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068225.html",
+      "title": "Spanish Fork City Council Public Notice",
+      "event_date": "April 7, 2026 06:00 PM",
+      "event_date_iso": "2026-04-07T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "Public Hearing Notice\r\nCity Council Meeting: April 6, 2026 at 6:00 p.m.\r\nLocation: Library Hall Council Chambers\r\n\r\n80 South Main Street\r\nSpanish Fork, Utah\r\n\r\nProposal: Disposition of up to 1.8 acres of City Property located at\r\napproximately 1172 South Bradford Lane, Spanish Fork. Being a portion ofUtah\r\nCounty Parcel #27:041:0035.\r\nFor more information contact: Travis Warren at 801.804.4557 or by email at\r\ntwarren@spanishfork.gov",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "March 23, 2026 02:58 PM",
+      "attachments": [
+        {
+          "file_name": "Disposition of Property - Property Located at ~ 1172 S Bradford Lane.docx (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1409081.pdf",
+          "date_added": "2026/03/23 02:57 PM",
+          "file_id": "1409081"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1070257",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070257.html",
       "title": "Spanish Fork City Council",
@@ -114,29 +199,27 @@
       "canceled": false
     },
     {
-      "notice_id": "1068225",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068225.html",
-      "title": "Spanish Fork City Council Public Notice",
-      "event_date": "April 7, 2026 06:00 PM",
-      "event_date_iso": "2026-04-07T18:00:00",
+      "notice_id": "1063127",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1063127.html",
+      "title": "Spanish Fork City Council Public Notice of a Public Hearing Disposition of City Property",
+      "event_date": "March 24, 2026 06:00 PM",
+      "event_date_iso": "2026-03-24T18:00:00",
       "notice_types": [
         "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
+        "Meeting"
       ],
-      "agenda_text": "Public Hearing Notice\r\nCity Council Meeting: April 6, 2026 at 6:00 p.m.\r\nLocation: Library Hall Council Chambers\r\n\r\n80 South Main Street\r\nSpanish Fork, Utah\r\n\r\nProposal: Disposition of up to 1.8 acres of City Property located at\r\napproximately 1172 South Bradford Lane, Spanish Fork. Being a portion ofUtah\r\nCounty Parcel #27:041:0035.\r\nFor more information contact: Travis Warren at 801.804.4557 or by email at\r\ntwarren@spanishfork.gov",
+      "agenda_text": "Public Hearing Notice\r\n\r\nCity Council Meeting: March 24, 2026 at 6:00 p.m.\r\n\r\nLocation:  Library Hall Council Chambers\r\n80 South Main Street\r\nSpanish Fork, Utah \r\n\r\nProposal: Disposition of up to 4.849 acres of City Property located at approximately 1300 S Main Street, Spanish Fork. Utah County Parcel #25:028:0111.\r\n\r\nFor more information contact: Tyler Jacobson at 801.804.4508 or by email at tjacobson@spanishfork.gov.",
       "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "March 23, 2026 02:58 PM",
+      "posted_on": "March 02, 2026 01:39 PM",
       "attachments": [
         {
-          "file_name": "Disposition of Property - Property Located at ~ 1172 S Bradford Lane.docx (1).pdf",
+          "file_name": "Disposition of Property - Property Located at ~ 1300 S Main Street .docx (1).pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409081.pdf",
-          "date_added": "2026/03/23 02:57 PM",
-          "file_id": "1409081"
+          "url": "https://www.utah.gov/pmn/files/1398653.pdf",
+          "date_added": "2026/03/02 01:39 PM",
+          "file_id": "1398653"
         }
       ],
       "canceled": false
@@ -192,32 +275,6 @@
           "url": "https://www.utah.gov/pmn/files/1412095.pdf",
           "date_added": "2026/03/31 11:52 AM",
           "file_id": "1412095"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1063127",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1063127.html",
-      "title": "Spanish Fork City Council Public Notice of a Public Hearing Disposition of City Property",
-      "event_date": "March 24, 2026 06:00 PM",
-      "event_date_iso": "2026-03-24T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "Public Hearing Notice\r\n\r\nCity Council Meeting: March 24, 2026 at 6:00 p.m.\r\n\r\nLocation:  Library Hall Council Chambers\r\n80 South Main Street\r\nSpanish Fork, Utah \r\n\r\nProposal: Disposition of up to 4.849 acres of City Property located at approximately 1300 S Main Street, Spanish Fork. Utah County Parcel #25:028:0111.\r\n\r\nFor more information contact: Tyler Jacobson at 801.804.4508 or by email at tjacobson@spanishfork.gov.",
-      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Tara Silver",
-      "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "March 02, 2026 01:39 PM",
-      "attachments": [
-        {
-          "file_name": "Disposition of Property - Property Located at ~ 1300 S Main Street .docx (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1398653.pdf",
-          "date_added": "2026/03/02 01:39 PM",
-          "file_id": "1398653"
         }
       ],
       "canceled": false

@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-05-04T13:19:14.642446+00:00",
+  "scraped_at": "2026-05-11T17:19:56.478782+00:00",
   "notices": [
     {
       "notice_id": "1076037",
@@ -28,6 +28,58 @@
           "url": "https://www.utah.gov/pmn/files/1424401.pdf",
           "date_added": "2026/04/27 05:51 PM",
           "file_id": "1424401"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1079261",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079261.html",
+      "title": "05.12.26 City Council agenda",
+      "event_date": "May 12, 2026 07:00 PM",
+      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMAY 12, 2026\r\n\t\tCITY COUNCIL AGENDA\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nThe American Fork City Council will hold a public hearing in conjunction with the regular session on Tuesday, May 12, 2026, in the American Fork City Hall, 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nPUBLIC HEARING\r\n1.\tReceive public comments on the declaration of real property at approximately 1000 North 700 West to be surplus and disposed of.\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation by Invitation; roll call. \r\n2.\tSwearing In of Tanner Ballamis as an American Fork Police Officer, \r\n3.\tSwearing In of Delton Choates as an American Fork Police Officer. \r\n4.\tTwenty-minute public comment period - limited to two minutes per person. \r\n5.\tCity Administrator's Report \r\n6.\tCouncil Reports \r\n7.\tMayor's Report \r\nCOMMON CONSENT AGENDA\r\n (Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the March 31, 2026, work session minutes. \r\n2.\tApproval of the April 14, 2026, city council minutes. \r\n3.\tApproval of the authorization to release the Improvements Construction Guarantee in the amount of $45,313.44 and issue a Notice of Acceptance for the Ragan Residence construction of public improvements located at 425 North 900 East. \r\n4.\tRatification of an agreement with Modern Display for the Royalty Float.\r\n5.\tRatification of city payments (April 8, 2026, to May 5, 2026) and approval of purchase requests over $50,000. \r\n\r\nSTATEMENTS\r\n1.\tThe Budget Officer intends to state that the tentative budget for fiscal year ending June 30, 2027, includes a proposed property tax rate increase.\r\n2.\tStatement of the Budget Officer that the tentative budget for fiscal year ending June 30, 2027, includes a proposed property tax rate increase and the city intends to adopt a tax rate that exceeds the certified tax rate.\r\n\r\n\r\n\r\nACTION ITEMS\r\n3.\tReview and action on a resolution adopting the fiscal year 2026-2027 American Fork property tax impact schedule.\r\n4.\tReview and action on a resolution adopting a tentative budget for American Fork City for fiscal year beginning July 1, 2026 and ending June 30, 2027 and setting June 9, 2026 as the date for public hearing to consider the tentative budget for adoption\r\n5.\tReview and action on a resolution stating the City Council's intent to consider a tax rate that exceeds the Certified Tax Rate and establishing a Truth-in-Taxation Public Hearing.\r\n6.\tReview and action on appointment of Ric Cantrell to the Historic Preservation Commission.\r\n7.\tReview and action on a resolution approving amendments to the General Fee Schedule for facility rentals.\r\n8.\tReview and action on an ordinance amending Section 5.06.010 of the American Fork City Code regarding the definition of special events.\r\n9.\tReview and cation on approval of a master services agreement with Sunrise Engineering for building inspection services.\r\n10.\tApproval to award a professional services agreement to Infrastructure Power Group for Street Light Repair, Construction, and Maintenance Services. \r\n11.\tConsideration and action to enter into a closed session to discuss the sale and/or purchase of real estate as described in Utah State Code 52-4-204 and 52-4-205. \r\n12.\tAdjournment. \r\n\r\nDated this 8th day of May 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
+      "meeting_location": "31 North Church Sstreet American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "May 08, 2026 04:19 PM",
+      "attachments": [
+        {
+          "file_name": "05.12.26 CC Agenda and packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1430619.pdf",
+          "date_added": "2026/05/08 04:19 PM",
+          "file_id": "1430619"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1077583",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077583.html",
+      "title": "05.12.26 Public Hearing - Chipman/Stake Center Annexation - CANCELLED",
+      "event_date": "May 12, 2026 07:00 PM",
+      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Public Hearing Notice - Chipman/Stake Center Annexation\r\nNotice is hereby given that a petition for annexation was filed with American Fork City. The petition, which was accepted by the city council on October 22, 2024, covers approximately 24 acres consisting of property located at approximately 515 South 100 West.  The city recorder certified the petition, and the legislative body provided notice according to Utah Code 10-2-406. A 30-day period was allowed to give property owners and affected entities the opportunity to submit written protests. A public hearing was previously held on February 25, 2025.\r\nA public hearing will be held on Tuesday, May 12, at 7 p.m. at the American Fork City Hall (31 N. Church Street) to allow the public to comment on the Chipman/Stake Center Annexation. After the public hearing, American Fork City may choose to deny or grant the petition and annex the area described in the petition. \r\nThe complete annexation petition is available for inspection and copying at the American Fork City Recorder's office (51 E. Main Street, American Fork) or by emailing tlurker@americanfork.gov\r\nDated this 30th day of April 2026.\r\n/s/ Terilyn Lurker, City Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "May 04, 2026 11:30 AM",
+      "attachments": [
+        {
+          "file_name": "7. Public Hearing Notice - Chipman Stake Center Annexation 05.12.26.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1426987.pdf",
+          "date_added": "2026/05/04 11:30 AM",
+          "file_id": "1426987"
         }
       ],
       "canceled": false
@@ -187,55 +239,6 @@
           "url": "https://www.utah.gov/pmn/files/1413811.pdf",
           "date_added": "2026/04/02 06:38 PM",
           "file_id": "1413811"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1064209",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064209.html",
-      "title": "03.24.26 Public Hearing - Surplus Property",
-      "event_date": "March 24, 2026 07:00 PM",
-      "event_date_iso": "2026-03-24T19:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 24, 2026\r\nPUBLIC HEARING\r\n\r\n\r\n\t\r\n\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, March 24, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the declaration of the following parcels to be surplus:\r\nAF Crossings Plat A-1 Parcel A-2, Parcel Number 34:797:0002 containing approximately 0.56 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-2 Parcel B-2, Parcel Number 34:798:0002 containing approximately 7.37 acres located in the vicinity of 700 West and 800 South. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nAF Crossings Plat A-3 Parcel C-2, Parcel Number  34:799:0002 containing approximately 0.56 acres located in the vicinity of 700 South 25 West. It is in the Public Facilities zone and is currently open space intended for a roadway corridor.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 5th day of March 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "March 05, 2026 07:01 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1067903",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1067903.html",
-      "title": "03.24.2026 City Council agenda",
-      "event_date": "March 24, 2026 07:00 PM",
-      "event_date_iso": "2026-03-24T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nMARCH 24, 2026\r\n\t\tCITY COUNCIL AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nThe American Fork City Council will hold a public hearing in conjunction with the regular session on Tuesday, March 24, 2026, in the American Fork City Hall, 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nPUBLIC HEARING\r\n1.\tReceiving public comment on the declaration of real property, consisting of approximately 8.5 acres and located at approximately 700 West and 800 South, as surplus.\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation by Council Member Taylor; roll call. \r\n2.\tTwenty-minute public comment period - limited to two minutes per person. \r\n3.\tCity Administrator's Report \r\n4.\tCouncil Reports \r\n5.\tMayor's Report \r\nCOMMON CONSENT AGENDA\r\n(Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the February 19 and 20, 2026, budget workshop minutes. \r\n2.\tApproval of the February 24, 2026, city council minutes. \r\n3.\tApproval of the March 3, 2026, work session minutes. \r\n4.\tApproval of the March 10, 2026, city council minutes. \r\n5.\tApproval of the authorization to release the Improvements Construction Guarantee in the amount of $153,761.00 and issue a Notice of Acceptance for the 43 North Apartments construction of public improvements located at 43 North 100 East. \r\n6.\tApproval of the authorization to release the Improvements Construction Guarantee and issue a Notice of Acceptance for the Holmes Gunther construction of public improvements located at 490 Mary Pulley Drive. \r\n7.\tReview of a Bond for EL GUERO ENVIOS LLC a Check Cashing Facility located at 222 E Main St in the CC-2 Central Commercial Zone. \r\n8.\tRatification of city payments (March 4, 2026, to March 17, 2026) and approval of purchase requests over $50,000. \r\nACTION ITEMS\r\n1.\tReview and action on approval of the authorization to release the Improvements Durability Retainer of $7,188.20 for American Fork Tower, located at 802 East 1050 South. \r\n2.\tReview and action on a resolution approving an application for a Land Use Map Amendment, known as Jasper Lot Land Use Map Amendment, located at 570 East Main Street. The Land Use Map Amendment is for 0.26 acres in the Residential High Density Land Use Designation and is proposed to change to the General Commercial Land Use Designation.\r\n3.\tReview and action on a resolution to accept the petition for annexation of the Buckwalter Meadow View Ranch 2 Annexation, consisting of approximately 96.409 acres at 1000 South 100 East.\r\n4.\tReview and action on a resolution regarding American Fork Irrigation shareholder discount agreements and long-term rental agreements.\r\n5.\tReview and action on acceptance of the withdrawal of application for the Julie Clark Annexation.\r\n6.\tReview and action on an ordinance amending Title 5 of the American Fork City Code related to business licenses, revising application requirements, fees, appeals, revocation procedures, and bonds.\r\n7.\tReview and action on a resolution declaring certain real property to be surplus property and authorizing the disposition of the property to the Utah Department of Transportation.\r\n8.\tReview and action on an agreement with Cedar Hills for public safety services.\r\n9.\tAdjournment. \r\n\r\nDated this 20th day of March 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003-2360 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "March 20, 2026 02:02 PM",
-      "attachments": [
-        {
-          "file_name": "03.24.26 CC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1418863.pdf",
-          "date_added": "2026/04/15 01:46 PM",
-          "file_id": "1418863"
-        },
-        {
-          "file_name": "03.24.26 CC Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1408407.pdf",
-          "date_added": "2026/03/20 02:02 PM",
-          "file_id": "1408407"
         }
       ],
       "canceled": false

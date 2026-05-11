@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-05-04T13:16:48.330871+00:00",
+  "scraped_at": "2026-05-11T17:17:28.248957+00:00",
   "notices": [
     {
       "notice_id": "1076755",
@@ -21,6 +21,24 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "April 30, 2026 09:44 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1078335",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078335.html",
+      "title": "Planning Commission Work Session Agenda",
+      "event_date": "May 7, 2026 05:30 PM",
+      "event_date_iso": "2026-05-07T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nMay 7, 2026\r\n\r\n5:30 PM - Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tDiscussion of creating an Environmental Sensitive Area (ESA) chapter in the Development Code\r\n\r\n3.\tCity Business\r\n\r\n4.\tAdjournment\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 06, 2026 10:06 AM",
       "attachments": [],
       "canceled": false
     },
@@ -164,24 +182,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "March 10, 2026 09:49 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062327",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062327.html",
-      "title": "Public Hearings Notice",
-      "event_date": "March 12, 2026 07:00 PM",
-      "event_date_iso": "2026-03-12T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn March 12, 2026, at 7:00 p.m. at the Lehi City Council Chambers located at 153 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Grow Development's request for review of the 1351 West 700 South Zone Change on 1.98 acres located at 1351 West 700 South changing the zoning from TH-5 (transitional holding) to RA-1 (residential/agriculture). \r\n\r\nPublic hearing and consideration of John Allred's request for approval of a conditional use for the conversion of an existing accessory building into a detached ADU located at 409 West 900 North. \r\n\r\nPublic hearing and recommendation of Perry Commercial's request for review of an amendment to the Traverse Mountain Area Plan moving units out of West Canyon and adding them to locations near Timpanogos Highway.   \r\n\r\nPublic hearing and recommendation of Windy City Development LLC's request for review of the Spring Meadow Villas (PUD) Concept, a 72-lot single family residential project located at 1630 South 500 East. \r\n\r\nPublic hearing and consideration of AWA Engineering's request for approval of a conditional use for a drive-thru for the Golden West Credit Union located at 520 West Main Street. \r\n\r\nPublic hearing and recommendation of X Development's request for review of a Development Code Amendment to Table 05.030-B and Chapter 39 adding a Flex Commercial Building use. \r\n\r\nPublic hearing and consideration of Kylene Pace's request for conditional use approval to keep horses on 2.5 acres of property located at 3154 North 4200 West. \r\n\r\nPublic hearing and consideration of Golden West Advertising's request for conditional use approval for two pylon signs for Smith's located at 3808 West Hardman Way. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table of Uses and to Chapter 12 to convert conditional uses to permitted uses based on preexisting supplementary requirements. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12 to require the buffering and screening requirements for existing residential homes in non-residential zones.",
-      "meeting_location": "153 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "February 26, 2026 09:23 AM",
       "attachments": [],
       "canceled": false
     }

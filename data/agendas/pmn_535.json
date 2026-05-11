@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-05-04T13:17:25.901215+00:00",
+  "scraped_at": "2026-05-11T17:18:05.813788+00:00",
   "notices": [
     {
       "notice_id": "1075503",
@@ -78,6 +78,13 @@
           "url": "https://www.utah.gov/pmn/files/1424159.pdf",
           "date_added": "2026/04/27 12:21 PM",
           "file_id": "1424159"
+        },
+        {
+          "file_name": "04.28.2026 - Budget Work Session Minutes - APPROVED.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1428801.pdf",
+          "date_added": "2026/05/06 01:32 PM",
+          "file_id": "1428801"
         }
       ],
       "canceled": false
@@ -128,31 +135,13 @@
           "url": "https://www.utah.gov/pmn/files/1421689.pdf",
           "date_added": "2026/04/21 09:37 AM",
           "file_id": "1421689"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1070967",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070967.html",
-      "title": "Public Hearing",
-      "event_date": "April 21, 2026 07:00 PM",
-      "event_date_iso": "2026-04-21T19:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on Tuesday, April 21, 2026 at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nLand Disposal Application - Chelsea Lindsey & Chad Vidinhar: \r\n\r\nIn accordance with EMMC 3.30, the Eagle Mountain City Council may hold a public hearing to consider the Land Disposal Application from Chelsea Lindsey and Chad Vidinhar to dispose of approximately 0.10 acres (approximately 4,200 square feet) of real public property, identified as a portion of Utah County Parcel #46:536:0430 located in the Meadow Ranch Subdivision. The City has designated this parcel as 'Significant Real Property'.\r\n\r\nEMC Staff Point of Contact: \r\nCity Recorder Lacie A. Messerly lmesserly@eaglemountain.gov. \r\n\r\n\r\n\r\nAll interested parties are invited to attend and provide comment. Written comments may also be submitted prior to the hearing to the City Recorder at recorder@eaglemountain.gov. or online using the Public Comment Form. Materials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1650 E Stagecoach Run Recorder's Office Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "April 06, 2026 05:01 PM",
-      "attachments": [
+        },
         {
-          "file_name": "CCPH 04.21.2026 - Disposal of Public Property - Lindsay, Chelsea.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1414737.pdf",
-          "date_added": "2026/04/06 05:01 PM",
-          "file_id": "1414737"
+          "file_name": "04.22.2026 - CC Stragetic Planning Retreat - APPROVED.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1428797.pdf",
+          "date_added": "2026/05/06 01:29 PM",
+          "file_id": "1428797"
         }
       ],
       "canceled": false
@@ -191,6 +180,31 @@
       "canceled": false
     },
     {
+      "notice_id": "1070967",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070967.html",
+      "title": "Public Hearing",
+      "event_date": "April 21, 2026 07:00 PM",
+      "event_date_iso": "2026-04-21T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on Tuesday, April 21, 2026 at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nLand Disposal Application - Chelsea Lindsey & Chad Vidinhar: \r\n\r\nIn accordance with EMMC 3.30, the Eagle Mountain City Council may hold a public hearing to consider the Land Disposal Application from Chelsea Lindsey and Chad Vidinhar to dispose of approximately 0.10 acres (approximately 4,200 square feet) of real public property, identified as a portion of Utah County Parcel #46:536:0430 located in the Meadow Ranch Subdivision. The City has designated this parcel as 'Significant Real Property'.\r\n\r\nEMC Staff Point of Contact: \r\nCity Recorder Lacie A. Messerly lmesserly@eaglemountain.gov. \r\n\r\n\r\n\r\nAll interested parties are invited to attend and provide comment. Written comments may also be submitted prior to the hearing to the City Recorder at recorder@eaglemountain.gov. or online using the Public Comment Form. Materials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
+      "meeting_location": "1650 E Stagecoach Run Recorder's Office Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "April 06, 2026 05:01 PM",
+      "attachments": [
+        {
+          "file_name": "CCPH 04.21.2026 - Disposal of Public Property - Lindsay, Chelsea.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1414737.pdf",
+          "date_added": "2026/04/06 05:01 PM",
+          "file_id": "1414737"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1073639",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073639.html",
       "title": "Public Meeting",
@@ -218,6 +232,13 @@
           "url": "https://www.utah.gov/pmn/files/1421399.pdf",
           "date_added": "2026/04/20 03:04 PM",
           "file_id": "1421399"
+        },
+        {
+          "file_name": "04.21.2026 - CC Minutes - APPROVED.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1428789.pdf",
+          "date_added": "2026/05/06 01:28 PM",
+          "file_id": "1428789"
         }
       ],
       "canceled": false

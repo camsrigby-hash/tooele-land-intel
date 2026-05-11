@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-05-04T13:16:11.544912+00:00",
+  "scraped_at": "2026-05-11T17:16:51.148870+00:00",
   "notices": [
     {
       "notice_id": "1077305",
@@ -97,6 +97,13 @@
           "file_id": "1419591"
         },
         {
+          "file_name": "4.15.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1431025.pdf",
+          "date_added": "2026/05/11 11:14 AM",
+          "file_id": "1431025"
+        },
+        {
           "file_name": "CC Agenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1416997.pdf",
@@ -135,6 +142,13 @@
           "url": "https://www.utah.gov/pmn/files/1419577.mp3",
           "date_added": "2026/04/16 01:07 PM",
           "file_id": "1419577"
+        },
+        {
+          "file_name": "4.15.26 WK Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1431019.pdf",
+          "date_added": "2026/05/11 11:13 AM",
+          "file_id": "1431019"
         },
         {
           "file_name": "WK Agenda.pdf",

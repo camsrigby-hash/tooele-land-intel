@@ -4,8 +4,35 @@
   "public_body": "City Council & Planning Commission",
   "body_id": "2803",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2803.html",
-  "scraped_at": "2026-05-04T13:18:37.978763+00:00",
+  "scraped_at": "2026-05-11T17:19:19.237353+00:00",
   "notices": [
+    {
+      "notice_id": "1078659",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078659.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "May 27, 2026 06:00 PM",
+      "event_date_iso": "2026-05-27T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public meeting will be held before the Bluffdale City Council on Wednesday, May 27, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible, for the purpose of receiving public comment on a proposed Text Amendment to Chapter 3.40 of the Bluffdale City Code to update the City's regulations on seasonal fireworks sales and to Section 11.180.020 of the Bluffdale City Code to allow outdoor fireworks sales as an allowed temporary use.\r\nJoee Witter, Applicant. Caitlyn Tubbs, Staff Presenter. (Application 2026-16)\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Fireworks' in the subject line of the email. Comments should be sent before 4:00 PM on May 27, 2026 to be provided to the City Council in advance of the meeting.\r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South\r\nBluffdale, UT 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
+      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "May 07, 2026 11:27 AM",
+      "attachments": [
+        {
+          "file_name": "Fireworks Sales Text Amendment_CC Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1429381.pdf",
+          "date_added": "2026/05/07 11:27 AM",
+          "file_id": "1429381"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1077009",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077009.html",

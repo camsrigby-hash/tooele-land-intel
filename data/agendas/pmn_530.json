@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-05-04T13:19:38.864812+00:00",
+  "scraped_at": "2026-05-11T17:20:20.868733+00:00",
   "notices": [
+    {
+      "notice_id": "1078885",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078885.html",
+      "title": "City Council Meeting",
+      "event_date": "May 12, 2026 06:00 PM",
+      "event_date_iso": "2026-05-12T18:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF TWO PUBLIC HEARINGS HELD DURING THE REGULAR\r\nCITY COUNCIL MEETING\r\nMay 12, 2026, at 6:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold two Public Hearings and a regularly scheduled City Council meeting on Tuesday, May 12, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\nPresiding Mayor Zack Stratton\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tPLEDGE OF ALLEGIANCE AND INVOCATION \r\n\r\n3.\tRECOGNITIONS, AWARDS, OR PROCLAMATIONS\r\n\r\n \t3.1.\tHunter Campbell and Tony Tienda, Environmental Utilities Operators\r\n \t \tThe City recognizes Hunter Campbell and Tyson Tienda, Water Operator 1, for earning their Grade 2 Water Operator Certification. This certification reflects expertise in water systems and qualifies them to operate, treat, and distribute water in large, complex municipal systems.\r\n\r\n \t3.2.\tBlaine Nielson, Public Works Technician\r\n \t \tThe city recognizes Blaine Nielson, Public Works Technician, for receiving his ISA (International Society of Arboriculture) Arborist certification. This certificate reflects his continued professional growth and recognizes his level of knowledge and skill in the art and science of arboriculture, encompassing areas such as tree biology, diagnosis, maintenance, and safety. \r\n\r\n4.\tCONFLICT OF INTEREST DISCLOSURE \r\n\r\n5.\tPUBLIC HEARING FOR THE CONSOLIDATED FEE SCHEDULE\r\n\r\n \t5.1.\tConsolidated Fee Schedule\r\n\r\n6.\tPUBLIC HEARING FOR THE TENTATIVE 2026-2027 FISCAL YEAR BUDGET\r\n\r\n \t6.1.\tTentative 2026-2027 Fiscal Year Budget\r\n\r\n7.\tCONSENT ITEMS\r\n\r\n \t7.1.\tApproval of the April 28, 2026, City Council Meeting Minutes\r\n\r\n \t7.2.\tApproval of the May 5, 2026, City Council Work Meeting Minutes\r\n\r\n \t7.3.\tApproval of Central Utah Water Conservancy District (CUWCD) CWP Water Supply Agreement and Takedown Schedule\r\n\r\n8.\tPUBLIC COMMENTS (3 MINUTES)\r\n \t'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to tonyl@vineyardutah.gov.\r\n\r\n9.\tGENERAL BUSINESS\r\n\r\n \t9.1.\tVineyard City's Floodplain Regulation Update (National Flood Insurance Program Compliance)\r\n \t \tVineyard City is proposing updates to its floodplain management regulations by ordinance to maintain compliance with the National Flood Insurance Program (NFIP) following updated flood hazard determinations issued by the Federal Emergency Management Agency (FEMA).\r\n\r\n10.\tACTION ITEMS\r\n\r\n \t10.1.\tApprove Updated Consolidated Fee Schedule\r\n \t \t\r\n\r\n11.\tCOMMUNICATION \r\n\r\n12.\tADJOURNMENT",
+      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "May 07, 2026 05:06 PM",
+      "attachments": [
+        {
+          "file_name": "5.12.2026 CC Packet (2).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1429873.pdf",
+          "date_added": "2026/05/07 05:06 PM",
+          "file_id": "1429873"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1077157",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077157.html",
@@ -32,18 +58,18 @@
       "notice_types": [
         "Meeting"
       ],
-      "agenda_text": "PUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council Work meeting on Tuesday, May 5, 2026, at 12:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\nPresiding Mayor Zack Stratton\r\n\r\n1. CALL TO ORDER\r\n\r\n2. INVOCATION AND PLEDGE OF ALLEGIANCE\r\n\r\n3. WORK SESSION\r\n      3.1 UTA FrontRunner 2X Update by Braden Anderson and Justin Beddoes\r\n      3.2. Water Use Updates\r\nDevan Peterson and Steve Jones (Hansen, Allen, & Luce Engineers) will present on Vineyard City's current water use and interlocal agreements.\r\n      3.3. Tree Inventory & Planting Updates\r\nGeorge Schramm will provide an update on Vineyard City's tree canopy and planting for 2026.\r\n      3.4. Vineyard City's Floodplain Regulation Update (National Flood Insurance Program Compliance)\r\nVineyard City is proposing updates to its floodplain management regulations to maintain compliance with the National Flood Insurance Program (NFIP) following updated flood hazard determinations issued by the Federal Emergency Management Agency (FEMA).\r\n      3.5. Discuss Resolution 2026-29 City Manager Responsibilities and Duties\r\n\r\n4. PUBLIC COMMENTS\r\n'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n5. CONSENT ITEMS\r\n     5.1. Approval of the March 26, 2026, City Council Meeting Minutes\r\n     5.2. Approval of the March 31, 2026, City Council Meeting Minutes\r\n\r\n6. ADJOURNMENT",
+      "agenda_text": "NOTICE OF A \r\nCITY COUNCIL WORK MEETING\r\nMay 5, 2026, at 12:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council Work meeting on Tuesday, May 5, 2026, at 12:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\nPresiding Mayor Zack Stratton\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE\r\n\r\n3.\tPUBLIC COMMENTS\r\n \t'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tCONSENT ITEMS\r\n\r\n \t4.1.\tApproval of the March 26, 2026, City Council Meeting Minutes\r\n\r\n \t4.2.\tApproval of the March 31, 2026, City Council Meeting Minutes\r\n\r\n \t4.3.\tApproval of the April 21, 2026 Meeting Minutes\r\n\r\n5.\tBUSINESS\r\n\r\n \t5.1.\tProclamation 2026-02 Recognizing the 57th Annual Professional Municipal Clerks Week, May 3-9, 2026\r\n\r\n6.\tWORK SESSION\r\n\r\n\t6.1 UTA FrontRunner 2X Update by Braden Anderson and Justin Beddoes\r\n\r\n \t6.2.\tWater Use Updates\r\n \t \tDevan Peterson and Steve Jones (Hansen, Allen, & Luce Engineers) will present on Vineyard City's current water use and interlocal agreements.\r\n\r\n \t6.3.\tTree Inventory & Planting Updates\r\n \t \tGeorge Schramm will provide an update on Vineyard City's tree canopy and planting for 2026.\r\n\r\n \t6.4.\tVineyard City's Floodplain Regulation Update (National Flood Insurance Program Compliance)\r\n \t \tVineyard City is proposing updates to its floodplain management regulations to maintain compliance with the National Flood Insurance                Program (NFIP) following updated flood hazard determinations issued by the Federal Emergency Management Agency (FEMA).\r\n\r\n \t6.5.\tDiscuss Resolution 2026-29 City Manager Responsibilities and Duties\r\n\t\r\n7.\tADJOURNMENT",
       "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
       "contact_name": "Robin Bond",
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "May 01, 2026 11:50 AM",
       "attachments": [
         {
-          "file_name": "5.5.26 CC Packet.pdf",
+          "file_name": "5.5.26 Packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1426421.pdf",
-          "date_added": "2026/05/01 11:50 AM",
-          "file_id": "1426421"
+          "url": "https://www.utah.gov/pmn/files/1427467.pdf",
+          "date_added": "2026/05/04 04:06 PM",
+          "file_id": "1427467"
         }
       ],
       "canceled": false
@@ -114,6 +140,13 @@
       "posted_on": "April 17, 2026 10:39 AM",
       "attachments": [
         {
+          "file_name": "4.21.26 APPOVED MEETING MINUTES W SIGNATURE AND SEAL.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1428211.pdf",
+          "date_added": "2026/05/05 03:39 PM",
+          "file_id": "1428211"
+        },
+        {
           "file_name": "4.21.26 CC Work Agenda Packet (2).pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1421353.pdf",
@@ -138,6 +171,13 @@
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "April 10, 2026 06:39 PM",
       "attachments": [
+        {
+          "file_name": "4.14.26 Approved CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1427123.pdf",
+          "date_added": "2026/05/04 01:36 PM",
+          "file_id": "1427123"
+        },
         {
           "file_name": "4.14.26 CC Agenda Packet rrb.pdf",
           "category": "Public Information Handout",
@@ -164,6 +204,13 @@
       "posted_on": "March 26, 2026 05:16 PM",
       "attachments": [
         {
+          "file_name": "3.31.26 CC Minutes - Final_exppdf_temp.PDF",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1428775.PDF",
+          "date_added": "2026/05/06 01:08 PM",
+          "file_id": "1428775"
+        },
+        {
           "file_name": "3.31.26 CC Agenda Packet (7).pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1411855.pdf",
@@ -187,7 +234,15 @@
       "contact_name": "Robin Bond",
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "March 26, 2026 08:15 AM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "03262026 CC Special Session Minutes - Final_exppdf.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1428749.pdf",
+          "date_added": "2026/05/06 12:49 PM",
+          "file_id": "1428749"
+        }
+      ],
       "canceled": false
     },
     {
@@ -211,31 +266,6 @@
           "url": "https://www.utah.gov/pmn/files/1409167.pdf",
           "date_added": "2026/03/23 04:21 PM",
           "file_id": "1409167"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1066204",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1066204.html",
-      "title": "City Council Meeting",
-      "event_date": "March 17, 2026 12:00 PM",
-      "event_date_iso": "2026-03-17T12:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "March 17, 2026, City Council Agenda\r\nNOTICE OF A REGULAR CITY COUNCIL MEETING\r\nMarch 17, 2026, at 12:00 PM\r\n________________\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, March 17, 2026, at 12:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\nPresiding Mayor Zack Stratton\r\n\r\n1. CALL TO ORDER/INVOCATION/INSPIRATIONAL THOUGHT/PLEDGE OF ALLEGIANCE\r\n\r\n2. PUBLIC COMMENTS\r\n'Public Comments' is defined as time set aside for citizens to express their views for items not on the agenda. During a period designated for public comment, the mayor or chair may allot each speaker a maximum amount of time to present their comments, subject to extension by the mayor or by a majority vote of the council. Speakers offering duplicate comments may be limited. Because of the need for proper public notice, immediate action cannot be taken in the Council Meeting. The Chair of the meeting reserves the right to organize public comments by topic and may group speakers accordingly. If action is necessary, the item will be listed on a future agenda; however, the Council may elect to discuss the item if it is an immediate matter of concern. Public comments can be submitted ahead of time to tonyl@vineyardutah.gov.\r\n\r\n3. WORK SESSION\r\n\r\n3.1. Public Safety Impact Fee Study Update\r\n\r\n3.2. Travel Policy Review\r\n\r\n3.3. Municipal Waste Water Planning Program (MWPP) Survey Review\r\n\r\n3.4. RDA Audit Update\r\n\r\n3.5. Spring Clean Up Initiative\r\n\r\n3.6. Operation Neighborhood Shield\r\n\r\n3.7. City Commissions, Appointment Processes, And Volunteer Recruitment\r\n\r\n4. ADJOURNMENT\r\n\r\nThe next regularly scheduled meeting is on March 24, 2026. This meeting may be held in a way that will allow a councilmember to participate electronically. The public is invited to participate in all City Council meetings. In compliance with the Americans with Disabilities Act, individuals needing special accommodations during this meeting should notify the City Recorder at least 24 hours prior to the meeting by calling (385) 338-5183. I, the undersigned Deputy City Recorder for Vineyard, Utah, hereby certify that the foregoing notice and agenda was posted at Vineyard City Hall, on the Vineyard City and Utah Public Notice websites, and delivered electronically to staff and to each member of the Governing Body.\r\n\r\nAGENDA NOTICING COMPLETED ON:\r\nMarch 13, 2026\r\n\r\nCERTIFIED (NOTICED) BY:\r\n/s/Tony Lara\r\nTONY LARA, DEPUTY CITY RECORDER",
-      "meeting_location": "125 South Main Street 125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "March 13, 2026 02:19 PM",
-      "attachments": [
-        {
-          "file_name": "3.17.26 CC Agenda Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1405781.pdf",
-          "date_added": "2026/03/16 01:26 PM",
-          "file_id": "1405781"
         }
       ],
       "canceled": false
