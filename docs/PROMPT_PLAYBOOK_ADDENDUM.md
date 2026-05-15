@@ -6,12 +6,12 @@ Supplements the main opusplan/CC Sonnet session prompts with phase-specific cont
 
 ## CURRENT STATE
 
-**Active phase: 18b-2b** — GP FLU PDF pipeline prototype (Erda City).
+**Active phase: 18b-2b** — GP FLU PDF pipeline prototype (Erda City). 6-city PDF roster: Erda, Grantsville, Bluffdale, Draper, Herriman, Spanish Fork.
 
-- 18b-1 current zoning: shipped for 12/13 cities. Saratoga Springs UT re-extraction outstanding (18b-1 hotfix).
-- 18b-2a GP FLU REST: shipped for 6 cities. NLS source authority flagged for Lehi/Eagle Mountain/Saratoga Springs GP.
+- 18b-1 current zoning: **complete — 13/13 cities** including Saratoga Springs UT hotfix (368 features, merged 2026-05-14).
+- 18b-2a GP FLU REST: **complete — 7/13 cities** REST-sourced (Vineyard added via ArcGIS Experience recheck, 36 features, merged 2026-05-14). NLS source authority flagged for Lehi/Eagle Mountain/Saratoga Springs GP.
 - 18b-2b: **start here** — build `scripts/gp_pdf_extract.py`, validate on Erda City 2022 GP PDF.
-- 18b-2c: rollout to 6 remaining cities after 18b-2b prototype accepted.
+- 18b-2c: rollout to 5 remaining cities (Grantsville, Bluffdale, Draper, Herriman, Spanish Fork) after 18b-2b prototype accepted.
 - 18b-3: D1 load — after all 13 cities have both current zoning and GP FLU data.
 
 ---
@@ -23,10 +23,10 @@ Phase 18b-2b: GP FLU PDF pipeline prototype — Erda City
 
 CONTEXT
 =======
-Tooele-land-intel needs General Plan Future Land Use (GP FLU) polygons for 7 cities
+Tooele-land-intel needs General Plan Future Land Use (GP FLU) polygons for 6 cities
 that have no public ArcGIS REST FLU layer. Phase 18b-2a already extracted REST data for
-6 cities. The remaining 7 (Erda, Grantsville, Bluffdale, Vineyard, Draper, Herriman,
-Spanish Fork) must be georeferenced from PDF maps.
+7 cities (Vineyard was added via ArcGIS Experience recheck). The remaining 6 (Erda,
+Grantsville, Bluffdale, Draper, Herriman, Spanish Fork) must be georeferenced from PDF maps.
 
 Phase 18b-2b: build and validate the PDF-to-GeoJSON pipeline using Erda as the prototype.
 
@@ -105,10 +105,9 @@ Erda, the 18b-2c session will run the 6 remaining cities.
 
 ## Phase 18b-2c Kickoff Notes
 
-Before starting 18b-2c, confirm PDF URLs for:
+Before starting 18b-2c, confirm PDF URLs for (5 cities — Vineyard resolved via REST in 18b-2a):
 - Grantsville: 3-part FLU map (Jan 2020) in Document Center at `grantsvilleut.gov`
 - Bluffdale: GP PDF at `bluffdale.gov/DocumentCenter/View/5049/Bluffdale-General-Plan-PDF`
-- Vineyard: FLU map at `vineyardutah.gov/Departmnts/Planning/Future Land Use Map.pdf` — **check ArcGIS Experience first** (`experience.arcgis.com/experience/5d675261cad649ffb85deee52dcbe1cb/`) for a REST endpoint before PDF path
 - Draper: TBD — check `draper.utah.gov` or Hales Planning
 - Herriman: TBD — `herriman.gov/government/planning`
 - Spanish Fork: TBD — `spanishfork.gov` or ArcGIS Story Map `46123568839342138701884a648c8557`
@@ -121,8 +120,8 @@ RMSE threshold: ≤100 ft accept, 50–100 ft yellow flag, >100 ft reject and do
 ## Phase 18b-3 Pre-work Checklist
 
 Before D1 load:
-- [ ] Saratoga Springs UT current zoning re-extracted (18b-1 hotfix)
-- [ ] All 7 PDF-path cities have accepted GeoJSONs (RMSE ≤ 100 ft)
+- [x] Saratoga Springs UT current zoning re-extracted (18b-1 hotfix — merged 2026-05-14)
+- [ ] All 6 PDF-path cities have accepted GeoJSONs (RMSE ≤ 100 ft)
 - [ ] Lehi taxonomy remapping complete: reduce Other/Unknown from 42% to <5%
 - [ ] Tooele City GP multi-zone comma-separated codes handled (Option A or B decided)
 - [ ] NLS source authority verified for Lehi, Eagle Mountain, Saratoga Springs GP — or marked `source_authority: unverified_regional_study`

@@ -9,14 +9,11 @@ Strategic guide for phase sequencing, data scope, and delivery targets.
 | Phase | Description | Status | Date |
 |---|---|---|---|
 | 13b-1–8 | Pipeline foundation: parcel ingestion, geocoding, AADT scoring, zoning score, census ACS join, commute corridor, vacancy class | Shipped | 2026-04 |
-| 18b-1 | Current zoning REST extraction — 13 cities (12 good + Saratoga Springs hotfix pending) | Shipped ⚠️ | 2026-05-11 |
-| 18b-2a | GP future land use REST extraction — 6 cities (all PASS/WARN, NLS authority caveat flagged) | Shipped | 2026-05-11 |
-| 18b-2b | GP FLU PDF pipeline — Erda prototype (`scripts/gp_pdf_extract.py`) | **Next** | — |
-| 18b-2c | GP FLU PDF rollout — remaining 6 cities (Grantsville, Bluffdale, Vineyard, Draper, Herriman, Spanish Fork) | Queued | — |
+| 18b-1 | Current zoning REST extraction — 13/13 cities, Saratoga Springs hotfix included | Shipped | 2026-05-11 |
+| 18b-2a | GP FLU REST extraction — 7/13 cities (Vineyard added via Experience recheck); 6 cities remain for PDF path | Shipped | 2026-05-11 |
+| 18b-2b | GP FLU PDF pipeline — Erda prototype (`scripts/gp_pdf_extract.py`), then rollout to Grantsville, Bluffdale, Draper, Herriman, Spanish Fork | **Next** | — |
+| 18b-2c | GP FLU PDF rollout — remaining 5 cities (Grantsville, Bluffdale, Draper, Herriman, Spanish Fork) | Queued | — |
 | 18b-3 | D1 load: zoning taxonomy normalization, Lehi remapping, Tooele multi-zone handling, schema migration `0006_gp_zoning.sql` | Queued | — |
-
-### 18b-1 known issue
-`saratoga_springs_ut_zoning.geojson` was extracted from Saratoga Springs, NY (wrong city, same name). File removed from main on 2026-05-11. Re-extraction from `gis.saratogaspringscity.com` required before D1 load. Track as **18b-1 hotfix** — can run alongside 18b-2b/c.
 
 ---
 
@@ -24,9 +21,9 @@ Strategic guide for phase sequencing, data scope, and delivery targets.
 
 **Active jurisdictions (13):** Erda, Grantsville, Tooele City, Lehi, Saratoga Springs, Eagle Mountain, South Jordan, Herriman, Bluffdale, Draper, American Fork, Vineyard, Spanish Fork.
 
-**Current zoning coverage:** 12/13 cities have valid GeoJSONs in `data/zoning/current/`. Saratoga Springs UT pending re-extraction.
+**Current zoning coverage:** 13/13 cities have valid GeoJSONs in `data/zoning/current/`. Saratoga Springs UT hotfix merged 2026-05-14.
 
-**GP FLU coverage:** 6/13 cities have REST-sourced GeoJSONs in `data/zoning/future/`. 7 cities remain on PDF path (18b-2b/c).
+**GP FLU coverage:** 7/13 cities have REST-sourced GeoJSONs in `data/zoning/future/`. 6 cities remain on PDF path (18b-2b/c): Erda, Grantsville, Bluffdale, Draper, Herriman, Spanish Fork.
 
 ---
 
@@ -36,3 +33,25 @@ Strategic guide for phase sequencing, data scope, and delivery targets.
 - D1 migration `0006_gp_zoning.sql` will add `gp_zone_code`, `gp_zone_normalized`, `gp_zone_description`, `source_authority` columns.
 - NLS_LandUseService data (Lehi, Eagle Mountain, Saratoga Springs GP) carries `source_authority: unverified_regional_study` until verified against city-adopted GP maps.
 - Tooele City GP has comma-separated multi-zone codes — 18b-3 must implement Option B (compatible_zones array) or Option A (split at comma).
+
+---
+
+## Strategic Decisions Log
+
+### SD-16 — Bounding box constraint for REST extraction (2026-05-11)
+
+Any ArcGIS REST query targeting a Utah jurisdiction must include an explicit Utah bounding box geometry constraint to prevent name-collision extractions. This was surfaced during 18b-1 sanity checks when `saratoga_springs_ut_zoning.geojson` was found to contain Saratoga Springs, NY features — same city name, different state, wrong ArcGIS org (`M7jfYoTaLM0yE75d`).
+
+**Required constraint parameters:**
+```
+&geometry={"xmin":-114,"ymin":37,"xmax":-109,"ymax":42,"spatialReference":{"wkid":4326}}
+&geometryType=esriGeometryEnvelope
+&inSR=4326
+```
+
+**Full pattern:**
+```
+?where=1=1&outFields=*&outSR=4326&f=geojson&geometry={"xmin":-114,"ymin":37,"xmax":-109,"ymax":42,"spatialReference":{"wkid":4326}}&geometryType=esriGeometryEnvelope&inSR=4326
+```
+
+Apply to all future REST extractions before committing any GeoJSON to `data/zoning/`.
