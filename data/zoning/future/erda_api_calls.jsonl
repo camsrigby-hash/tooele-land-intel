@@ -1,0 +1,9 @@
+{"call": "legend", "model": "claude-haiku-4-5-20251001", "input_tokens": 1586, "output_tokens": 171, "cost_usd": 0.03662, "elapsed_s": 1.9}
+{"call": "zone_Low Intensity Residential", "model": "claude-haiku-4-5-20251001", "input_tokens": 1731, "output_tokens": 172, "cost_usd": 0.03886, "elapsed_s": 1.6}
+{"call": "zone_Medium Intensity Residential", "model": "claude-haiku-4-5-20251001", "input_tokens": 1731, "output_tokens": 253, "cost_usd": 0.04494, "elapsed_s": 2.1}
+{"call": "zone_High Intensity Residential", "model": "claude-haiku-4-5-20251001", "input_tokens": 1731, "output_tokens": 226, "cost_usd": 0.04292, "elapsed_s": 1.9}
+{"call": "zone_Commercial", "model": "claude-haiku-4-5-20251001", "input_tokens": 1723, "output_tokens": 101, "cost_usd": 0.03342, "elapsed_s": 1.4}
+{"call": "zone_Employment", "model": "claude-haiku-4-5-20251001", "input_tokens": 1723, "output_tokens": 118, "cost_usd": 0.03469, "elapsed_s": 1.6}
+{"call": "zone_Manufacturing", "model": "claude-haiku-4-5-20251001", "input_tokens": 1723, "output_tokens": 64, "cost_usd": 0.03064, "elapsed_s": 1.5}
+{"call": "zone_Airport", "model": "claude-haiku-4-5-20251001", "input_tokens": 1723, "output_tokens": 4, "cost_usd": 0.02615, "elapsed_s": 0.8}
+{"call": "zone_Agricultural/Open Lands", "model": "claude-haiku-4-5-20251001", "input_tokens": 1731, "output_tokens": 93, "cost_usd": 0.03294, "elapsed_s": 1.4}

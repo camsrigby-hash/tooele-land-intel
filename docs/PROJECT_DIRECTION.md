@@ -11,8 +11,8 @@ Strategic guide for phase sequencing, data scope, and delivery targets.
 | 13b-1–8 | Pipeline foundation: parcel ingestion, geocoding, AADT scoring, zoning score, census ACS join, commute corridor, vacancy class | Shipped | 2026-04 |
 | 18b-1 | Current zoning REST extraction — 13/13 cities, Saratoga Springs hotfix included | Shipped | 2026-05-11 |
 | 18b-2a | GP FLU REST extraction — 7/13 cities (Vineyard added via Experience recheck); 6 cities remain for PDF path | Shipped | 2026-05-11 |
-| 18b-2b | GP FLU PDF pipeline — Erda prototype (`scripts/gp_pdf_extract.py`), then rollout to Grantsville, Bluffdale, Draper, Herriman, Spanish Fork | **Next** | — |
-| 18b-2c | GP FLU PDF rollout — remaining 5 cities (Grantsville, Bluffdale, Draper, Herriman, Spanish Fork) | Queued | — |
+| 18b-2b | GP FLU PDF pipeline — `scripts/gp_pdf_extract.py` (8-stage pipeline). Erda validation: RMSE 4664 ft, 0 features (regional-overview map). Pipeline verified end-to-end. | **Shipped** | 2026-05-14 |
+| 18b-2c | GP FLU PDF rollout — 5 cities (Grantsville, Bluffdale, Draper, Herriman, Spanish Fork). Prerequisites: PDF URLs confirmed, production API key, pre-screen maps | **Next** | — |
 | 18b-3 | D1 load: zoning taxonomy normalization, Lehi remapping, Tooele multi-zone handling, schema migration `0006_gp_zoning.sql` | Queued | — |
 
 ---
@@ -23,7 +23,7 @@ Strategic guide for phase sequencing, data scope, and delivery targets.
 
 **Current zoning coverage:** 13/13 cities have valid GeoJSONs in `data/zoning/current/`. Saratoga Springs UT hotfix merged 2026-05-14.
 
-**GP FLU coverage:** 7/13 cities have REST-sourced GeoJSONs in `data/zoning/future/`. 6 cities remain on PDF path (18b-2b/c): Erda, Grantsville, Bluffdale, Draper, Herriman, Spanish Fork.
+**GP FLU coverage:** 7/13 cities have REST-sourced GeoJSONs in `data/zoning/future/`. 6 cities remain on PDF path (18b-2c): Erda (pipeline ran, regional-overview map — 0 features, marked `gp_data: regional_map_only`), Grantsville, Bluffdale, Draper, Herriman, Spanish Fork. See `_quality_review.md`.
 
 ---
 
