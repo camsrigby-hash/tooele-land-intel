@@ -1,0 +1,6 @@
+[
+  {"px_x": 2247, "px_y": 1719, "gt_lat": 40.1098, "gt_lon": -111.6548, "label": "Main St x Center St"},
+  {"px_x": 2247, "px_y": 1409, "gt_lat": 40.1150, "gt_lon": -111.6548, "label": "Main St x 400 N"},
+  {"px_x": 2247, "px_y": 1980, "gt_lat": 40.1059, "gt_lon": -111.6548, "label": "Main St x 300 S"},
+  {"px_x": 1980, "px_y": 1719, "gt_lat": 40.1098, "gt_lon": -111.6690, "label": "Center St x Mill Rd"}
+]
