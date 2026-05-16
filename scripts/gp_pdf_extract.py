@@ -771,19 +771,98 @@ def stage3_ground_truth_lookup(
 # Stage 4 — Affine transform fit
 # ---------------------------------------------------------------------------
 
-def stage4_fit_affine(control_points: list[dict]) -> np.ndarray:
+def _detect_map_rotation(control_points: list[dict]) -> float:
     """
-    Stage 4 — Fit 6-parameter affine transform: [lon, lat] = A @ [px_x, px_y, 1]^T
-    Returns A as 2×3 numpy array.
+    Detect map rotation angle in degrees by comparing bearing in pixel space
+    vs bearing in geographic space for the two control points with the largest
+    pixel-space separation.
+    Returns rotation_deg: positive = map rotated clockwise relative to north-up.
+    """
+    if len(control_points) < 2:
+        return 0.0
+
+    # Find the pair with the largest pixel-space distance
+    best_i, best_j, best_dist = 0, 1, 0.0
+    for i in range(len(control_points)):
+        for j in range(i + 1, len(control_points)):
+            pi, pj = control_points[i], control_points[j]
+            d = math.hypot(pj["px_x"] - pi["px_x"], pj["px_y"] - pi["px_y"])
+            if d > best_dist:
+                best_dist, best_i, best_j = d, i, j
+
+    p1, p2 = control_points[best_i], control_points[best_j]
+
+    # Bearing in pixel space (x right, y down): angle from "up" (-y) clockwise
+    dpx = p2["px_x"] - p1["px_x"]
+    dpy = p2["px_y"] - p1["px_y"]
+    bearing_px_deg = math.degrees(math.atan2(dpx, -dpy))
+
+    # Bearing in geographic space: angle from north clockwise
+    # Correct lon difference for equirectangular aspect ratio
+    lat_avg = math.radians((p1["gt_lat"] + p2["gt_lat"]) / 2.0)
+    dlon = (p2["gt_lon"] - p1["gt_lon"]) * math.cos(lat_avg)
+    dlat = p2["gt_lat"] - p1["gt_lat"]
+    bearing_geo_deg = math.degrees(math.atan2(dlon, dlat))
+
+    rotation_deg = bearing_px_deg - bearing_geo_deg
+    # Normalize to [-180, 180]
+    while rotation_deg > 180:
+        rotation_deg -= 360
+    while rotation_deg < -180:
+        rotation_deg += 360
+
+    logging.info(
+        f"  Rotation detection: bearing_px={bearing_px_deg:.1f}°, "
+        f"bearing_geo={bearing_geo_deg:.1f}°, rotation={rotation_deg:.1f}°"
+    )
+    return rotation_deg
+
+
+def stage4_fit_affine(control_points: list[dict]) -> tuple[np.ndarray, float]:
+    """
+    Stage 4 — Fit rotation-aware affine transform: [lon, lat] = A @ [px_x, px_y, 1]^T
+
+    Detects map rotation from the control point pair with the largest pixel separation,
+    derotates all pixel coords around their centroid, fits affine on derotated coords,
+    then folds the derotation into the final 2×3 matrix so stage7 is unchanged.
+
+    Returns (A_combined, rotation_angle_deg) where A_combined is 2×3.
     """
     logging.info(f"Stage 4: fitting affine transform ({len(control_points)} control points)…")
-    X = np.array([[p["px_x"], p["px_y"], 1.0] for p in control_points])   # N×3
+
+    rotation_deg = _detect_map_rotation(control_points)
+    theta = math.radians(-rotation_deg)  # derotate by negative of detected rotation
+
+    # Centroid of pixel coords (rotation center)
+    cx = sum(p["px_x"] for p in control_points) / len(control_points)
+    cy = sum(p["px_y"] for p in control_points) / len(control_points)
+
+    # 3×3 homogeneous derotation matrix (rotates pixel coords by -rotation_deg around centroid)
+    c, s = math.cos(theta), math.sin(theta)
+    D = np.array([
+        [c, -s, cx - c * cx + s * cy],
+        [s,  c, cy - s * cx - c * cy],
+        [0,  0, 1.0],
+    ])
+
+    # Derotate all control point pixel coordinates
+    derotated_px = []
+    for p in control_points:
+        pv = np.array([p["px_x"], p["px_y"], 1.0])
+        dr = D @ pv
+        derotated_px.append([dr[0], dr[1], 1.0])
+
+    X = np.array(derotated_px)                                              # N×3
     Y = np.array([[p["gt_lon"], p["gt_lat"]] for p in control_points])     # N×2
-    # lstsq solves X @ A_T = Y  →  A_T is 3×2, A is 2×3
-    A_T, residuals, rank, sv = np.linalg.lstsq(X, Y, rcond=None)
-    A = A_T.T  # 2×3
-    logging.info(f"  Affine matrix A:\n{A}")
-    return A
+    A_T, _, _, _ = np.linalg.lstsq(X, Y, rcond=None)
+    A_derot = A_T.T  # 2×3: maps derotated pixel → geo
+
+    # Fold derotation into final matrix: A_combined maps original pixel → geo
+    A_combined = A_derot @ D  # (2×3) @ (3×3) = 2×3
+
+    logging.info(f"  Map rotation: {rotation_deg:.1f}°")
+    logging.info(f"  Affine matrix A (combined):\n{A_combined}")
+    return A_combined, rotation_deg
 
 
 # ---------------------------------------------------------------------------
@@ -1109,6 +1188,7 @@ def stage8_write_geojson(
     source_pdf: str,
     map_page_idx: int,
     out_dir: Path,
+    rotation_angle_deg: float | None = None,
 ) -> Path:
     """
     Stage 8 — Build GeoJSON FeatureCollection and write to disk.
@@ -1169,6 +1249,7 @@ def stage8_write_geojson(
                 "confidence": confidence,
                 "transform_residual_ft": round(rmse_ft, 1),
                 "n_control_points": n_control_points,
+                "rotation_angle_deg": round(rotation_angle_deg, 2) if rotation_angle_deg is not None else None,
                 "extraction_date": today,
             },
         }
@@ -1196,11 +1277,17 @@ def write_transform_validation(
     A: np.ndarray,
     city_cfg: dict,
     out_dir: Path,
+    rotation_angle_deg: float | None = None,
 ) -> Path:
     """Write erda_transform_validation.md (or <city>_transform_validation.md)."""
     city_slug = city_cfg["city_slug"]
     today = datetime.date.today().isoformat()
     out_path = out_dir / f"{city_slug}_transform_validation.md"
+
+    rotation_line = (
+        f"**Map rotation detected**: {rotation_angle_deg:.1f}°"
+        if rotation_angle_deg is not None else ""
+    )
 
     lines = [
         f"# {city_cfg['city_name']} GP FLU — Transform Validation Report",
@@ -1208,6 +1295,10 @@ def write_transform_validation(
         f"**Date**: {today}",
         f"**Model**: {OPUS_MODEL}",
         f"**Extraction method**: anthropic_vision_claude_opus_4_7_georeferenced",
+    ]
+    if rotation_line:
+        lines.append(rotation_line)
+    lines += [
         f"",
         f"## Affine Transform Matrix",
         f"",
@@ -1401,6 +1492,7 @@ def run_pipeline(
     last_resolved_cps: list[dict] = []
     last_annotated_cps: list[dict] = []
     last_A: Optional[np.ndarray] = None
+    last_rotation_deg: float = 0.0
     last_map_page_idx = 0
 
     for source_idx, pdf_src in enumerate(sources_to_run):
@@ -1461,7 +1553,7 @@ def run_pipeline(
 
             resolved_cps = stage3_ground_truth_lookup(control_candidates, city_cfg)
 
-        A = stage4_fit_affine(resolved_cps)
+        A, rotation_deg = stage4_fit_affine(resolved_cps)
 
         rmse_ft, annotated_cps = stage5_validate(A, resolved_cps, rmse_threshold_ft=_rmse_threshold)
 
@@ -1482,6 +1574,7 @@ def run_pipeline(
         last_resolved_cps = resolved_cps
         last_annotated_cps = annotated_cps
         last_A = A
+        last_rotation_deg = rotation_deg
         last_map_page_idx = map_page_idx
 
     geojson_path = stage8_write_geojson(
@@ -1490,10 +1583,12 @@ def run_pipeline(
         source_pdf=sources_to_run[0] if len(sources_to_run) == 1 else f"{len(sources_to_run)} PDFs aggregated",
         map_page_idx=last_map_page_idx,
         out_dir=out_dir,
+        rotation_angle_deg=last_rotation_deg,
     )
 
     val_path = write_transform_validation(
-        last_annotated_cps, last_rmse_ft, all_projected, last_A, city_cfg, out_dir
+        last_annotated_cps, last_rmse_ft, all_projected, last_A, city_cfg, out_dir,
+        rotation_angle_deg=last_rotation_deg,
     )
 
     dump_api_log(out_dir, city_slug)

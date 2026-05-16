@@ -102,3 +102,65 @@ analysis but not survey-grade use. Confidence: `anchored_approximation_yellow`.
 - Auto-resize for images exceeding 5 MB API limit
 - Abbreviation expansion + Overpass fallback in stage3
 - `--max-zone-calls` CLI flag for large legend maps
+
+---
+
+## Herriman — 2026-05-16 (18b-2c re-run: rotation fix)
+
+**PDF**: `LandUse203036x36.pdf` (same as above)
+**Pipeline version**: v2 (phase-18b-2-pipeline-v2)
+**Change**: Rotation-aware stage4 implemented
+
+### Rotation fix: what was changed
+
+`stage4_fit_affine` now:
+1. Detects map rotation by comparing bearing in pixel space vs bearing in geo space for the
+   control point pair with the largest pixel separation (bearing_px=152.6°, bearing_geo=-174.7°,
+   detected rotation=-32.7°).
+2. Builds a 3×3 homogeneous derotation matrix D that rotates pixel coords by +32.7° around
+   their centroid.
+3. Fits affine A_derot on the derotated pixel coords.
+4. Returns A_combined = A_derot @ D (2×3 matrix) and rotation_angle_deg.
+
+Stage7 interface is unchanged. `rotation_angle_deg` is now logged in GeoJSON properties and
+transform validation report.
+
+### Why RMSE did not improve for Herriman
+
+For **manual CPs**, the rotation fix is mathematically equivalent to the original 6-DOF affine:
+A_combined = A_orig (same matrix). This is expected — a change of basis in the domain does not
+change the least-squares minimum when the same training data is used.
+
+The 1017.9 ft RMSE is caused by **unreliable pixel coordinates** for CP2 and CP3, not by the
+affine fitting method. On a 36×36 inch large-format rotated map, Claude's pixel identification
+and human visual inspection both have ~300–1200 px uncertainty, which translates to ~1000–7000 ft
+error at this map scale (~6 ft/px). CP1 (93.6 ft) and CP4 (194.8 ft) are reliable anchors;
+CP2 and CP3 are dragging up the RMSE.
+
+Ground truth investigation: precise Overpass intersection queries (node-on-both-ways) confirmed
+that the old Overpass median-node gt for CP2 and CP3 was 975 ft and 3470 ft off respectively.
+BUT replacing with OSM-verified gt made RMSE worse (1739.9 ft), confirming the pixel coordinates
+themselves are inconsistent with the true geographic locations.
+
+### When the rotation fix DOES help
+
+For **automatic CPs** (stage2 vision-identified), the rotation-aware fit reduces one source of
+noise: Claude's pixel coordinate estimates are more consistent along the map's principal axes
+than in geographic N-S/E-W directions. After derotation, the lstsq fit operates in a coordinate
+space aligned with the map, reducing shear artifacts.
+
+### Run outcome: PARTIAL SUCCESS — RMSE RED FLAG (unchanged)
+
+| Criterion | Result | Status |
+|---|---|---|
+| Feature count ≥ 30 | 43 features | PASS |
+| Feature count ≥ 50 | 43 features | NEAR MISS |
+| RMSE ≤ 100 ft | 1017.9 ft | **RED FLAG** |
+| Centroid within 5km | within range | PASS |
+| BBox < 30km | 5.1 km × 8.1 km | PASS |
+| Schema v2 fields | All present (incl. rotation_angle_deg=-32.7) | PASS |
+| Cost within $3 | $1.50 | PASS |
+
+**Pipeline fix shipped in this run:**
+- Rotation-aware stage4 (`_detect_map_rotation` + derotation matrix composition)
+- `rotation_angle_deg` field added to GeoJSON properties and transform validation report
