@@ -250,3 +250,188 @@ GeoJSON committed as `data/zoning/future/spanish_fork.geojson` with `confidence:
 **Methodology validated**: stage 2 pixel identification works correctly on standard tabloid-size maps
 (self-consistent grid structure detected). Stage 3 Overpass fix needed for adjacent-city urban areas.
 RMSE 38.6 ft confirms pipeline-v2 can achieve ≤100 ft on standard-size maps when correct CPs are provided.
+
+---
+
+## Vineyard — 2026-05-16 (18b-2c REST ingest)
+
+**Layer**: `Vineyard Future Land Use` (FeatureServer Layer 0)
+**Source URL**: https://services.arcgis.com/QdlehUncXjEmQYtI/arcgis/rest/services/Vineyard_Future_Land_Use_View/FeatureServer/0
+**Layer type**: `flu`
+**Extraction method**: `arcgis_rest` — no PDF stages (not applicable)
+**Pipeline version**: v2 (phase-18b-2-pipeline-v2)
+
+### Run outcome: PASS
+
+| Criterion | Result | Status |
+|---|---|---|
+| Feature count = 36 | 36 features | PASS |
+| Centroid within 10 km of city center | 0.14 km | PASS |
+| Schema v2 fields | All present | PASS |
+| Cost | $0 (REST ingest) | PASS |
+
+### Zone types (12)
+
+| Zone | Count |
+|---|---|
+| Open Space | 14 |
+| Public Facility | 5 |
+| Low Density | 3 |
+| Medium Density | 3 |
+| Regional Commercial | 2 |
+| High Density | 2 |
+| Neighborhood Center | 2 |
+| University | 1 |
+| Town Center | 1 |
+| Residential Mixed Use | 1 |
+| Vineyard Commerce Center | 1 |
+| Low & Medium Density | 1 |
+
+**Output**: `data/zoning/future/vineyard_gp.geojson` (36 features, schema v2)
+**Primary FLU field**: `Land_Use` (string, no coded domain — values are label strings)
+**Native SR**: WKID 103170 (EPSG:6625 Utah Central State Plane, feet) → reprojected to EPSG:4326 via `outSR=4326`
+
+---
+
+## Grantsville — 2026-05-16 (18b-2c REST ingest)
+
+**Layer**: `Future Land Use Map` (FeatureServer Layer 81)
+**Source URL**: https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81
+**Layer type**: `flu`
+**Extraction method**: `arcgis_rest` — no PDF stages (not applicable)
+**Pipeline version**: v2 (phase-18b-2-pipeline-v2)
+
+### Run outcome: PASS
+
+| Criterion | Result | Status |
+|---|---|---|
+| Feature count = 51 | 51 features | PASS |
+| Centroid within 10 km of city center | 0.27 km | PASS |
+| Schema v2 fields | All present | PASS |
+| Cost | $0 (REST ingest) | PASS |
+
+### Zone types (9)
+
+| Zone | Count |
+|---|---|
+| Municipal/School | 14 |
+| Mixed Use Density | 11 |
+| Industrial | 6 |
+| Parks & Open Space | 6 |
+| High Single Family Density Residential | 5 |
+| Commercial | 3 |
+| Rural Residential 2 | 2 |
+| Medium Density Rsidential *(source typo)* | 2 |
+| Low Density Residentail *(source typo)* | 2 |
+
+**Output**: `data/zoning/future/grantsville_gp.geojson` (51 features, schema v2)
+**Primary FLU field**: `Name` (string, no coded domain — values are label strings)
+**Native SR**: WKID 102100 (EPSG:3857 Web Mercator) → reprojected to EPSG:4326 via `outSR=4326`
+**Data quality note**: Two zone values contain typos in the source service ("Rsidential", "Residentail") — preserved as-is in `gp_zone_code`/`gp_zone_description`; normalize during Phase 18b-3 D1 load.
+
+---
+
+## Bluffdale — 2026-05-16 (18b-2c REST ingest)
+
+**Layer**: `Land Use Designations January 2022` (FeatureServer Layer 0)
+**Source URL**: https://services3.arcgis.com/ojBMkFlpg5ujUNtB/arcgis/rest/services/LandUse/FeatureServer/0
+**Layer type**: `flu`
+**Extraction method**: `arcgis_rest` — no PDF stages (not applicable)
+**Pipeline version**: v2 (phase-18b-2-pipeline-v2)
+
+### Run outcome: PASS
+
+| Criterion | Result | Status |
+|---|---|---|
+| Feature count = 94 | 94 features | PASS |
+| Centroid within 10 km of city center | 0.54 km | PASS |
+| Coded domain resolved | 11 domain entries resolved to labels | PASS |
+| Schema v2 fields | All present | PASS |
+| Cost | $0 (REST ingest) | PASS |
+
+### Coded domain (LandUse field, 11 entries)
+
+| Code | Label |
+|---|---|
+| R-VLD | Very Low Density Residential |
+| R-LD | Low Density Residential |
+| R-C | Cluster Residential |
+| R-MF | Multi-Family Residential |
+| MU | Mixed-Use |
+| C-RC | Regional Core |
+| C | Commercial |
+| C-H | Heavy Commercial |
+| PROS | Parks, Recreation, & Open Space |
+| CI | Civic Institutional |
+| G | Governmental |
+
+### Zone types (12, including 1 null)
+
+| Zone | Count |
+|---|---|
+| Commercial | 20 |
+| Parks, Recreation, & Open Space | 19 |
+| Very Low Density Residential | 12 |
+| Civic Institutional | 12 |
+| Low Density Residential | 11 |
+| Cluster Residential | 7 |
+| Mixed-Use | 6 |
+| Heavy Commercial | 3 |
+| Regional Core | 1 |
+| Multi-Family Residential | 1 |
+| Governmental | 1 |
+| *(null LandUse — 1 feature with no domain value)* | 1 |
+
+**Output**: `data/zoning/future/bluffdale_gp.geojson` (94 features, schema v2)
+**Primary FLU field**: `LandUse` (coded domain — resolved to label strings, not codes)
+**Native SR**: WKID 102743 (EPSG:3566 Utah Central State Plane, feet) → reprojected to EPSG:4326 via `outSR=4326`
+**Data quality note**: 1 feature has a null `LandUse` value in the source — stored as empty string in `gp_zone_code`. Additional `gp_zone_type` field populated from `Type` column for supplementary classification context.
+
+---
+
+## Draper — 2026-05-16 (18b-2c REST ingest)
+
+**Layer**: `Land Use` (Land_Use_Public FeatureServer Layer 3)
+**Source URL**: https://services2.arcgis.com/nAPVXppTJAHM40Se/arcgis/rest/services/Land_Use_Public/FeatureServer/3
+**Layer type**: `flu`
+**Extraction method**: `arcgis_rest` — no PDF stages (not applicable)
+**Pipeline version**: v2 (phase-18b-2-pipeline-v2)
+
+### Run outcome: PASS
+
+| Criterion | Result | Status |
+|---|---|---|
+| Feature count = 62 | 62 features | PASS |
+| Centroid within 10 km of city center | 2.45 km | PASS |
+| Schema v2 fields | All present | PASS |
+| Cost | $0 (REST ingest) | PASS |
+
+### Zone types (20)
+
+| Zone | Count |
+|---|---|
+| Residential Low/Medium Density | 41 |
+| Office/Service | 3 |
+| Open Space/Parks | 1 |
+| Community/Neighborhood Commercial | 1 |
+| Regional Commercial | 1 |
+| Residential Medium-High Density | 1 |
+| Sensitive River Overlay | 1 |
+| Residential Hillside Low Density | 1 |
+| Neighborhood Commercial | 1 |
+| Community Commercial | 1 |
+| Destination Commercial | 1 |
+| Town Center | 1 |
+| Transit Station District | 1 |
+| Residential High Density | 1 |
+| Business & Light Manufacturing | 1 |
+| Growth Area | 1 |
+| Industrial/Manufacturing | 1 |
+| Cultural/Institutional | 1 |
+| Commercial Special District | 1 |
+| Residential Medium Density | 1 |
+
+**Output**: `data/zoning/future/draper_gp.geojson` (62 features, schema v2)
+**Primary FLU field**: `LAND_USE` (string, no coded domain — values are label strings)
+**Native SR**: WKID 102743 (EPSG:3566 Utah Central State Plane, feet) → reprojected to EPSG:4326 via `outSR=4326`
+**Data quality note**: 20 distinct zone types vs. ~12 in pre-check inventory (inventory was based on sampling). Actual layer has higher granularity. `ZONING` field (current zoning cross-ref) retained in `gp_zone_label` property for Phase 18b-3 join — not used as FLU classification.

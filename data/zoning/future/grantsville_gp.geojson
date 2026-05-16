@@ -1,0 +1,3603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.506022255837,
+              40.6945194104874
+            ],
+            [
+              -112.505372673804,
+              40.6505377454002
+            ],
+            [
+              -112.514903255992,
+              40.650417468616
+            ],
+            [
+              -112.514964338513,
+              40.6467565475586
+            ],
+            [
+              -112.522151900941,
+              40.6466718746653
+            ],
+            [
+              -112.522157335655,
+              40.6448270881749
+            ],
+            [
+              -112.517168757964,
+              40.6449263588185
+            ],
+            [
+              -112.51715554274,
+              40.6431242195013
+            ],
+            [
+              -112.521727695617,
+              40.6430522332104
+            ],
+            [
+              -112.521724712954,
+              40.6357194838021
+            ],
+            [
+              -112.524111001064,
+              40.6357622098909
+            ],
+            [
+              -112.524310266051,
+              40.6429676024606
+            ],
+            [
+              -112.53390949928,
+              40.6428374001656
+            ],
+            [
+              -112.533863949527,
+              40.6392191551027
+            ],
+            [
+              -112.543448508065,
+              40.6391857716761
+            ],
+            [
+              -112.544167157181,
+              40.6791255709097
+            ],
+            [
+              -112.56323348263,
+              40.6791133584771
+            ],
+            [
+              -112.563154220838,
+              40.6945233452911
+            ],
+            [
+              -112.506022255837,
+              40.6945194104874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.505372673804,
+              40.6505377454002
+            ],
+            [
+              -112.505072754691,
+              40.6359755067051
+            ],
+            [
+              -112.514588996906,
+              40.6358645741448
+            ],
+            [
+              -112.52160800267,
+              40.6387993243102
+            ],
+            [
+              -112.521727695617,
+              40.6430522332104
+            ],
+            [
+              -112.51715554274,
+              40.6431242195013
+            ],
+            [
+              -112.517205796075,
+              40.6449031162009
+            ],
+            [
+              -112.522157335655,
+              40.6448270881749
+            ],
+            [
+              -112.522151900941,
+              40.6466718746653
+            ],
+            [
+              -112.514964338513,
+              40.6467565475586
+            ],
+            [
+              -112.514903255992,
+              40.650417468616
+            ],
+            [
+              -112.505372673804,
+              40.6505377454002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Rural Residential 2",
+        "gp_zone_description": "Rural Residential 2",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.528773982095,
+              40.63569391581
+            ],
+            [
+              -112.528586876986,
+              40.6283638668039
+            ],
+            [
+              -112.523935305782,
+              40.6284783833665
+            ],
+            [
+              -112.524278170402,
+              40.621073961504
+            ],
+            [
+              -112.542751825555,
+              40.6209342143961
+            ],
+            [
+              -112.542763945619,
+              40.6355941714304
+            ],
+            [
+              -112.528773982095,
+              40.63569391581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.521762850308,
+              40.6388551718196
+            ],
+            [
+              -112.514588996906,
+              40.6358645741448
+            ],
+            [
+              -112.505061000015,
+              40.6359692640168
+            ],
+            [
+              -112.504946863532,
+              40.6323531936063
+            ],
+            [
+              -112.50892945931,
+              40.6322901708133
+            ],
+            [
+              -112.507266086767,
+              40.6304259446827
+            ],
+            [
+              -112.505141612101,
+              40.6279677594751
+            ],
+            [
+              -112.505322032293,
+              40.6278889076978
+            ],
+            [
+              -112.50889571488,
+              40.6260667156231
+            ],
+            [
+              -112.510148680152,
+              40.625619297576
+            ],
+            [
+              -112.515725760855,
+              40.6223564364759
+            ],
+            [
+              -112.513668552783,
+              40.6176176723761
+            ],
+            [
+              -112.512211296146,
+              40.6179964407263
+            ],
+            [
+              -112.50835404436,
+              40.6144074161502
+            ],
+            [
+              -112.508162983931,
+              40.6068702308282
+            ],
+            [
+              -112.542424874566,
+              40.6063918552102
+            ],
+            [
+              -112.542748295129,
+              40.6207695442511
+            ],
+            [
+              -112.52426022416,
+              40.6210732336157
+            ],
+            [
+              -112.523936298867,
+              40.6284800431065
+            ],
+            [
+              -112.528586876986,
+              40.6283638668039
+            ],
+            [
+              -112.528773982095,
+              40.63569391581
+            ],
+            [
+              -112.521724712954,
+              40.6357194838021
+            ],
+            [
+              -112.521762850308,
+              40.6388551718196
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.389437246061,
+              40.5864664856375
+            ],
+            [
+              -112.370399580848,
+              40.5866603674797
+            ],
+            [
+              -112.370043070042,
+              40.5825249599523
+            ],
+            [
+              -112.367717107699,
+              40.577503684169
+            ],
+            [
+              -112.367424851423,
+              40.5647879859892
+            ],
+            [
+              -112.389190494413,
+              40.5644693440633
+            ],
+            [
+              -112.389437246061,
+              40.5864664856375
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.370302335738,
+              40.5855324109794
+            ],
+            [
+              -112.370386054516,
+              40.5866595496546
+            ],
+            [
+              -112.389442560323,
+              40.5864687918345
+            ],
+            [
+              -112.389439142743,
+              40.5862742804978
+            ],
+            [
+              -112.395444465995,
+              40.5862006921224
+            ],
+            [
+              -112.395556664417,
+              40.5934753429827
+            ],
+            [
+              -112.379599845844,
+              40.5932942911054
+            ],
+            [
+              -112.370207999225,
+              40.5926033942031
+            ],
+            [
+              -112.370080606279,
+              40.5884585611001
+            ],
+            [
+              -112.364647976771,
+              40.5885250141249
+            ],
+            [
+              -112.364590783439,
+              40.5855938382434
+            ],
+            [
+              -112.370302335738,
+              40.5855324109794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.411803697627,
+              40.586332788567
+            ],
+            [
+              -112.408473703586,
+              40.5848631857775
+            ],
+            [
+              -112.408424092865,
+              40.5802264852356
+            ],
+            [
+              -112.411626640754,
+              40.5802108382163
+            ],
+            [
+              -112.411674141424,
+              40.5846142393435
+            ],
+            [
+              -112.411803697627,
+              40.586332788567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.395556664417,
+              40.5934753429827
+            ],
+            [
+              -112.395442603858,
+              40.5861887603784
+            ],
+            [
+              -112.389439142743,
+              40.5862742804978
+            ],
+            [
+              -112.389193619205,
+              40.5644693064817
+            ],
+            [
+              -112.43302161019,
+              40.5638670716132
+            ],
+            [
+              -112.433028224776,
+              40.5675470167002
+            ],
+            [
+              -112.428278524459,
+              40.5675995073155
+            ],
+            [
+              -112.428291456169,
+              40.57126739854
+            ],
+            [
+              -112.421668250025,
+              40.5713154644492
+            ],
+            [
+              -112.421835467393,
+              40.5845480919316
+            ],
+            [
+              -112.420535138639,
+              40.5845333614256
+            ],
+            [
+              -112.420574709441,
+              40.5895389657726
+            ],
+            [
+              -112.421898089797,
+              40.5895178471112
+            ],
+            [
+              -112.421924441067,
+              40.5915254441079
+            ],
+            [
+              -112.411802728157,
+              40.5863329877939
+            ],
+            [
+              -112.411622590538,
+              40.5802078050199
+            ],
+            [
+              -112.408424092865,
+              40.5802264852356
+            ],
+            [
+              -112.408473703586,
+              40.5848631857775
+            ],
+            [
+              -112.408652559824,
+              40.5933148599704
+            ],
+            [
+              -112.395556664417,
+              40.5934753429827
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Rural Residential 2",
+        "gp_zone_description": "Rural Residential 2",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.408688948095,
+              40.5890320116777
+            ],
+            [
+              -112.408479181723,
+              40.5848608317205
+            ],
+            [
+              -112.417654660143,
+              40.58933524771
+            ],
+            [
+              -112.416240347893,
+              40.5893717661811
+            ],
+            [
+              -112.414488778487,
+              40.5888054842636
+            ],
+            [
+              -112.414144148979,
+              40.5893371705176
+            ],
+            [
+              -112.413543730475,
+              40.5893444514962
+            ],
+            [
+              -112.413536840952,
+              40.5889724234679
+            ],
+            [
+              -112.408688948095,
+              40.5890320116777
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.50889571488,
+              40.6260667156231
+            ],
+            [
+              -112.501276136011,
+              40.6185474062037
+            ],
+            [
+              -112.50838504329,
+              40.6144186266049
+            ],
+            [
+              -112.512211296146,
+              40.6179964407263
+            ],
+            [
+              -112.513668242284,
+              40.6176177953567
+            ],
+            [
+              -112.515725760855,
+              40.6223564364759
+            ],
+            [
+              -112.510148680152,
+              40.625619297576
+            ],
+            [
+              -112.50889571488,
+              40.6260667156231
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.452833347297,
+              40.6219035678792
+            ],
+            [
+              -112.447905803315,
+              40.6219478295451
+            ],
+            [
+              -112.447913996439,
+              40.6183222232382
+            ],
+            [
+              -112.449137566585,
+              40.6183111947331
+            ],
+            [
+              -112.449089205005,
+              40.6147104333231
+            ],
+            [
+              -112.452023660924,
+              40.6146420348712
+            ],
+            [
+              -112.45196771542,
+              40.6129930808867
+            ],
+            [
+              -112.456507471977,
+              40.6130220440873
+            ],
+            [
+              -112.456519367223,
+              40.6171266458941
+            ],
+            [
+              -112.455677731434,
+              40.6174683919672
+            ],
+            [
+              -112.455571249892,
+              40.6192357901841
+            ],
+            [
+              -112.455602755568,
+              40.6218825837618
+            ],
+            [
+              -112.455588033482,
+              40.622071934594
+            ],
+            [
+              -112.45562005129,
+              40.6262438732006
+            ],
+            [
+              -112.452951725854,
+              40.6262585437454
+            ],
+            [
+              -112.452833347297,
+              40.6219035678792
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Industrial",
+        "gp_zone_description": "Industrial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.447905803315,
+              40.6219478295451
+            ],
+            [
+              -112.440758826577,
+              40.6220280293487
+            ],
+            [
+              -112.44065984106,
+              40.6183678624091
+            ],
+            [
+              -112.442662316862,
+              40.618315044651
+            ],
+            [
+              -112.442731439917,
+              40.6147869809365
+            ],
+            [
+              -112.449089205005,
+              40.6147104333231
+            ],
+            [
+              -112.449137566585,
+              40.6183111947331
+            ],
+            [
+              -112.447913996439,
+              40.6183222232382
+            ],
+            [
+              -112.447905803315,
+              40.6219478295451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.455602755568,
+              40.6218825837618
+            ],
+            [
+              -112.455677731434,
+              40.6174683919672
+            ],
+            [
+              -112.456519367223,
+              40.6171266458941
+            ],
+            [
+              -112.456507471977,
+              40.6130220440873
+            ],
+            [
+              -112.456087750166,
+              40.6035966497391
+            ],
+            [
+              -112.460617343718,
+              40.6036039721208
+            ],
+            [
+              -112.460779486556,
+              40.6171372176711
+            ],
+            [
+              -112.459382075666,
+              40.6184182738215
+            ],
+            [
+              -112.45944089467,
+              40.6217764550634
+            ],
+            [
+              -112.455602755568,
+              40.6218825837618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.486662401695,
+              40.5950893871296
+            ],
+            [
+              -112.462383153358,
+              40.5952468564475
+            ],
+            [
+              -112.462359347771,
+              40.5937675727012
+            ],
+            [
+              -112.456820715166,
+              40.5937627267962
+            ],
+            [
+              -112.456872740708,
+              40.595325923737
+            ],
+            [
+              -112.449186818816,
+              40.5953285178476
+            ],
+            [
+              -112.449192624471,
+              40.5950030083663
+            ],
+            [
+              -112.449175860446,
+              40.5922457286533
+            ],
+            [
+              -112.43974500242,
+              40.5923282057312
+            ],
+            [
+              -112.439666157669,
+              40.5883729620259
+            ],
+            [
+              -112.449124329075,
+              40.5884323943902
+            ],
+            [
+              -112.456704986759,
+              40.5882429884378
+            ],
+            [
+              -112.456874433518,
+              40.5883408013978
+            ],
+            [
+              -112.46055518576,
+              40.5883231029269
+            ],
+            [
+              -112.460874761211,
+              40.5883528975049
+            ],
+            [
+              -112.464038183098,
+              40.5884753788355
+            ],
+            [
+              -112.463981973916,
+              40.5920092028377
+            ],
+            [
+              -112.465457306345,
+              40.5920234234003
+            ],
+            [
+              -112.465499085601,
+              40.589168712096
+            ],
+            [
+              -112.477539575345,
+              40.5889809880912
+            ],
+            [
+              -112.47749344077,
+              40.5931457245788
+            ],
+            [
+              -112.480185806934,
+              40.5931244516077
+            ],
+            [
+              -112.480174608273,
+              40.592639861557
+            ],
+            [
+              -112.486611968761,
+              40.5925537774433
+            ],
+            [
+              -112.486662401695,
+              40.5950893871296
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Medium Density Rsidential",
+        "gp_zone_description": "Medium Density Rsidential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.462383153358,
+              40.5952468564475
+            ],
+            [
+              -112.456849882349,
+              40.5952499170684
+            ],
+            [
+              -112.456820715166,
+              40.5937627267962
+            ],
+            [
+              -112.462359347771,
+              40.5937675727012
+            ],
+            [
+              -112.462383153358,
+              40.5952468564475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.480185806934,
+              40.5931244516077
+            ],
+            [
+              -112.477607340815,
+              40.5931448258463
+            ],
+            [
+              -112.47749344077,
+              40.5931457245788
+            ],
+            [
+              -112.477539575345,
+              40.5889809880912
+            ],
+            [
+              -112.480131585714,
+              40.5889618126982
+            ],
+            [
+              -112.480185806934,
+              40.5931244516077
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.465457306345,
+              40.5920234234003
+            ],
+            [
+              -112.463981973916,
+              40.5920092028377
+            ],
+            [
+              -112.464038183098,
+              40.5884753788355
+            ],
+            [
+              -112.465483655279,
+              40.5884674659005
+            ],
+            [
+              -112.465457306345,
+              40.5920234234003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.449169543002,
+              40.5884321234333
+            ],
+            [
+              -112.446847807176,
+              40.5884318476512
+            ],
+            [
+              -112.446820586865,
+              40.5870333392958
+            ],
+            [
+              -112.449170527396,
+              40.5870052177709
+            ],
+            [
+              -112.449169543002,
+              40.5884321234333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.478993756575,
+              40.5853297687248
+            ],
+            [
+              -112.480360261443,
+              40.5816857692852
+            ],
+            [
+              -112.48478456575,
+              40.5816427885773
+            ],
+            [
+              -112.484827767184,
+              40.5852832201313
+            ],
+            [
+              -112.478993756575,
+              40.5853297687248
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.456814404862,
+              40.5954213687813
+            ],
+            [
+              -112.459715908279,
+              40.5954135460506
+            ],
+            [
+              -112.459699215176,
+              40.5990535351161
+            ],
+            [
+              -112.457887478998,
+              40.5990488246859
+            ],
+            [
+              -112.457882792365,
+              40.5987877154567
+            ],
+            [
+              -112.457449880543,
+              40.5987812625538
+            ],
+            [
+              -112.457338835924,
+              40.5970391684328
+            ],
+            [
+              -112.456796219948,
+              40.597023585439
+            ],
+            [
+              -112.456814404862,
+              40.5954213687813
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.469491102479,
+              40.599787400428
+            ],
+            [
+              -112.467233725498,
+              40.5997846140872
+            ],
+            [
+              -112.46722190971,
+              40.5976975515344
+            ],
+            [
+              -112.468955871128,
+              40.5976848322724
+            ],
+            [
+              -112.468959381268,
+              40.5980287620745
+            ],
+            [
+              -112.469560415873,
+              40.598029983196
+            ],
+            [
+              -112.469565161747,
+              40.5987951178254
+            ],
+            [
+              -112.469486421063,
+              40.598911221143
+            ],
+            [
+              -112.469491102479,
+              40.599787400428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.467077844825,
+              40.6011501377507
+            ],
+            [
+              -112.467080138341,
+              40.6004508868295
+            ],
+            [
+              -112.468422209676,
+              40.6004692198674
+            ],
+            [
+              -112.468419407284,
+              40.6001002305933
+            ],
+            [
+              -112.46885902948,
+              40.6001010131816
+            ],
+            [
+              -112.468859429989,
+              40.6003776733905
+            ],
+            [
+              -112.46946153018,
+              40.6003812037423
+            ],
+            [
+              -112.469458215237,
+              40.6011474613115
+            ],
+            [
+              -112.467077844825,
+              40.6011501377507
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.46946153018,
+              40.6003812037423
+            ],
+            [
+              -112.468858683612,
+              40.6003784549045
+            ],
+            [
+              -112.468859895802,
+              40.6001032272392
+            ],
+            [
+              -112.46946272233,
+              40.6001092211656
+            ],
+            [
+              -112.46946153018,
+              40.6003812037423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.477296812439,
+              40.602172949169
+            ],
+            [
+              -112.475280502387,
+              40.6021674076288
+            ],
+            [
+              -112.475281307731,
+              40.6019478202786
+            ],
+            [
+              -112.474921188974,
+              40.601946544986
+            ],
+            [
+              -112.474920383633,
+              40.6021661323392
+            ],
+            [
+              -112.474776335413,
+              40.6021656217377
+            ],
+            [
+              -112.474777365632,
+              40.6018856490996
+            ],
+            [
+              -112.474489271567,
+              40.6018846273239
+            ],
+            [
+              -112.474488240145,
+              40.6021645999805
+            ],
+            [
+              -112.474326187809,
+              40.6021640250226
+            ],
+            [
+              -112.474331387872,
+              40.6007527735336
+            ],
+            [
+              -112.47410288359,
+              40.6007522664764
+            ],
+            [
+              -112.474105293301,
+              40.6001224717272
+            ],
+            [
+              -112.477329774897,
+              40.6001189013143
+            ],
+            [
+              -112.477296812439,
+              40.602172949169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.474145499857,
+              40.6021625085275
+            ],
+            [
+              -112.473719942728,
+              40.6021646709421
+            ],
+            [
+              -112.473715076869,
+              40.6016939954007
+            ],
+            [
+              -112.474140311239,
+              40.6016914263548
+            ],
+            [
+              -112.474145499857,
+              40.6021625085275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.476492423008,
+              40.6035612432011
+            ],
+            [
+              -112.47649287937,
+              40.6036056064269
+            ],
+            [
+              -112.477508751254,
+              40.6036049584366
+            ],
+            [
+              -112.477526227543,
+              40.6036470995238
+            ],
+            [
+              -112.479054434249,
+              40.6036712227549
+            ],
+            [
+              -112.47908591947,
+              40.6116495199019
+            ],
+            [
+              -112.477184516998,
+              40.6116714066593
+            ],
+            [
+              -112.477122554181,
+              40.606099654608
+            ],
+            [
+              -112.475297274585,
+              40.6061039693869
+            ],
+            [
+              -112.475304355219,
+              40.6036355431634
+            ],
+            [
+              -112.476257641685,
+              40.603638250592
+            ],
+            [
+              -112.476246989656,
+              40.6025133720163
+            ],
+            [
+              -112.477043483975,
+              40.6025128650137
+            ],
+            [
+              -112.477043725717,
+              40.6027324524492
+            ],
+            [
+              -112.476671414012,
+              40.6028708516593
+            ],
+            [
+              -112.4764853477,
+              40.6028724002005
+            ],
+            [
+              -112.476492423008,
+              40.6035612432011
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.446348613618,
+              40.6024660311492
+            ],
+            [
+              -112.447072811349,
+              40.6024672499
+            ],
+            [
+              -112.447124731907,
+              40.6053977619689
+            ],
+            [
+              -112.446352392723,
+              40.6054044137438
+            ],
+            [
+              -112.446348613618,
+              40.6024660311492
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.455926943702,
+              40.5710311560906
+            ],
+            [
+              -112.453136153352,
+              40.5710569892008
+            ],
+            [
+              -112.453116474315,
+              40.5698091055478
+            ],
+            [
+              -112.455089801831,
+              40.5694904280395
+            ],
+            [
+              -112.455087321089,
+              40.5689220668254
+            ],
+            [
+              -112.45547305298,
+              40.5687904216688
+            ],
+            [
+              -112.455903168436,
+              40.5685506331297
+            ],
+            [
+              -112.456582035195,
+              40.5689624025192
+            ],
+            [
+              -112.45666995659,
+              40.5690761696082
+            ],
+            [
+              -112.45668321082,
+              40.5695058744565
+            ],
+            [
+              -112.455923366126,
+              40.5702128664961
+            ],
+            [
+              -112.455926943702,
+              40.5710311560906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.422477513102,
+              40.5920497668663
+            ],
+            [
+              -112.421905671648,
+              40.5917516665492
+            ],
+            [
+              -112.421898089797,
+              40.5895178471112
+            ],
+            [
+              -112.420574709441,
+              40.5895389657726
+            ],
+            [
+              -112.420541711186,
+              40.5845373506074
+            ],
+            [
+              -112.421835467393,
+              40.5845480919316
+            ],
+            [
+              -112.421668250025,
+              40.5713154644492
+            ],
+            [
+              -112.428291456169,
+              40.57126739854
+            ],
+            [
+              -112.442567355905,
+              40.5711590292892
+            ],
+            [
+              -112.455926947119,
+              40.5710318587072
+            ],
+            [
+              -112.465702211808,
+              40.5634538977086
+            ],
+            [
+              -112.465713402169,
+              40.5636841336327
+            ],
+            [
+              -112.470598095697,
+              40.5636328970021
+            ],
+            [
+              -112.47057183585,
+              40.5708868694533
+            ],
+            [
+              -112.465848439143,
+              40.5709437131154
+            ],
+            [
+              -112.465829427576,
+              40.5781939874313
+            ],
+            [
+              -112.481517781167,
+              40.5779336934066
+            ],
+            [
+              -112.48175518316,
+              40.5779352106634
+            ],
+            [
+              -112.478993756575,
+              40.5853297687248
+            ],
+            [
+              -112.484557996615,
+              40.5852855612102
+            ],
+            [
+              -112.495222585167,
+              40.5853657267616
+            ],
+            [
+              -112.49505252611,
+              40.5996792252983
+            ],
+            [
+              -112.507863414607,
+              40.5996279313976
+            ],
+            [
+              -112.50787347787,
+              40.6031755670408
+            ],
+            [
+              -112.511366958115,
+              40.6031444753073
+            ],
+            [
+              -112.511423051996,
+              40.6067575537512
+            ],
+            [
+              -112.507954779399,
+              40.6068017296565
+            ],
+            [
+              -112.494883539756,
+              40.6069673552685
+            ],
+            [
+              -112.48677242799,
+              40.5998087524843
+            ],
+            [
+              -112.486662401695,
+              40.5950893871296
+            ],
+            [
+              -112.486611968761,
+              40.5925537774433
+            ],
+            [
+              -112.480171554533,
+              40.5926032067345
+            ],
+            [
+              -112.480131585714,
+              40.5889618126982
+            ],
+            [
+              -112.465499085601,
+              40.589168712096
+            ],
+            [
+              -112.465483655279,
+              40.5884674659005
+            ],
+            [
+              -112.460905946426,
+              40.5883561586481
+            ],
+            [
+              -112.46055518576,
+              40.5883231029269
+            ],
+            [
+              -112.456874433518,
+              40.5883408013978
+            ],
+            [
+              -112.456704986759,
+              40.5882429884378
+            ],
+            [
+              -112.449124329075,
+              40.5884323943902
+            ],
+            [
+              -112.449170527396,
+              40.5870052177709
+            ],
+            [
+              -112.446820586865,
+              40.5870333392958
+            ],
+            [
+              -112.446847807176,
+              40.5884318476512
+            ],
+            [
+              -112.439666157669,
+              40.5883729620259
+            ],
+            [
+              -112.43974500242,
+              40.5923282057312
+            ],
+            [
+              -112.422477513102,
+              40.5920497668663
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Low Density Residentail",
+        "gp_zone_description": "Low Density Residentail",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.455923366439,
+              40.5702128809057
+            ],
+            [
+              -112.45668321082,
+              40.5695058744565
+            ],
+            [
+              -112.456676435508,
+              40.5690978748597
+            ],
+            [
+              -112.45660199728,
+              40.5689786443685
+            ],
+            [
+              -112.455903168436,
+              40.5685506331297
+            ],
+            [
+              -112.45547305298,
+              40.5687904216688
+            ],
+            [
+              -112.455087321089,
+              40.5689220668254
+            ],
+            [
+              -112.455089801831,
+              40.5694904280395
+            ],
+            [
+              -112.453113115232,
+              40.5698008347997
+            ],
+            [
+              -112.453136153352,
+              40.5710569892008
+            ],
+            [
+              -112.428290810958,
+              40.5712676119119
+            ],
+            [
+              -112.428279489701,
+              40.5675992908872
+            ],
+            [
+              -112.433028224776,
+              40.5675470167002
+            ],
+            [
+              -112.43302161019,
+              40.5638670716132
+            ],
+            [
+              -112.465713944772,
+              40.5634599574552
+            ],
+            [
+              -112.455926943702,
+              40.5710311560906
+            ],
+            [
+              -112.455923366439,
+              40.5702128809057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Low Density Residentail",
+        "gp_zone_description": "Low Density Residentail",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.426782100216,
+              40.5921194206091
+            ],
+            [
+              -112.439744990625,
+              40.5923282067791
+            ],
+            [
+              -112.439747930235,
+              40.5953075189242
+            ],
+            [
+              -112.42690626219,
+              40.5954559064466
+            ],
+            [
+              -112.426782100216,
+              40.5921194206091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Medium Density Rsidential",
+        "gp_zone_description": "Medium Density Rsidential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.43231275708,
+              40.5995206724327
+            ],
+            [
+              -112.432096739665,
+              40.5995209515806
+            ],
+            [
+              -112.432098972032,
+              40.598822655148
+            ],
+            [
+              -112.431676643376,
+              40.5988203299053
+            ],
+            [
+              -112.431659607193,
+              40.5976654644932
+            ],
+            [
+              -112.431946173791,
+              40.5976650303183
+            ],
+            [
+              -112.431940800265,
+              40.5972977645343
+            ],
+            [
+              -112.432012731295,
+              40.5972970852153
+            ],
+            [
+              -112.432018672521,
+              40.5976623035444
+            ],
+            [
+              -112.432307057249,
+              40.5976617270175
+            ],
+            [
+              -112.43231275708,
+              40.5995206724327
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.439747930235,
+              40.5953075189242
+            ],
+            [
+              -112.439750450442,
+              40.5978822041735
+            ],
+            [
+              -112.43488312887,
+              40.5977650119201
+            ],
+            [
+              -112.434435327495,
+              40.5978208815988
+            ],
+            [
+              -112.434432631197,
+              40.5983122070282
+            ],
+            [
+              -112.432319292462,
+              40.5983214925404
+            ],
+            [
+              -112.432306485909,
+              40.5981767615447
+            ],
+            [
+              -112.432304748058,
+              40.5976644996261
+            ],
+            [
+              -112.432018672521,
+              40.5976623035444
+            ],
+            [
+              -112.432012770673,
+              40.5972995395254
+            ],
+            [
+              -112.431940836652,
+              40.5973000233985
+            ],
+            [
+              -112.431946173791,
+              40.5976650303183
+            ],
+            [
+              -112.431659257089,
+              40.5976630140351
+            ],
+            [
+              -112.431661451968,
+              40.5984164900329
+            ],
+            [
+              -112.42687723946,
+              40.5984380201594
+            ],
+            [
+              -112.42690626219,
+              40.5954559064466
+            ],
+            [
+              -112.439747930235,
+              40.5953075189242
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "High Single Family Density Residential",
+        "gp_zone_description": "High Single Family Density Residential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.446824000158,
+              40.6012857964195
+            ],
+            [
+              -112.446827146348,
+              40.6015161419189
+            ],
+            [
+              -112.446153776219,
+              40.6014642946684
+            ],
+            [
+              -112.446253344928,
+              40.6005598833696
+            ],
+            [
+              -112.445049539029,
+              40.6005597377565
+            ],
+            [
+              -112.445046466303,
+              40.5998876497297
+            ],
+            [
+              -112.446836683779,
+              40.5999131199864
+            ],
+            [
+              -112.446824000158,
+              40.6012857964195
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.446815613487,
+              40.6021933672551
+            ],
+            [
+              -112.445061290766,
+              40.6021807280148
+            ],
+            [
+              -112.445049539029,
+              40.6005597377565
+            ],
+            [
+              -112.446253344928,
+              40.6005598833696
+            ],
+            [
+              -112.446153776219,
+              40.6014642946684
+            ],
+            [
+              -112.446827146348,
+              40.6015161419189
+            ],
+            [
+              -112.446815613487,
+              40.6021933672551
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.42687723946,
+                40.5984380201594
+              ],
+              [
+                -112.431661451968,
+                40.5984164900329
+              ],
+              [
+                -112.431662617665,
+                40.5988238945569
+              ],
+              [
+                -112.432098972032,
+                40.598822655148
+              ],
+              [
+                -112.432096739665,
+                40.5995209515806
+              ],
+              [
+                -112.43231275708,
+                40.5995206724327
+              ],
+              [
+                -112.43231509936,
+                40.5983214949996
+              ],
+              [
+                -112.434432859091,
+                40.5983229224292
+              ],
+              [
+                -112.43437139701,
+                40.5978460569806
+              ],
+              [
+                -112.43488312887,
+                40.5977650119201
+              ],
+              [
+                -112.439750450442,
+                40.5978822041735
+              ],
+              [
+                -112.439744990625,
+                40.5923282067791
+              ],
+              [
+                -112.446585963063,
+                40.5922655397258
+              ],
+              [
+                -112.446762832527,
+                40.5999120696637
+              ],
+              [
+                -112.445046466303,
+                40.5998876497297
+              ],
+              [
+                -112.445061290766,
+                40.6021807280148
+              ],
+              [
+                -112.437950641897,
+                40.6022457828492
+              ],
+              [
+                -112.43795072995,
+                40.6022154269692
+              ],
+              [
+                -112.437932246043,
+                40.6008549643344
+              ],
+              [
+                -112.422019643223,
+                40.6010402304838
+              ],
+              [
+                -112.421858262597,
+                40.5920483174016
+              ],
+              [
+                -112.426782100216,
+                40.5921194206091
+              ],
+              [
+                -112.42690626219,
+                40.5954559064466
+              ],
+              [
+                -112.42687723946,
+                40.5984380201594
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -112.446762832527,
+                40.5999120696637
+              ],
+              [
+                -112.446836683779,
+                40.5999131199864
+              ],
+              [
+                -112.446815613487,
+                40.6021933672551
+              ],
+              [
+                -112.446762832527,
+                40.5999120696637
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.44917272876,
+              40.5953342789807
+            ],
+            [
+              -112.486662401695,
+              40.5950893871296
+            ],
+            [
+              -112.48677242799,
+              40.5998087524843
+            ],
+            [
+              -112.494767356341,
+              40.6069667548756
+            ],
+            [
+              -112.508162983931,
+              40.6068702308282
+            ],
+            [
+              -112.50838504329,
+              40.6144186266049
+            ],
+            [
+              -112.502532771566,
+              40.617812673434
+            ],
+            [
+              -112.483761326481,
+              40.5992975402873
+            ],
+            [
+              -112.483379792007,
+              40.599302647145
+            ],
+            [
+              -112.477575788705,
+              40.5993729741459
+            ],
+            [
+              -112.477578162719,
+              40.5979287326365
+            ],
+            [
+              -112.469560415873,
+              40.598029983196
+            ],
+            [
+              -112.468959381268,
+              40.5980287620745
+            ],
+            [
+              -112.468955871128,
+              40.5976848322724
+            ],
+            [
+              -112.46722190971,
+              40.5976975515344
+            ],
+            [
+              -112.467224297678,
+              40.598147249933
+            ],
+            [
+              -112.459708196271,
+              40.5981821321685
+            ],
+            [
+              -112.459715908279,
+              40.5954135460506
+            ],
+            [
+              -112.456814404862,
+              40.5954213687813
+            ],
+            [
+              -112.456796219948,
+              40.597023585439
+            ],
+            [
+              -112.457338835924,
+              40.5970391684328
+            ],
+            [
+              -112.457395118342,
+              40.5979221542941
+            ],
+            [
+              -112.449182756244,
+              40.5979982163909
+            ],
+            [
+              -112.44917272876,
+              40.5953342789807
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "High Single Family Density Residential",
+        "gp_zone_description": "High Single Family Density Residential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.480782224686,
+              40.6027743220353
+            ],
+            [
+              -112.480772220742,
+              40.6025501646684
+            ],
+            [
+              -112.482545589519,
+              40.6025376389085
+            ],
+            [
+              -112.482729727919,
+              40.6027549553054
+            ],
+            [
+              -112.480782224686,
+              40.6027743220353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Parks & Open Space",
+        "gp_zone_description": "Parks & Open Space",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.480956537135,
+                40.6040446774759
+              ],
+              [
+                -112.480951067748,
+                40.6039540637163
+              ],
+              [
+                -112.480802940766,
+                40.6039551759186
+              ],
+              [
+                -112.480782224686,
+                40.6027743220353
+              ],
+              [
+                -112.482729727919,
+                40.6027549553054
+              ],
+              [
+                -112.482545589519,
+                40.6025376389085
+              ],
+              [
+                -112.480772220742,
+                40.6025501646684
+              ],
+              [
+                -112.480755573209,
+                40.6021884342668
+              ],
+              [
+                -112.481241455521,
+                40.6021667382901
+              ],
+              [
+                -112.482825972754,
+                40.6022067342591
+              ],
+              [
+                -112.483592746689,
+                40.6015476797315
+              ],
+              [
+                -112.485037586501,
+                40.6006658720008
+              ],
+              [
+                -112.483838493351,
+                40.6040249107077
+              ],
+              [
+                -112.483804125808,
+                40.6040229110292
+              ],
+              [
+                -112.480956537135,
+                40.6040446774759
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -112.483838493351,
+                40.6040249107077
+              ],
+              [
+                -112.502532771566,
+                40.617812673434
+              ],
+              [
+                -112.501276136011,
+                40.6185474062037
+              ],
+              [
+                -112.508895718649,
+                40.6260667254831
+              ],
+              [
+                -112.505141612101,
+                40.6279677594751
+              ],
+              [
+                -112.505084419114,
+                40.6279026170749
+              ],
+              [
+                -112.483838493351,
+                40.6040249107077
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.502532771566,
+              40.617812673434
+            ],
+            [
+              -112.483804125808,
+              40.6040229110292
+            ],
+            [
+              -112.485073992963,
+              40.6005927249831
+            ],
+            [
+              -112.502532771566,
+              40.617812673434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.477322893448,
+              40.6006625914405
+            ],
+            [
+              -112.477309718824,
+              40.5993701911762
+            ],
+            [
+              -112.483761326481,
+              40.5992975402873
+            ],
+            [
+              -112.485037586501,
+              40.6006658720008
+            ],
+            [
+              -112.483592746689,
+              40.6015476797315
+            ],
+            [
+              -112.482784001349,
+              40.60094179255
+            ],
+            [
+              -112.481516493558,
+              40.6003527689863
+            ],
+            [
+              -112.481445647611,
+              40.6006584445963
+            ],
+            [
+              -112.480659244002,
+              40.6004186606416
+            ],
+            [
+              -112.480226847472,
+              40.6004207887513
+            ],
+            [
+              -112.480074521249,
+              40.6004835307256
+            ],
+            [
+              -112.478617077278,
+              40.6005473698962
+            ],
+            [
+              -112.478401109737,
+              40.6006991807106
+            ],
+            [
+              -112.478149090623,
+              40.6006979007897
+            ],
+            [
+              -112.478146587151,
+              40.600640489865
+            ],
+            [
+              -112.477322893448,
+              40.6006625914405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.477329774897,
+              40.6001189013143
+            ],
+            [
+              -112.474105293301,
+              40.6001224717272
+            ],
+            [
+              -112.47410288359,
+              40.6007522664764
+            ],
+            [
+              -112.474331387872,
+              40.6007527735336
+            ],
+            [
+              -112.474326187809,
+              40.6021640250226
+            ],
+            [
+              -112.474145499857,
+              40.6021625085275
+            ],
+            [
+              -112.474140311239,
+              40.6016914263548
+            ],
+            [
+              -112.473715076869,
+              40.6016939954007
+            ],
+            [
+              -112.473719942728,
+              40.6021646709421
+            ],
+            [
+              -112.469460365243,
+              40.6021604615061
+            ],
+            [
+              -112.46946272233,
+              40.6001092211656
+            ],
+            [
+              -112.468423068317,
+              40.6000995111133
+            ],
+            [
+              -112.468422209676,
+              40.6004692198674
+            ],
+            [
+              -112.467080138341,
+              40.6004508868295
+            ],
+            [
+              -112.446815613487,
+              40.6021933672551
+            ],
+            [
+              -112.446438450117,
+              40.5922593347188
+            ],
+            [
+              -112.449175860446,
+              40.5922457286533
+            ],
+            [
+              -112.449182756244,
+              40.5979982163909
+            ],
+            [
+              -112.457395118342,
+              40.5979221542941
+            ],
+            [
+              -112.457449880543,
+              40.5987812625538
+            ],
+            [
+              -112.457882792365,
+              40.5987877154567
+            ],
+            [
+              -112.457887478998,
+              40.5990488246859
+            ],
+            [
+              -112.459699215176,
+              40.5990535351161
+            ],
+            [
+              -112.459708196271,
+              40.5981821321685
+            ],
+            [
+              -112.467224297678,
+              40.598147249933
+            ],
+            [
+              -112.467233725498,
+              40.5997846140872
+            ],
+            [
+              -112.469491102479,
+              40.599787400428
+            ],
+            [
+              -112.469486421063,
+              40.598911221143
+            ],
+            [
+              -112.469565161747,
+              40.5987951178254
+            ],
+            [
+              -112.469560415873,
+              40.598029983196
+            ],
+            [
+              -112.477578162719,
+              40.5979287326365
+            ],
+            [
+              -112.477575788705,
+              40.5993729741459
+            ],
+            [
+              -112.477309718824,
+              40.5993701911762
+            ],
+            [
+              -112.477329774897,
+              40.6001189013143
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.475280502387,
+              40.6021674076288
+            ],
+            [
+              -112.474920383633,
+              40.6021661323392
+            ],
+            [
+              -112.474921188974,
+              40.601946544986
+            ],
+            [
+              -112.475281307731,
+              40.6019478202786
+            ],
+            [
+              -112.475280502387,
+              40.6021674076288
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.474776335413,
+              40.6021656217377
+            ],
+            [
+              -112.474488240145,
+              40.6021645999805
+            ],
+            [
+              -112.474489271567,
+              40.6018846273239
+            ],
+            [
+              -112.474777365632,
+              40.6018856490996
+            ],
+            [
+              -112.474776335413,
+              40.6021656217377
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.469460365243,
+              40.6021604615061
+            ],
+            [
+              -112.446815613487,
+              40.6021933672551
+            ],
+            [
+              -112.467080138341,
+              40.6004508868295
+            ],
+            [
+              -112.467080300064,
+              40.601158698778
+            ],
+            [
+              -112.469458174583,
+              40.6011466844034
+            ],
+            [
+              -112.469460365243,
+              40.6021604615061
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.480802940766,
+              40.6039551759186
+            ],
+            [
+              -112.479051448962,
+              40.6039670949016
+            ],
+            [
+              -112.479054417079,
+              40.6036685141502
+            ],
+            [
+              -112.477526227543,
+              40.6036470995238
+            ],
+            [
+              -112.477505389912,
+              40.6036049609054
+            ],
+            [
+              -112.47649287937,
+              40.6036056064269
+            ],
+            [
+              -112.4764853477,
+              40.6028724002005
+            ],
+            [
+              -112.476671414012,
+              40.6028708516593
+            ],
+            [
+              -112.476959322548,
+              40.602783854685
+            ],
+            [
+              -112.477043725717,
+              40.6027324524492
+            ],
+            [
+              -112.477043483975,
+              40.6025128650137
+            ],
+            [
+              -112.477296812439,
+              40.602172949169
+            ],
+            [
+              -112.477322893448,
+              40.6006625914405
+            ],
+            [
+              -112.478149570334,
+              40.6006430172733
+            ],
+            [
+              -112.478149090623,
+              40.6006979007897
+            ],
+            [
+              -112.478401109737,
+              40.6006991807106
+            ],
+            [
+              -112.478617077278,
+              40.6005473698962
+            ],
+            [
+              -112.480074521249,
+              40.6004835307256
+            ],
+            [
+              -112.480226847472,
+              40.6004207887513
+            ],
+            [
+              -112.480659244002,
+              40.6004186606416
+            ],
+            [
+              -112.481445647611,
+              40.6006584445963
+            ],
+            [
+              -112.481516493558,
+              40.6003527689863
+            ],
+            [
+              -112.482784001349,
+              40.60094179255
+            ],
+            [
+              -112.483592746689,
+              40.6015476797315
+            ],
+            [
+              -112.482825972754,
+              40.6022067342591
+            ],
+            [
+              -112.481241455521,
+              40.6021667382901
+            ],
+            [
+              -112.480755573209,
+              40.6021884342668
+            ],
+            [
+              -112.480802940766,
+              40.6039551759186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "High Single Family Density Residential",
+        "gp_zone_description": "High Single Family Density Residential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.476671414012,
+              40.6028708516593
+            ],
+            [
+              -112.477043725717,
+              40.6027324524492
+            ],
+            [
+              -112.476959322548,
+              40.602783854685
+            ],
+            [
+              -112.476671414012,
+              40.6028708516593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Municipal/School",
+        "gp_zone_description": "Municipal/School",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.485037586501,
+              40.6006658720008
+            ],
+            [
+              -112.484982463002,
+              40.600606772303
+            ],
+            [
+              -112.483763258421,
+              40.5992994468658
+            ],
+            [
+              -112.485073992963,
+              40.6005927249831
+            ],
+            [
+              -112.485037586501,
+              40.6006658720008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.485037586501,
+              40.6006658720008
+            ],
+            [
+              -112.485073992963,
+              40.6005927249831
+            ],
+            [
+              -112.484803471959,
+              40.6013234891815
+            ],
+            [
+              -112.485037586501,
+              40.6006658720008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "Mixed Use Density",
+        "gp_zone_description": "Mixed Use Density",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.475303074182,
+              40.6040822697681
+            ],
+            [
+              -112.460621826005,
+              40.6040156843148
+            ],
+            [
+              -112.460617343718,
+              40.6036039721208
+            ],
+            [
+              -112.456087750166,
+              40.6035966497391
+            ],
+            [
+              -112.456079707376,
+              40.6041010653594
+            ],
+            [
+              -112.447103707748,
+              40.6042111857937
+            ],
+            [
+              -112.447041318429,
+              40.6021930607465
+            ],
+            [
+              -112.477296812439,
+              40.602172949169
+            ],
+            [
+              -112.477043483975,
+              40.6025128650137
+            ],
+            [
+              -112.476246989656,
+              40.6025133720163
+            ],
+            [
+              -112.476257641685,
+              40.603638250592
+            ],
+            [
+              -112.475304561561,
+              40.6036323497527
+            ],
+            [
+              -112.475303074182,
+              40.6040822697681
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "High Single Family Density Residential",
+        "gp_zone_description": "High Single Family Density Residential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.446350824008,
+              40.6041853327593
+            ],
+            [
+              -112.437984147242,
+              40.6041977204019
+            ],
+            [
+              -112.437950641897,
+              40.6022457828492
+            ],
+            [
+              -112.447041318429,
+              40.6021930607465
+            ],
+            [
+              -112.447072811349,
+              40.6024672499
+            ],
+            [
+              -112.446348613618,
+              40.6024660311492
+            ],
+            [
+              -112.446350824008,
+              40.6041853327593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_name": "Grantsville",
+        "city_slug": "grantsville",
+        "confidence": "rest_api",
+        "extraction_date": "2026-05-16",
+        "extraction_method": "arcgis_rest",
+        "future_layer_type": "flu",
+        "gp_zone_code": "High Single Family Density Residential",
+        "gp_zone_description": "High Single Family Density Residential",
+        "jurisdiction": "Grantsville City",
+        "source_rest_url": "https://services5.arcgis.com/uWdqWzgcb7gCRVuK/arcgis/rest/services/Future_Land_Use_Map/FeatureServer/81"
+      }
+    }
+  ]
+}
