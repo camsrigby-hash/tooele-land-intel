@@ -7,7 +7,7 @@ Cities that did not yield a public ArcGIS REST future land use layer in Phase 18
 | # | City slug | Reason no REST FLU | Probable PDF source | PDF URL | Source quality |
 |---|---|---|---|---|---|
 | 1 | `erda` | No city GIS portal — parcel GIS is county-hosted | Erda City 2022 adopted General Plan | `https://erda.gov/wp-content/uploads/2022/08/Erda-General-Plan_2022-06-23.pdf` | Good — small city, simple geometry, recent (2022) |
-| 2 | `grantsville` | No public FLU REST layer surfaced from grantsvilleut.gov | GP document on grantsvilleut.gov (look for "General Plan" or "Land Use Element") | TBD — locate at `grantsvilleut.gov` | Water Element confirms GP amended through Oct 2025; FLU map is a separate exhibit |
+| ~~2~~ | ~~`grantsville`~~ | **MOVED TO REST PATH** — `Future_Land_Use_Map` FeatureServer confirmed 2026-05-16 (51 features, 9 zone types, full city coverage, grade A). Owner org: `gis2_grantsville` (AGOL org `uWdqWzgcb7gCRVuK`). See `_rest_inventory.md`. | N/A | N/A | REST — parcel-detail grade |
 | 3 | `bluffdale` | Small city, no GIS data surfaced in REST search | bluffdale.gov GP document | TBD — locate at `bluffdale.gov` | Small/simple city; expected C quality (limited street labels) |
 | ~~4~~ | ~~`vineyard`~~ | **MOVED TO REST PATH** — `Vineyard_Future_Land_Use_View` FeatureServer confirmed 2026-05-16 (36 features, 12 zone types, full city coverage). See `_rest_inventory.md`. | N/A | N/A | REST — parcel-detail grade |
 | 5 | `draper` | `gis.hlplanning.com` REST root checked; no Draper FLU/GP layer found | Draper City GP document | TBD — locate at `draper.utah.gov` or via Hales Planning | Hales Planning hosts city GIS; PDF may be in planning section |
