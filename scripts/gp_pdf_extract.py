@@ -84,7 +84,8 @@ CITY_BBOX_BUFFER_DEG = 0.05   # ±0.05° for control-point acceptance
 VERTEX_BBOX_BUFFER_MI = 1.0   # ±1 mile for polygon vertex validation
 
 NOMINATIM_DELAY_S = 1.1       # OSM rate-limit: max 1 req/s
-OPUS_CALLS_PER_PAGE = 8       # hard cap on polygon extraction calls per page
+OPUS_CALLS_PER_PAGE = 8       # default cap on polygon extraction calls per page
+_max_zone_calls: int | None = None  # overridden by --max-zone-calls
 
 HTTP_SESSION = requests.Session()
 HTTP_SESSION.headers.update({"User-Agent": "WasatchIntel-18b-2b/1.0 (cam.s.rigby@gmail.com)"})
@@ -410,7 +411,29 @@ def stage1_rasterize(pdf_path: Path, dpi: int = 300) -> list[Path]:
     logging.info(f"  {len(valid)}/{len(pages)} pages ≥ 300 KB (map pages)")
     if not valid:
         raise RuntimeError("No map pages found (all pages < 300 KB). Check PDF source.")
-    return valid
+
+    # Anthropic API hard limit: 5 MB per image (base64). A 3.5 MB JPEG encodes to ~4.7 MB.
+    # Large-format maps (e.g. 36×36 in at 300 DPI) routinely exceed this — resize them down.
+    MAX_IMAGE_BYTES = 3_500_000
+    resized = []
+    for p in valid:
+        if p.stat().st_size > MAX_IMAGE_BYTES:
+            try:
+                from PIL import Image  # noqa: PLC0415
+                scale = (MAX_IMAGE_BYTES / p.stat().st_size) ** 0.5
+                with Image.open(p) as img:
+                    new_w = int(img.width * scale)
+                    new_h = int(img.height * scale)
+                    img_resized = img.resize((new_w, new_h), Image.LANCZOS)
+                    img_resized.save(str(p), "JPEG", quality=92)
+                logging.info(
+                    f"  Resized {p.name}: {img.width}×{img.height} → {new_w}×{new_h} "
+                    f"(scale={scale:.2f}, new size={p.stat().st_size//1024}KB)"
+                )
+            except Exception as exc:
+                logging.warning(f"  Could not resize {p.name}: {exc} — API call may fail")
+        resized.append(p)
+    return resized
 
 
 # ---------------------------------------------------------------------------
@@ -542,24 +565,119 @@ def stage2_identify_control_points(
 # Stage 3 — Ground-truth lookup
 # ---------------------------------------------------------------------------
 
+_STREET_ABBR_MAP = [
+    (re.compile(r'\bHwy\b', re.I), 'Highway'),
+    (re.compile(r'\bPkwy\b', re.I), 'Parkway'),
+    (re.compile(r'\bRd\b', re.I), 'Road'),
+    (re.compile(r'\bBlvd\b', re.I), 'Boulevard'),
+    (re.compile(r'\bDr\b', re.I), 'Drive'),
+    (re.compile(r'\bAve\b', re.I), 'Avenue'),
+    (re.compile(r'\bLn\b', re.I), 'Lane'),
+    (re.compile(r'\bCt\b', re.I), 'Court'),
+    (re.compile(r'\bCir\b', re.I), 'Circle'),
+    (re.compile(r'\bCyn\b', re.I), 'Canyon'),
+    (re.compile(r'\bMtn\b', re.I), 'Mountain'),
+]
+
+
+def _expand_street_abbr(name: str) -> str:
+    for pat, repl in _STREET_ABBR_MAP:
+        name = pat.sub(repl, name)
+    return name
+
+
 def _nominatim_lookup(street_a: str, street_b: str, city_name: str) -> Optional[tuple[float, float]]:
-    """Query OSM Nominatim for a street intersection. Returns (lat, lon) or None."""
-    query = f"{street_a} and {street_b}, {city_name}, Utah"
-    url = (
-        "https://nominatim.openstreetmap.org/search"
-        f"?q={quote(query)}&format=json&limit=1&addressdetails=0"
+    """Query OSM Nominatim for a street intersection. Returns (lat, lon) or None.
+
+    Tries up to four query variants to handle map abbreviations and OSM naming mismatches:
+    exact with city, expanded with city, exact state-only, expanded state-only.
+    """
+    sa_exp = _expand_street_abbr(street_a)
+    sb_exp = _expand_street_abbr(street_b)
+    queries = [
+        f"{street_a} and {street_b}, {city_name}, Utah",
+        f"{sa_exp} and {sb_exp}, {city_name}, Utah",
+        f"{street_a} and {street_b}, Utah",
+        f"{sa_exp} and {sb_exp}, Utah",
+    ]
+    # Deduplicate while preserving order
+    seen: set[str] = set()
+    unique_queries = [q for q in queries if not (q in seen or seen.add(q))]
+
+    for i, query in enumerate(unique_queries):
+        if i > 0:
+            time.sleep(NOMINATIM_DELAY_S)
+        url = (
+            "https://nominatim.openstreetmap.org/search"
+            f"?q={quote(query)}&format=json&limit=1&addressdetails=0"
+        )
+        try:
+            resp = HTTP_SESSION.get(url, timeout=HTTP_TIMEOUT)
+            resp.raise_for_status()
+            data = resp.json()
+            if data:
+                lat = float(data[0]["lat"])
+                lon = float(data[0]["lon"])
+                logging.debug(f"    Nominatim hit on variant {i}: '{query}'")
+                return lat, lon
+        except Exception as exc:
+            logging.debug(f"  Nominatim lookup failed for '{query}': {exc}")
+    return None
+
+
+def _overpass_lookup(street_a: str, street_b: str, city_bbox: dict) -> Optional[tuple[float, float]]:
+    """Query Overpass API for shared nodes between two named streets within city bbox.
+
+    Uses fuzzy (regex) name matching so abbreviated map labels (e.g. "Herriman Hwy")
+    still find OSM ways named "Herriman Highway" or "Herriman Parkway".
+    Returns (lat, lon) of the median shared node, or None.
+    """
+    sa_exp = _expand_street_abbr(street_a)
+    sb_exp = _expand_street_abbr(street_b)
+
+    # Build a regex that matches the expanded name as a substring (case-insensitive)
+    def _to_regex(name: str) -> str:
+        # Use first two tokens of the name for more permissive matching
+        tokens = name.split()
+        return re.escape(tokens[0]) if len(tokens) <= 1 else re.escape(tokens[0]) + ".*" + re.escape(tokens[1])
+
+    sa_re = _to_regex(sa_exp)
+    sb_re = _to_regex(sb_exp)
+
+    bbox_str = (
+        f"{city_bbox['lat_min'] - CITY_BBOX_BUFFER_DEG},"
+        f"{city_bbox['lon_min'] - CITY_BBOX_BUFFER_DEG},"
+        f"{city_bbox['lat_max'] + CITY_BBOX_BUFFER_DEG},"
+        f"{city_bbox['lon_max'] + CITY_BBOX_BUFFER_DEG}"
+    )
+
+    query = (
+        f'[out:json][timeout:25];\n'
+        f'way["name"~"{sa_re}",i]["highway"]({bbox_str});\n'
+        f'way["name"~"{sb_re}",i]["highway"]({bbox_str});\n'
+        f'node(w._)(w._);\nout geom;\n'
     )
     try:
-        resp = HTTP_SESSION.get(url, timeout=HTTP_TIMEOUT)
+        resp = HTTP_SESSION.post(
+            "https://overpass-api.de/api/interpreter",
+            data={"data": query},
+            timeout=HTTP_TIMEOUT,
+        )
         resp.raise_for_status()
-        data = resp.json()
-        if data:
-            lat = float(data[0]["lat"])
-            lon = float(data[0]["lon"])
-            return lat, lon
+        nodes = [e for e in resp.json().get("elements", []) if "lat" in e]
+        if not nodes:
+            return None
+        # Use the median node (robust to outliers across long road segments)
+        nodes.sort(key=lambda n: n["lat"])
+        mid = nodes[len(nodes) // 2]
+        logging.debug(
+            f"    Overpass: {len(nodes)} shared nodes for "
+            f"{sa_re!r} × {sb_re!r} → median ({mid['lat']:.6f}, {mid['lon']:.6f})"
+        )
+        return mid["lat"], mid["lon"]
     except Exception as exc:
-        logging.debug(f"  Nominatim lookup failed for '{query}': {exc}")
-    return None
+        logging.debug(f"  Overpass lookup failed for {sa_re!r} × {sb_re!r}: {exc}")
+        return None
 
 
 def _ugrc_lookup(street_a: str, street_b: str, city_name: str) -> Optional[tuple[float, float]]:
@@ -612,8 +730,12 @@ def stage3_ground_truth_lookup(
         logging.info(f"  [{i}] Looking up: {sa!r} ∩ {sb!r}")
         time.sleep(NOMINATIM_DELAY_S)
 
-        # Try UGRC first (more accurate for Utah), fall back to Nominatim
-        latlon = _ugrc_lookup(sa, sb, city_name) or _nominatim_lookup(sa, sb, city_name)
+        # Try UGRC first (most accurate for Utah), then Nominatim, then Overpass
+        latlon = (
+            _ugrc_lookup(sa, sb, city_name)
+            or _nominatim_lookup(sa, sb, city_name)
+            or _overpass_lookup(sa, sb, city_bbox)
+        )
         if latlon is None:
             logging.info(f"    → not found (skipped)")
             continue
@@ -791,14 +913,15 @@ def stage6_extract_polygons(
             {"code": "Public", "description": "Public / Institutional"},
         ]
 
-    # 6b — extract polygons per zone (hard cap: OPUS_CALLS_PER_PAGE)
+    # 6b — extract polygons per zone
     polygon_records: list[dict] = []
     calls_used = 0  # legend already counted separately
+    zone_call_cap = _max_zone_calls if _max_zone_calls is not None else OPUS_CALLS_PER_PAGE
 
     for zone in legend:
-        if calls_used >= OPUS_CALLS_PER_PAGE:
+        if calls_used >= zone_call_cap:
             logging.warning(
-                f"  Reached {OPUS_CALLS_PER_PAGE}-call cap — skipping remaining zones"
+                f"  Reached {zone_call_cap}-call cap — skipping remaining zones"
             )
             break
 
@@ -1480,6 +1603,16 @@ def main() -> None:
         default=None,
         help="0-indexed filtered-page number to use for polygon extraction (required with --manual-cps).",
     )
+    parser.add_argument(
+        "--max-zone-calls",
+        type=int,
+        default=None,
+        help=(
+            f"Max Opus calls for polygon zone extraction per page (default: {OPUS_CALLS_PER_PAGE}). "
+            "Increase for maps with large legends (e.g. 16+ zones). "
+            "Each additional call costs ~$0.08-0.10."
+        ),
+    )
     parser.add_argument("--verbose", action="store_true", help="Debug logging")
     args = parser.parse_args()
 
@@ -1489,10 +1622,12 @@ def main() -> None:
         datefmt="%H:%M:%S",
     )
 
-    global _model_override, _rmse_threshold
+    global _model_override, _rmse_threshold, _max_zone_calls
     if args.model:
         _model_override = args.model
     _rmse_threshold = args.rmse_threshold
+    if args.max_zone_calls is not None:
+        _max_zone_calls = args.max_zone_calls
 
     api_key = args.api_key or os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:

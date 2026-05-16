@@ -1,0 +1,2793 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0199457,
+              40.4905841
+            ],
+            [
+              -112.0170083,
+              40.4923562
+            ],
+            [
+              -112.0188103,
+              40.4870536
+            ],
+            [
+              -112.0208389,
+              40.4836772
+            ],
+            [
+              -112.0226679,
+              40.4825738
+            ],
+            [
+              -112.0199457,
+              40.4905841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Educational Village/Campus",
+        "gp_zone_description": "Educational Village/Campus",
+        "gp_zone_normalized": "future_agriculture",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0509793,
+              40.4985
+            ],
+            [
+              -112.0608711,
+              40.4693924
+            ],
+            [
+              -112.0424485,
+              40.4805064
+            ],
+            [
+              -112.0419118,
+              40.4820859
+            ],
+            [
+              -112.0398657,
+              40.4842172
+            ],
+            [
+              -112.0374362,
+              40.4874766
+            ],
+            [
+              -112.0353901,
+              40.4896079
+            ],
+            [
+              -112.033344,
+              40.4917392
+            ],
+            [
+              -112.0312979,
+              40.4938705
+            ],
+            [
+              -112.0298061,
+              40.4956674
+            ],
+            [
+              -112.0283142,
+              40.4974643
+            ],
+            [
+              -112.0268223,
+              40.4992612
+            ],
+            [
+              -112.0249471,
+              40.5021863
+            ],
+            [
+              -112.023626,
+              40.5047771
+            ],
+            [
+              -112.022305,
+              40.5073678
+            ],
+            [
+              -112.020984,
+              40.5099586
+            ],
+            [
+              -112.0202172,
+              40.512215
+            ],
+            [
+              -112.020388,
+              40.5130089
+            ],
+            [
+              -112.0214964,
+              40.5123401
+            ],
+            [
+              -112.0229883,
+              40.5105432
+            ],
+            [
+              -112.0244802,
+              40.5087463
+            ],
+            [
+              -112.025972,
+              40.5069494
+            ],
+            [
+              -112.0274639,
+              40.5051525
+            ],
+            [
+              -112.0285723,
+              40.5044838
+            ],
+            [
+              -112.0292974,
+              40.5049433
+            ],
+            [
+              -112.0300225,
+              40.5054027
+            ],
+            [
+              -112.0307475,
+              40.5058622
+            ],
+            [
+              -112.0314726,
+              40.5063217
+            ],
+            [
+              -112.0321976,
+              40.5067812
+            ],
+            [
+              -112.0329227,
+              40.5072407
+            ],
+            [
+              -112.0338011,
+              40.5072489
+            ],
+            [
+              -112.0347562,
+              40.5070315
+            ],
+            [
+              -112.0357113,
+              40.506814
+            ],
+            [
+              -112.0367431,
+              40.506371
+            ],
+            [
+              -112.0378132,
+              40.5058151
+            ],
+            [
+              -112.0388833,
+              40.5052592
+            ],
+            [
+              -112.0399918,
+              40.5045905
+            ],
+            [
+              -112.0411386,
+              40.5038089
+            ],
+            [
+              -112.0422854,
+              40.5030274
+            ],
+            [
+              -112.0434321,
+              40.5022459
+            ],
+            [
+              -112.0445789,
+              40.5014643
+            ],
+            [
+              -112.0457257,
+              40.5006828
+            ],
+            [
+              -112.0468725,
+              40.4999013
+            ],
+            [
+              -112.047981,
+              40.4992326
+            ],
+            [
+              -112.0490128,
+              40.4987895
+            ],
+            [
+              -112.0499679,
+              40.498572
+            ],
+            [
+              -112.0504071,
+              40.4985762
+            ],
+            [
+              -112.0509793,
+              40.4985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Forest Residential/Recreational Resort",
+        "gp_zone_description": "Forest Residential/Recreational Resort",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0350902,
+              40.4853043
+            ],
+            [
+              -112.0324899,
+              40.48777
+            ],
+            [
+              -112.0287811,
+              40.4909043
+            ],
+            [
+              -112.0250723,
+              40.4940387
+            ],
+            [
+              -112.0221304,
+              40.4949166
+            ],
+            [
+              -112.0191884,
+              40.4957945
+            ],
+            [
+              -112.0162464,
+              40.4966725
+            ],
+            [
+              -112.0136878,
+              40.4964222
+            ],
+            [
+              -112.0111293,
+              40.4961719
+            ],
+            [
+              -112.0085707,
+              40.4959217
+            ],
+            [
+              -112.0060121,
+              40.4956714
+            ],
+            [
+              -112.0034536,
+              40.4954211
+            ],
+            [
+              -112.0020035,
+              40.4945022
+            ],
+            [
+              -112.0024286,
+              40.4906581
+            ],
+            [
+              -112.0050707,
+              40.4854766
+            ],
+            [
+              -112.0088212,
+              40.4796263
+            ],
+            [
+              -112.0125718,
+              40.4737761
+            ],
+            [
+              -112.0163223,
+              40.4679259
+            ],
+            [
+              -112.019306,
+              40.464332
+            ],
+            [
+              -112.0222897,
+              40.4607382
+            ],
+            [
+              -112.0252735,
+              40.4571444
+            ],
+            [
+              -112.0278738,
+              40.4546787
+            ],
+            [
+              -112.0297073,
+              40.4544695
+            ],
+            [
+              -112.0311574,
+              40.4553885
+            ],
+            [
+              -112.0326075,
+              40.4563075
+            ],
+            [
+              -112.0340576,
+              40.4572264
+            ],
+            [
+              -112.0355077,
+              40.4581454
+            ],
+            [
+              -112.0369578,
+              40.4590644
+            ],
+            [
+              -112.0384079,
+              40.4599834
+            ],
+            [
+              -112.0398581,
+              40.4609024
+            ],
+            [
+              -112.0413082,
+              40.4618213
+            ],
+            [
+              -112.0427583,
+              40.4627403
+            ],
+            [
+              -112.0423331,
+              40.4665844
+            ],
+            [
+              -112.041908,
+              40.4704285
+            ],
+            [
+              -112.0403743,
+              40.4749413
+            ],
+            [
+              -112.0377323,
+              40.4801228
+            ],
+            [
+              -112.0350902,
+              40.4853043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Open Space",
+        "gp_zone_description": "Open Space",
+        "gp_zone_normalized": "future_open_space",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0380397,
+              40.5098939
+            ],
+            [
+              -112.0359558,
+              40.5111511
+            ],
+            [
+              -112.0367226,
+              40.5088947
+            ],
+            [
+              -112.0388065,
+              40.5076375
+            ],
+            [
+              -112.0380397,
+              40.5098939
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mixed Use Neighborhood One",
+        "gp_zone_description": "Mixed Use Neighborhood One",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0309616,
+              40.4955084
+            ],
+            [
+              -112.0291326,
+              40.4966118
+            ],
+            [
+              -112.0299378,
+              40.4942426
+            ],
+            [
+              -112.0317667,
+              40.4931392
+            ],
+            [
+              -112.0309616,
+              40.4955084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mixed Use Neighborhood One",
+        "gp_zone_description": "Mixed Use Neighborhood One",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0291326,
+              40.4966118
+            ],
+            [
+              -112.0274699,
+              40.4976149
+            ],
+            [
+              -112.0282751,
+              40.4952456
+            ],
+            [
+              -112.0299378,
+              40.4942426
+            ],
+            [
+              -112.0291326,
+              40.4966118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mixed Use Neighborhood One",
+        "gp_zone_description": "Mixed Use Neighborhood One",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0486075,
+              40.5061015
+            ],
+            [
+              -112.0451824,
+              40.5081679
+            ],
+            [
+              -112.0471071,
+              40.5025043
+            ],
+            [
+              -112.0505322,
+              40.500438
+            ],
+            [
+              -112.0486075,
+              40.5061015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Employment Campus/Business Park",
+        "gp_zone_description": "Employment Campus/Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0288519,
+              40.4753452
+            ],
+            [
+              -112.0225559,
+              40.4791435
+            ],
+            [
+              -112.0268653,
+              40.4664625
+            ],
+            [
+              -112.0331614,
+              40.4626642
+            ],
+            [
+              -112.0288519,
+              40.4753452
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Employment Campus/Business Park",
+        "gp_zone_description": "Employment Campus/Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0385557,
+              40.4632307
+            ],
+            [
+              -112.0320269,
+              40.4671694
+            ],
+            [
+              -112.0330927,
+              40.464033
+            ],
+            [
+              -112.0396216,
+              40.4600943
+            ],
+            [
+              -112.0385557,
+              40.4632307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Employment Campus/Business Park",
+        "gp_zone_description": "Employment Campus/Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0214582,
+              40.4919677
+            ],
+            [
+              -112.019984,
+              40.4928571
+            ],
+            [
+              -112.0214792,
+              40.4884571
+            ],
+            [
+              -112.0229535,
+              40.4875677
+            ],
+            [
+              -112.0214582,
+              40.4919677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Employment Campus/Business Park",
+        "gp_zone_description": "Employment Campus/Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0272574,
+              40.4995369
+            ],
+            [
+              -112.0248188,
+              40.5010081
+            ],
+            [
+              -112.0263524,
+              40.4964953
+            ],
+            [
+              -112.028791,
+              40.4950241
+            ],
+            [
+              -112.0272574,
+              40.4995369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Parks and Plazas",
+        "gp_zone_description": "Parks and Plazas",
+        "gp_zone_normalized": "future_open_space",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0349756,
+              40.4999033
+            ],
+            [
+              -112.0327587,
+              40.5012407
+            ],
+            [
+              -112.0341389,
+              40.4971792
+            ],
+            [
+              -112.0363558,
+              40.4958418
+            ],
+            [
+              -112.0349756,
+              40.4999033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Parks and Plazas",
+        "gp_zone_description": "Parks and Plazas",
+        "gp_zone_normalized": "future_open_space",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0365403,
+              40.4862233
+            ],
+            [
+              -112.0343234,
+              40.4875607
+            ],
+            [
+              -112.035857,
+              40.4830479
+            ],
+            [
+              -112.0380739,
+              40.4817105
+            ],
+            [
+              -112.0365403,
+              40.4862233
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Parks and Plazas",
+        "gp_zone_description": "Parks and Plazas",
+        "gp_zone_normalized": "future_open_space",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0369994,
+              40.5001712
+            ],
+            [
+              -112.0355584,
+              40.5010405
+            ],
+            [
+              -112.036655,
+              40.4978139
+            ],
+            [
+              -112.038096,
+              40.4969445
+            ],
+            [
+              -112.0369994,
+              40.5001712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Civic and Community",
+        "gp_zone_description": "Civic and Community",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0429815,
+              40.493459
+            ],
+            [
+              -112.0416514,
+              40.4942615
+            ],
+            [
+              -112.0425716,
+              40.4915538
+            ],
+            [
+              -112.0439017,
+              40.4907513
+            ],
+            [
+              -112.0429815,
+              40.493459
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Civic and Community",
+        "gp_zone_description": "Civic and Community",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0295191,
+              40.5048095
+            ],
+            [
+              -112.0277456,
+              40.5058795
+            ],
+            [
+              -112.0288958,
+              40.5024948
+            ],
+            [
+              -112.0306693,
+              40.5014249
+            ],
+            [
+              -112.0295191,
+              40.5048095
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Civic and Community",
+        "gp_zone_description": "Civic and Community",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0352687,
+              40.509413
+            ],
+            [
+              -112.0340494,
+              40.5101486
+            ],
+            [
+              -112.0348928,
+              40.5076665
+            ],
+            [
+              -112.0361121,
+              40.506931
+            ],
+            [
+              -112.0352687,
+              40.509413
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Civic and Community",
+        "gp_zone_description": "Civic and Community",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0419718,
+              40.5091361
+            ],
+            [
+              -112.0406417,
+              40.5099386
+            ],
+            [
+              -112.0414085,
+              40.5076822
+            ],
+            [
+              -112.0427386,
+              40.5068797
+            ],
+            [
+              -112.0419718,
+              40.5091361
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Civic and Community",
+        "gp_zone_description": "Civic and Community",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0112029,
+              40.4866204
+            ],
+            [
+              -112.0086535,
+              40.4881584
+            ],
+            [
+              -112.0111072,
+              40.4809379
+            ],
+            [
+              -112.0067842,
+              40.4835459
+            ],
+            [
+              -112.0090847,
+              40.4767767
+            ],
+            [
+              -112.0159571,
+              40.4726307
+            ],
+            [
+              -112.0112029,
+              40.4866204
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Utilities and Support Services",
+        "gp_zone_description": "Utilities and Support Services",
+        "gp_zone_normalized": "future_industrial_light",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0279611,
+              40.4609044
+            ],
+            [
+              -112.0174307,
+              40.4672571
+            ],
+            [
+              -112.0197312,
+              40.4604879
+            ],
+            [
+              -112.0302615,
+              40.4541352
+            ],
+            [
+              -112.0279611,
+              40.4609044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Utilities and Support Services",
+        "gp_zone_description": "Utilities and Support Services",
+        "gp_zone_normalized": "future_industrial_light",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0132095,
+              40.46801
+            ],
+            [
+              -112.0109926,
+              40.4693474
+            ],
+            [
+              -112.0125262,
+              40.4648346
+            ],
+            [
+              -112.0147431,
+              40.4634971
+            ],
+            [
+              -112.0132095,
+              40.46801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Utilities and Support Services",
+        "gp_zone_description": "Utilities and Support Services",
+        "gp_zone_normalized": "future_industrial_light",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.023412,
+              40.5151309
+            ],
+            [
+              -112.0204745,
+              40.516903
+            ],
+            [
+              -112.0229283,
+              40.5096825
+            ],
+            [
+              -112.0258657,
+              40.5079104
+            ],
+            [
+              -112.023412,
+              40.5151309
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Office Mixed Use",
+        "gp_zone_description": "Office Mixed Use",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0347668,
+              40.4872933
+            ],
+            [
+              -112.0334366,
+              40.4880957
+            ],
+            [
+              -112.0349702,
+              40.4835829
+            ],
+            [
+              -112.0363004,
+              40.4827805
+            ],
+            [
+              -112.0347668,
+              40.4872933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Office Mixed Use",
+        "gp_zone_description": "Office Mixed Use",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0205474,
+              40.4788305
+            ],
+            [
+              -112.0188847,
+              40.4798335
+            ],
+            [
+              -112.0204183,
+              40.4753207
+            ],
+            [
+              -112.022081,
+              40.4743177
+            ],
+            [
+              -112.0205474,
+              40.4788305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Office Mixed Use",
+        "gp_zone_description": "Office Mixed Use",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0369997,
+              40.5087275
+            ],
+            [
+              -112.0345611,
+              40.5101986
+            ],
+            [
+              -112.0358646,
+              40.5063628
+            ],
+            [
+              -112.0383033,
+              40.5048916
+            ],
+            [
+              -112.0369997,
+              40.5087275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Office Mixed Use",
+        "gp_zone_description": "Office Mixed Use",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0254391,
+              40.5201863
+            ],
+            [
+              -112.0234439,
+              40.52139
+            ],
+            [
+              -112.0258976,
+              40.5141695
+            ],
+            [
+              -112.0278929,
+              40.5129658
+            ],
+            [
+              -112.0254391,
+              40.5201863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0266136,
+              40.5128407
+            ],
+            [
+              -112.0249509,
+              40.5138437
+            ],
+            [
+              -112.0264845,
+              40.5093309
+            ],
+            [
+              -112.0281472,
+              40.5083279
+            ],
+            [
+              -112.0266136,
+              40.5128407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0347941,
+              40.4926582
+            ],
+            [
+              -112.0325772,
+              40.4939956
+            ],
+            [
+              -112.0341108,
+              40.4894828
+            ],
+            [
+              -112.0363277,
+              40.4881454
+            ],
+            [
+              -112.0347941,
+              40.4926582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.025414,
+              40.4956263
+            ],
+            [
+              -112.0231971,
+              40.4969638
+            ],
+            [
+              -112.0247307,
+              40.492451
+            ],
+            [
+              -112.0269476,
+              40.4911135
+            ],
+            [
+              -112.025414,
+              40.4956263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0309486,
+              40.468968
+            ],
+            [
+              -112.0287317,
+              40.4703054
+            ],
+            [
+              -112.0302653,
+              40.4657926
+            ],
+            [
+              -112.0324822,
+              40.4644551
+            ],
+            [
+              -112.0309486,
+              40.468968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0251558,
+              40.4886069
+            ],
+            [
+              -112.0234931,
+              40.4896099
+            ],
+            [
+              -112.0250268,
+              40.4850971
+            ],
+            [
+              -112.0266894,
+              40.4840941
+            ],
+            [
+              -112.0251558,
+              40.4886069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "General Retail",
+        "gp_zone_description": "General Retail",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0333246,
+              40.4846654
+            ],
+            [
+              -112.0297221,
+              40.4868387
+            ],
+            [
+              -112.0310641,
+              40.48289
+            ],
+            [
+              -112.0346666,
+              40.4807167
+            ],
+            [
+              -112.0333246,
+              40.4846654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0345633,
+              40.5040983
+            ],
+            [
+              -112.0336211,
+              40.5046668
+            ],
+            [
+              -112.0343113,
+              40.502636
+            ],
+            [
+              -112.0352535,
+              40.5020676
+            ],
+            [
+              -112.0345633,
+              40.5040983
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0438284,
+              40.4883739
+            ],
+            [
+              -112.0424983,
+              40.4891764
+            ],
+            [
+              -112.0432268,
+              40.4870328
+            ],
+            [
+              -112.0445569,
+              40.4862303
+            ],
+            [
+              -112.0438284,
+              40.4883739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0268728,
+              40.5102626
+            ],
+            [
+              -112.0256535,
+              40.5109982
+            ],
+            [
+              -112.026382,
+              40.5088546
+            ],
+            [
+              -112.0276013,
+              40.508119
+            ],
+            [
+              -112.0268728,
+              40.5102626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0133736,
+              40.5263889
+            ],
+            [
+              -112.0122651,
+              40.5270576
+            ],
+            [
+              -112.0129552,
+              40.5250269
+            ],
+            [
+              -112.0140637,
+              40.5243581
+            ],
+            [
+              -112.0133736,
+              40.5263889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0254117,
+              40.5148214
+            ],
+            [
+              -112.021643,
+              40.517095
+            ],
+            [
+              -112.021233,
+              40.5151898
+            ],
+            [
+              -112.0235334,
+              40.5084206
+            ],
+            [
+              -112.0255104,
+              40.5036403
+            ],
+            [
+              -112.027164,
+              40.5008489
+            ],
+            [
+              -112.0299943,
+              40.4977063
+            ],
+            [
+              -112.0315462,
+              40.4967702
+            ],
+            [
+              -112.0322629,
+              40.4977728
+            ],
+            [
+              -112.0317778,
+              40.5007562
+            ],
+            [
+              -112.0290939,
+              40.5086536
+            ],
+            [
+              -112.0272786,
+              40.5124394
+            ],
+            [
+              -112.0254117,
+              40.5148214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mixed Neighborhood Two",
+        "gp_zone_description": "Mixed Neighborhood Two",
+        "gp_zone_normalized": "future_unknown",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0356976,
+              40.5172263
+            ],
+            [
+              -112.032594,
+              40.5190987
+            ],
+            [
+              -112.0339742,
+              40.5150372
+            ],
+            [
+              -112.0370779,
+              40.5131648
+            ],
+            [
+              -112.0356976,
+              40.5172263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mixed Neighborhood Two",
+        "gp_zone_description": "Mixed Neighborhood Two",
+        "gp_zone_normalized": "future_unknown",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0392697,
+              40.4872674
+            ],
+            [
+              -112.0353901,
+              40.4896079
+            ],
+            [
+              -112.0343234,
+              40.4875607
+            ],
+            [
+              -112.0347486,
+              40.4837167
+            ],
+            [
+              -112.0373906,
+              40.4785351
+            ],
+            [
+              -112.0403743,
+              40.4749413
+            ],
+            [
+              -112.0427621,
+              40.4743977
+            ],
+            [
+              -112.0423369,
+              40.4782418
+            ],
+            [
+              -112.0413575,
+              40.4824203
+            ],
+            [
+              -112.0392697,
+              40.4872674
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Residential Two",
+        "gp_zone_description": "Neighborhood Residential Two",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0436694,
+              40.5106233
+            ],
+            [
+              -112.038298,
+              40.5147607
+            ],
+            [
+              -112.0372312,
+              40.5127135
+            ],
+            [
+              -112.0400859,
+              40.50561
+            ],
+            [
+              -112.0432822,
+              40.5000941
+            ],
+            [
+              -112.0458825,
+              40.4976284
+            ],
+            [
+              -112.047716,
+              40.4974192
+            ],
+            [
+              -112.0472909,
+              40.5012633
+            ],
+            [
+              -112.0463115,
+              40.5054418
+            ],
+            [
+              -112.0436694,
+              40.5106233
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Residential Two",
+        "gp_zone_description": "Neighborhood Residential Two",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0222632,
+              40.5100837
+            ],
+            [
+              -112.0196629,
+              40.5125494
+            ],
+            [
+              -112.0197047,
+              40.5098335
+            ],
+            [
+              -112.0217925,
+              40.5049863
+            ],
+            [
+              -112.0243928,
+              40.5025207
+            ],
+            [
+              -112.0243511,
+              40.5052366
+            ],
+            [
+              -112.0222632,
+              40.5100837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Residential Two",
+        "gp_zone_description": "Neighborhood Residential Two",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0480843,
+              40.5020403
+            ],
+            [
+              -112.0465924,
+              40.5038373
+            ],
+            [
+              -112.0453731,
+              40.5045728
+            ],
+            [
+              -112.0447505,
+              40.5045897
+            ],
+            [
+              -112.0443922,
+              40.5040883
+            ],
+            [
+              -112.0447073,
+              40.5026426
+            ],
+            [
+              -112.0456107,
+              40.5010213
+            ],
+            [
+              -112.0465058,
+              40.4999431
+            ],
+            [
+              -112.0475035,
+              40.4993413
+            ],
+            [
+              -112.048126,
+              40.4993244
+            ],
+            [
+              -112.0485185,
+              40.4999846
+            ],
+            [
+              -112.0484677,
+              40.5009121
+            ],
+            [
+              -112.0480843,
+              40.5020403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Hillside and Agricultural Residential",
+        "gp_zone_description": "Hillside and Agricultural Residential",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0377817,
+              40.5007218
+            ],
+            [
+              -112.0362215,
+              40.5022011
+            ],
+            [
+              -112.0355647,
+              40.5020592
+            ],
+            [
+              -112.0358798,
+              40.5006134
+            ],
+            [
+              -112.0367833,
+              40.4989921
+            ],
+            [
+              -112.0380451,
+              40.4978721
+            ],
+            [
+              -112.0387018,
+              40.4980141
+            ],
+            [
+              -112.0385743,
+              40.4991673
+            ],
+            [
+              -112.0377817,
+              40.5007218
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Hillside and Agricultural Residential",
+        "gp_zone_description": "Hillside and Agricultural Residential",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0357492,
+              40.4924407
+            ],
+            [
+              -112.0338565,
+              40.4941207
+            ],
+            [
+              -112.0324238,
+              40.4944469
+            ],
+            [
+              -112.0324064,
+              40.4932018
+            ],
+            [
+              -112.0334974,
+              40.4912879
+            ],
+            [
+              -112.0353134,
+              40.4898336
+            ],
+            [
+              -112.0364135,
+              40.489708
+            ],
+            [
+              -112.036431,
+              40.4909532
+            ],
+            [
+              -112.0357492,
+              40.4924407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Hillside and Agricultural Residential",
+        "gp_zone_description": "Hillside and Agricultural Residential",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0526356,
+              40.4936262
+            ],
+            [
+              -112.0590921,
+              40.4746273
+            ],
+            [
+              -112.0530289,
+              40.4782851
+            ],
+            [
+              -112.0478817,
+              40.47974
+            ],
+            [
+              -112.043349,
+              40.4826539
+            ],
+            [
+              -112.0403571,
+              40.4846383
+            ],
+            [
+              -112.037256,
+              40.486814
+            ],
+            [
+              -112.0341533,
+              40.4890984
+            ],
+            [
+              -112.0309646,
+              40.4917396
+            ],
+            [
+              -112.0276225,
+              40.4948321
+            ],
+            [
+              -112.0250222,
+              40.4972977
+            ],
+            [
+              -112.0223794,
+              40.5001478
+            ],
+            [
+              -112.0208458,
+              40.5046606
+            ],
+            [
+              -112.0240687,
+              40.5021781
+            ],
+            [
+              -112.0276241,
+              40.4994951
+            ],
+            [
+              -112.0310261,
+              40.4972633
+            ],
+            [
+              -112.0342748,
+              40.4954828
+            ],
+            [
+              -112.0374468,
+              40.4939279
+            ],
+            [
+              -112.0404655,
+              40.4928243
+            ],
+            [
+              -112.0430241,
+              40.4930746
+            ],
+            [
+              -112.0455826,
+              40.4933249
+            ],
+            [
+              -112.0481412,
+              40.4935751
+            ],
+            [
+              -112.0508531,
+              40.4933741
+            ],
+            [
+              -112.0526356,
+              40.4936262
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mountain and Canyon Residential",
+        "gp_zone_description": "Mountain and Canyon Residential",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0314649,
+              40.4830069
+            ],
+            [
+              -112.0266477,
+              40.48681
+            ],
+            [
+              -112.0218305,
+              40.490613
+            ],
+            [
+              -112.0170132,
+              40.4944161
+            ],
+            [
+              -112.012196,
+              40.4982191
+            ],
+            [
+              -112.0073787,
+              40.5020222
+            ],
+            [
+              -112.00367,
+              40.5051565
+            ],
+            [
+              -112.0010696,
+              40.5076221
+            ],
+            [
+              -112.0033701,
+              40.5008529
+            ],
+            [
+              -112.0059704,
+              40.4983873
+            ],
+            [
+              -112.0107876,
+              40.4945842
+            ],
+            [
+              -112.0156049,
+              40.4907812
+            ],
+            [
+              -112.0202687,
+              40.4874294
+            ],
+            [
+              -112.0248559,
+              40.4843033
+            ],
+            [
+              -112.0291364,
+              40.4820797
+            ],
+            [
+              -112.0322317,
+              40.4807505
+            ],
+            [
+              -112.0314649,
+              40.4830069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Mountain and Canyon Residential",
+        "gp_zone_description": "Mountain and Canyon Residential",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1017.9,
+        "n_control_points": 4,
+        "extraction_date": "2026-05-15"
+      }
+    }
+  ]
+}
