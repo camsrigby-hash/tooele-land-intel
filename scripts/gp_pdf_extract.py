@@ -83,6 +83,14 @@ UTAH_BBOX = {"xmin": -114.0, "ymin": 37.0, "xmax": -109.0, "ymax": 42.0}
 CITY_BBOX_BUFFER_DEG = 0.05   # ±0.05° for control-point acceptance
 VERTEX_BBOX_BUFFER_MI = 1.0   # ±1 mile for polygon vertex validation
 
+# SD-18 Stage 3 quality-gate constants
+# Rule A: Overpass node-count gate — long numbered roads (e.g. 12600 S spanning 20+ miles)
+# return 100s of nodes whose median collapses multiple CPs to identical points.
+NODE_COUNT_THRESHOLD = 20          # reject CP if Overpass returns > this many shared nodes
+# Rule B: Geographic collinearity gate — two CPs resolving within this distance (metres)
+# are effectively the same point and will produce a degenerate affine system.
+COLLINEARITY_THRESHOLD_M = 50      # reject the lower-confidence CP if pair is within 50 m
+
 NOMINATIM_DELAY_S = 1.1       # OSM rate-limit: max 1 req/s
 OPUS_CALLS_PER_PAGE = 8       # default cap on polygon extraction calls per page
 TILE_SIZE = 500               # px, square tile side for Stage 2b refinement
@@ -784,12 +792,14 @@ def _nominatim_lookup(street_a: str, street_b: str, city_name: str) -> Optional[
     return None
 
 
-def _overpass_lookup(street_a: str, street_b: str, city_bbox: dict) -> Optional[tuple[float, float]]:
+def _overpass_lookup(street_a: str, street_b: str, city_bbox: dict) -> Optional[tuple[float, float, int]]:
     """Query Overpass API for shared nodes between two named streets within city bbox.
 
     Uses fuzzy (regex) name matching so abbreviated map labels (e.g. "Herriman Hwy")
     still find OSM ways named "Herriman Highway" or "Herriman Parkway".
-    Returns (lat, lon) of the median shared node, or None.
+    Returns (lat, lon, node_count) of the median shared node, or None.
+    node_count is used by the SD-18 Rule A quality gate to detect over-broad matches
+    on long numbered roads (e.g. 12600 South spanning 20+ miles in the Salt Lake valley).
     """
     sa_exp = _expand_street_abbr(street_a)
     sb_exp = _expand_street_abbr(street_b)
@@ -826,14 +836,15 @@ def _overpass_lookup(street_a: str, street_b: str, city_bbox: dict) -> Optional[
         nodes = [e for e in resp.json().get("elements", []) if "lat" in e]
         if not nodes:
             return None
+        node_count = len(nodes)
         # Use the median node (robust to outliers across long road segments)
         nodes.sort(key=lambda n: n["lat"])
-        mid = nodes[len(nodes) // 2]
+        mid = nodes[node_count // 2]
         logging.debug(
-            f"    Overpass: {len(nodes)} shared nodes for "
+            f"    Overpass: {node_count} shared nodes for "
             f"{sa_re!r} × {sb_re!r} → median ({mid['lat']:.6f}, {mid['lon']:.6f})"
         )
-        return mid["lat"], mid["lon"]
+        return mid["lat"], mid["lon"], node_count
     except Exception as exc:
         logging.debug(f"  Overpass lookup failed for {sa_re!r} × {sb_re!r}: {exc}")
         return None
@@ -870,6 +881,9 @@ def _within_bbox(lat: float, lon: float, bbox: dict, buffer_deg: float = 0.0) ->
     )
 
 
+_CONF_UNCERTAINTY_RANK = {"high": 0, "medium": 1, "low": 2, "manual": -1}
+
+
 def stage3_ground_truth_lookup(
     candidates: list[dict],
     city_cfg: dict,
@@ -877,7 +891,14 @@ def stage3_ground_truth_lookup(
     """
     Stage 3 — Resolve each (street_a, street_b) to ground-truth (lat, lon).
     Drops intersections that can't be resolved or fall outside city bbox ± 0.05°.
-    Requires ≥4 surviving intersections.
+
+    SD-18 quality gates applied after resolution:
+      Rule A — node_count gate: reject Overpass-resolved CPs with > NODE_COUNT_THRESHOLD
+        shared nodes (symptom: numbered road spanning multiple cities, median collapses CPs).
+      Rule B — collinearity gate: if any two surviving CPs are within COLLINEARITY_THRESHOLD_M
+        metres of each other, reject the one with higher pixel uncertainty (lower conf).
+
+    Requires ≥3 surviving CPs after quality gates; raises ControlPointError otherwise.
     """
     logging.info("Stage 3: ground-truth lookup…")
     city_name = city_cfg["city_name"]
@@ -889,12 +910,19 @@ def stage3_ground_truth_lookup(
         logging.info(f"  [{i}] Looking up: {sa!r} ∩ {sb!r}")
         time.sleep(NOMINATIM_DELAY_S)
 
-        # Try UGRC first (most accurate for Utah), then Nominatim, then Overpass
-        latlon = (
+        # Try UGRC first (most accurate for Utah), then Nominatim, then Overpass.
+        # Overpass returns a 3-tuple (lat, lon, node_count); UGRC/Nominatim return 2-tuple.
+        overpass_node_count = 0
+        latlon: Optional[tuple[float, float]] = (
             _ugrc_lookup(sa, sb, city_name)
             or _nominatim_lookup(sa, sb, city_name)
-            or _overpass_lookup(sa, sb, city_bbox)
         )
+        if latlon is None:
+            overpass_result = _overpass_lookup(sa, sb, city_bbox)
+            if overpass_result is not None:
+                lat, lon, overpass_node_count = overpass_result
+                latlon = (lat, lon)
+
         if latlon is None:
             logging.info(f"    → not found (skipped)")
             continue
@@ -906,7 +934,7 @@ def stage3_ground_truth_lookup(
             )
             continue
 
-        logging.info(f"    → ({lat:.6f}, {lon:.6f})  conf={pt['conf']}")
+        logging.info(f"    → ({lat:.6f}, {lon:.6f})  conf={pt['conf']}  overpass_nodes={overpass_node_count}")
         resolved.append({
             "px_x": float(pt["px_x"]),
             "px_y": float(pt["px_y"]),
@@ -915,15 +943,92 @@ def stage3_ground_truth_lookup(
             "conf": pt["conf"],
             "gt_lat": lat,
             "gt_lon": lon,
+            "overpass_node_count": overpass_node_count,
         })
 
-    logging.info(f"  {len(resolved)}/{len(candidates)} intersections resolved within bbox")
-    if len(resolved) < 4:
-        raise ControlPointError(
-            f"Only {len(resolved)} intersections resolved inside city bbox. "
-            "Need ≥4. Check that street names on the map match OSM/UGRC naming."
+    # ------------------------------------------------------------------
+    # SD-18 Stage 3 quality gates
+    # ------------------------------------------------------------------
+    gate_stats = {"identified": len(resolved), "rejected_rule_a": 0, "rejected_rule_b": 0}
+    surviving: list[dict] = []
+    rejected_log: list[str] = []
+
+    # Rule A — node-count gate
+    for cp in resolved:
+        nc = cp["overpass_node_count"]
+        if nc > NODE_COUNT_THRESHOLD:
+            gate_stats["rejected_rule_a"] += 1
+            msg = (
+                f"node_count_exceeded: {cp['street_a']!r} ∩ {cp['street_b']!r} "
+                f"— Overpass returned {nc} nodes (threshold {NODE_COUNT_THRESHOLD})"
+            )
+            logging.info(f"  [SD-18 Rule A] REJECT {msg}")
+            rejected_log.append(msg)
+        else:
+            surviving.append(cp)
+
+    # Rule B — geographic collinearity gate (pairwise 50 m check)
+    COLLINEARITY_THRESHOLD_FT = COLLINEARITY_THRESHOLD_M * 3.28084
+    ruled_out: set[int] = set()
+    for idx_a in range(len(surviving)):
+        if idx_a in ruled_out:
+            continue
+        for idx_b in range(idx_a + 1, len(surviving)):
+            if idx_b in ruled_out:
+                continue
+            cp_a, cp_b = surviving[idx_a], surviving[idx_b]
+            dist_ft = haversine_ft(cp_a["gt_lat"], cp_a["gt_lon"], cp_b["gt_lat"], cp_b["gt_lon"])
+            if dist_ft < COLLINEARITY_THRESHOLD_FT:
+                # Reject the one with higher uncertainty (lower confidence rank number = better)
+                rank_a = _CONF_UNCERTAINTY_RANK.get(cp_a["conf"], 1)
+                rank_b = _CONF_UNCERTAINTY_RANK.get(cp_b["conf"], 1)
+                if rank_a <= rank_b:
+                    reject_idx, keep_idx = idx_b, idx_a
+                else:
+                    reject_idx, keep_idx = idx_a, idx_b
+                ruled_out.add(reject_idx)
+                cp_rej = surviving[reject_idx]
+                cp_kep = surviving[keep_idx]
+                gate_stats["rejected_rule_b"] += 1
+                dist_m = dist_ft / 3.28084
+                msg = (
+                    f"collinear_with_other_cp: {cp_rej['street_a']!r} ∩ {cp_rej['street_b']!r} "
+                    f"is {dist_m:.1f} m from {cp_kep['street_a']!r} ∩ {cp_kep['street_b']!r} "
+                    f"(conf {cp_rej['conf']!r} vs {cp_kep['conf']!r})"
+                )
+                logging.info(f"  [SD-18 Rule B] REJECT {msg}")
+                rejected_log.append(msg)
+
+    surviving = [cp for i, cp in enumerate(surviving) if i not in ruled_out]
+
+    # ------------------------------------------------------------------
+    # Stage 3 diagnostic block
+    # ------------------------------------------------------------------
+    logging.info("Stage 3 SD-18 quality gate diagnostic:")
+    logging.info(f"  CPs identified (pre-gate): {gate_stats['identified']}")
+    logging.info(f"  Rejected Rule A (node_count_exceeded): {gate_stats['rejected_rule_a']}")
+    logging.info(f"  Rejected Rule B (collinear_with_other_cp): {gate_stats['rejected_rule_b']}")
+    logging.info(f"  CPs surviving: {len(surviving)}")
+    for cp in surviving:
+        logging.info(
+            f"    KEEP: {cp['street_a']!r} ∩ {cp['street_b']!r} "
+            f"({cp['gt_lat']:.6f}, {cp['gt_lon']:.6f}) conf={cp['conf']}"
         )
-    return resolved
+    for msg in rejected_log:
+        logging.info(f"    REJECTED: {msg}")
+
+    logging.info(f"  {len(surviving)}/{len(candidates)} CPs survived all gates")
+
+    if len(surviving) < 3:
+        raise ControlPointError(
+            "SD-18 quality gates rejected too many CPs; need >=3 unique points for valid "
+            "2D georeference. Consider --manual-cps. "
+            f"(Gate stats: identified={gate_stats['identified']}, "
+            f"rejected_rule_a={gate_stats['rejected_rule_a']}, "
+            f"rejected_rule_b={gate_stats['rejected_rule_b']}, "
+            f"surviving={len(surviving)})"
+        )
+    return surviving
 
 
 # ---------------------------------------------------------------------------
@@ -1348,6 +1453,7 @@ def stage8_write_geojson(
     map_page_idx: int,
     out_dir: Path,
     rotation_angle_deg: float | None = None,
+    extra_properties: Optional[dict] = None,
 ) -> Path:
     """
     Stage 8 — Build GeoJSON FeatureCollection and write to disk.
@@ -1389,28 +1495,31 @@ def stage8_write_geojson(
             gp_zone_description = zone_desc
             gp_zone_normalized = _normalize_zone(zone_code, zone_desc, city_cfg)
 
+        props: dict = {
+            "city_slug": city_slug,
+            "city_name": city_name,
+            "future_layer_type": future_layer_type,
+            "layer_subtype": layer_subtype,
+            "gp_zone_code": gp_zone_code,
+            "gp_zone_description": gp_zone_description,
+            "gp_zone_normalized": gp_zone_normalized,
+            "acreage": acreage,
+            "jurisdiction": city_cfg["jurisdiction"],
+            "source_pdf_url": rec_source_pdf,
+            "source_page_id": rec_source_page,
+            "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+            "confidence": confidence,
+            "transform_residual_ft": round(rmse_ft, 1),
+            "n_control_points": n_control_points,
+            "rotation_angle_deg": round(rotation_angle_deg, 2) if rotation_angle_deg is not None else None,
+            "extraction_date": today,
+        }
+        if extra_properties:
+            props.update(extra_properties)
         feature = {
             "type": "Feature",
             "geometry": geom,
-            "properties": {
-                "city_slug": city_slug,
-                "city_name": city_name,
-                "future_layer_type": future_layer_type,
-                "layer_subtype": layer_subtype,
-                "gp_zone_code": gp_zone_code,
-                "gp_zone_description": gp_zone_description,
-                "gp_zone_normalized": gp_zone_normalized,
-                "acreage": acreage,
-                "jurisdiction": city_cfg["jurisdiction"],
-                "source_pdf_url": rec_source_pdf,
-                "source_page_id": rec_source_page,
-                "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
-                "confidence": confidence,
-                "transform_residual_ft": round(rmse_ft, 1),
-                "n_control_points": n_control_points,
-                "rotation_angle_deg": round(rotation_angle_deg, 2) if rotation_angle_deg is not None else None,
-                "extraction_date": today,
-            },
+            "properties": props,
         }
         features.append(feature)
 
@@ -1627,6 +1736,7 @@ def run_pipeline(
     layer_type: str = "flu",
     layer_subtype: Optional[str] = None,
     pdf_sources: Optional[list[str]] = None,
+    extra_properties: Optional[dict] = None,
 ) -> dict:
     """
     Run the full 8-stage pipeline for a given city.
@@ -1770,6 +1880,7 @@ def run_pipeline(
         map_page_idx=last_map_page_idx,
         out_dir=out_dir,
         rotation_angle_deg=last_rotation_deg,
+        extra_properties=extra_properties,
     )
 
     val_path = write_transform_validation(
@@ -1907,6 +2018,14 @@ def main() -> None:
         ),
     )
     parser.add_argument("--verbose", action="store_true", help="Debug logging")
+    parser.add_argument(
+        "--extra-props",
+        default=None,
+        help=(
+            "JSON object of extra properties to merge into every output feature. "
+            'Example: \'{"flu_plan_vintage": "2013", "source_pdf_page": 34}\''
+        ),
+    )
     args = parser.parse_args()
 
     logging.basicConfig(
@@ -1947,6 +2066,16 @@ def main() -> None:
         pdf_sources = [u.strip() for u in args.pdf_urls.split(",") if u.strip()]
         logging.info(f"Multi-PDF mode: {len(pdf_sources)} sources")
 
+    # Parse extra properties (JSON string or path to JSON file)
+    extra_properties = None
+    if args.extra_props:
+        raw_ep = args.extra_props.strip()
+        if raw_ep.startswith("{") or raw_ep.startswith("["):
+            extra_properties = json.loads(raw_ep)
+        else:
+            extra_properties = json.loads(Path(raw_ep).read_text(encoding="utf-8"))
+        logging.info(f"Extra feature properties: {list(extra_properties)}")
+
     out_dir = Path(args.out)
 
     try:
@@ -1961,6 +2090,7 @@ def main() -> None:
             layer_type=args.layer_type,
             layer_subtype=args.layer_subtype,
             pdf_sources=pdf_sources,
+            extra_properties=extra_properties,
         )
     except ControlPointError as exc:
         logging.error(f"CONTROL POINT ERROR: {exc}")
