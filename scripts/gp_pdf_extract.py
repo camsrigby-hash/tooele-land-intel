@@ -85,7 +85,9 @@ VERTEX_BBOX_BUFFER_MI = 1.0   # ±1 mile for polygon vertex validation
 
 NOMINATIM_DELAY_S = 1.1       # OSM rate-limit: max 1 req/s
 OPUS_CALLS_PER_PAGE = 8       # default cap on polygon extraction calls per page
+TILE_SIZE = 500               # px, square tile side for Stage 2b refinement
 _max_zone_calls: int | None = None  # overridden by --max-zone-calls
+_tile_refine: bool = False    # enabled by --tile-refine
 
 HTTP_SESSION = requests.Session()
 HTTP_SESSION.headers.update({"User-Agent": "WasatchIntel-18b-2b/1.0 (cam.s.rigby@gmail.com)"})
@@ -559,6 +561,163 @@ def stage2_identify_control_points(
         f"  Selected page {best_page} with {len(best_points)} candidate control points"
     )
     return best_points, best_page
+
+
+# ---------------------------------------------------------------------------
+# Stage 2b — Tile refinement
+# ---------------------------------------------------------------------------
+
+TILE_REFINE_PROMPT_TEMPLATE = """\
+This is a zoomed-in region of a land use map.
+
+The center of this image should be near the intersection of:
+  {intersection_desc}
+
+Return the precise pixel coordinates of the actual intersection of these streets in this \
+image's coordinate space:
+  (0, 0) = top-left corner
+  ({tile_size}, {tile_size}) = bottom-right corner
+
+Sub-50-pixel precision required. If the intersection is clearly visible, place the coordinate
+exactly at the road crossing centerpoint. If the streets do not clearly cross within this view,
+return your best estimate of where the crossing would be based on visible road trajectories.
+Do NOT simply return ({half}, {half}) unless that is genuinely your most precise estimate.
+
+Return ONLY a valid JSON object, no other text:
+{{"px_x": <integer>, "px_y": <integer>}}
+"""
+
+
+def stage2b_tile_refine(
+    client: anthropic.Anthropic,
+    resolved_cps: list[dict],
+    page_images: list[Path],
+    map_page_idx: int,
+) -> tuple[list[dict], dict]:
+    """
+    Stage 2b — Tile-refinement pass for large-format maps.
+
+    For each control point, crops a TILE_SIZE×TILE_SIZE px tile centered on the rough
+    pixel estimate, sends it to Claude vision, and composes the tile-relative refined
+    coords back into full-image coords. Only px_x/px_y are modified; gt_lat/gt_lon
+    and all other fields are preserved unchanged.
+
+    Returns (refined_cps, stats).
+    """
+    try:
+        from PIL import Image as PilImage  # noqa: PLC0415
+    except ImportError:
+        logging.warning("Stage 2b: Pillow not available — skipping tile refinement")
+        return resolved_cps, {"count_refined": 0, "avg_shift_px": 0.0, "max_shift_px": 0.0}
+
+    logging.info(f"Stage 2b: tile refinement ({len(resolved_cps)} control points)…")
+    img_path = page_images[map_page_idx]
+
+    with PilImage.open(img_path) as full_img:
+        img_w, img_h = full_img.width, full_img.height
+    logging.info(f"  Source image: {img_w}×{img_h} px ({img_path.stat().st_size // 1024} KB)")
+
+    tile_dir = img_path.parent / "_tile_refine_tmp"
+    tile_dir.mkdir(exist_ok=True)
+
+    refined_cps: list[dict] = []
+    shifts: list[float] = []
+    half = TILE_SIZE // 2
+
+    for i, cp in enumerate(resolved_cps):
+        rough_x = float(cp["px_x"])
+        rough_y = float(cp["px_y"])
+        street_a = cp.get("street_a", f"cp_{i}")
+        street_b = cp.get("street_b", "")
+
+        # Build readable intersection description for the prompt
+        if street_b and street_b not in ("manual", ""):
+            intersection_desc = f"{street_a} and {street_b}"
+        else:
+            # Manual CP label format e.g. "11800S_x_AnthemPark" → "11800S and AnthemPark"
+            intersection_desc = street_a.replace("_x_", " and ").replace("_", " ")
+
+        # Tile crop: center TILE_SIZE window on rough estimate, clamped to image bounds
+        tile_x0 = max(0, int(round(rough_x)) - half)
+        tile_y0 = max(0, int(round(rough_y)) - half)
+        tile_x1 = min(img_w, tile_x0 + TILE_SIZE)
+        tile_y1 = min(img_h, tile_y0 + TILE_SIZE)
+        # Re-anchor if clamped at right/bottom edge
+        tile_x0 = max(0, tile_x1 - TILE_SIZE)
+        tile_y0 = max(0, tile_y1 - TILE_SIZE)
+
+        actual_w = tile_x1 - tile_x0
+        actual_h = tile_y1 - tile_y0
+
+        tile_path = tile_dir / f"_tile_cp{i:02d}.jpg"
+        with PilImage.open(img_path) as full_img:
+            tile = full_img.crop((tile_x0, tile_y0, tile_x1, tile_y1))
+            tile.save(str(tile_path), "JPEG", quality=95)
+
+        prompt = TILE_REFINE_PROMPT_TEMPLATE.format(
+            intersection_desc=intersection_desc,
+            tile_size=TILE_SIZE,
+            half=half,
+        )
+
+        logging.info(
+            f"  CP{i} ({street_a!r}): "
+            f"rough=({rough_x:.0f},{rough_y:.0f})  "
+            f"tile=[{tile_x0},{tile_y0}→{tile_x1},{tile_y1}]"
+        )
+
+        try:
+            raw = _opus_vision_call(
+                client, tile_path, prompt,
+                label=f"tile_refine_cp{i}",
+                max_tokens=256,
+            )
+            if not isinstance(raw, dict):
+                raise ValueError(f"Expected dict, got {type(raw)}")
+            tile_rx = float(raw.get("px_x", half))
+            tile_ry = float(raw.get("px_y", half))
+            tile_rx = max(0.0, min(float(actual_w - 1), tile_rx))
+            tile_ry = max(0.0, min(float(actual_h - 1), tile_ry))
+        except Exception as exc:
+            logging.warning(f"    tile refinement failed: {exc} — keeping rough coords")
+            tile_rx = rough_x - tile_x0
+            tile_ry = rough_y - tile_y0
+
+        full_rx = tile_x0 + tile_rx
+        full_ry = tile_y0 + tile_ry
+        shift = math.hypot(full_rx - rough_x, full_ry - rough_y)
+        shifts.append(shift)
+
+        logging.info(
+            f"    tile_pos=({tile_rx:.1f},{tile_ry:.1f})  "
+            f"full_refined=({full_rx:.1f},{full_ry:.1f})  "
+            f"shift={shift:.1f}px"
+        )
+
+        refined_cps.append({
+            **cp,
+            "_rough_px_x": rough_x,
+            "_rough_px_y": rough_y,
+            "px_x": full_rx,
+            "px_y": full_ry,
+            "_tile_shift_px": round(shift, 1),
+        })
+
+    avg_shift = sum(shifts) / len(shifts) if shifts else 0.0
+    max_shift = max(shifts) if shifts else 0.0
+
+    stats = {
+        "count_refined": len(refined_cps),
+        "avg_shift_px": round(avg_shift, 1),
+        "max_shift_px": round(max_shift, 1),
+        "shifts_px": [round(s, 1) for s in shifts],
+    }
+
+    logging.info(
+        f"  Stage 2b complete: {len(refined_cps)} CPs refined, "
+        f"avg_shift={avg_shift:.1f}px  max_shift={max_shift:.1f}px"
+    )
+    return refined_cps, stats
 
 
 # ---------------------------------------------------------------------------
@@ -1354,6 +1513,26 @@ def write_transform_validation(
         for j in range(len(spot_checks), 5):
             lines.append(f"| {j+1} | — | — | — | insufficient polygons extracted |")
 
+    # Tile-refinement section (present when Stage 2b was run)
+    tile_refined_cps = [pt for pt in control_points_annotated if "_rough_px_x" in pt]
+    if tile_refined_cps:
+        lines += [
+            f"",
+            f"## Stage 2b Tile Refinement",
+            f"",
+            f"| # | Intersection | Rough px_x | Rough px_y | Refined px_x | Refined px_y | Shift (px) |",
+            f"|---|---|---|---|---|---|---|",
+        ]
+        for i, pt in enumerate(control_points_annotated):
+            if "_rough_px_x" not in pt:
+                continue
+            lines.append(
+                f"| {i+1} | {pt['street_a']} "
+                f"| {pt['_rough_px_x']:.0f} | {pt['_rough_px_y']:.0f} "
+                f"| {pt['px_x']:.0f} | {pt['px_y']:.0f} "
+                f"| {pt.get('_tile_shift_px', '—')} |"
+            )
+
     lines += [
         f"",
         f"## API Cost Summary",
@@ -1494,6 +1673,7 @@ def run_pipeline(
     last_A: Optional[np.ndarray] = None
     last_rotation_deg: float = 0.0
     last_map_page_idx = 0
+    last_tile_refine_stats: dict | None = None
 
     for source_idx, pdf_src in enumerate(sources_to_run):
         if len(sources_to_run) > 1:
@@ -1552,6 +1732,12 @@ def run_pipeline(
             )
 
             resolved_cps = stage3_ground_truth_lookup(control_candidates, city_cfg)
+
+        # Stage 2b — tile refinement (gated by --tile-refine flag)
+        if _tile_refine:
+            resolved_cps, last_tile_refine_stats = stage2b_tile_refine(
+                client, resolved_cps, page_images, map_page_idx
+            )
 
         A, rotation_deg = stage4_fit_affine(resolved_cps)
 
@@ -1612,6 +1798,7 @@ def run_pipeline(
         "geojson_path": str(geojson_path),
         "validation_path": str(val_path),
         "confidence": "anchored_approximation" if last_rmse_ft <= 50 else "anchored_approximation_yellow",
+        "tile_refine_stats": last_tile_refine_stats,
     }
     logging.info(f"\n{'='*60}")
     logging.info(f"PIPELINE COMPLETE — {city_slug}")
@@ -1708,6 +1895,17 @@ def main() -> None:
             "Each additional call costs ~$0.08-0.10."
         ),
     )
+    parser.add_argument(
+        "--tile-refine",
+        action="store_true",
+        help=(
+            "Enable Stage 2b tile-refinement pass. For each control point, crops a "
+            f"{TILE_SIZE}x{TILE_SIZE} px tile centered on the rough pixel estimate and "
+            "asks Claude to locate the intersection with sub-50-pixel precision. "
+            "Recommended for large-format maps (>=24x24 in) where single-image CP "
+            "identification has high pixel uncertainty."
+        ),
+    )
     parser.add_argument("--verbose", action="store_true", help="Debug logging")
     args = parser.parse_args()
 
@@ -1717,12 +1915,13 @@ def main() -> None:
         datefmt="%H:%M:%S",
     )
 
-    global _model_override, _rmse_threshold, _max_zone_calls
+    global _model_override, _rmse_threshold, _max_zone_calls, _tile_refine
     if args.model:
         _model_override = args.model
     _rmse_threshold = args.rmse_threshold
     if args.max_zone_calls is not None:
         _max_zone_calls = args.max_zone_calls
+    _tile_refine = args.tile_refine
 
     api_key = args.api_key or os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:

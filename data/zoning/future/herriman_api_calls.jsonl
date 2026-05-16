@@ -1,17 +1,21 @@
-{"call": "legend", "model": "claude-opus-4-7", "input_tokens": 4881, "output_tokens": 496, "cost_usd": 0.11041, "elapsed_s": 6.6}
-{"call": "zone_Educational Village/Campus", "model": "claude-opus-4-7", "input_tokens": 5079, "output_tokens": 96, "cost_usd": 0.08339, "elapsed_s": 4.0}
-{"call": "zone_Forest Residential/Recreational Resort", "model": "claude-opus-4-7", "input_tokens": 5089, "output_tokens": 188, "cost_usd": 0.09044, "elapsed_s": 4.6}
-{"call": "zone_Open Space", "model": "claude-opus-4-7", "input_tokens": 5069, "output_tokens": 260, "cost_usd": 0.09553, "elapsed_s": 5.4}
-{"call": "zone_Mixed Use Neighborhood One", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 104, "cost_usd": 0.0841, "elapsed_s": 3.6}
-{"call": "zone_Employment Campus/Business Park", "model": "claude-opus-4-7", "input_tokens": 5083, "output_tokens": 174, "cost_usd": 0.08929, "elapsed_s": 4.9}
-{"call": "zone_Parks and Plazas", "model": "claude-opus-4-7", "input_tokens": 5077, "output_tokens": 96, "cost_usd": 0.08335, "elapsed_s": 3.4}
-{"call": "zone_Civic and Community", "model": "claude-opus-4-7", "input_tokens": 5073, "output_tokens": 126, "cost_usd": 0.08554, "elapsed_s": 4.2}
-{"call": "zone_Utilities and Support Services", "model": "claude-opus-4-7", "input_tokens": 5079, "output_tokens": 142, "cost_usd": 0.08683, "elapsed_s": 6.4}
-{"call": "zone_Office Mixed Use", "model": "claude-opus-4-7", "input_tokens": 5077, "output_tokens": 96, "cost_usd": 0.08335, "elapsed_s": 3.7}
-{"call": "zone_General Retail", "model": "claude-opus-4-7", "input_tokens": 5069, "output_tokens": 184, "cost_usd": 0.08983, "elapsed_s": 4.6}
-{"call": "zone_Neighborhood Commercial/Node", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 142, "cost_usd": 0.08696, "elapsed_s": 3.9}
-{"call": "zone_Mixed Neighborhood Two", "model": "claude-opus-4-7", "input_tokens": 5085, "output_tokens": 108, "cost_usd": 0.08438, "elapsed_s": 4.0}
-{"call": "zone_Neighborhood Residential Two", "model": "claude-opus-4-7", "input_tokens": 5083, "output_tokens": 107, "cost_usd": 0.08427, "elapsed_s": 4.7}
-{"call": "zone_Neighborhood Residential One", "model": "claude-opus-4-7", "input_tokens": 5081, "output_tokens": 185, "cost_usd": 0.09009, "elapsed_s": 5.5}
-{"call": "zone_Hillside and Agricultural Residential", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 162, "cost_usd": 0.08846, "elapsed_s": 4.9}
-{"call": "zone_Mountain and Canyon Residential", "model": "claude-opus-4-7", "input_tokens": 5085, "output_tokens": 157, "cost_usd": 0.08805, "elapsed_s": 4.9}
+{"call": "tile_refine_cp0", "model": "claude-opus-4-7", "input_tokens": 606, "output_tokens": 21, "cost_usd": 0.01066, "elapsed_s": 1.6}
+{"call": "tile_refine_cp1", "model": "claude-opus-4-7", "input_tokens": 607, "output_tokens": 21, "cost_usd": 0.01068, "elapsed_s": 2.4}
+{"call": "tile_refine_cp2", "model": "claude-opus-4-7", "input_tokens": 613, "output_tokens": 21, "cost_usd": 0.01077, "elapsed_s": 4.6}
+{"call": "tile_refine_cp3", "model": "claude-opus-4-7", "input_tokens": 613, "output_tokens": 19, "cost_usd": 0.01062, "elapsed_s": 1.6}
+{"call": "legend", "model": "claude-opus-4-7", "input_tokens": 4881, "output_tokens": 496, "cost_usd": 0.11041, "elapsed_s": 6.7}
+{"call": "zone_Educational Village/Campus", "model": "claude-opus-4-7", "input_tokens": 5079, "output_tokens": 56, "cost_usd": 0.08038, "elapsed_s": 3.5}
+{"call": "zone_Forest Residential/Recreational Resort", "model": "claude-opus-4-7", "input_tokens": 5089, "output_tokens": 121, "cost_usd": 0.08541, "elapsed_s": 4.1}
+{"call": "zone_Open Space", "model": "claude-opus-4-7", "input_tokens": 5069, "output_tokens": 176, "cost_usd": 0.08923, "elapsed_s": 4.6}
+{"call": "zone_Mixed Use Neighborhood One", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 134, "cost_usd": 0.08636, "elapsed_s": 4.4}
+{"call": "zone_Employment Campus/Business Park", "model": "claude-opus-4-7", "input_tokens": 5083, "output_tokens": 128, "cost_usd": 0.08585, "elapsed_s": 4.3}
+{"call": "zone_Parks and Plazas", "model": "claude-opus-4-7", "input_tokens": 5077, "output_tokens": 108, "cost_usd": 0.08425, "elapsed_s": 3.9}
+{"call": "zone_Civic and Community", "model": "claude-opus-4-7", "input_tokens": 5073, "output_tokens": 122, "cost_usd": 0.08525, "elapsed_s": 4.0}
+{"call": "zone_Utilities and Support Services", "model": "claude-opus-4-7", "input_tokens": 5079, "output_tokens": 96, "cost_usd": 0.08339, "elapsed_s": 4.6}
+{"call": "zone_Office Mixed Use", "model": "claude-opus-4-7", "input_tokens": 5077, "output_tokens": 124, "cost_usd": 0.08546, "elapsed_s": 4.4}
+{"call": "zone_General Retail", "model": "claude-opus-4-7", "input_tokens": 5069, "output_tokens": 186, "cost_usd": 0.08998, "elapsed_s": 5.2}
+{"call": "zone_Neighborhood Commercial/Node", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 156, "cost_usd": 0.088, "elapsed_s": 4.5}
+{"call": "zone_Mixed Neighborhood Two", "model": "claude-opus-4-7", "input_tokens": 5085, "output_tokens": 129, "cost_usd": 0.08595, "elapsed_s": 4.4}
+{"call": "zone_Neighborhood Residential Two", "model": "claude-opus-4-7", "input_tokens": 5083, "output_tokens": 122, "cost_usd": 0.08539, "elapsed_s": 4.0}
+{"call": "zone_Neighborhood Residential One", "model": "claude-opus-4-7", "input_tokens": 5081, "output_tokens": 87, "cost_usd": 0.08274, "elapsed_s": 3.9}
+{"call": "zone_Hillside and Agricultural Residential", "model": "claude-opus-4-7", "input_tokens": 5087, "output_tokens": 151, "cost_usd": 0.08763, "elapsed_s": 5.0}
+{"call": "zone_Mountain and Canyon Residential", "model": "claude-opus-4-7", "input_tokens": 5085, "output_tokens": 219, "cost_usd": 0.0927, "elapsed_s": 5.1}

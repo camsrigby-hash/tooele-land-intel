@@ -8,52 +8,32 @@
         "coordinates": [
           [
             [
-              -112.0224516,
-              40.4863995
+              -112.0174077,
+              40.5023653
             ],
             [
-              -112.0199022,
-              40.4879376
+              -112.0150361,
+              40.5044082
             ],
             [
-              -112.0206383,
-              40.4857714
+              -112.0147702,
+              40.5028382
             ],
             [
-              -112.020498,
-              40.484421
+              -112.0158993,
+              40.4988072
             ],
             [
-              -112.0208298,
-              40.4818889
+              -112.0185963,
+              40.4964839
             ],
             [
-              -112.0221425,
-              40.4798413
+              -112.0185367,
+              40.4983343
             ],
             [
-              -112.0235835,
-              40.478972
-            ],
-            [
-              -112.0248028,
-              40.4782364
-            ],
-            [
-              -112.0250281,
-              40.478818
-            ],
-            [
-              -112.0244627,
-              40.4813117
-            ],
-            [
-              -112.0235425,
-              40.4840194
-            ],
-            [
-              -112.0224516,
-              40.4863995
+              -112.0174077,
+              40.5023653
             ]
           ]
         ]
@@ -68,14 +48,14 @@
         "gp_zone_normalized": "future_agriculture",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -85,116 +65,76 @@
         "coordinates": [
           [
             [
-              -112.0544503,
-              40.4879752
+              -112.0464062,
+              40.4951958
             ],
             [
-              -112.0503581,
-              40.4922377
+              -112.041756,
+              40.4992015
             ],
             [
-              -112.0477578,
-              40.4947033
+              -112.0393645,
+              40.5001823
             ],
             [
-              -112.0444324,
-              40.4967095
+              -112.0347143,
+              40.504188
             ],
             [
-              -112.0425989,
-              40.4969187
+              -112.0332525,
+              40.5018491
             ],
             [
-              -112.0396569,
-              40.4977966
+              -112.0286024,
+              40.5058549
             ],
             [
-              -112.0370984,
-              40.4975464
+              -112.0268747,
+              40.501946
             ],
             [
-              -112.0349232,
-              40.4961679
+              -112.0254129,
+              40.4996072
             ],
             [
-              -112.032023,
-              40.49433
+              -112.0301954,
+              40.4900903
             ],
             [
-              -112.0302312,
-              40.4918233
+              -112.0333837,
+              40.4837457
             ],
             [
-              -112.0284395,
-              40.4893166
+              -112.036572,
+              40.4774011
             ],
             [
-              -112.0266477,
-              40.48681
+              -112.0416203,
+              40.4694542
             ],
             [
-              -112.0259644,
-              40.4836346
+              -112.0453404,
+              40.4662496
             ],
             [
-              -112.0286065,
-              40.4784531
+              -112.0483964,
+              40.4654162
             ],
             [
-              -112.0315902,
-              40.4748592
+              -112.0514523,
+              40.4645827
             ],
             [
-              -112.0349156,
-              40.4728531
+              -112.0529141,
+              40.4669216
             ],
             [
-              -112.0374741,
-              40.4731033
+              -112.0534459,
+              40.4700616
             ],
             [
-              -112.0400327,
-              40.4733536
-            ],
-            [
-              -112.0433581,
-              40.4713475
-            ],
-            [
-              -112.0474503,
-              40.4670849
-            ],
-            [
-              -112.0515424,
-              40.4628224
-            ],
-            [
-              -112.0548678,
-              40.4608162
-            ],
-            [
-              -112.0574264,
-              40.4610665
-            ],
-            [
-              -112.0592181,
-              40.4635732
-            ],
-            [
-              -112.0599014,
-              40.4667486
-            ],
-            [
-              -112.0592637,
-              40.4725147
-            ],
-            [
-              -112.0575175,
-              40.4789495
-            ],
-            [
-              -112.0544503,
-              40.4879752
+              -112.0464062,
+              40.4951958
             ]
           ]
         ]
@@ -209,14 +149,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -226,152 +166,104 @@
         "coordinates": [
           [
             [
-              -112.0382448,
-              40.4825044
+              -112.030063,
+              40.4956014
             ],
             [
-              -112.0343234,
-              40.4875607
+              -112.0256788,
+              40.5011772
             ],
             [
-              -112.0302312,
-              40.4918233
+              -112.0212946,
+              40.5067529
             ],
             [
-              -112.0276309,
-              40.4942889
+              -112.0182386,
+              40.5075863
             ],
             [
-              -112.0250306,
-              40.4967545
+              -112.0151827,
+              40.5084198
             ],
             [
-              -112.0224303,
-              40.4992202
+              -112.0121267,
+              40.5092532
             ],
             [
-              -112.0198299,
-              40.5016858
+              -112.0097349,
+              40.5077155
             ],
             [
-              -112.017613,
-              40.5030232
+              -112.0092031,
+              40.5045755
             ],
             [
-              -112.0157795,
-              40.5032325
+              -112.0086713,
+              40.5014355
             ],
             [
-              -112.013946,
-              40.5034417
+              -112.0081395,
+              40.4982955
             ],
             [
-              -112.0121125,
-              40.5036509
+              -112.0076077,
+              40.4951555
             ],
             [
-              -112.010279,
-              40.5038601
+              -112.0107961,
+              40.4888109
             ],
             [
-              -112.0084455,
-              40.5040694
+              -112.0151803,
+              40.4832351
             ],
             [
-              -112.0066119,
-              40.5042786
+              -112.0195645,
+              40.4776594
             ],
             [
-              -112.0089124,
-              40.4975094
+              -112.0232846,
+              40.4744548
             ],
             [
-              -112.0112128,
-              40.4907402
+              -112.0263405,
+              40.4736214
             ],
             [
-              -112.0135132,
-              40.4839709
+              -112.0293965,
+              40.4727879
             ],
             [
-              -112.0164969,
-              40.4803771
+              -112.0324525,
+              40.4719545
             ],
             [
-              -112.0190972,
-              40.4779115
+              -112.0355084,
+              40.4711211
             ],
             [
-              -112.0216976,
-              40.4754459
+              -112.0360402,
+              40.4742611
             ],
             [
-              -112.0242979,
-              40.4729802
+              -112.036572,
+              40.4774011
             ],
             [
-              -112.0268982,
-              40.4705146
+              -112.0361737,
+              40.4813422
             ],
             [
-              -112.0294985,
-              40.468049
+              -112.0339155,
+              40.4868857
             ],
             [
-              -112.0320988,
-              40.4655833
+              -112.0316572,
+              40.4924291
             ],
             [
-              -112.0346992,
-              40.4631177
-            ],
-            [
-              -112.0372995,
-              40.4606521
-            ],
-            [
-              -112.0398998,
-              40.4581865
-            ],
-            [
-              -112.0425001,
-              40.4557208
-            ],
-            [
-              -112.044717,
-              40.4543834
-            ],
-            [
-              -112.0465506,
-              40.4541742
-            ],
-            [
-              -112.047063,
-              40.4565557
-            ],
-            [
-              -112.0460836,
-              40.4607342
-            ],
-            [
-              -112.0451043,
-              40.4649126
-            ],
-            [
-              -112.0435706,
-              40.4694254
-            ],
-            [
-              -112.0414828,
-              40.4742726
-            ],
-            [
-              -112.039395,
-              40.4791198
-            ],
-            [
-              -112.0382448,
-              40.4825044
+              -112.030063,
+              40.4956014
             ]
           ]
         ]
@@ -386,14 +278,14 @@
         "gp_zone_normalized": "future_open_space",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -403,32 +295,48 @@
         "coordinates": [
           [
             [
-              -112.0349946,
-              40.5058114
+              -112.030617,
+              40.5084372
             ],
             [
-              -112.0327777,
-              40.5071488
+              -112.0284035,
+              40.5103439
             ],
             [
-              -112.0334678,
-              40.505118
+              -112.028802,
+              40.5089212
             ],
             [
-              -112.0316943,
-              40.506188
+              -112.027593,
+              40.5099627
             ],
             [
-              -112.0323077,
-              40.5043829
+              -112.0284564,
+              40.5068802
             ],
             [
-              -112.0362981,
-              40.5019755
+              -112.0296654,
+              40.5058387
             ],
             [
-              -112.0349946,
-              40.5058114
+              -112.0293997,
+              40.5067872
+            ],
+            [
+              -112.0307948,
+              40.5055855
+            ],
+            [
+              -112.0303963,
+              40.5070082
+            ],
+            [
+              -112.0312147,
+              40.5063032
+            ],
+            [
+              -112.030617,
+              40.5084372
             ]
           ]
         ]
@@ -443,14 +351,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -460,24 +368,24 @@
         "coordinates": [
           [
             [
-              -112.036135,
-              40.5244965
+              -112.0273135,
+              40.5051661
             ],
             [
-              -112.0335855,
-              40.5260345
+              -112.0262905,
+              40.5060474
             ],
             [
-              -112.034659,
-              40.5228755
+              -112.0269546,
+              40.5036762
             ],
             [
-              -112.0372085,
-              40.5213375
+              -112.0279776,
+              40.502795
             ],
             [
-              -112.036135,
-              40.5244965
+              -112.0273135,
+              40.5051661
             ]
           ]
         ]
@@ -492,14 +400,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -509,24 +417,24 @@
         "coordinates": [
           [
             [
-              -112.02974,
-              40.5023443
+              -112.0313017,
+              40.5261977
             ],
             [
-              -112.0276339,
-              40.5036148
+              -112.0287906,
+              40.5283608
             ],
             [
-              -112.0287842,
-              40.5002302
+              -112.029986,
+              40.5240927
             ],
             [
-              -112.0308902,
-              40.4989597
+              -112.0324971,
+              40.5219296
             ],
             [
-              -112.02974,
-              40.5023443
+              -112.0313017,
+              40.5261977
             ]
           ]
         ]
@@ -541,14 +449,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -558,56 +466,32 @@
         "coordinates": [
           [
             [
-              -112.0238733,
-              40.4784564
+              -112.0391073,
+              40.5201214
             ],
             [
-              -112.0173223,
-              40.4824085
+              -112.0376657,
+              40.5213632
             ],
             [
-              -112.0196687,
-              40.4755039
+              -112.0382369,
+              40.519324
             ],
             [
-              -112.0175959,
-              40.4767544
+              -112.0386089,
+              40.5190035
             ],
             [
-              -112.0197276,
-              40.4704816
+              -112.0387417,
+              40.5185293
             ],
             [
-              -112.0181093,
-              40.4714579
+              -112.0398112,
+              40.517608
             ],
             [
-              -112.0202487,
-              40.4651625
-            ],
-            [
-              -112.021867,
-              40.4641862
-            ],
-            [
-              -112.0231936,
-              40.4602826
-            ],
-            [
-              -112.0262973,
-              40.4584102
-            ],
-            [
-              -112.0257835,
-              40.459922
-            ],
-            [
-              -112.0313036,
-              40.4565918
-            ],
-            [
-              -112.0238733,
-              40.4784564
+              -112.0391073,
+              40.5201214
             ]
           ]
         ]
@@ -622,14 +506,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -639,24 +523,24 @@
         "coordinates": [
           [
             [
-              -112.0497283,
-              40.5012997
+              -112.0325334,
+              40.4850178
             ],
             [
-              -112.0474227,
-              40.5026906
+              -112.0288133,
+              40.4882224
             ],
             [
-              -112.0499838,
-              40.4951542
+              -112.0300088,
+              40.4839543
             ],
             [
-              -112.0522894,
-              40.4937633
+              -112.0337289,
+              40.4807497
             ],
             [
-              -112.0497283,
-              40.5012997
+              -112.0325334,
+              40.4850178
             ]
           ]
         ]
@@ -671,14 +555,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -688,24 +572,24 @@
         "coordinates": [
           [
             [
-              -112.0556218,
-              40.4843983
+              -112.0276843,
+              40.4922534
             ],
             [
-              -112.0531277,
-              40.485903
+              -112.0255453,
+              40.494096
             ],
             [
-              -112.0545847,
-              40.4816158
+              -112.0278697,
+              40.485797
             ],
             [
-              -112.0570787,
-              40.4801112
+              -112.0300088,
+              40.4839543
             ],
             [
-              -112.0556218,
-              40.4843983
+              -112.0276843,
+              40.4922534
             ]
           ]
         ]
@@ -720,14 +604,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -737,24 +621,73 @@
         "coordinates": [
           [
             [
-              -112.0325233,
-              40.4855973
+              -112.0249479,
+              40.5000077
             ],
             [
-              -112.0310823,
-              40.4864666
+              -112.0240179,
+              40.5008089
             ],
             [
-              -112.0320791,
-              40.4835333
+              -112.0253461,
+              40.4960666
             ],
             [
-              -112.0335201,
-              40.4826639
+              -112.0262762,
+              40.4952654
             ],
             [
-              -112.0325233,
-              40.4855973
+              -112.0249479,
+              40.5000077
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Employment Campus/Business Park",
+        "gp_zone_description": "Employment Campus/Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1051.2,
+        "n_control_points": 4,
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0282363,
+              40.4977148
+            ],
+            [
+              -112.0272597,
+              40.498556
+            ],
+            [
+              -112.0281231,
+              40.4954735
+            ],
+            [
+              -112.0290996,
+              40.4946323
+            ],
+            [
+              -112.0282363,
+              40.4977148
             ]
           ]
         ]
@@ -769,14 +702,14 @@
         "gp_zone_normalized": "future_open_space",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -786,24 +719,24 @@
         "coordinates": [
           [
             [
-              -112.0320913,
-              40.4946475
+              -112.0339562,
+              40.4965654
             ],
             [
-              -112.0309828,
-              40.4953162
+              -112.0331192,
+              40.4972864
             ],
             [
-              -112.031903,
-              40.4926085
+              -112.0339826,
+              40.494204
             ],
             [
-              -112.0330115,
-              40.4919398
+              -112.0348196,
+              40.4934829
             ],
             [
-              -112.0320913,
-              40.4946475
+              -112.0339562,
+              40.4965654
             ]
           ]
         ]
@@ -818,14 +751,14 @@
         "gp_zone_normalized": "future_open_space",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -835,24 +768,24 @@
         "coordinates": [
           [
             [
-              -112.0397822,
-              40.489649
+              -112.0282023,
+              40.4896483
             ],
             [
-              -112.0386737,
-              40.4903177
+              -112.0268072,
+              40.49085
             ],
             [
-              -112.0395939,
-              40.48761
+              -112.0276706,
+              40.4877676
             ],
             [
-              -112.0407024,
-              40.4869413
+              -112.0290656,
+              40.4865658
             ],
             [
-              -112.0397822,
-              40.489649
+              -112.0282023,
+              40.4896483
             ]
           ]
         ]
@@ -867,14 +800,14 @@
         "gp_zone_normalized": "future_open_space",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -884,24 +817,24 @@
         "coordinates": [
           [
             [
-              -112.0359951,
-              40.5035934
+              -112.0307146,
+              40.5013368
             ],
             [
-              -112.0338225,
-              40.504904
+              -112.0288546,
+              40.5029391
             ],
             [
-              -112.0349727,
-              40.5015194
+              -112.0298508,
+              40.4993823
             ],
             [
-              -112.0371453,
-              40.5002088
+              -112.0317108,
+              40.4977801
             ],
             [
-              -112.0359951,
-              40.5035934
+              -112.0307146,
+              40.5013368
             ]
           ]
         ]
@@ -916,14 +849,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -933,24 +866,24 @@
         "coordinates": [
           [
             [
-              -112.0238067,
-              40.5096907
+              -112.0353651,
+              40.5011087
             ],
             [
-              -112.0220332,
-              40.5107607
+              -112.0341561,
+              40.5021502
             ],
             [
-              -112.0230301,
-              40.5078273
+              -112.034953,
+              40.4993048
             ],
             [
-              -112.0248036,
-              40.5067574
+              -112.0361621,
+              40.4982634
             ],
             [
-              -112.0238067,
-              40.5096907
+              -112.0353651,
+              40.5011087
             ]
           ]
         ]
@@ -965,14 +898,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -982,24 +915,24 @@
         "coordinates": [
           [
             [
-              -112.0352611,
-              40.5122877
+              -112.0335196,
+              40.5160115
             ],
             [
-              -112.0337092,
-              40.5132239
+              -112.0322176,
+              40.5171331
             ],
             [
-              -112.0345527,
-              40.5107418
+              -112.0328817,
+              40.5147619
             ],
             [
-              -112.0361046,
-              40.5098056
+              -112.0341838,
+              40.5136403
             ],
             [
-              -112.0352611,
-              40.5122877
+              -112.0335196,
+              40.5160115
             ]
           ]
         ]
@@ -1014,14 +947,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1031,24 +964,24 @@
         "coordinates": [
           [
             [
-              -112.0340714,
-              40.4991931
+              -112.0248845,
+              40.5317256
             ],
             [
-              -112.0325195,
-              40.5001293
+              -112.0237685,
+              40.532687
             ],
             [
-              -112.0334397,
-              40.4974216
+              -112.0242998,
+              40.5307901
             ],
             [
-              -112.0349915,
-              40.4964854
+              -112.0254158,
+              40.5298287
             ],
             [
-              -112.0340714,
-              40.4991931
+              -112.0248845,
+              40.5317256
             ]
           ]
         ]
@@ -1063,14 +996,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1080,24 +1013,24 @@
         "coordinates": [
           [
             [
-              -112.0174186,
-              40.4823324
+              -112.0126756,
+              40.4826042
             ],
             [
-              -112.0150909,
-              40.4837367
+              -112.0101645,
+              40.4847673
             ],
             [
-              -112.017698,
-              40.4760649
+              -112.0131199,
+              40.4742157
             ],
             [
-              -112.0200258,
-              40.4746606
+              -112.015631,
+              40.4720526
             ],
             [
-              -112.0174186,
-              40.4823324
+              -112.0126756,
+              40.4826042
             ]
           ]
         ]
@@ -1112,14 +1045,14 @@
         "gp_zone_normalized": "future_industrial_light",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1129,24 +1062,24 @@
         "coordinates": [
           [
             [
-              -112.0264282,
-              40.4677487
+              -112.0196962,
+              40.4658521
             ],
             [
-              -112.0190016,
-              40.472229
+              -112.010396,
+              40.4738636
             ],
             [
-              -112.0206119,
-              40.4674906
+              -112.0123884,
+              40.4667501
             ],
             [
-              -112.0280385,
-              40.4630102
+              -112.0216886,
+              40.4587386
             ],
             [
-              -112.0264282,
-              40.4677487
+              -112.0196962,
+              40.4658521
             ]
           ]
         ]
@@ -1161,14 +1094,14 @@
         "gp_zone_normalized": "future_industrial_light",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1178,24 +1111,24 @@
         "coordinates": [
           [
             [
-              -112.0363337,
-              40.4544183
+              -112.0107942,
+              40.4699224
             ],
             [
-              -112.0258034,
-              40.460771
+              -112.0084692,
+              40.4719253
             ],
             [
-              -112.0276437,
-              40.4553557
+              -112.0094654,
+              40.4683685
             ],
             [
-              -112.0381741,
-              40.4490029
+              -112.0117904,
+              40.4663657
             ],
             [
-              -112.0363337,
-              40.4544183
+              -112.0107942,
+              40.4699224
             ]
           ]
         ]
@@ -1210,14 +1143,14 @@
         "gp_zone_normalized": "future_industrial_light",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1227,73 +1160,24 @@
         "coordinates": [
           [
             [
-              -112.0216064,
-              40.4575628
+              -112.024252,
+              40.5169786
             ],
             [
-              -112.0196112,
-              40.4587665
+              -112.0217874,
+              40.5191016
             ],
             [
-              -112.0212982,
-              40.4538024
+              -112.0239126,
+              40.511514
             ],
             [
-              -112.0232934,
-              40.4525987
+              -112.0263772,
+              40.5093909
             ],
             [
-              -112.0216064,
-              40.4575628
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "city_slug": "herriman",
-        "city_name": "Herriman",
-        "future_layer_type": "flu",
-        "layer_subtype": null,
-        "gp_zone_code": "Utilities and Support Services",
-        "gp_zone_description": "Utilities and Support Services",
-        "gp_zone_normalized": "future_industrial_light",
-        "acreage": null,
-        "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
-        "source_page_id": "page_0",
-        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
-        "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
-        "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -112.026316,
-              40.5155315
-            ],
-            [
-              -112.0235448,
-              40.5172033
-            ],
-            [
-              -112.026152,
-              40.5095315
-            ],
-            [
-              -112.0289231,
-              40.5078598
-            ],
-            [
-              -112.026316,
-              40.5155315
+              -112.024252,
+              40.5169786
             ]
           ]
         ]
@@ -1308,14 +1192,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1325,24 +1209,24 @@
         "coordinates": [
           [
             [
-              -112.0135254,
-              40.4950852
+              -112.0270737,
+              40.4987162
             ],
             [
-              -112.0109759,
-              40.4966232
+              -112.0259577,
+              40.4996776
             ],
             [
-              -112.0134297,
-              40.4894027
+              -112.0268875,
+              40.496358
             ],
             [
-              -112.0159792,
-              40.4878647
+              -112.0280035,
+              40.4953966
             ],
             [
-              -112.0135254,
-              40.4950852
+              -112.0270737,
+              40.4987162
             ]
           ]
         ]
@@ -1357,14 +1241,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1374,24 +1258,24 @@
         "coordinates": [
           [
             [
-              -112.017884,
-              40.4711094
+              -112.032263,
+              40.5057599
             ],
             [
-              -112.0156671,
-              40.4724469
+              -112.0304495,
+              40.5073222
             ],
             [
-              -112.0174307,
-              40.4672571
+              -112.0324419,
+              40.5002087
             ],
             [
-              -112.0196477,
-              40.4659197
+              -112.0342554,
+              40.4986465
             ],
             [
-              -112.017884,
-              40.4711094
+              -112.032263,
+              40.5057599
             ]
           ]
         ]
@@ -1406,14 +1290,14 @@
         "gp_zone_normalized": "future_mixed_use",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1423,24 +1307,73 @@
         "coordinates": [
           [
             [
-              -112.0211442,
-              40.5304907
+              -112.0353399,
+              40.5148033
             ],
             [
-              -112.0185947,
-              40.5320287
+              -112.0342238,
+              40.5157647
             ],
             [
-              -112.0212786,
-              40.5241313
+              -112.0350208,
+              40.5129193
             ],
             [
-              -112.023828,
-              40.5225933
+              -112.0361368,
+              40.5119579
             ],
             [
-              -112.0211442,
-              40.5304907
+              -112.0353399,
+              40.5148033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Office Mixed Use",
+        "gp_zone_description": "Office Mixed Use",
+        "gp_zone_normalized": "future_mixed_use",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1051.2,
+        "n_control_points": 4,
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.023846,
+              40.5240207
+            ],
+            [
+              -112.021986,
+              40.525623
+            ],
+            [
+              -112.0236596,
+              40.5196477
+            ],
+            [
+              -112.0255197,
+              40.5180454
+            ],
+            [
+              -112.023846,
+              40.5240207
             ]
           ]
         ]
@@ -1455,14 +1388,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1472,24 +1405,24 @@
         "coordinates": [
           [
             [
-              -112.0253616,
-              40.5180804
+              -112.0263166,
+              40.5152001
             ],
             [
-              -112.0235881,
-              40.5191504
+              -112.0244566,
+              40.5168023
             ],
             [
-              -112.0255051,
-              40.5135094
+              -112.0258512,
+              40.5118229
             ],
             [
-              -112.0272786,
-              40.5124394
+              -112.0277113,
+              40.5102206
             ],
             [
-              -112.0253616,
-              40.5180804
+              -112.0263166,
+              40.5152001
             ]
           ]
         ]
@@ -1504,14 +1437,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1521,24 +1454,24 @@
         "coordinates": [
           [
             [
-              -112.0214964,
-              40.5123401
+              -112.0244292,
+              40.4950574
             ],
             [
-              -112.0198338,
-              40.5133432
+              -112.0225692,
+              40.4966597
             ],
             [
-              -112.020984,
-              40.5099586
+              -112.0238975,
+              40.4919174
             ],
             [
-              -112.0226466,
-              40.5089555
+              -112.0257575,
+              40.4903151
             ],
             [
-              -112.0214964,
-              40.5123401
+              -112.0244292,
+              40.4950574
             ]
           ]
         ]
@@ -1553,14 +1486,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1570,24 +1503,24 @@
         "coordinates": [
           [
             [
-              -112.0188505,
-              40.5058642
+              -112.0231534,
+              40.4925583
             ],
             [
-              -112.0160794,
-              40.507536
+              -112.0212934,
+              40.4941606
             ],
             [
-              -112.017613,
-              40.5030232
+              -112.0226217,
+              40.4894183
             ],
             [
-              -112.0203842,
-              40.5013514
+              -112.0244817,
+              40.487816
             ],
             [
-              -112.0188505,
-              40.5058642
+              -112.0231534,
+              40.4925583
             ]
           ]
         ]
@@ -1602,14 +1535,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1619,24 +1552,24 @@
         "coordinates": [
           [
             [
-              -112.0275815,
-              40.47369
+              -112.0288635,
+              40.4570556
             ],
             [
-              -112.0259188,
-              40.4746931
+              -112.0260734,
+              40.4594591
             ],
             [
-              -112.0274524,
-              40.4701802
+              -112.0274017,
+              40.4547168
             ],
             [
-              -112.0291151,
-              40.4691772
+              -112.0301918,
+              40.4523133
             ],
             [
-              -112.0275815,
-              40.47369
+              -112.0288635,
+              40.4570556
             ]
           ]
         ]
@@ -1651,14 +1584,14 @@
         "gp_zone_normalized": "future_commercial_general",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1668,73 +1601,24 @@
         "coordinates": [
           [
             [
-              -112.0307322,
-              40.4592326
+              -112.0298503,
+              40.4943454
             ],
             [
-              -112.0285153,
-              40.46057
+              -112.0279903,
+              40.4959477
             ],
             [
-              -112.0300489,
-              40.4560572
+              -112.0289201,
+              40.4926281
             ],
             [
-              -112.0322659,
-              40.4547198
+              -112.0307801,
+              40.4910258
             ],
             [
-              -112.0307322,
-              40.4592326
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "city_slug": "herriman",
-        "city_name": "Herriman",
-        "future_layer_type": "flu",
-        "layer_subtype": null,
-        "gp_zone_code": "General Retail",
-        "gp_zone_description": "General Retail",
-        "gp_zone_normalized": "future_commercial_general",
-        "acreage": null,
-        "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
-        "source_page_id": "page_0",
-        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
-        "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
-        "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -112.0212786,
-              40.5241313
-            ],
-            [
-              -112.0200593,
-              40.5248669
-            ],
-            [
-              -112.0206727,
-              40.5230618
-            ],
-            [
-              -112.021892,
-              40.5223262
-            ],
-            [
-              -112.0212786,
-              40.5241313
+              -112.0298503,
+              40.4943454
             ]
           ]
         ]
@@ -1749,14 +1633,14 @@
         "gp_zone_normalized": "future_commercial_neighborhood",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1766,24 +1650,24 @@
         "coordinates": [
           [
             [
-              -112.0327708,
-              40.5123549
+              -112.0320037,
+              40.5032847
             ],
             [
-              -112.0316624,
-              40.5130237
+              -112.0312597,
+              40.5039257
             ],
             [
-              -112.0321225,
-              40.5116698
+              -112.031791,
+              40.5020287
             ],
             [
-              -112.0332309,
-              40.5110011
+              -112.032535,
+              40.5013878
             ],
             [
-              -112.0327708,
-              40.5123549
+              -112.0320037,
+              40.5032847
             ]
           ]
         ]
@@ -1798,14 +1682,14 @@
         "gp_zone_normalized": "future_commercial_neighborhood",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1815,24 +1699,24 @@
         "coordinates": [
           [
             [
-              -112.0375858,
-              40.5015574
+              -112.0206584,
+              40.5231326
             ],
             [
-              -112.0368099,
-              40.5020255
+              -112.0197284,
+              40.5239337
             ],
             [
-              -112.0372699,
-              40.5006717
+              -112.0202597,
+              40.5220368
             ],
             [
-              -112.0380459,
-              40.5002036
+              -112.0211897,
+              40.5212357
             ],
             [
-              -112.0375858,
-              40.5015574
+              -112.0206584,
+              40.5231326
             ]
           ]
         ]
@@ -1847,14 +1731,14 @@
         "gp_zone_normalized": "future_commercial_neighborhood",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1864,24 +1748,24 @@
         "coordinates": [
           [
             [
-              -112.0246153,
-              40.5047184
+              -112.0367602,
+              40.499907
             ],
             [
-              -112.0230635,
-              40.5056546
+              -112.0358301,
+              40.5007082
             ],
             [
-              -112.0239069,
-              40.5031726
+              -112.0363614,
+              40.4988112
             ],
             [
-              -112.0254588,
-              40.5022364
+              -112.0372915,
+              40.4980101
             ],
             [
-              -112.0246153,
-              40.5047184
+              -112.0367602,
+              40.499907
             ]
           ]
         ]
@@ -1896,14 +1780,14 @@
         "gp_zone_normalized": "future_commercial_neighborhood",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1913,40 +1797,101 @@
         "coordinates": [
           [
             [
-              -112.0249759,
-              40.5122142
+              -112.0264753,
+              40.4932949
             ],
             [
-              -112.0209855,
-              40.5146216
+              -112.0251733,
+              40.4944165
             ],
             [
-              -112.0198353,
-              40.5180062
+              -112.0259702,
+              40.4915711
             ],
             [
-              -112.0178401,
-              40.5192099
+              -112.0272722,
+              40.4904495
             ],
             [
-              -112.0206772,
-              40.5108612
+              -112.0264753,
+              40.4932949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Neighborhood Commercial/Node",
+        "gp_zone_description": "Neighborhood Commercial/Node",
+        "gp_zone_normalized": "future_commercial_neighborhood",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation_yellow",
+        "transform_residual_ft": 1051.2,
+        "n_control_points": 4,
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0251086,
+              40.513542
             ],
             [
-              -112.0226725,
-              40.5096575
+              -112.0217606,
+              40.5164262
             ],
             [
-              -112.0241294,
-              40.5053703
+              -112.020764,
+              40.5162052
             ],
             [
-              -112.0281198,
-              40.5029629
+              -112.0216273,
+              40.5118635
             ],
             [
-              -112.0249759,
-              40.5122142
+              -112.0234205,
+              40.5067206
+            ],
+            [
+              -112.0258118,
+              40.5019622
+            ],
+            [
+              -112.0280039,
+              40.4991743
+            ],
+            [
+              -112.0292661,
+              40.4984468
+            ],
+            [
+              -112.0293327,
+              40.5007281
+            ],
+            [
+              -112.0281905,
+              40.5053102
+            ],
+            [
+              -112.0270083,
+              40.5090272
+            ],
+            [
+              -112.0251086,
+              40.513542
             ]
           ]
         ]
@@ -1961,14 +1906,14 @@
         "gp_zone_normalized": "future_unknown",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -1978,24 +1923,32 @@
         "coordinates": [
           [
             [
-              -112.0304613,
-              40.5173358
+              -112.0294006,
+              40.5156018
             ],
             [
-              -112.0272468,
-              40.5192751
+              -112.0278727,
+              40.5172778
             ],
             [
-              -112.0283203,
-              40.5161162
+              -112.027474,
+              40.516182
             ],
             [
-              -112.0315348,
-              40.5141769
+              -112.028736,
+              40.512936
             ],
             [
-              -112.0304613,
-              40.5173358
+              -112.0302638,
+              40.5112601
+            ],
+            [
+              -112.030729,
+              40.5121187
+            ],
+            [
+              -112.0294006,
+              40.5156018
             ]
           ]
         ]
@@ -2010,14 +1963,14 @@
         "gp_zone_normalized": "future_unknown",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2027,32 +1980,40 @@
         "coordinates": [
           [
             [
-              -112.0430279,
-              40.504732
+              -112.0361383,
+              40.5270687
             ],
             [
-              -112.0380398,
-              40.5077412
+              -112.0336272,
+              40.5292318
             ],
             [
-              -112.0394026,
-              40.5024346
+              -112.0343577,
+              40.5266235
             ],
             [
-              -112.0422155,
-              40.4980469
+              -112.0337067,
+              40.5271843
             ],
             [
-              -112.0449866,
-              40.4963751
+              -112.0343044,
+              40.5250503
             ],
             [
-              -112.0449449,
-              40.499091
+              -112.0380245,
+              40.5218457
             ],
             [
-              -112.0430279,
-              40.504732
+              -112.037626,
+              40.5232684
+            ],
+            [
+              -112.037068,
+              40.5237491
+            ],
+            [
+              -112.0361383,
+              40.5270687
             ]
           ]
         ]
@@ -2067,14 +2028,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2084,24 +2045,32 @@
         "coordinates": [
           [
             [
-              -112.0303147,
-              40.4863915
+              -112.021561,
+              40.5133598
             ],
             [
-              -112.0247724,
-              40.4897351
+              -112.0197009,
+              40.5149621
             ],
             [
-              -112.0286065,
-              40.4784531
+              -112.0212284,
+              40.5095085
             ],
             [
-              -112.0341488,
-              40.4751095
+              -112.0189034,
+              40.5115113
             ],
             [
-              -112.0303147,
-              40.4863915
+              -112.0205637,
+              40.5055835
+            ],
+            [
+              -112.0247488,
+              40.5019783
+            ],
+            [
+              -112.021561,
+              40.5133598
             ]
           ]
         ]
@@ -2116,14 +2085,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2133,24 +2102,24 @@
         "coordinates": [
           [
             [
-              -112.023831,
-              40.4795402
+              -112.0239523,
+              40.5098606
             ],
             [
-              -112.0171802,
-              40.4835525
+              -112.0220923,
+              40.5114629
             ],
             [
-              -112.0202475,
-              40.4745269
+              -112.0234205,
+              40.5067206
             ],
             [
-              -112.0268982,
-              40.4705146
+              -112.0252806,
+              40.5051183
             ],
             [
-              -112.023831,
-              40.4795402
+              -112.0239523,
+              40.5098606
             ]
           ]
         ]
@@ -2165,14 +2134,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2182,48 +2151,60 @@
         "coordinates": [
           [
             [
-              -112.0240133,
-              40.5153063
+              -112.0373733,
+              40.519888
             ],
             [
-              -112.0121619,
-              40.5242498
+              -112.0316608,
+              40.5302061
             ],
             [
-              -112.0018441,
-              40.5286806
+              -112.0251506,
+              40.5358141
             ],
             [
-              -112.0001358,
-              40.5207421
+              -112.0206329,
+              40.5343087
             ],
             [
-              -111.9984276,
-              40.5128037
+              -112.0239535,
+              40.5224529
             ],
             [
-              -112.0062703,
-              40.5026909
+              -112.029666,
+              40.5121349
             ],
             [
-              -112.0133462,
-              40.4948345
+              -112.0344485,
+              40.502618
             ],
             [
-              -112.0228972,
-              40.4926602
+              -112.0385668,
+              40.4954723
             ],
             [
-              -112.026139,
-              40.4960858
+              -112.0413568,
+              40.4930688
             ],
             [
-              -112.0278473,
-              40.5040243
+              -112.0428186,
+              40.4954077
             ],
             [
-              -112.0240133,
-              40.5153063
+              -112.0426863,
+              40.5009188
+            ],
+            [
+              -112.0416239,
+              40.5072311
+            ],
+            [
+              -112.0387015,
+              40.5151457
+            ],
+            [
+              -112.0373733,
+              40.519888
             ]
           ]
         ]
@@ -2238,14 +2219,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2255,44 +2236,40 @@
         "coordinates": [
           [
             [
-              -112.0429482,
-              40.5218212
+              -112.043484,
+              40.5056288
             ],
             [
-              -112.039947,
-              40.5241699
+              -112.0416771,
+              40.5075451
             ],
             [
-              -112.0395203,
-              40.523351
+              -112.0402289,
+              40.5084329
             ],
             [
-              -112.0392812,
-              40.5222397
+              -112.0412782,
+              40.5039309
             ],
             [
-              -112.0409256,
-              40.51766
+              -112.0433504,
+              40.4985477
             ],
             [
-              -112.0423066,
-              40.5159299
+              -112.0449446,
+              40.4953754
             ],
             [
-              -112.0435685,
-              40.5148099
+              -112.0463396,
+              40.4941737
             ],
             [
-              -112.0437567,
-              40.5168489
+              -112.0454764,
+              40.4985154
             ],
             [
-              -112.0438767,
-              40.5185703
-            ],
-            [
-              -112.0429482,
-              40.5218212
+              -112.043484,
+              40.5056288
             ]
           ]
         ]
@@ -2307,14 +2284,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2324,32 +2301,36 @@
         "coordinates": [
           [
             [
-              -112.0343234,
-              40.4875607
+              -112.0385656,
+              40.4828799
             ],
             [
-              -112.0306146,
-              40.4906951
+              -112.0345134,
+              40.4872701
             ],
             [
-              -112.0291645,
-              40.4897761
+              -112.0320554,
+              40.488488
             ],
             [
-              -112.0308689,
-              40.4860571
+              -112.0324537,
+              40.4845468
             ],
             [
-              -112.032915,
-              40.4839259
+              -112.035642,
+              40.4782022
             ],
             [
-              -112.0347486,
-              40.4837167
+              -112.0396941,
+              40.4738121
             ],
             [
-              -112.0343234,
-              40.4875607
+              -112.040558,
+              40.4757665
+            ],
+            [
+              -112.0385656,
+              40.4828799
             ]
           ]
         ]
@@ -2364,14 +2345,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2381,32 +2362,32 @@
         "coordinates": [
           [
             [
-              -112.0392697,
-              40.4872674
+              -112.034446,
+              40.4774334
             ],
             [
-              -112.0366694,
-              40.4897331
+              -112.0294639,
+              40.4826247
             ],
             [
-              -112.0357735,
-              40.4884797
+              -112.028268,
+              40.4818558
             ],
             [
-              -112.0374779,
-              40.4847608
+              -112.0305262,
+              40.4763124
             ],
             [
-              -112.0399249,
-              40.4827464
+              -112.0345784,
+              40.4719222
             ],
             [
-              -112.0404199,
-              40.4838828
+              -112.0357743,
+              40.4726911
             ],
             [
-              -112.0392697,
-              40.4872674
+              -112.034446,
+              40.4774334
             ]
           ]
         ]
@@ -2421,14 +2402,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     },
     {
@@ -2438,96 +2419,132 @@
         "coordinates": [
           [
             [
-              -112.0549667,
-              40.4867667
+              -112.0457872,
+              40.4977079
             ],
             [
-              -112.059951,
-              40.4721001
+              -112.0548858,
+              40.4652232
             ],
             [
-              -112.0487334,
-              40.4788675
+              -112.045474,
+              40.4733308
             ],
             [
-              -112.0469416,
-              40.4763608
+              -112.0414218,
+              40.4777209
             ],
             [
-              -112.0429329,
-              40.4751916
+              -112.0388976,
+              40.4816944
             ],
             [
-              -112.0385826,
-              40.4724346
+              -112.0367055,
+              40.4844822
             ],
             [
-              -112.0353407,
-              40.469009
+              -112.0317234,
+              40.4896735
             ],
             [
-              -112.0305652,
-              40.4700962
+              -112.0276712,
+              40.4940637
             ],
             [
-              -112.0264731,
-              40.4743587
+              -112.024217,
+              40.4988383
             ],
             [
-              -112.0234058,
-              40.4833843
+              -112.0207628,
+              40.5036129
             ],
             [
-              -112.0259644,
-              40.4836346
+              -112.0176407,
+              40.5072019
             ],
             [
-              -112.0307399,
-              40.4825474
+              -112.0154486,
+              40.5099898
             ],
             [
-              -112.0325316,
-              40.4850541
+              -112.0147844,
+              40.5123609
             ],
             [
-              -112.0343234,
-              40.4875607
+              -112.0163124,
+              40.5119442
             ],
             [
-              -112.0342399,
-              40.4929925
+              -112.0178404,
+              40.5115275
             ],
             [
-              -112.0341564,
-              40.4984243
+              -112.0193684,
+              40.5111108
             ],
             [
-              -112.0348397,
-              40.5015997
+              -112.0208964,
+              40.510694
             ],
             [
-              -112.0377817,
-              40.5007218
+              -112.0224243,
+              40.5102773
             ],
             [
-              -112.0414904,
-              40.4975874
+              -112.0239523,
+              40.5098606
             ],
             [
-              -112.0451992,
-              40.4944531
+              -112.0254803,
+              40.5094439
             ],
             [
-              -112.048908,
-              40.4913187
+              -112.0270083,
+              40.5090272
             ],
             [
-              -112.0524634,
-              40.4886357
+              -112.0285363,
+              40.5086105
             ],
             [
-              -112.0549667,
-              40.4867667
+              -112.0300642,
+              40.5081937
+            ],
+            [
+              -112.0315922,
+              40.507777
+            ],
+            [
+              -112.0331202,
+              40.5073603
+            ],
+            [
+              -112.0346482,
+              40.5069436
+            ],
+            [
+              -112.0363754,
+              40.5058155
+            ],
+            [
+              -112.0382354,
+              40.5042132
+            ],
+            [
+              -112.0400955,
+              40.5026109
+            ],
+            [
+              -112.0419555,
+              40.5010086
+            ],
+            [
+              -112.0438156,
+              40.4994063
+            ],
+            [
+              -112.0457872,
+              40.4977079
             ]
           ]
         ]
@@ -2542,14 +2559,14 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "https://www.herriman.gov/uploads/files/3174/LandUse203036x36.pdf",
+        "source_pdf_url": "C:/Users/camsr/code/tooele-land-intel/data/_pdf_cache/LandUse203036x36.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation_yellow",
-        "transform_residual_ft": 1017.9,
+        "transform_residual_ft": 1051.2,
         "n_control_points": 4,
-        "rotation_angle_deg": -32.65,
-        "extraction_date": "2026-05-15"
+        "rotation_angle_deg": -33.32,
+        "extraction_date": "2026-05-16"
       }
     }
   ]
