@@ -157,6 +157,11 @@ CITY_CONFIGS: dict[str, dict] = {
         "jurisdiction": "salt_lake_county_ut",
         "bbox": {"lon_min": -112.08, "lat_min": 40.49, "lon_max": -111.97, "lat_max": 40.56},
         "pdf_url": None,
+        "stage2_preferred_streets": [
+            "Rosecrest Rd", "Main St", "Pioneer St", "Herriman Pkwy",
+            "Fort Herriman Pkwy", "Aylesbury Dr", "Copeland Dr",
+            "Anthem Park Blvd", "Butterfield Pkwy",
+        ],
     },
     "spanish_fork": {
         "city_name": "Spanish Fork",
@@ -472,9 +477,37 @@ Rules:
     more clearly identifiable than on a flat choropleth map.
   - If fewer than 4 intersections are clearly visible, return as many as you can find with honest confidence levels.
 
+STREET SELECTION PRIORITY — IMPORTANT:
+  STRONGLY PREFER named local streets (e.g. 'Rosecrest Rd', 'Main St', 'Pioneer St',
+  city parkways, named drives and boulevards) over numbered arterials ('12600 South',
+  '6000 West', state highways, Bangerter Hwy, Mountain View Corridor).
+  Numbered roads often span 20+ miles and create georeference ambiguity. Named local
+  streets produce more reliable ground-truth lookup. Include numbered arterials ONLY
+  as a last resort if fewer than 5 named-street intersections are visible on the map.
+
 Return ONLY a valid JSON array, no other text, no markdown code blocks:
 [{"px_x": 847, "px_y": 523, "street_a": "Main St", "street_b": "Center St", "conf": "high"}, ...]
 """
+
+
+def _build_stage2_prompt(city_cfg: Optional[dict] = None) -> str:
+    """Return CONTROL_POINT_PROMPT, optionally with city-specific preferred-streets hint."""
+    preferred = (city_cfg or {}).get("stage2_preferred_streets")
+    if not preferred:
+        return CONTROL_POINT_PROMPT
+    hint = (
+        "\nKnown named streets on this map that you should prioritize: "
+        + ", ".join(f"'{s}'" for s in preferred)
+        + ".\n"
+        "Look specifically for intersections involving these streets before falling back to numbered arterials.\n"
+    )
+    # Insert hint just before the final JSON-format line
+    split_marker = "\nReturn ONLY a valid JSON array"
+    base = CONTROL_POINT_PROMPT
+    idx = base.rfind(split_marker)
+    if idx == -1:
+        return base + hint
+    return base[:idx] + hint + base[idx:]
 
 
 def stage2_identify_control_points(
@@ -482,6 +515,7 @@ def stage2_identify_control_points(
     page_images: list[Path],
     max_pages_to_try: int = 12,
     map_page_hints: Optional[list[int]] = None,
+    city_cfg: Optional[dict] = None,
 ) -> tuple[list[dict], int]:
     """
     Stage 2 — Call Opus to identify labeled street intersections.
@@ -490,6 +524,7 @@ def stage2_identify_control_points(
     Returns (control_points, page_index).
     """
     logging.info("Stage 2: identifying control points…")
+    prompt = _build_stage2_prompt(city_cfg)
 
     # Build candidate list: text-hint pages first, then size-sorted remainder
     seen: set[int] = set()
@@ -531,7 +566,7 @@ def stage2_identify_control_points(
         logging.info(f"  Trying page {page_idx}: {img_path.name}")
         try:
             raw = _opus_vision_call(
-                client, img_path, CONTROL_POINT_PROMPT,
+                client, img_path, prompt,
                 label=f"control_points_p{page_idx}",
                 max_tokens=2048,
             )
@@ -1934,7 +1969,7 @@ def run_pipeline(
             logging.info(f"Map page hints (text scan): raw pages {map_page_hints[:5]}")
 
             control_candidates, map_page_idx = stage2_identify_control_points(
-                client, page_images, map_page_hints=map_page_hints
+                client, page_images, map_page_hints=map_page_hints, city_cfg=city_cfg
             )
 
             resolved_cps = stage3_ground_truth_lookup(control_candidates, city_cfg)
