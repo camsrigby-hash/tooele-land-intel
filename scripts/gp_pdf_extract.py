@@ -91,6 +91,8 @@ NODE_COUNT_THRESHOLD = 20          # reject CP if Overpass returns > this many s
 # are effectively the same point and will produce a degenerate affine system.
 COLLINEARITY_THRESHOLD_M = 50      # reject the lower-confidence CP if pair is within 50 m
 
+OVERPASS_INTERSECTION_RADIUS_M = 8000  # ~5 mi; covers most Utah cities without bleeding into adjacent ones
+
 NOMINATIM_DELAY_S = 1.1       # OSM rate-limit: max 1 req/s
 OPUS_CALLS_PER_PAGE = 8       # default cap on polygon extraction calls per page
 TILE_SIZE = 500               # px, square tile side for Stage 2b refinement
@@ -850,6 +852,82 @@ def _overpass_lookup(street_a: str, street_b: str, city_bbox: dict) -> Optional[
         return None
 
 
+def _overpass_intersection_lookup(
+    street_a: str,
+    street_b: str,
+    city_lat: float,
+    city_lon: float,
+    radius_m: int = OVERPASS_INTERSECTION_RADIUS_M,
+) -> Optional[tuple[float, float, int]]:
+    """Query Overpass for the actual node(s) where street_a and street_b physically cross.
+
+    Uses named result sets to find nodes that belong to BOTH named ways within
+    a radius of the city centroid.  This returns only the intersection point(s)
+    rather than the median of all nodes on one way — fixing the SD-18 root cause
+    for numbered-grid cities (Herriman, Sandy, Riverton, West Jordan, etc.).
+
+    If multiple intersection nodes are returned (overpass structures, frontage
+    roads at the same crossing), returns the one closest to the city centroid.
+    node_count = number of shared nodes found; compatible with SD-18 Rule A gate
+    but will typically be 1–3 for a real intersection.
+    Returns None if no shared nodes found.
+    """
+    sa_exp = _expand_street_abbr(street_a)
+    sb_exp = _expand_street_abbr(street_b)
+
+    _CARDINAL_RE = {
+        "north": "N(orth)?", "south": "S(outh)?", "east": "E(ast)?", "west": "W(est)?",
+        "n": "N(orth)?", "s": "S(outh)?", "e": "E(ast)?", "w": "W(est)?",
+    }
+
+    def _to_regex(name: str) -> str:
+        tokens = name.split()
+        if len(tokens) <= 1:
+            return re.escape(tokens[0])
+        # Strip parenthetical aliases (e.g. "13100 South (Main St)" → "13100 South")
+        clean = [t for t in tokens if not t.startswith("(")]
+        last = clean[-1].lower() if clean else tokens[-1].lower()
+        if last in _CARDINAL_RE and len(clean) >= 2:
+            # "12600 South" or "12600 S" → "12600.*S(outh)?" so both OSM forms match
+            return re.escape(clean[0]) + ".*" + _CARDINAL_RE[last]
+        return re.escape(tokens[0]) + ".*" + re.escape(tokens[1])
+
+    sa_re = _to_regex(sa_exp)
+    sb_re = _to_regex(sb_exp)
+
+    # Named-set intersection query: nodes in set .na AND set .nb = true crossing nodes.
+    query = (
+        f'[out:json][timeout:30];\n'
+        f'way["name"~"{sa_re}",i]["highway"](around:{radius_m},{city_lat:.6f},{city_lon:.6f})->.a;\n'
+        f'node(w.a)->.na;\n'
+        f'way["name"~"{sb_re}",i]["highway"](around:{radius_m},{city_lat:.6f},{city_lon:.6f})->.b;\n'
+        f'node(w.b)->.nb;\n'
+        f'node.na.nb;\n'
+        f'out;\n'
+    )
+    try:
+        resp = HTTP_SESSION.post(
+            "https://overpass-api.de/api/interpreter",
+            data={"data": query},
+            timeout=HTTP_TIMEOUT,
+        )
+        resp.raise_for_status()
+        nodes = [e for e in resp.json().get("elements", []) if "lat" in e]
+        if not nodes:
+            return None
+        node_count = len(nodes)
+        # Return the intersection node closest to city centroid
+        best = min(nodes, key=lambda n: haversine_ft(city_lat, city_lon, n["lat"], n["lon"]))
+        logging.debug(
+            f"    Overpass intersection: {node_count} node(s) for "
+            f"{sa_re!r} × {sb_re!r} → closest ({best['lat']:.6f}, {best['lon']:.6f})"
+        )
+        return best["lat"], best["lon"], node_count
+    except Exception as exc:
+        logging.debug(f"  Overpass intersection lookup failed for {sa_re!r} × {sb_re!r}: {exc}")
+        return None
+
+
 def _ugrc_lookup(street_a: str, street_b: str, city_name: str) -> Optional[tuple[float, float]]:
     """Query UGRC geocoder API for a street intersection. Returns (lat, lon) or None."""
     api_key = os.environ.get("UGRC_API_KEY", "")
@@ -911,17 +989,28 @@ def stage3_ground_truth_lookup(
         time.sleep(NOMINATIM_DELAY_S)
 
         # Try UGRC first (most accurate for Utah), then Nominatim, then Overpass.
-        # Overpass returns a 3-tuple (lat, lon, node_count); UGRC/Nominatim return 2-tuple.
+        # Overpass path: try intersection-node query first (SD-18 fix), fall back to
+        # legacy median-of-way only if intersection query returns nothing.
         overpass_node_count = 0
+        intersection_lookup_failed = False
         latlon: Optional[tuple[float, float]] = (
             _ugrc_lookup(sa, sb, city_name)
             or _nominatim_lookup(sa, sb, city_name)
         )
         if latlon is None:
-            overpass_result = _overpass_lookup(sa, sb, city_bbox)
-            if overpass_result is not None:
-                lat, lon, overpass_node_count = overpass_result
+            city_lat_c = (city_bbox["lat_min"] + city_bbox["lat_max"]) / 2
+            city_lon_c = (city_bbox["lon_min"] + city_bbox["lon_max"]) / 2
+            intersection_result = _overpass_intersection_lookup(sa, sb, city_lat_c, city_lon_c)
+            if intersection_result is not None:
+                lat, lon, overpass_node_count = intersection_result
                 latlon = (lat, lon)
+            else:
+                # Fallback: legacy median-of-way (marks CP so diagnostics can flag it)
+                overpass_result = _overpass_lookup(sa, sb, city_bbox)
+                if overpass_result is not None:
+                    lat, lon, overpass_node_count = overpass_result
+                    latlon = (lat, lon)
+                    intersection_lookup_failed = True
 
         if latlon is None:
             logging.info(f"    → not found (skipped)")
@@ -934,7 +1023,11 @@ def stage3_ground_truth_lookup(
             )
             continue
 
-        logging.info(f"    → ({lat:.6f}, {lon:.6f})  conf={pt['conf']}  overpass_nodes={overpass_node_count}")
+        lookup_mode = "legacy-median" if intersection_lookup_failed else "intersection" if overpass_node_count else "ugrc/nominatim"
+        logging.info(
+            f"    → ({lat:.6f}, {lon:.6f})  conf={pt['conf']}  "
+            f"overpass_nodes={overpass_node_count}  lookup={lookup_mode}"
+        )
         resolved.append({
             "px_x": float(pt["px_x"]),
             "px_y": float(pt["px_y"]),
@@ -944,6 +1037,7 @@ def stage3_ground_truth_lookup(
             "gt_lat": lat,
             "gt_lon": lon,
             "overpass_node_count": overpass_node_count,
+            "intersection_lookup_failed": intersection_lookup_failed,
         })
 
     # ------------------------------------------------------------------
@@ -1004,15 +1098,17 @@ def stage3_ground_truth_lookup(
     # ------------------------------------------------------------------
     # Stage 3 diagnostic block
     # ------------------------------------------------------------------
+    n_legacy = sum(1 for cp in surviving if cp.get("intersection_lookup_failed"))
     logging.info("Stage 3 SD-18 quality gate diagnostic:")
     logging.info(f"  CPs identified (pre-gate): {gate_stats['identified']}")
     logging.info(f"  Rejected Rule A (node_count_exceeded): {gate_stats['rejected_rule_a']}")
     logging.info(f"  Rejected Rule B (collinear_with_other_cp): {gate_stats['rejected_rule_b']}")
-    logging.info(f"  CPs surviving: {len(surviving)}")
+    logging.info(f"  CPs surviving: {len(surviving)}  (intersection_lookup: {len(surviving) - n_legacy}  legacy_median_fallback: {n_legacy})")
     for cp in surviving:
+        mode = " [legacy-median]" if cp.get("intersection_lookup_failed") else (" [intersection]" if cp.get("overpass_node_count") else " [ugrc/nominatim]")
         logging.info(
             f"    KEEP: {cp['street_a']!r} ∩ {cp['street_b']!r} "
-            f"({cp['gt_lat']:.6f}, {cp['gt_lon']:.6f}) conf={cp['conf']}"
+            f"({cp['gt_lat']:.6f}, {cp['gt_lon']:.6f}) conf={cp['conf']}{mode}"
         )
     for msg in rejected_log:
         logging.info(f"    REJECTED: {msg}")
