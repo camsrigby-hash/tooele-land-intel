@@ -8,40 +8,239 @@
         "coordinates": [
           [
             [
-              -112.002255,
-              40.5160743
+              -111.9893551,
+              40.5066912
             ],
             [
-              -112.002255,
-              40.5160743
+              -111.9713234,
+              40.5091571
             ],
             [
-              -112.0227037,
-              40.5111211
+              -111.9697908,
+              40.5063395
             ],
             [
-              -112.0227037,
-              40.5111211
+              -111.9710576,
+              40.5038118
             ],
             [
-              -112.0519161,
-              40.5040452
+              -111.9767631,
+              40.5013497
             ],
             [
-              -112.0519161,
-              40.5040452
+              -111.9846187,
+              40.4996027
             ],
             [
-              -112.0373099,
-              40.5075832
+              -111.9890574,
+              40.4996684
             ],
             [
-              -112.0373099,
-              40.5075832
+              -111.9923677,
+              40.5008975
             ],
             [
-              -112.002255,
-              40.5160743
+              -111.9927402,
+              40.503201
+            ],
+            [
+              -111.9913031,
+              40.5054157
+            ],
+            [
+              -111.9893551,
+              40.5066912
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural Residential",
+        "gp_zone_description": "1.8 - 3.0 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0045983,
+              40.4958613
+            ],
+            [
+              -111.9882059,
+              40.498103
+            ],
+            [
+              -111.9829157,
+              40.496472
+            ],
+            [
+              -111.9823411,
+              40.4921779
+            ],
+            [
+              -111.9871951,
+              40.4881505
+            ],
+            [
+              -111.9945398,
+              40.4854643
+            ],
+            [
+              -112.0014374,
+              40.4851937
+            ],
+            [
+              -112.0060783,
+              40.4872499
+            ],
+            [
+              -112.006142,
+              40.4906048
+            ],
+            [
+              -112.0058651,
+              40.4933335
+            ],
+            [
+              -112.0045983,
+              40.4958613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural Residential",
+        "gp_zone_description": "1.8 - 3.0 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.9774552,
+              40.4945279
+            ],
+            [
+              -111.9610628,
+              40.4967696
+            ],
+            [
+              -111.9560495,
+              40.4924099
+            ],
+            [
+              -111.9609035,
+              40.4883825
+            ],
+            [
+              -111.9690997,
+              40.4872616
+            ],
+            [
+              -111.9749008,
+              40.4898318
+            ],
+            [
+              -111.9774552,
+              40.4945279
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural Residential",
+        "gp_zone_description": "1.8 - 3.0 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.041055,
+              40.5029845
+            ],
+            [
+              -112.0344981,
+              40.5038812
+            ],
+            [
+              -112.0336466,
+              40.5023159
+            ],
+            [
+              -112.0402036,
+              40.5014192
+            ],
+            [
+              -112.041055,
+              40.5029845
             ]
           ]
         ]
@@ -56,14 +255,442 @@
         "gp_zone_normalized": "future_low_density_residential",
         "acreage": null,
         "jurisdiction": "salt_lake_county_ut",
-        "source_pdf_url": "C:\\Users\\camsr\\code\\wasatch-intel\\data\\_pdf_cache\\herriman\\herriman_map7_p34.pdf",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
         "source_page_id": "page_0",
         "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
         "confidence": "anchored_approximation",
         "transform_residual_ft": 0.0,
-        "n_control_points": 4,
-        "rotation_angle_deg": -143.72,
-        "extraction_date": "2026-05-16"
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.02941,
+              40.5042407
+            ],
+            [
+              -112.0212138,
+              40.5053616
+            ],
+            [
+              -112.020192,
+              40.5034831
+            ],
+            [
+              -112.0283883,
+              40.5023623
+            ],
+            [
+              -112.02941,
+              40.5042407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Single Family Residential",
+        "gp_zone_description": "2.6 - 4.5 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0097072,
+              40.5052534
+            ],
+            [
+              -112.001511,
+              40.5063742
+            ],
+            [
+              -112.0004892,
+              40.5044958
+            ],
+            [
+              -112.0086855,
+              40.5033749
+            ],
+            [
+              -112.0097072,
+              40.5052534
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Single Family Residential",
+        "gp_zone_description": "2.6 - 4.5 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.9856514,
+              40.493407
+            ],
+            [
+              -111.9733571,
+              40.4950883
+            ],
+            [
+              -111.9719947,
+              40.4925838
+            ],
+            [
+              -111.9842891,
+              40.4909024
+            ],
+            [
+              -111.9856514,
+              40.493407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Single Family Residential",
+        "gp_zone_description": "2.6 - 4.5 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.9914745,
+              40.479829
+            ],
+            [
+              -111.9791802,
+              40.4815104
+            ],
+            [
+              -111.9774772,
+              40.4783797
+            ],
+            [
+              -111.9897715,
+              40.4766984
+            ],
+            [
+              -111.9914745,
+              40.479829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Single Family Residential",
+        "gp_zone_description": "2.6 - 4.5 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0441951,
+              40.5039005
+            ],
+            [
+              -112.0319008,
+              40.5055818
+            ],
+            [
+              -112.0296869,
+              40.5015119
+            ],
+            [
+              -112.0419812,
+              40.4998306
+            ],
+            [
+              -112.0441951,
+              40.5039005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Medium Density Residential",
+        "gp_zone_description": "4.6 - 8 du/acre",
+        "gp_zone_normalized": "future_medium_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.026259,
+              40.5113988
+            ],
+            [
+              -112.0139647,
+              40.5130801
+            ],
+            [
+              -112.0114102,
+              40.5083841
+            ],
+            [
+              -112.0237045,
+              40.5067027
+            ],
+            [
+              -112.026259,
+              40.5113988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Medium Density Residential",
+        "gp_zone_description": "4.6 - 8 du/acre",
+        "gp_zone_normalized": "future_medium_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0169509,
+              40.5015719
+            ],
+            [
+              -112.0083449,
+              40.5027488
+            ],
+            [
+              -112.0068122,
+              40.4999312
+            ],
+            [
+              -112.0154182,
+              40.4987543
+            ],
+            [
+              -112.0169509,
+              40.5015719
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "High Density Residential",
+        "gp_zone_description": "8 - 20 du/acre",
+        "gp_zone_normalized": "future_high_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.0046302,
+              40.4975387
+            ],
+            [
+              -111.9972536,
+              40.4985475
+            ],
+            [
+              -111.9955506,
+              40.4954168
+            ],
+            [
+              -112.0029272,
+              40.494408
+            ],
+            [
+              -112.0046302,
+              40.4975387
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "High Density Residential",
+        "gp_zone_description": "8 - 20 du/acre",
+        "gp_zone_normalized": "future_high_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "data/_pdf_cache/herriman/herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 3,
+        "rotation_angle_deg": 22.47,
+        "extraction_date": "2026-05-16",
+        "flu_plan_vintage": "2013_amendment_2025_horizon",
+        "flu_currency_note": "may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible",
+        "source_pdf_page": 34,
+        "source_pdf_filename": "Herriman_GP_Amendment.pdf"
       }
     }
   ]
