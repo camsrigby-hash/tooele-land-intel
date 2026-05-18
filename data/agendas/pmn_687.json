@@ -4,12 +4,66 @@
   "public_body": "Planning Commission",
   "body_id": "687",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/687.html",
-  "scraped_at": "2026-05-11T17:17:03.848657+00:00",
+  "scraped_at": "2026-05-18T17:37:53.764571+00:00",
   "notices": [
+    {
+      "notice_id": "1081240",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081240.html",
+      "title": "Public Notice - TCBP Landscaping Ordinance Amendment",
+      "event_date": "May 27, 2026 07:00 PM",
+      "event_date_iso": "2026-05-27T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, May 27, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code 7-16b-6: Landscaping Standards, regarding minimum landscaping requirements in the heavy industrial sections of the Tooele City Business Park.  \r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "May 15, 2026 01:00 PM",
+      "attachments": [
+        {
+          "file_name": "TCBP Landscaping Ordinance Amendments.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434268.pdf",
+          "date_added": "2026/05/15 01:00 PM",
+          "file_id": "1434268"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1081232",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081232.html",
+      "title": "Public Notice - Political Signs Ordinance",
+      "event_date": "May 27, 2026 07:00 PM",
+      "event_date_iso": "2026-05-27T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, May 27, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code Title 7, Chapter 25: Signs; regarding the display of political signs in public rights-of-way, the removal of such political signs from public rights-of-way, the regulations of such political signs, and other such regulations concerning political signs as required by Utah Code Title 20A, Chapter 17.\r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "May 15, 2026 12:52 PM",
+      "attachments": [
+        {
+          "file_name": "Political Signs Ordinance Amendments.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434260.pdf",
+          "date_added": "2026/05/15 12:52 PM",
+          "file_id": "1434260"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1079517",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079517.html",
-      "title": "Planning Commission Business Meeting",
+      "title": "Tooele City Planning Commission Business Meeting",
       "event_date": "May 13, 2026 07:00 PM",
       "event_date_iso": "2026-05-13T19:00:00",
       "notice_types": [
@@ -23,6 +77,13 @@
       "contact_email": "shilob@tooelecity.gov",
       "posted_on": "May 11, 2026 10:56 AM",
       "attachments": [
+        {
+          "file_name": "5.13.26 PC Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1433693.mp3",
+          "date_added": "2026/05/14 05:11 PM",
+          "file_id": "1433693"
+        },
         {
           "file_name": "5.13.26 PC Agenda.pdf",
           "category": "Public Information Handout",
@@ -95,6 +156,60 @@
       "canceled": false
     },
     {
+      "notice_id": "1072133",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072133.html",
+      "title": "Public Notice - Landscape Irrigation",
+      "event_date": "April 22, 2026 07:00 PM",
+      "event_date_iso": "2026-04-22T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 22, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code 7-14-11; Landscaping and Water Conservation with New Development, regarding the use of sod in residential landscaping and the use of irrigation systems associated with residential landscaping.\r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "April 10, 2026 11:27 AM",
+      "attachments": [
+        {
+          "file_name": "Landscape Irrigation Ordinance Amendments.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1416737.pdf",
+          "date_added": "2026/04/10 11:25 AM",
+          "file_id": "1416737"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1072157",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072157.html",
+      "title": "Public Notice CUP for Home Day Care",
+      "event_date": "April 22, 2026 07:00 PM",
+      "event_date_iso": "2026-04-22T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 22, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov.\r\n\r\nA Public Hearing to consider a Conditional Use Permit request by Jessica Howard to authorize the use of a 'Home Day Care' to occur at the property located at 1664 N Ashlin Court in the R1-7 Single Family Residential zoning district on .17 acres. Pursuant to Section 7-2-19 of the Tooele City Code, a Home Daycare is permitted as a conditional use within the R1-7 Single Family Residential zoning district.\r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "April 10, 2026 12:02 PM",
+      "attachments": [
+        {
+          "file_name": "Public Notice for 1664 N Ashlin Court_Overlake Early Learning Home Daycare_CUP_2026019.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1416769.pdf",
+          "date_added": "2026/04/10 12:01 PM",
+          "file_id": "1416769"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1074319",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074319.html",
       "title": "Tooele City Planning Commission Business Meeting",
@@ -131,87 +246,6 @@
           "url": "https://www.utah.gov/pmn/files/1421127.pdf",
           "date_added": "2026/04/20 10:40 AM",
           "file_id": "1421127"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072157",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072157.html",
-      "title": "Public Notice CUP for Home Day Care",
-      "event_date": "April 22, 2026 07:00 PM",
-      "event_date_iso": "2026-04-22T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 22, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov.\r\n\r\nA Public Hearing to consider a Conditional Use Permit request by Jessica Howard to authorize the use of a 'Home Day Care' to occur at the property located at 1664 N Ashlin Court in the R1-7 Single Family Residential zoning district on .17 acres. Pursuant to Section 7-2-19 of the Tooele City Code, a Home Daycare is permitted as a conditional use within the R1-7 Single Family Residential zoning district.\r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "April 10, 2026 12:02 PM",
-      "attachments": [
-        {
-          "file_name": "Public Notice for 1664 N Ashlin Court_Overlake Early Learning Home Daycare_CUP_2026019.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1416769.pdf",
-          "date_added": "2026/04/10 12:01 PM",
-          "file_id": "1416769"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072133",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072133.html",
-      "title": "Public Notice - Landscape Irrigation",
-      "event_date": "April 22, 2026 07:00 PM",
-      "event_date_iso": "2026-04-22T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 22, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code 7-14-11; Landscaping and Water Conservation with New Development, regarding the use of sod in residential landscaping and the use of irrigation systems associated with residential landscaping.\r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "April 10, 2026 11:27 AM",
-      "attachments": [
-        {
-          "file_name": "Landscape Irrigation Ordinance Amendments.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1416737.pdf",
-          "date_added": "2026/04/10 11:25 AM",
-          "file_id": "1416737"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1069037",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069037.html",
-      "title": "Public Notice- CUP 397 N Main Auto Repair",
-      "event_date": "April 8, 2026 07:00 PM",
-      "event_date_iso": "2026-04-08T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 8, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov.\r\n\r\nA Public Hearing to consider a Conditional Use Permit request by Steve Mros on behalf of Suzanne Jameson, (property owner), to authorize the use of 'Automobile Repair' to occur at the property located at 397 N Main Street in the General Commercial (GC) zoning district on .26 acres. Pursuant to Section 7-16-3 of the Tooele City Code, an automobile repair facility is permitted as a conditional use within the General Commercial (GC) zoning district.\r\n \r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "March 27, 2026 09:30 AM",
-      "attachments": [
-        {
-          "file_name": "Public Notice for 397 N Main_Awesome Auto_CUP.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1410933.pdf",
-          "date_added": "2026/03/27 09:29 AM",
-          "file_id": "1410933"
         }
       ],
       "canceled": false
@@ -265,55 +299,28 @@
       "canceled": false
     },
     {
-      "notice_id": "1066030",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1066030.html",
-      "title": "Public Notice Parking Location",
-      "event_date": "March 25, 2026 07:00 PM",
-      "event_date_iso": "2026-03-25T19:00:00",
+      "notice_id": "1069037",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069037.html",
+      "title": "Public Notice- CUP 397 N Main Auto Repair",
+      "event_date": "April 8, 2026 07:00 PM",
+      "event_date_iso": "2026-04-08T19:00:00",
       "notice_types": [
         "Notice",
         "Meeting",
         "Hearing"
       ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, March 25, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code 7-4-7; Parking Location, regarding the parking of operable motorized vehicles in the front and side yards of residential properties in single-family residential zoning districts.  \r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, April 8, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov.\r\n\r\nA Public Hearing to consider a Conditional Use Permit request by Steve Mros on behalf of Suzanne Jameson, (property owner), to authorize the use of 'Automobile Repair' to occur at the property located at 397 N Main Street in the General Commercial (GC) zoning district on .26 acres. Pursuant to Section 7-16-3 of the Tooele City Code, an automobile repair facility is permitted as a conditional use within the General Commercial (GC) zoning district.\r\n \r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
       "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": "Shilo Baker",
       "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "March 13, 2026 10:20 AM",
+      "posted_on": "March 27, 2026 09:30 AM",
       "attachments": [
         {
-          "file_name": "PUBLIC NOTICE Front Yard Parking Ordinance Amendments.pdf",
+          "file_name": "Public Notice for 397 N Main_Awesome Auto_CUP.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1404826.pdf",
-          "date_added": "2026/03/13 10:19 AM",
-          "file_id": "1404826"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1066018",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1066018.html",
-      "title": "Public Hearing Proposed Text Amendment",
-      "event_date": "March 25, 2026 07:00 PM",
-      "event_date_iso": "2026-03-25T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, March 25, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Community Development Director, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a proposed text amendment to Tooele City Code 7-26-3; Types of Water Rights Acceptable for Conveyance, regarding water rights exactions.  \r\n\r\nWe encourage anyone interested to join the Planning Commission meeting electronically through Tooele City's YouTube channel by logging onto www.youtube.com and searching Tooele City. If you would like to submit a comment for any public hearing item you may email pcpubliccomment@tooelecity.gov any time after the advertisement of this agenda and before the close of the hearing for that item during the meeting. Emails will only be read for public hearing items at the designated points in the meeting. Public comment is not accepted for public hearings from the broadcast feed. We encourage you to look for the published agenda for this meeting on the City's website, www.tooelecity.gov. Finalized agendas are typically published on Friday prior to the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "March 13, 2026 10:12 AM",
-      "attachments": [
-        {
-          "file_name": "PUBLIC NOTICE Water Rights Ordinance Amendments.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1404796.pdf",
-          "date_added": "2026/03/13 10:01 AM",
-          "file_id": "1404796"
+          "url": "https://www.utah.gov/pmn/files/1410933.pdf",
+          "date_added": "2026/03/27 09:29 AM",
+          "file_id": "1410933"
         }
       ],
       "canceled": false

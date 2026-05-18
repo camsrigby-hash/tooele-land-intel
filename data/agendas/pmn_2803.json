@@ -4,7 +4,7 @@
   "public_body": "City Council & Planning Commission",
   "body_id": "2803",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2803.html",
-  "scraped_at": "2026-05-11T17:19:19.237353+00:00",
+  "scraped_at": "2026-05-18T17:40:03.372850+00:00",
   "notices": [
     {
       "notice_id": "1078659",
@@ -187,56 +187,6 @@
           "url": "https://www.utah.gov/pmn/files/1354921.pdf",
           "date_added": "2025/11/20 02:52 PM",
           "file_id": "1354921"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1034139",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1034139.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "November 12, 2025 06:00 PM",
-      "event_date_iso": "2025-11-12T18:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public meeting will be held before the Bluffdale City Council on Wednesday, November 12, 2025, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on a proposed Text Amendment to update the City Code to comply with HB 368 as follows:\r\n-\tSection 9.10.030 ('Buildings and Construction - Permits') to allow submittal of 'identical plans' as required by State Code;\r\n-\tSection 11.30.060 Notice Requirements and Public Hearings to comply with State Code;\r\n-\tChapter 11.190 ('Annexation') of the Land Use Ordinance to reflect changes required by State Code; \r\n-\tChapter 12.90 of the Subdivision Ordinance to reflect bonding and bond repayment requirements as required by State Code; and  \r\n-\tMinor grammatical and reference updates\r\nCity of Bluffdale, Applicant. Caitlyn Tubbs, Staff Presenter. (Application 2025-24)\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'HB 368' in the subject line of the email. Comments should be sent before 4:00 PM on November 12, 2025 to be provided to the City Council in advance of the meeting.\r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South\r\nBluffdale, UT 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
-      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "October 31, 2025 09:45 AM",
-      "attachments": [
-        {
-          "file_name": "HB 368 CC Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1343827.pdf",
-          "date_added": "2025/10/31 09:44 AM",
-          "file_id": "1343827"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1034151",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1034151.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "November 12, 2025 06:00 PM",
-      "event_date_iso": "2025-11-12T18:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public meeting will be held before the Bluffdale City Council on Wednesday, November 12, 2025, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on proposed Text Amendment to Section 11.80.060 R-SL Senior Living Zone to allow basements within the zone (Application 2025-35). Howland Partners, Inc., Applicant, represented by Gary Howland and Tina Franco. Caitlyn Tubbs, staff presenter. \r\n\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Senior Living' in the subject line of the email.\r\n3.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801.254.2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
-      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "October 31, 2025 09:52 AM",
-      "attachments": [
-        {
-          "file_name": "CC Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1343841.pdf",
-          "date_added": "2025/10/31 09:52 AM",
-          "file_id": "1343841"
         }
       ],
       "canceled": false

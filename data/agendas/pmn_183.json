@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-05-11T17:20:08.553179+00:00",
+  "scraped_at": "2026-05-18T17:40:51.623773+00:00",
   "notices": [
     {
       "notice_id": "1078299",
@@ -67,7 +67,7 @@
     {
       "notice_id": "1071687",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071687.html",
-      "title": "Planning Commission Agenda",
+      "title": "Planning Commission Agenda, Packet and Minutes",
       "event_date": "April 22, 2026 06:30 PM",
       "event_date_iso": "2026-04-22T18:30:00",
       "notice_types": [
@@ -80,6 +80,13 @@
       "contact_email": null,
       "posted_on": "April 09, 2026 07:34 AM",
       "attachments": [
+        {
+          "file_name": "04.22.2026 APPROVED PC Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1434941.pdf",
+          "date_added": "2026/05/18 11:03 AM",
+          "file_id": "1434941"
+        },
         {
           "file_name": "2026.04.22 - Planning Commission Agenda.pdf",
           "category": "Public Information Handout",
@@ -100,7 +107,7 @@
     {
       "notice_id": "1072501",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072501.html",
-      "title": "Planning Commission Work Session Agenda and Packet",
+      "title": "Planning Commission Work Session Agenda, Packet and Minutes",
       "event_date": "April 15, 2026 06:30 PM",
       "event_date_iso": "2026-04-15T18:30:00",
       "notice_types": [
@@ -112,6 +119,13 @@
       "contact_email": null,
       "posted_on": "April 13, 2026 11:23 AM",
       "attachments": [
+        {
+          "file_name": "4.15.2026 APPROVED PC Work Session Minutes (1).pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1434923.pdf",
+          "date_added": "2026/05/18 10:59 AM",
+          "file_id": "1434923"
+        },
         {
           "file_name": "2026.04.15 - Planning Commission Work Session Agenda.pdf",
           "category": "Public Information Handout",

@@ -4,8 +4,41 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-05-11T17:20:52.231687+00:00",
+  "scraped_at": "2026-05-18T17:41:35.722794+00:00",
   "notices": [
+    {
+      "notice_id": "1079665",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079665.html",
+      "title": "Spanish Fork City - City Council & Planning Commission Joint Work Session",
+      "event_date": "May 12, 2026 05:30 PM",
+      "event_date_iso": "2026-05-12T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "SF Logo\r\nTuesday, May 12, 2026\r\nCity Council and Planning Commission Joint Work Session\r\nCITY COUNCIL AND PLANNING COMMISSION JOINT WORK SESSION MEETING AGENDA\r\nPUBLIC NOTICE is hereby given that the City Council and Planning Commission of Spanish Fork, Utah, will hold a special meeting in the Explorer Room in Library Hall, 80 South Main Street on the second floor commencing at 5:30 p.m. on May 12, 2026, Spanish Fork.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council and Planning Commission Meetings. If you need special accommodation to participate in the meeting, please contact the Community Development Department at 801-804-4580.\r\n1. Work Session - No formal actions are taken in a work session.\r\n2. Call to order 5:30 pm.\r\n3. Required Training\r\nA. Land Use Training provided by City Attorney Vaughn Pickell.\r\n4. Concept Presentation\r\nA. Heritage Community.\r\n5. Discussion\r\nA. City Council and Planning Commission discussion.\r\n6. Adjourn 8:00 pm.\r\nEnd",
+      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Kasey Woodard",
+      "contact_email": "kwoodard@spanishfork.org",
+      "posted_on": "May 11, 2026 02:38 PM",
+      "attachments": [
+        {
+          "file_name": "BoardDocs® LT.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1431227.pdf",
+          "date_added": "2026/05/11 02:38 PM",
+          "file_id": "1431227"
+        },
+        {
+          "file_name": "agenda.cc.pc.5-12-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1432445.pdf",
+          "date_added": "2026/05/13 11:38 AM",
+          "file_id": "1432445"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1076953",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076953.html",

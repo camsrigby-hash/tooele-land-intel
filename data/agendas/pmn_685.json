@@ -4,8 +4,58 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-05-11T17:16:51.148870+00:00",
+  "scraped_at": "2026-05-18T17:37:41.817653+00:00",
   "notices": [
+    {
+      "notice_id": "1081210",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081210.html",
+      "title": "City Council Work and Business Meeting Cancelled",
+      "event_date": "May 20, 2026 07:00 PM",
+      "event_date_iso": "2026-05-20T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNotice is Hereby Given that the Tooele City Council Work and Business Meetings Scheduled for Wednesday, May 20, 2026, have been Cancelled. The Next Regularly Scheduled City Council Meeting will be held on Wednesday, June 3, 2026. \r\n\r\n\r\n___________________________\r\nShilo Baker\r\nTooele City Recorder",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Loretta Herron",
+      "contact_email": "lorettah@tooelecity.gov",
+      "posted_on": "May 15, 2026 12:11 PM",
+      "attachments": [
+        {
+          "file_name": "5.20.26 CC & WK Meeting Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434210.pdf",
+          "date_added": "2026/05/15 12:11 PM",
+          "file_id": "1434210"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1081208",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081208.html",
+      "title": "City Council Work Meeting Cancellation",
+      "event_date": "May 20, 2026 05:30 PM",
+      "event_date_iso": "2026-05-20T17:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNotice is Hereby Given that the Tooele City Council Work and Business Meetings Scheduled for Wednesday, May 20, 2026, have been Cancelled. The Next Regularly Scheduled City Council Meeting will be held on Wednesday, June 3, 2026. \r\n\r\n\r\n\r\n___________________________\r\nShilo Baker\r\nTooele City Recorder",
+      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Loretta Herron",
+      "contact_email": "lorettah@tooelecity.gov",
+      "posted_on": "May 15, 2026 12:08 PM",
+      "attachments": [
+        {
+          "file_name": "5.20.26 CC & WK Meeting Cancelled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434208.pdf",
+          "date_added": "2026/05/15 12:08 PM",
+          "file_id": "1434208"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1077305",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077305.html",
@@ -23,6 +73,13 @@
       "contact_email": "lorettah@tooelecity.gov",
       "posted_on": "May 01, 2026 03:23 PM",
       "attachments": [
+        {
+          "file_name": "5.6.26 CC Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1431061.mp3",
+          "date_added": "2026/05/11 11:53 AM",
+          "file_id": "1431061"
+        },
         {
           "file_name": "05.06.2026 CC Agenda.pdf",
           "category": "Public Information Handout",
@@ -56,6 +113,13 @@
       "contact_email": "lorettah@tooelecity.gov",
       "posted_on": "May 01, 2026 03:18 PM",
       "attachments": [
+        {
+          "file_name": "5.6.26 WK Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1431057.mp3",
+          "date_added": "2026/05/11 11:51 AM",
+          "file_id": "1431057"
+        },
         {
           "file_name": "05.06.2026 Work Meeting Agenda.pdf",
           "category": "Public Information Handout",
@@ -323,81 +387,6 @@
           "url": "https://www.utah.gov/pmn/files/1405084.pdf",
           "date_added": "2026/03/13 12:37 PM",
           "file_id": "1405084"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062897",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062897.html",
-      "title": "Tooele City Council Business Meeting",
-      "event_date": "March 4, 2026 07:00 PM",
-      "event_date_iso": "2026-03-04T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNotice is hereby given that the Tooele City Council will meet in a Business Meeting on Wednesday, March 4, 2026 at the hour of 7:00 p.m.  The meeting will be held in the Tooele City Hall Council Chambers, located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall. To request a copy of the public notice or for additional inquiries please contact Shilo Baker, City Recorder at (435)843-2111 or shilob@tooelecity.gov.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded.  If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov.  If submission by email is not an option, written comments may be submitted to the City Recorder.  Written comments must be submitted no later than the day prior to the meeting.  Written comments will be addressed at the designated points in the meeting.\r\nAGENDA\r\n\r\n1.\tPledge of Allegiance\r\n2.\tRoll Call\r\n3.\tMayor's Youth Recognition Awards\r\n4.\tPublic Comment Period\r\n5.\tPublic Hearing and Motion on Resolution 2026-10 A Resolution of the Tooele City Council Approving Budget Amendments for Fiscal Year 2025-2026\r\nPresented by Shannon Wimmer, Finance Director\r\n6.\tResolution 2026-09 A Resolution of the Tooele City Council Acknowledging the Mayor's Appointment of Dorothy Manusakis to the Tooele City Historic Main Street Commission as a Commission Member \r\nPresented by John Perez, Economic Development Director\r\n7.\tResolution 2026-14 A Resolution of the Tooele City Council Authorizing Payment of a Fee in Lieu of Water Rights Conveyance for the Tooele Flex Spaces Development at 1121 West Utah Avenue\r\nPresented by John Perez, Economic Development Director\r\n8.\tOrdinance 2026-04 An Ordinance of Tooele City Amending Tooele City Code Chapters 10-2 and 10-3 Regarding Parking in the Public Rights-of-Way\r\nPresented by Adrian Day, Police Chief\r\n9.\tResolution 2026-11 A Resolution of the Tooele City Council Approving an Agreement with M&M Asphalt Services, Inc., for the 2026 Roadway Maintenance Project, Schedule A\r\nPresented by Nathan Farrer, Public Works Director\r\n10.\tResolution 2026-12 A Resolution of the Tooele City Council Approving an Agreement with Staker & Parsons Companies for the 2026 Roadway Maintenance Project, Schedule B\r\nPresented by Nathan Farrer, Public Works Director\r\n11.\tResolution 2026-13 A Resolution of the Tooele City Council Approving an Agreement with Black Forest Paving, LLC, for the 2026 Roadway Maintenance Project, Schedule C\r\nPresented by Nathan Farrer, Public Works Director\r\n12.\tInvoices & Purchase Orders\r\nPresented by Shilo Baker, City Recorder\r\n13.\tMinutes\r\n~February 18, 2026 Work Meeting\r\n~February 18, 2026 Business Meeting\r\n14.\tAdjourn\r\n\r\n_______________________\r\nShilo Baker, Tooele City Recorder\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodations should notify Shilo Baker, Tooele City Recorder, at 435-843-2111 or shilob@tooelecity.gov, prior to the meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Loretta Herron",
-      "contact_email": "lorettah@tooelecity.gov",
-      "posted_on": "February 27, 2026 04:19 PM",
-      "attachments": [
-        {
-          "file_name": "3.4.26 CC Audio.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1400285.mp3",
-          "date_added": "2026/03/05 08:24 AM",
-          "file_id": "1400285"
-        },
-        {
-          "file_name": "3.4.26 CC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1407191.pdf",
-          "date_added": "2026/03/19 08:28 AM",
-          "file_id": "1407191"
-        },
-        {
-          "file_name": "CC Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1398213.pdf",
-          "date_added": "2026/02/27 04:18 PM",
-          "file_id": "1398213"
-        },
-        {
-          "file_name": "CC PKT.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1398263.pdf",
-          "date_added": "2026/02/27 05:38 PM",
-          "file_id": "1398263"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062105",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062105.html",
-      "title": "Public Notice- Approving Budget Amendments for FY 2025-2026",
-      "event_date": "March 4, 2026 07:00 PM",
-      "event_date_iso": "2026-03-04T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Public Notice\r\n\r\nNotice is hereby given that the Tooele Council of Tooele City, Utah, will hold a Public Hearing to consider approving budget amendments for fiscal year 2025-2026. The hearing will be held on Wednesday, March 4, 2026, at 7:00 p.m. The meeting will be held at the Tooele City Hall Council Chambers, located at 90 North Main Street, Tooele, Utah.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Recorder. Written comments must be submitted no later than the day prior to the meeting. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals Needing Special Accommodations Should Notify Shilo Baker, Tooele City Recorder, at 435-843-2113 or shilob@tooelecity.gov, Prior to the Meeting.",
-      "meeting_location": "90 N Main Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Loretta Herron",
-      "contact_email": "lorettah@tooelecity.gov",
-      "posted_on": "February 25, 2026 11:08 AM",
-      "attachments": [
-        {
-          "file_name": "Public Notice Budget Amendment.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1396607.pdf",
-          "date_added": "2026/02/25 11:08 AM",
-          "file_id": "1396607"
         }
       ],
       "canceled": false

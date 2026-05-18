@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "1032",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1032.html",
-  "scraped_at": "2026-05-11T17:18:43.103292+00:00",
+  "scraped_at": "2026-05-18T17:39:30.049048+00:00",
   "notices": [
+    {
+      "notice_id": "1080751",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1080751.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "May 26, 2026 06:30 PM",
+      "event_date_iso": "2026-05-26T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, May 26, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLCUP202600078 - Veendendaal Garage, Conditional Use Permit, 11739 S 1220 W, Chip Galloway (applicant)\r\n\r\n-\tOrdinance 2026-15, Amending Section 16.04.320 of the Municipal Code Regarding Water Share Exactions, City of South Jordan (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on May 26, 2026.  Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
+      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "May 14, 2026 01:19 PM",
+      "attachments": [
+        {
+          "file_name": "05-26-26 Notice of Public Hearing.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1433269.pdf",
+          "date_added": "2026/05/14 01:17 PM",
+          "file_id": "1433269"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1077051",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077051.html",
@@ -95,33 +122,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1069903",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069903.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "April 14, 2026 06:30 PM",
-      "event_date_iso": "2026-04-14T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, April 14, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n  PLZBA202600031 - Brewer Rezone, 10981 S Temple Dr, Zerin Dixon Brewer (applicant)\r\n  Ordinance 2026-11-Text Amendment, City Code §17.16.010 (Planning Commission) and §17.18.030.010 (General Use Regulations)\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing. All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/ for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City.\r\nPublic comment allowed only in person or written. To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on April 14, 2026. Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "April 01, 2026 02:51 PM",
-      "attachments": [
-        {
-          "file_name": "04-14-26 Notice of Public Hearing.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1413057.pdf",
-          "date_added": "2026/04/01 02:49 PM",
-          "file_id": "1413057"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1071741",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071741.html",
       "title": "Planning Commission Agenda",
@@ -158,6 +158,33 @@
           "url": "https://www.utah.gov/pmn/files/1424977.pdf",
           "date_added": "2026/04/29 09:12 AM",
           "file_id": "1424977"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1069903",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069903.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "April 14, 2026 06:30 PM",
+      "event_date_iso": "2026-04-14T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, April 14, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n  PLZBA202600031 - Brewer Rezone, 10981 S Temple Dr, Zerin Dixon Brewer (applicant)\r\n  Ordinance 2026-11-Text Amendment, City Code §17.16.010 (Planning Commission) and §17.18.030.010 (General Use Regulations)\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing. All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/ for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City.\r\nPublic comment allowed only in person or written. To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on April 14, 2026. Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
+      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "April 01, 2026 02:51 PM",
+      "attachments": [
+        {
+          "file_name": "04-14-26 Notice of Public Hearing.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1413057.pdf",
+          "date_added": "2026/04/01 02:49 PM",
+          "file_id": "1413057"
         }
       ],
       "canceled": false
@@ -246,33 +273,6 @@
           "url": "https://www.utah.gov/pmn/files/1407167.pdf",
           "date_added": "2026/03/19 08:04 AM",
           "file_id": "1407167"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062677",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062677.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "March 10, 2026 06:30 PM",
-      "event_date_iso": "2026-03-10T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, March 10, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLPLA202500235 - Daybreak Urban Center Plat Amendment 2, Subdivision Amendment, 11195 S Grandville Avenue, Larry H. Miller Real Estate (applicant) \r\n\r\n-\tPLPP2202500250 - Daybreak Village 12B Plat 4, Preliminary Subdivision, 7205 W 11300 S, Larry H Miller Real Estate (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City.  \r\n\r\nTo assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on March 10, 2026.  Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "February 27, 2026 09:58 AM",
-      "attachments": [
-        {
-          "file_name": "03-10-26 Notice of Public Hearing.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1397863.pdf",
-          "date_added": "2026/02/27 09:57 AM",
-          "file_id": "1397863"
         }
       ],
       "canceled": false
