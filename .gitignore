@@ -4,3 +4,23 @@ __pycache__/
 .env
 output/
 *.log
+
+# Phase 13b — large county parcel CSVs live in GH Release `large-parcels`, not in git
+data/raw/parcels_salt_lake.csv.gz
+data/raw/parcels_utah.csv.gz
+data/raw/parcels_weber.csv.gz
+
+# Phase 18b-2 — regenerable PDF rasterization + georef caches
+data/_pdf_cache/**/_raster_tmp/
+data/_pdf_cache/**/*.tif
+data/_pdf_cache/**/_legend_crop_*.jpg
+
+# Phase 18b-2 — large source PDFs (cached locally, fetched via download_pdf)
+data/_pdf_cache/Erda-General-Plan_2022-06-23.pdf
+data/_pdf_cache/LandUse203036x36.pdf
+
+# Cloudflare wrangler artifacts
+.wrangler/
+
+# Claude Code session artifacts
+.claude/

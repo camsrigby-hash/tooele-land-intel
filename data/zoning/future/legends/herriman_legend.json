@@ -1,0 +1,130 @@
+[
+  {
+    "rgb": [
+      199,
+      178,
+      153
+    ],
+    "label": "Hillside/ Rural Residential (0.5 - 1.7 du/acre)"
+  },
+  {
+    "rgb": [
+      205,
+      220,
+      156
+    ],
+    "label": "Agricultural Residential (1.8 - 3.0 du/acre)"
+  },
+  {
+    "rgb": [
+      255,
+      252,
+      219
+    ],
+    "label": "Low Density Residential (1.8 - 2.5 du/acre)"
+  },
+  {
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "label": "Single Family Residential (2.6 - 4.5 du/acre)"
+  },
+  {
+    "rgb": [
+      242,
+      169,
+      64
+    ],
+    "label": "Medium Density Residential (4.6 - 8 du/acre)"
+  },
+  {
+    "rgb": [
+      191,
+      144,
+      60
+    ],
+    "label": "High Density Residential (8 - 20 du/acre)"
+  },
+  {
+    "rgb": [
+      206,
+      130,
+      168
+    ],
+    "label": "Mixed Use"
+  },
+  {
+    "rgb": [
+      232,
+      202,
+      211
+    ],
+    "label": "Mixed Use- Towne Center"
+  },
+  {
+    "rgb": [
+      237,
+      28,
+      36
+    ],
+    "label": "Commericial"
+  },
+  {
+    "rgb": [
+      142,
+      122,
+      170
+    ],
+    "label": "Light Industrial/ Business Park"
+  },
+  {
+    "rgb": [
+      46,
+      105,
+      175
+    ],
+    "label": "Public/ Institutional/ Cultural/ Schools"
+  },
+  {
+    "rgb": [
+      158,
+      205,
+      230
+    ],
+    "label": "Quasi-Public/ Utiliites"
+  },
+  {
+    "rgb": [
+      58,
+      130,
+      130
+    ],
+    "label": "Military Operation"
+  },
+  {
+    "rgb": [
+      104,
+      152,
+      99
+    ],
+    "label": "Resort/ Recreational"
+  },
+  {
+    "rgb": [
+      194,
+      218,
+      187
+    ],
+    "label": "Open Space"
+  },
+  {
+    "rgb": [
+      57,
+      181,
+      74
+    ],
+    "label": "Parks and Recreation"
+  }
+]
