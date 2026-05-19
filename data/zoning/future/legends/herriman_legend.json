@@ -1,129 +1,129 @@
 [
   {
     "rgb": [
-      199,
-      178,
-      153
+      206,
+      195,
+      165
     ],
-    "label": "Hillside/ Rural Residential (0.5 - 1.7 du/acre)"
+    "label": "Hillside/Rural Residential (0.5-1.7 du/acre)"
   },
   {
     "rgb": [
-      205,
+      200,
       220,
-      156
+      130
     ],
-    "label": "Agricultural Residential (1.8 - 3.0 du/acre)"
+    "label": "Agricultural Residential (1.8-3.0 du/acre)"
   },
   {
     "rgb": [
       255,
       252,
-      219
+      200
     ],
-    "label": "Low Density Residential (1.8 - 2.5 du/acre)"
+    "label": "Low Density Residential (1.8-2.5 du/acre)"
   },
   {
     "rgb": [
       255,
-      242,
+      245,
       0
     ],
-    "label": "Single Family Residential (2.6 - 4.5 du/acre)"
+    "label": "Single Family Residential (2.6-4.5 du/acre)"
   },
   {
     "rgb": [
-      242,
-      169,
-      64
-    ],
-    "label": "Medium Density Residential (4.6 - 8 du/acre)"
-  },
-  {
-    "rgb": [
-      191,
-      144,
+      232,
+      165,
       60
     ],
-    "label": "High Density Residential (8 - 20 du/acre)"
+    "label": "Medium Density Residential (4.6-8 du/acre)"
   },
   {
     "rgb": [
-      206,
+      180,
       130,
-      168
+      50
+    ],
+    "label": "High Density Residential (8-20 du/acre)"
+  },
+  {
+    "rgb": [
+      205,
+      145,
+      175
     ],
     "label": "Mixed Use"
   },
   {
     "rgb": [
-      232,
-      202,
-      211
+      235,
+      205,
+      205
     ],
-    "label": "Mixed Use- Towne Center"
+    "label": "Mixed Use - Towne Center"
   },
   {
     "rgb": [
-      237,
-      28,
-      36
+      230,
+      40,
+      40
     ],
-    "label": "Commericial"
+    "label": "Commercial"
   },
   {
     "rgb": [
-      142,
-      122,
-      170
-    ],
-    "label": "Light Industrial/ Business Park"
-  },
-  {
-    "rgb": [
-      46,
-      105,
+      140,
+      120,
       175
     ],
-    "label": "Public/ Institutional/ Cultural/ Schools"
+    "label": "Light Industrial/Business Park"
   },
   {
     "rgb": [
-      158,
-      205,
-      230
+      40,
+      110,
+      175
     ],
-    "label": "Quasi-Public/ Utiliites"
+    "label": "Public/Institutional/Cultural/Schools"
   },
   {
     "rgb": [
-      58,
-      130,
+      160,
+      205,
+      240
+    ],
+    "label": "Quasi-Public/Utilities"
+  },
+  {
+    "rgb": [
+      45,
+      125,
       130
     ],
     "label": "Military Operation"
   },
   {
     "rgb": [
-      104,
-      152,
-      99
+      120,
+      160,
+      105
     ],
-    "label": "Resort/ Recreational"
+    "label": "Resort/Recreational"
   },
   {
     "rgb": [
-      194,
-      218,
-      187
+      195,
+      215,
+      190
     ],
     "label": "Open Space"
   },
   {
     "rgb": [
-      57,
-      181,
-      74
+      60,
+      180,
+      50
     ],
     "label": "Parks and Recreation"
   }
