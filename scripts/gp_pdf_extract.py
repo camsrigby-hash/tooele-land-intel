@@ -155,7 +155,10 @@ CITY_CONFIGS: dict[str, dict] = {
         "city_name": "Herriman",
         "city_slug": "herriman",
         "jurisdiction": "salt_lake_county_ut",
-        "bbox": {"lon_min": -112.08, "lat_min": 40.49, "lon_max": -111.97, "lat_max": 40.56},
+        # bbox + whitelist match Herriman_Zoning.kmz coverage — FLU planning area extends
+        # beyond city limits — 18b-2d-2 (May 18 2026)
+        "bbox": {"lon_min": -112.0941, "lat_min": 40.4425, "lon_max": -111.9241, "lat_max": 40.5421},
+        "parcel_city_whitelist": ["Herriman", "South Jordan", "Bluffdale", "Unincorporated Salt Lake County"],
         "pdf_url": None,
         "stage2_preferred_streets": [
             "Rosecrest Rd", "Main St", "Pioneer St", "Herriman Pkwy",

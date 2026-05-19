@@ -283,32 +283,44 @@ def stage3_sample_parcels(
     legend_entries: list[dict],
     extra_props: dict,
     out_dir: Path,
-) -> tuple[Path, Path, list[dict]]:
-    """Load Herriman parcels, sample raster, write GeoJSON + CSV.
+) -> tuple[Path, Path, list[dict], dict]:
+    """Load parcels within KMZ bounds, sample raster, write GeoJSON + CSV.
 
-    Returns (csv_path, geojson_path, results).
+    Uses parcel_city_whitelist from CITY_CFG plus blank-city parcels (federal land
+    such as Camp Williams that lack a parcel_city tag in the UGRC LIR CSV).
+
+    Returns (csv_path, geojson_path, results, city_breakdown).
     """
     logging.info("Stage 3: loading parcels…")
     bbox = CITY_CFG["bbox"]
 
-    # Load all parcels in bbox from the main-repo parcel CSV
+    # Load all parcels in (widened) bbox from the main-repo parcel CSV
     parcels_bbox = grse.load_parcels_in_bbox(COUNTY, bbox)
+    logging.info(f"  Parcels in bbox: {len(parcels_bbox):,}")
 
-    # Filter to parcel_city == 'Herriman' (case-insensitive)
+    # Include whitelist cities + blank/null city tags (Camp Williams federal land etc.)
+    whitelist = {c.lower() for c in CITY_CFG.get("parcel_city_whitelist", ["herriman"])}
     parcels = [
         p for p in parcels_bbox
-        if p.get("parcel_city", "").strip().lower() == "herriman"
+        if p.get("parcel_city", "").strip().lower() in whitelist
+        or not p.get("parcel_city", "").strip()
     ]
-    logging.info(f"  Parcels after parcel_city filter: {len(parcels):,}")
+    logging.info(f"  Parcels after whitelist+blank filter: {len(parcels):,}")
 
     if not parcels:
-        raise RuntimeError("No Herriman parcels found — check parcel CSV and city filter")
+        raise RuntimeError("No parcels found — check parcel CSV and city filter")
 
     logging.info("Stage 3: sampling parcels…")
     results = grse.stage4_sample_parcels(
         geotiff_path, A, legend_entries, parcels, bbox,
     )
     logging.info(f"  Sampled {len(results):,} parcels")
+
+    # Source-city breakdown for reporting
+    from collections import Counter as _Counter
+    city_breakdown = _Counter(
+        r.get("parcel_city", "").strip() or "(blank)" for r in results
+    )
 
     pipeline_meta = {
         "cp_source": "cam_kmz",
@@ -322,7 +334,7 @@ def stage3_sample_parcels(
         results, legend_entries, CITY_CFG, out_dir,
         extra_props, LEGEND_JSON, pipeline_meta,
     )
-    return csv_path, geojson_path, results
+    return csv_path, geojson_path, results, city_breakdown
 
 
 # ---------------------------------------------------------------------------
@@ -443,6 +455,8 @@ def main() -> None:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--skip-legend", action="store_true",
                    help="reuse existing herriman_legend.json even if it needs refresh")
+    p.add_argument("--skip-georef", action="store_true",
+                   help="skip Stage 1 (KMZ→GeoTIFF); read affine from existing herriman_cam_georef.tif")
     p.add_argument("--verbose", "-v", action="store_true")
     args = p.parse_args()
 
@@ -479,12 +493,23 @@ def main() -> None:
 
     with EXTRA_PROPS.open() as f:
         extra_props = json.load(f)
+    extra_props["flu_source_jurisdiction"] = "Herriman"
 
     # Stage 1
-    logging.info("=" * 60)
-    logging.info("STAGE 1 — KMZ → GeoTIFF")
-    A, bounds = stage1_kmz_to_geotiff(KMZ_PATH, GEOTIFF_PATH)
-    logging.info(f"  A matrix:\n{A}")
+    if args.skip_georef:
+        logging.info("=" * 60)
+        logging.info("STAGE 1 — skipped (--skip-georef); reading affine from existing GeoTIFF")
+        if not GEOTIFF_PATH.exists():
+            sys.exit(f"ERROR: --skip-georef set but GeoTIFF not found: {GEOTIFF_PATH}")
+        with rasterio.open(GEOTIFF_PATH) as src:
+            t = src.transform
+            A = np.array([[t.a, t.b, t.c], [t.d, t.e, t.f]])
+        logging.info(f"  A matrix read from GeoTIFF:\n{A}")
+    else:
+        logging.info("=" * 60)
+        logging.info("STAGE 1 — KMZ → GeoTIFF")
+        A, bounds = stage1_kmz_to_geotiff(KMZ_PATH, GEOTIFF_PATH)
+        logging.info(f"  A matrix:\n{A}")
 
     # Stage 2
     logging.info("=" * 60)
@@ -497,7 +522,7 @@ def main() -> None:
     logging.info("=" * 60)
     logging.info("STAGE 3 — Per-parcel sampling")
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    csv_path, geojson_path, results = stage3_sample_parcels(
+    csv_path, geojson_path, results, city_breakdown = stage3_sample_parcels(
         GEOTIFF_PATH, A, legend_entries, extra_props, OUT_DIR,
     )
 
@@ -531,7 +556,12 @@ def main() -> None:
     for label, n in zone_hist.most_common():
         print(f"  {label:<60s} {n:6d}  ({100.0*n/max(sampled,1):5.1f}%)")
     print()
-    print(f"Mixed Use Towne Center: {pct_mut:.1f}%  (prior run red flag: 26.5%)")
+    print(f"Mixed Use Towne Center: {pct_mut:.1f}%  (prior single-city run: 8.8%)")
+    print()
+    print("Source parcel_city breakdown:")
+    total_results = len(results)
+    for city, n in city_breakdown.most_common():
+        print(f"  {city:<50s} {n:6,}  ({100.0*n/max(total_results,1):5.1f}%)")
     print(f"Runtime: {elapsed:.0f}s")
     print("=" * 70)
 

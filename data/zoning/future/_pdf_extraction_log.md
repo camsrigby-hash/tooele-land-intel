@@ -510,9 +510,67 @@ in Google Earth Pro, toggle layers, spot-check 10 parcels across zones.
 - PASS → ship Herriman on PR #11 with 18b-2c (REST cities) + 18b-2d-2 (Herriman)
 - FAIL → diagnose residual error (color mapping vs alignment) and iterate
 
-**Output files**:
+**Output files** (superseded by bbox+whitelist fix below):
 - `data/zoning/future/herriman_gp.geojson` (16,408 features, schema v2 + vintage flags)
 - `data/zoning/future/herriman_gp_parcel_table.csv`
 - `data/zoning/future/legends/herriman_legend.json` (16 entries)
 - `data/zoning/future/herriman_gp.kmz` (eye-test KMZ, gitignored)
 - `data/_pdf_cache/herriman/herriman_cam_georef.tif` (georeferenced raster, gitignored)
+
+---
+
+### 18b-2d-2 bbox+whitelist fix (2026-05-18)
+
+**Trigger**: Cam's eye-test showed large vacant areas in the GP map with no colored parcels.
+Diagnostic confirmed: Herriman's FLU planning area (KMZ bounds) extends beyond city limits,
+covering Olympia Hills parcels tagged South Jordan and Bluffdale parcels along the
+Mountain View Corridor. No unincorporated SLC parcels exist in the area (hypothesis disproved).
+
+**Changes**:
+- `CITY_CONFIGS["herriman"]["bbox"]` widened to match KMZ LatLonBox exactly (lat_min 40.49→40.4425, lon_min −112.08→−112.0941, lon_max −111.97→−111.9241)
+- `parcel_city_whitelist: ["Herriman", "South Jordan", "Bluffdale", "Unincorporated Salt Lake County"]` added to city config
+- Blank-city parcels included (Camp Williams / federal land without parcel_city tag)
+- `flu_source_jurisdiction: "Herriman"` added to all feature properties
+- `--skip-georef` flag added to `herriman_cam_ingest.py` (reuses cached GeoTIFF)
+
+**Before/after parcel counts**:
+
+| Source city | Prior run | This run | Notes |
+|---|---|---|---|
+| Herriman | 16,219 sampled | 19,321 | +3,102 from expanded bbox (southern fringe) |
+| South Jordan | 0 | 4,160 | Olympia Hills mega-development |
+| Bluffdale | 0 | 4,199 | Mountain View Corridor / western fringe |
+| (blank city tag) | 0 | 711 | Camp Williams federal land, commercial |
+| **Total sampled** | **16,219** | **28,195** | +74% |
+| Unknown | 189 | 196 | stable |
+| Coverage % | 98.8% | 99.3% | |
+
+**Zone distribution — before / after / Herriman-only**:
+
+| Zone | Prior 16k run | This 28k run | Herriman-only |
+|---|---|---|---|
+| Mixed Use - Towne Center | 8.8% | 24.6% | 7.4% |
+| Hillside/Rural Residential | 17.2% | 20.6% | 16.7% |
+| Single Family Residential | 12.6% | 9.8% | 14.3% |
+| High Density Residential | 15.2% | 9.5% | 13.7% |
+| Low Density Residential | 14.1% | 9.1% | 13.2% |
+| Medium Density Residential | 8.7% | 6.8% | 10.0% |
+| Agricultural Residential | 8.7% | 5.8% | 8.5% |
+| Open Space | 2.0% | 4.8% | — |
+| Military Operation | 3.3% | 2.3% | — |
+
+**Interpretation of 24.6% MUT in combined run**:
+South Jordan parcels are 78% MUT (Olympia Hills planned development, correctly colored MUT
+on Herriman's FLU map). Bluffdale is 47% MUT (western Mountain View Corridor). These are
+geographically correct — Herriman's GP map designates those areas as Towne Center regardless
+of which city's parcel records they appear in. Herriman-only parcels remain 7.4% MUT,
+confirming georef is accurate. The 24.6% headline is an artifact of the mixed-jurisdiction
+FLU planning area, not a sampling error.
+
+**KMZ**: 14.3 MB, 28,812 placemarks.
+
+**Output files**:
+- `data/zoning/future/herriman_gp.geojson` (28,391 features, schema v2 + vintage flags + flu_source_jurisdiction)
+- `data/zoning/future/herriman_gp_parcel_table.csv`
+- `data/zoning/future/herriman_gp.kmz` (eye-test KMZ, gitignored)
+- GeoTIFF and legend unchanged from prior run.
