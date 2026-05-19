@@ -10,10 +10,14 @@ data/raw/parcels_salt_lake.csv.gz
 data/raw/parcels_utah.csv.gz
 data/raw/parcels_weber.csv.gz
 
+# KMZ files — derivative eye-test outputs, not for git
+data/zoning/future/*.kmz
+
 # Phase 18b-2 — regenerable PDF rasterization + georef caches
 data/_pdf_cache/**/_raster_tmp/
 data/_pdf_cache/**/*.tif
 data/_pdf_cache/**/_legend_crop_*.jpg
+data/_pdf_cache/**/*.kmz
 
 # Phase 18b-2 — large source PDFs (cached locally, fetched via download_pdf)
 data/_pdf_cache/Erda-General-Plan_2022-06-23.pdf
