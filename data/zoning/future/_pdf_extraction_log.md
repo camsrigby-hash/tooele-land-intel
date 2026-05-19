@@ -435,3 +435,142 @@ RMSE 38.6 ft confirms pipeline-v2 can achieve ≤100 ft on standard-size maps wh
 **Primary FLU field**: `LAND_USE` (string, no coded domain — values are label strings)
 **Native SR**: WKID 102743 (EPSG:3566 Utah Central State Plane, feet) → reprojected to EPSG:4326 via `outSR=4326`
 **Data quality note**: 20 distinct zone types vs. ~12 in pre-check inventory (inventory was based on sampling). Actual layer has higher granularity. `ZONING` field (current zoning cross-ref) retained in `gp_zone_label` property for Phase 18b-3 join — not used as FLU classification.
+
+---
+
+## Herriman — 2026-05-18 (18b-2d-2 Cam-KMZ raster-sample)
+
+**Source**: Map 7 — Future Land Use 2025 from 2013 GP Amendment (page 34 of `Herriman_GP_Amendment.pdf`)
+**Georeference source**: `Herriman_Zoning.kmz` — manually placed in Google Earth Pro by Cam using
+local geography knowledge (Mountain View Corridor, Bangerter, city boundary, named streets). ~99% alignment confidence.
+**Layer type**: `flu`
+**Pipeline version**: Phase 18b-2d raster-sample (per-parcel LAB color sampling)
+**Model**: `claude-opus-4-7` (legend extraction only — 1 vision call)
+**Vintage flags**: `flu_plan_vintage=2013_amendment_2025_horizon`; `flu_currency_note=may not reflect post-2013 updates; FLU2022 exists on Herriman internal Enterprise GIS but is not publicly accessible`
+
+### Run outcome: COMPLETE — pending Cam eye-test (Stage 5)
+
+| Criterion | Result | Status |
+|---|---|---|
+| Parcels sampled (with zone) | 16,219 / 16,408 (98.8%) | PASS |
+| Parcels unknown | 189 (1.2%) | PASS |
+| Legend categories | 16 / 16 | PASS |
+| Mixed Use Towne Center % | 8.8% (prior red flag: 26.5%) | IMPROVED |
+| GeoTIFF bounds match KML LatLonBox | N=40.5421 S=40.4425 E=−111.9241 W=−112.0941 | PASS |
+| Vintage flags in GeoJSON properties | All 4 fields present | PASS |
+| KMZ produced for eye-test | 8.1 MB, 16,622 placemarks | PASS |
+| API cost | < $0.10 (1 legend vision call) | PASS |
+
+### Legend (16 categories confirmed)
+
+| Zone | RGB | Parcel count | % of sampled |
+|---|---|---|---|
+| Hillside/Rural Residential (0.5-1.7 du/acre) | 206, 195, 165 | 2,782 | 17.2% |
+| High Density Residential (8-20 du/acre) | 180, 130, 50 | 2,463 | 15.2% |
+| Low Density Residential (1.8-2.5 du/acre) | 255, 252, 200 | 2,279 | 14.1% |
+| Single Family Residential (2.6-4.5 du/acre) | 255, 245, 0 | 2,044 | 12.6% |
+| Mixed Use - Towne Center | 235, 205, 205 | 1,421 | 8.8% |
+| Agricultural Residential (1.8-3.0 du/acre) | 200, 220, 130 | 1,416 | 8.7% |
+| Medium Density Residential (4.6-8 du/acre) | 232, 165, 60 | 1,403 | 8.7% |
+| Mixed Use | 205, 145, 175 | 715 | 4.4% |
+| Military Operation | 45, 125, 130 | 534 | 3.3% |
+| Resort/Recreational | 120, 160, 105 | 347 | 2.1% |
+| Open Space | 195, 215, 190 | 328 | 2.0% |
+| Commercial | 230, 40, 40 | 221 | 1.4% |
+| Public/Institutional/Cultural/Schools | 40, 110, 175 | 74 | 0.5% |
+| Parks and Recreation | 60, 180, 50 | 72 | 0.4% |
+| Quasi-Public/Utilities | 160, 205, 240 | 62 | 0.4% |
+| Light Industrial/Business Park | 140, 120, 175 | 58 | 0.4% |
+
+### Prior run comparison
+
+| Metric | 18b-2d-1 (algorithmic georef) | 18b-2d-2 (Cam-KMZ) | Change |
+|---|---|---|---|
+| Mixed Use Towne Center | 26.5% | 8.8% | −17.7 pp ✓ |
+| Parcel coverage | ~16,408 | 16,219 (98.8%) | improved |
+| Georef RMSE | unknown/high | N/A (Cam-placed, ~99% confidence) | n/a |
+
+The 26.5% Towne Center overrepresentation in the prior run was a georef offset artifact.
+Cam-KMZ alignment eliminated it — distribution is now plausible for a mixed-use city.
+
+### Anomalies / notes
+
+- **High Density Residential at 15.2%** — second-largest zone. Herriman has seen dense
+  development in the northeast quadrant; warrants visual confirmation during eye-test.
+- **Military Operation at 3.3%** — Camp Williams occupies a large footprint in the west;
+  count appears correct for that footprint.
+- **No `unknown` in distribution table** means the 189 unknowns (~1.2%) are parcels whose
+  centroids landed on white space (roads, map border) — expected and acceptable.
+
+### Decision
+
+**PENDING eye-test (Stage 5)** — Cam to open `herriman_gp.kmz` and `Herriman_Zoning.kmz`
+in Google Earth Pro, toggle layers, spot-check 10 parcels across zones.
+
+- PASS → ship Herriman on PR #11 with 18b-2c (REST cities) + 18b-2d-2 (Herriman)
+- FAIL → diagnose residual error (color mapping vs alignment) and iterate
+
+**Output files** (superseded by bbox+whitelist fix below):
+- `data/zoning/future/herriman_gp.geojson` (16,408 features, schema v2 + vintage flags)
+- `data/zoning/future/herriman_gp_parcel_table.csv`
+- `data/zoning/future/legends/herriman_legend.json` (16 entries)
+- `data/zoning/future/herriman_gp.kmz` (eye-test KMZ, gitignored)
+- `data/_pdf_cache/herriman/herriman_cam_georef.tif` (georeferenced raster, gitignored)
+
+---
+
+### 18b-2d-2 bbox+whitelist fix (2026-05-18)
+
+**Trigger**: Cam's eye-test showed large vacant areas in the GP map with no colored parcels.
+Diagnostic confirmed: Herriman's FLU planning area (KMZ bounds) extends beyond city limits,
+covering Olympia Hills parcels tagged South Jordan and Bluffdale parcels along the
+Mountain View Corridor. No unincorporated SLC parcels exist in the area (hypothesis disproved).
+
+**Changes**:
+- `CITY_CONFIGS["herriman"]["bbox"]` widened to match KMZ LatLonBox exactly (lat_min 40.49→40.4425, lon_min −112.08→−112.0941, lon_max −111.97→−111.9241)
+- `parcel_city_whitelist: ["Herriman", "South Jordan", "Bluffdale", "Unincorporated Salt Lake County"]` added to city config
+- Blank-city parcels included (Camp Williams / federal land without parcel_city tag)
+- `flu_source_jurisdiction: "Herriman"` added to all feature properties
+- `--skip-georef` flag added to `herriman_cam_ingest.py` (reuses cached GeoTIFF)
+
+**Before/after parcel counts**:
+
+| Source city | Prior run | This run | Notes |
+|---|---|---|---|
+| Herriman | 16,219 sampled | 19,321 | +3,102 from expanded bbox (southern fringe) |
+| South Jordan | 0 | 4,160 | Olympia Hills mega-development |
+| Bluffdale | 0 | 4,199 | Mountain View Corridor / western fringe |
+| (blank city tag) | 0 | 711 | Camp Williams federal land, commercial |
+| **Total sampled** | **16,219** | **28,195** | +74% |
+| Unknown | 189 | 196 | stable |
+| Coverage % | 98.8% | 99.3% | |
+
+**Zone distribution — before / after / Herriman-only**:
+
+| Zone | Prior 16k run | This 28k run | Herriman-only |
+|---|---|---|---|
+| Mixed Use - Towne Center | 8.8% | 24.6% | 7.4% |
+| Hillside/Rural Residential | 17.2% | 20.6% | 16.7% |
+| Single Family Residential | 12.6% | 9.8% | 14.3% |
+| High Density Residential | 15.2% | 9.5% | 13.7% |
+| Low Density Residential | 14.1% | 9.1% | 13.2% |
+| Medium Density Residential | 8.7% | 6.8% | 10.0% |
+| Agricultural Residential | 8.7% | 5.8% | 8.5% |
+| Open Space | 2.0% | 4.8% | — |
+| Military Operation | 3.3% | 2.3% | — |
+
+**Interpretation of 24.6% MUT in combined run**:
+South Jordan parcels are 78% MUT (Olympia Hills planned development, correctly colored MUT
+on Herriman's FLU map). Bluffdale is 47% MUT (western Mountain View Corridor). These are
+geographically correct — Herriman's GP map designates those areas as Towne Center regardless
+of which city's parcel records they appear in. Herriman-only parcels remain 7.4% MUT,
+confirming georef is accurate. The 24.6% headline is an artifact of the mixed-jurisdiction
+FLU planning area, not a sampling error.
+
+**KMZ**: 14.3 MB, 28,812 placemarks.
+
+**Output files**:
+- `data/zoning/future/herriman_gp.geojson` (28,391 features, schema v2 + vintage flags + flu_source_jurisdiction)
+- `data/zoning/future/herriman_gp_parcel_table.csv`
+- `data/zoning/future/herriman_gp.kmz` (eye-test KMZ, gitignored)
+- GeoTIFF and legend unchanged from prior run.

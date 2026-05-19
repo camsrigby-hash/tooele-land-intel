@@ -1,0 +1,5 @@
+[
+  {"px_x": 1640, "px_y": 890,  "gt_lat": 40.51417, "gt_lon": -112.03305, "label": "Main_St_x_Pioneer_St"},
+  {"px_x": 1860, "px_y": 1170, "gt_lat": 40.50787, "gt_lon": -112.01025, "label": "Fort_Herriman_Pkwy_x_13400_South"},
+  {"px_x": 1640, "px_y": 1395, "gt_lat": 40.49836, "gt_lon": -112.02445, "label": "Herriman_Pkwy_x_Rosecrest_Rd"}
+]
