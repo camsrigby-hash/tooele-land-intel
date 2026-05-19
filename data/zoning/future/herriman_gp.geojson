@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.002255,
+              40.5160743
+            ],
+            [
+              -112.002255,
+              40.5160743
+            ],
+            [
+              -112.0227037,
+              40.5111211
+            ],
+            [
+              -112.0227037,
+              40.5111211
+            ],
+            [
+              -112.0519161,
+              40.5040452
+            ],
+            [
+              -112.0519161,
+              40.5040452
+            ],
+            [
+              -112.0373099,
+              40.5075832
+            ],
+            [
+              -112.0373099,
+              40.5075832
+            ],
+            [
+              -112.002255,
+              40.5160743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "herriman",
+        "city_name": "Herriman",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Single Family Residential",
+        "gp_zone_description": "2.6 - 4.5 du/acre",
+        "gp_zone_normalized": "future_low_density_residential",
+        "acreage": null,
+        "jurisdiction": "salt_lake_county_ut",
+        "source_pdf_url": "C:\\Users\\camsr\\code\\wasatch-intel\\data\\_pdf_cache\\herriman\\herriman_map7_p34.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 0.0,
+        "n_control_points": 4,
+        "rotation_angle_deg": -143.72,
+        "extraction_date": "2026-05-16"
+      }
+    }
+  ]
+}

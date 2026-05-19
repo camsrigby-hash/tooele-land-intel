@@ -1,0 +1,9 @@
+{"call": "legend", "model": "claude-opus-4-7", "input_tokens": 4795, "output_tokens": 298, "cost_usd": 0.09427, "elapsed_s": 5.0}
+{"call": "zone_Agricultural", "model": "claude-opus-4-7", "input_tokens": 4985, "output_tokens": 144, "cost_usd": 0.08557, "elapsed_s": 4.7}
+{"call": "zone_Business Park", "model": "claude-opus-4-7", "input_tokens": 4983, "output_tokens": 266, "cost_usd": 0.0947, "elapsed_s": 6.3}
+{"call": "zone_Commercial", "model": "claude-opus-4-7", "input_tokens": 4983, "output_tokens": 534, "cost_usd": 0.11479, "elapsed_s": 8.7}
+{"call": "zone_Floodplain (FLOODWAY)", "model": "claude-opus-4-7", "input_tokens": 5003, "output_tokens": 112, "cost_usd": 0.08345, "elapsed_s": 3.8}
+{"call": "zone_Industrial", "model": "claude-opus-4-7", "input_tokens": 4983, "output_tokens": 66, "cost_usd": 0.0797, "elapsed_s": 4.0}
+{"call": "zone_Estate Density Residential", "model": "claude-opus-4-7", "input_tokens": 4991, "output_tokens": 176, "cost_usd": 0.08807, "elapsed_s": 5.0}
+{"call": "zone_Low Density Residential", "model": "claude-opus-4-7", "input_tokens": 4989, "output_tokens": 148, "cost_usd": 0.08593, "elapsed_s": 4.9}
+{"call": "zone_Medium Density Residential", "model": "claude-opus-4-7", "input_tokens": 4991, "output_tokens": 94, "cost_usd": 0.08192, "elapsed_s": 4.0}

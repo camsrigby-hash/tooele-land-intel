@@ -1,0 +1,6 @@
+[
+  {"px_x": 2470, "px_y": 640,  "gt_lat": 40.534361, "gt_lon": -112.017477, "label": "11800S_x_AnthemPark"},
+  {"px_x": 1960, "px_y": 1370, "gt_lat": 40.516835, "gt_lon": -112.033043, "label": "MainSt_x_PioneerSt"},
+  {"px_x": 2150, "px_y": 1620, "gt_lat": 40.507890, "gt_lon": -112.024476, "label": "HerrimanPkwy_x_RosecrestRd"},
+  {"px_x": 3650, "px_y": 2920, "gt_lat": 40.491267, "gt_lon": -112.022725, "label": "MtnViewCorridor_x_RosecrestRd"}
+]

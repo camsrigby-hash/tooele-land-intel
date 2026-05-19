@@ -1,0 +1,811 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6849551,
+              40.1356096
+            ],
+            [
+              -111.6769775,
+              40.1357066
+            ],
+            [
+              -111.6769775,
+              40.1321947
+            ],
+            [
+              -111.6615543,
+              40.1323822
+            ],
+            [
+              -111.6615543,
+              40.12903
+            ],
+            [
+              -111.6780412,
+              40.1288296
+            ],
+            [
+              -111.6780412,
+              40.1152612
+            ],
+            [
+              -111.6865506,
+              40.1151577
+            ],
+            [
+              -111.6865506,
+              40.1287262
+            ],
+            [
+              -111.6849551,
+              40.1287456
+            ],
+            [
+              -111.6849551,
+              40.1356096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural",
+        "gp_zone_description": "Agricultural",
+        "gp_zone_normalized": "future_agriculture",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6743184,
+              40.0959913
+            ],
+            [
+              -111.6424082,
+              40.0963792
+            ],
+            [
+              -111.6424082,
+              40.0925481
+            ],
+            [
+              -111.6599588,
+              40.0923348
+            ],
+            [
+              -111.6599588,
+              40.0942503
+            ],
+            [
+              -111.6743184,
+              40.0940758
+            ],
+            [
+              -111.6743184,
+              40.0959913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural",
+        "gp_zone_description": "Agricultural",
+        "gp_zone_normalized": "future_agriculture",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.617412,
+              40.0918942
+            ],
+            [
+              -111.6115618,
+              40.0919653
+            ],
+            [
+              -111.6115618,
+              40.0890919
+            ],
+            [
+              -111.617412,
+              40.0890208
+            ],
+            [
+              -111.617412,
+              40.0918942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Agricultural",
+        "gp_zone_description": "Agricultural",
+        "gp_zone_normalized": "future_agriculture",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6323034,
+              40.1081549
+            ],
+            [
+              -111.6200712,
+              40.1083036
+            ],
+            [
+              -111.6120936,
+              40.1068043
+            ],
+            [
+              -111.6120936,
+              40.1036117
+            ],
+            [
+              -111.6253895,
+              40.1026519
+            ],
+            [
+              -111.633367,
+              40.1041513
+            ],
+            [
+              -111.6360262,
+              40.1065134
+            ],
+            [
+              -111.6323034,
+              40.1081549
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Business Park",
+        "gp_zone_description": "Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6280487,
+              40.124808
+            ],
+            [
+              -111.6200712,
+              40.124905
+            ],
+            [
+              -111.617412,
+              40.1227025
+            ],
+            [
+              -111.6227303,
+              40.1218397
+            ],
+            [
+              -111.6307079,
+              40.1225409
+            ],
+            [
+              -111.6280487,
+              40.124808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Business Park",
+        "gp_zone_description": "Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6227303,
+              40.116572
+            ],
+            [
+              -111.6120936,
+              40.1171802
+            ],
+            [
+              -111.6067753,
+              40.1156485
+            ],
+            [
+              -111.6094345,
+              40.1124236
+            ],
+            [
+              -111.6200712,
+              40.1119751
+            ],
+            [
+              -111.6253895,
+              40.113826
+            ],
+            [
+              -111.6227303,
+              40.116572
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Business Park",
+        "gp_zone_description": "Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.617412,
+              40.1051434
+            ],
+            [
+              -111.6041161,
+              40.1061031
+            ],
+            [
+              -111.5987978,
+              40.1045715
+            ],
+            [
+              -111.6014569,
+              40.1013466
+            ],
+            [
+              -111.6120936,
+              40.1004191
+            ],
+            [
+              -111.617412,
+              40.1027489
+            ],
+            [
+              -111.617412,
+              40.1051434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Business Park",
+        "gp_zone_description": "Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6865506,
+              40.0891382
+            ],
+            [
+              -111.6732547,
+              40.090098
+            ],
+            [
+              -111.6679363,
+              40.0877682
+            ],
+            [
+              -111.6705955,
+              40.0845433
+            ],
+            [
+              -111.6838914,
+              40.0835835
+            ],
+            [
+              -111.6918689,
+              40.085881
+            ],
+            [
+              -111.6865506,
+              40.0891382
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Business Park",
+        "gp_zone_description": "Business Park",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6392172,
+              40.1157331
+            ],
+            [
+              -111.6338989,
+              40.1157977
+            ],
+            [
+              -111.6307079,
+              40.1145595
+            ],
+            [
+              -111.6338989,
+              40.1132437
+            ],
+            [
+              -111.6392172,
+              40.113179
+            ],
+            [
+              -111.6424082,
+              40.1144173
+            ],
+            [
+              -111.6392172,
+              40.1157331
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6243258,
+              40.114637
+            ],
+            [
+              -111.6190075,
+              40.1147017
+            ],
+            [
+              -111.6158165,
+              40.1134635
+            ],
+            [
+              -111.6190075,
+              40.1121476
+            ],
+            [
+              -111.6243258,
+              40.112083
+            ],
+            [
+              -111.6275169,
+              40.1133212
+            ],
+            [
+              -111.6243258,
+              40.114637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6200712,
+              40.110698
+            ],
+            [
+              -111.6094345,
+              40.1108273
+            ],
+            [
+              -111.6041161,
+              40.1092957
+            ],
+            [
+              -111.6094345,
+              40.1076348
+            ],
+            [
+              -111.6200712,
+              40.1075055
+            ],
+            [
+              -111.6253895,
+              40.1090371
+            ],
+            [
+              -111.6200712,
+              40.110698
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6041161,
+              40.1076994
+            ],
+            [
+              -111.5934794,
+              40.1078287
+            ],
+            [
+              -111.588161,
+              40.1062971
+            ],
+            [
+              -111.5934794,
+              40.1046361
+            ],
+            [
+              -111.6041161,
+              40.1045068
+            ],
+            [
+              -111.6094345,
+              40.1060385
+            ],
+            [
+              -111.6041161,
+              40.1076994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Commercial",
+        "gp_zone_description": "Commercial",
+        "gp_zone_normalized": "future_commercial_general",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.681764,
+              40.1037226
+            ],
+            [
+              -111.6732547,
+              40.103826
+            ],
+            [
+              -111.6732547,
+              40.1020701
+            ],
+            [
+              -111.6652772,
+              40.1021671
+            ],
+            [
+              -111.6652772,
+              40.0989745
+            ],
+            [
+              -111.6732547,
+              40.0988776
+            ],
+            [
+              -111.6732547,
+              40.0972813
+            ],
+            [
+              -111.681764,
+              40.0971778
+            ],
+            [
+              -111.681764,
+              40.1037226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Medium Density Residential",
+        "gp_zone_description": "Medium Density Residential",
+        "gp_zone_normalized": "future_medium_density_residential",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.6572996,
+              40.1078511
+            ],
+            [
+              -111.6466629,
+              40.1079804
+            ],
+            [
+              -111.6466629,
+              40.1055859
+            ],
+            [
+              -111.6572996,
+              40.1054566
+            ],
+            [
+              -111.6572996,
+              40.1078511
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "city_slug": "spanish_fork",
+        "city_name": "Spanish Fork",
+        "future_layer_type": "flu",
+        "layer_subtype": null,
+        "gp_zone_code": "Medium Density Residential",
+        "gp_zone_description": "Medium Density Residential",
+        "gp_zone_normalized": "future_medium_density_residential",
+        "acreage": null,
+        "jurisdiction": "utah_county_ut",
+        "source_pdf_url": "data/_pdf_cache/spanish_fork/GeneralPlan_Letter.pdf",
+        "source_page_id": "page_0",
+        "extraction_method": "anthropic_vision_claude_opus_4_7_georeferenced",
+        "confidence": "anchored_approximation",
+        "transform_residual_ft": 38.6,
+        "n_control_points": 4,
+        "rotation_angle_deg": 0.0,
+        "extraction_date": "2026-05-16"
+      }
+    }
+  ]
+}
