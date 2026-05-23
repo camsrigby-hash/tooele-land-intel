@@ -1,0 +1,317 @@
+# data/zoning/gp_taxonomy.yaml
+# Phase 18b-2e — Taxonomy harmonization authority file
+#
+# One source of truth for per-jurisdiction zone code normalization.
+# Read by wasatch-intel/scripts/load_zoning_to_d1.py to produce:
+#   zone_current_normalized  — human-readable current zoning class in D1
+#   zone_future_normalized   — human-readable future land use class in D1
+#
+# current_zoning: overrides for zone_code values that map to Other/Unknown
+#   in the GeoJSON's zone_class_normalized field (set during 18b-1 extraction).
+#   Only codes NOT already covered by the existing field need entries here.
+#   Loader logic: use GeoJSON zone_class_normalized when non-null and != "Other/Unknown";
+#   look up here for the gaps.
+#
+# future_zoning: full normalization for all gp_zone_code values in future GP GeoJSONs
+#   (most future GeoJSONs have no gp_zone_normalized field set at extraction time).
+#
+# Standard normalized class vocabulary:
+#   Commercial-General       — broad commercial, retail, service
+#   Commercial-Neighborhood  — small-scale neighborhood commercial
+#   Commercial-Office        — office / professional service
+#   Commercial-Recreation    — commercial recreation (golf, resort, etc.)
+#   Mixed-Use                — residential + commercial mixed
+#   Planned/Mixed-Use        — planned communities, master planned areas
+#   Residential-Low          — low density SFR (>10k sqft lots)
+#   Residential-Medium       — medium density SFR (<10k) or townhome adjacent
+#   Residential-High         — high density / multifamily
+#   Residential-Townhome     — attached townhome / rowhouse districts
+#   Agriculture/Rural        — agricultural, rural residential, open ranch
+#   Industrial/Flex          — light industrial, business park, flex warehouse
+#   Public/Institutional     — schools, parks, civic, government, utilities
+#   Open Space/Public        — natural open space, greenway, conservation
+#   Other/Unknown            — cannot be determined from code alone
+
+version: "18b-2e"
+
+# ── Current zoning gap-fills ──────────────────────────────────────────────────
+current_zoning:
+
+  # Lehi: 12 codes that produced Other/Unknown in 18b-1 extraction
+  # Fixes: 41.8% → 0% Other/Unknown (215/514 features)
+  lehi:
+    TH-5:  Residential-Townhome   # Townhome/attached residential district
+    PF:    Public/Institutional   # Public facilities (schools, civic)
+    A-1:   Agriculture/Rural      # Agricultural (variant of A-5 / RA-1)
+    C:     Commercial-General     # General commercial
+    PC:    Planned/Mixed-Use      # Planned Community
+    NC:    Commercial-Neighborhood # Neighborhood commercial
+    BP:    Industrial/Flex        # Business park
+    C-H:   Commercial-General     # Highway commercial (variant of CH/HC)
+    CR:    Commercial-Recreation  # Commercial recreation
+    H/I:   Industrial/Flex        # Heavy/Industrial (slash variant of H-I)
+    C-I:   Industrial/Flex        # Commercial-industrial
+    T-M:   Industrial/Flex        # Technology-manufacturing
+
+  # Grantsville: 8 mappable codes (UNKNOWN left as-is)
+  # Fixes: 47.4% → ~5% Other/Unknown (9/19 → 1/19 remaining UNKNOWN)
+  grantsville:
+    CG:    Commercial-General     # Commercial General
+    CN:    Commercial-Neighborhood # Commercial Neighborhood
+    CS:    Commercial-General     # Commercial Shopping / Specialty
+    CD:    Commercial-General     # Commercial District
+    MD:    Residential-Medium     # Medium Density residential
+    MG:    Residential-Medium     # Medium General (residential)
+    MG-EX: Residential-Medium     # Medium General Extension
+    PUD:   Planned/Mixed-Use      # Planned Unit Development
+
+  # Spanish Fork: 9 codes
+  # Fixes: 36.9% → ~0.5% Other/Unknown (75/203 → 1/203)
+  spanish_fork:
+    P-F:   Public/Institutional   # Public Facilities (dash variant of PF)
+    C-O:   Commercial-Office      # Commercial Office
+    C-2:   Commercial-General     # Commercial type 2
+    S-C:   Commercial-General     # Shopping Center (dash variant of SC)
+    A-E:   Agriculture/Rural      # Agricultural Estate
+    BP:    Industrial/Flex        # Business Park
+    C-1:   Commercial-General     # Commercial type 1
+    C-D:   Commercial-General     # Commercial District
+    UV-C:  Commercial-General     # Urban Village Commercial
+
+  # Saratoga Springs: 1 code, 58 features
+  # Fixes: 15.8% → 0% Other/Unknown (58/368)
+  saratoga_springs:
+    PC:    Planned/Mixed-Use      # Planned Community
+
+  # Eagle Mountain: ordinance section codes (Title 17 = Zoning Ordinance)
+  # Majority-consensus mappings (≥85% agreement in 18b-1 data):
+  eagle_mountain:
+    "17.20": Agriculture/Rural    # Chapter 17.20 Agricultural Zone (~97% consensus)
+    "17.23": Open Space/Public    # Chapter 17.23 Open Space/Conservation (~91%)
+    "17.31": Open Space/Public    # Chapter 17.31 Open Space (~67%)
+    "17.35": Commercial-General   # Chapter 17.35 Commercial (100%)
+    "17.37": Open Space/Public    # Chapter 17.37 Open Space (100%)
+    "17.38": Commercial-General   # Chapter 17.38 Commercial (~88%)
+    "17.40": Industrial/Flex      # Chapter 17.40 Industrial (~82%)
+    # Ambiguous codes — wide variance in 18b-1 data; deferred to human decode
+    # Action: look up Eagle Mountain Title 17 zoning ordinance
+    # Ref: https://library.municode.com/ut/eagle_mountain/codes/code_of_ordinances
+    "17.25": Other/Unknown        # ~46% Residential-Low, ~35% Other/Unknown, 19% mixed
+    "17":    Other/Unknown        # Generic chapter reference; ambiguous
+
+
+# ── Future GP / FLU normalization ─────────────────────────────────────────────
+future_zoning:
+
+  american_fork:
+    "Public Parks & Open Space":                        Open Space/Public
+    "Institutional Lands, Schools and Public Facilities": Public/Institutional
+    "Residential High Density":                         Residential-High
+    "Design Commercial":                                Commercial-General
+    "Professional Office":                              Commercial-Office
+    "Residential Low Density":                          Residential-Low
+    "Residential Medium Density":                       Residential-Medium
+    "General Commercial":                               Commercial-General
+    "Residential Very- Low Density":                    Agriculture/Rural
+    "Design Industrial":                                Industrial/Flex
+    "Shoreline Protection":                             Open Space/Public
+    "Major Transportation Facilities":                  Public/Institutional
+    "Planned Community":                                Planned/Mixed-Use
+    "Neighborhood Commercial":                          Commercial-Neighborhood
+    "Transit Oriented Development":                     Mixed-Use
+    "Resort":                                           Mixed-Use
+
+  bluffdale:
+    C:     Commercial-General     # Commercial
+    PROS:  Open Space/Public      # Parks, Recreation, Open Space
+    R-VLD: Residential-Low        # Very Low Density Residential
+    CI:    Public/Institutional   # Community / Institutional
+    R-LD:  Residential-Low        # Low Density Residential
+    R-C:   Residential-Low        # Cluster Residential
+    MU:    Mixed-Use              # Mixed Use
+    C-H:   Commercial-General     # Highway Commercial
+    C-RC:  Commercial-General     # Regional Core Commercial
+    R-MF:  Residential-High       # Multi-Family Residential
+    G:     Public/Institutional   # Governmental
+
+  draper:
+    "Residential Low/Medium Density":    Residential-Low
+    "Office/Service":                    Commercial-Office
+    "Open Space/Parks":                  Open Space/Public
+    "Community/Neighborhood Commercial": Commercial-Neighborhood
+    "Regional Commercial":               Commercial-General
+    "Residential Medium-High Density":   Residential-Medium
+    "Sensitive River Overlay":           Open Space/Public
+    "Residential Hillside Low Density":  Residential-Low
+    "Neighborhood Commercial":           Commercial-Neighborhood
+    "Community Commercial":              Commercial-General
+    "Destination Commercial":            Commercial-General
+    "Town Center":                       Mixed-Use
+    "Transit Station District":          Mixed-Use
+    "Residential High Density":          Residential-High
+    "Business & Light Manufacturing":    Industrial/Flex
+    "Growth Area":                       Other/Unknown
+    "Industrial/Manufacturing":          Industrial/Flex
+    "Cultural/Institutional":            Public/Institutional
+    "Commercial Special District":       Commercial-General
+    "Residential Medium Density":        Residential-Medium
+
+  eagle_mountain:
+    "Parks and Open Space":           Open Space/Public
+    "Neighborhood Residential One":   Residential-Low
+    "Community Commercial":           Commercial-General
+    "Civic Uses and Schools":         Public/Institutional
+    "Neighborhood Residential Two":   Residential-Medium
+    "Foothill Residential":           Residential-Low
+    "Business Park/Light Industry":   Industrial/Flex
+    "Rural Density Two":              Agriculture/Rural
+    "Rural Density One":              Agriculture/Rural
+    "Town Center Mixed Use":          Mixed-Use
+    "Regional Commercial":            Commercial-General
+    "Employment Center Campus":       Commercial-General
+    "Neighborhood Residential Three": Residential-High
+
+  grantsville:
+    "Municipal/School":                   Public/Institutional
+    "Mixed Use Density":                  Mixed-Use
+    "Industrial":                         Industrial/Flex
+    "Parks & Open Space":                 Open Space/Public
+    "High Single Family Density Residential": Residential-Medium
+    "Commercial":                         Commercial-General
+    "Rural Residential 2":                Agriculture/Rural
+    "Medium Density Rsidential":          Residential-Medium  # typo in source
+    "Low Density Residentail":            Residential-Low     # typo in source
+
+  herriman:
+    # Sampled zone labels from Cam-KMZ raster color extraction (18b-2d)
+    "Single Family Residential (2.6-4.5 du/acre)": Residential-Low
+    "Low Density Residential (1.8-2.5 du/acre)":   Residential-Low
+    "Medium Density Residential (4.6-8 du/acre)":  Residential-Medium
+    "High Density Residential (8-20 du/acre)":     Residential-High
+    "Hillside/Rural Residential (0.5-1.7 du/acre)": Agriculture/Rural
+    "Agricultural Residential (1.8-3.0 du/acre)":  Agriculture/Rural
+    "Mixed Use - Towne Center":                    Mixed-Use
+    "Mixed Use":                                   Mixed-Use
+    "Commercial":                                  Commercial-General
+    "Resort/Recreational":                         Commercial-Recreation
+    "Light Industrial/Business Park":              Industrial/Flex
+    "Open Space":                                  Open Space/Public
+    "Parks and Recreation":                        Open Space/Public
+    "Public/Institutional/Cultural/Schools":       Public/Institutional
+    "Quasi-Public/Utilities":                      Public/Institutional
+    "Military Operation":                          Public/Institutional
+
+  lehi:
+    # Lehi GP — NLS_LandUseService source (NLS_source_authority_unverified)
+    PF:    Public/Institutional
+    MDR:   Residential-Medium     # Medium Density Residential
+    HDR:   Residential-High       # High Density Residential
+    ESA:   Open Space/Public      # Environmentally Sensitive Area
+    VLDR:  Agriculture/Rural      # Very Low Density Residential (rural lots)
+    LDR:   Residential-Low        # Low Density Residential
+    C:     Commercial-General     # Commercial
+    BP:    Industrial/Flex        # Business Park
+    VLDRA: Agriculture/Rural      # Very Low Density Rural/Agricultural
+    A:     Agriculture/Rural      # Agricultural
+    "T/M": Industrial/Flex        # Technology/Manufacturing
+    HC:    Commercial-General     # Highway Commercial
+    MU:    Mixed-Use              # Mixed Use
+    LI:    Industrial/Flex        # Light Industrial
+    RC:    Commercial-General     # Regional Commercial
+    "NC- Neighborhood Commercial": Commercial-Neighborhood
+    CR:    Commercial-Recreation  # Commercial Recreation
+    CFP:   Public/Institutional   # Community Facility / Public
+    I:     Industrial/Flex        # Industrial
+    SE:    Industrial/Flex        # Special Employment
+
+  saratoga_springs:
+    # Saratoga Springs GP — NLS_LandUseService source (NLS_source_authority_unverified)
+    "Low Density Residential":       Residential-Low
+    "Institutional":                 Public/Institutional
+    "High Density Residential":      Residential-High
+    "Developed Open Space":          Open Space/Public
+    "Medium Density Residential":    Residential-Medium
+    "Regional Commercial":           Commercial-General
+    "Natural Open Space":            Open Space/Public
+    "Neighborhood Commercial":       Commercial-Neighborhood
+    "Office":                        Commercial-Office
+    "Community Commercial":          Commercial-General
+    "Mixed Waterfront":              Mixed-Use
+    "Office Warehouse":              Industrial/Flex
+    "Rural Residential":             Agriculture/Rural
+    "Planned Community Residential": Planned/Mixed-Use
+    "Light Industrial":              Industrial/Flex
+    "Planned Community Mixed Use":   Planned/Mixed-Use
+    "Agricultural":                  Agriculture/Rural
+    "General Industrial":            Industrial/Flex
+
+  south_jordan:
+    OS:     Open Space/Public      # Open Space
+    EC:     Commercial-General     # Employment Center / Emerging Commerce
+    PUBLIC: Public/Institutional   # Public / Civic
+    SN:     Residential-Low        # Suburban Neighborhood
+    MU:     Mixed-Use              # Mixed Use
+    RDO:    Residential-Medium     # Residential Development Overlay
+    AP:     Agriculture/Rural      # Agricultural Preservation
+    EIO:    Industrial/Flex        # Employment / Industrial Office
+    NA:     Open Space/Public      # Natural Area
+    MUTOD:  Mixed-Use              # Mixed Use Transit-Oriented Development
+    HIST:   Other/Unknown          # Historic Overlay (use-neutral)
+    IND:    Industrial/Flex        # Industrial
+
+  spanish_fork:
+    # Spanish Fork GP — PDF vision extraction (anchored_approximation, RMSE 38.6 ft)
+    "Business Park":              Commercial-General
+    "Commercial":                 Commercial-General
+    "Agricultural":               Agriculture/Rural
+    "Medium Density Residential": Residential-Medium
+
+  tooele_city:
+    # Individual token normalizations (comma-separated codes split on load)
+    OS:    Open Space/Public
+    LI:    Industrial/Flex
+    I:     Industrial/Flex
+    "Mixed Use": Mixed-Use
+    "High Density Residential": Residential-High
+    "Light Industrial": Industrial/Flex
+    P-OVERLAKE: Planned/Mixed-Use  # Planned Overlake District
+    # Residential density tiers
+    MR-25: Residential-High
+    MR-20: Residential-High
+    MR-16: Residential-Medium
+    MR-12: Residential-Medium
+    MR-7:  Residential-Medium
+    RM-8:  Residential-Medium
+    R1-7:  Residential-Low
+    R1-8:  Residential-Low
+    R1-10: Residential-Low
+    R1-12: Residential-Low
+    R1-14: Residential-Low
+    R1-30: Residential-Low
+    RD:    Residential-Medium
+    # Commercial
+    NC:    Commercial-Neighborhood
+    GC:    Commercial-General
+    RC:    Commercial-General
+    # Rural
+    RR-1:  Agriculture/Rural
+    RR-5:  Agriculture/Rural
+    RR-20: Agriculture/Rural
+    MU-160: Agriculture/Rural     # Very large lot rural mixed use (160 ac min)
+    # Mixed use
+    MU-G:  Mixed-Use              # Mixed Use General
+    MU-B:  Mixed-Use              # Mixed Use Business
+
+  vineyard:
+    "Open Space":            Open Space/Public
+    "Public Facility":       Public/Institutional
+    "Low Density":           Residential-Low
+    "Medium Density":        Residential-Medium
+    "Regional Commercial":   Commercial-General
+    "High Density":          Residential-High
+    "Neighborhood Center":   Commercial-Neighborhood
+    "University":            Public/Institutional
+    "Town Center":           Mixed-Use
+    "Residential Mixed Use": Mixed-Use
+    "Vineyard Commerce Center": Commercial-General
+    "Low & Medium Density":  Residential-Low

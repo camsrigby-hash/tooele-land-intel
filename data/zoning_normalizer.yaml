@@ -124,6 +124,12 @@ normalization:
       - Transit Oriented Development
       - Form Based Mixed Use
       - FB-MU
+      # 18b-2e additions — planned community codes across multiple jurisdictions
+      - PC
+      - P-C
+      - Planned Community
+      - PUD
+      - P-U-D
   light_industrial_flex:
     score: 0.4
     strings:
@@ -150,6 +156,10 @@ normalization:
       - RP
       - Commercial - Industrial
       - Industrial
+      # 18b-2e additions — Lehi and Spanish Fork industrial variants
+      - C-I
+      - T-M
+      - H/I
   high_density_residential:
     score: 0.2
     strings:
@@ -179,6 +189,9 @@ normalization:
       - R-MF
       - Residential Mixed Density
       - Commercial - Apartment & Condo
+      # 18b-2e additions — Lehi townhome and mid-density residential codes
+      - TH-5
+      - R-2.5
   low_fit_noncommercial:
     score: 0.0
     strings:
@@ -219,11 +232,15 @@ normalization:
       - R
       - R-1
       - R1
+      - R-1-8
       - R-1-10
       - R-1-12
       - R-1-15
       - R-1-20
+      - R-1-22
       - R-1-40
+      - R-1-Flex
+      - RA-1
       - R-2
       - R2
       - RA
@@ -250,6 +267,13 @@ normalization:
       - Centrally Assessed
       - Personal Property
       - New
+      # 18b-2e additions — Spanish Fork and Saratoga Springs agricultural/public variants
+      - A-E
+      - P-F
+      # 18b-2e additions — Grantsville medium-density residential codes
+      - MD
+      - MG
+      - MG-EX
 property_class_fallback:
   Commercial:
     score: 1.0
