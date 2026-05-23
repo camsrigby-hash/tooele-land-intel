@@ -54,18 +54,84 @@ All future GeoJSON codes are now covered by `gp_taxonomy.yaml` entries.
 
 ---
 
-## D1 Parcel Coverage Baseline (post-18b-3, pre-18b-2e re-load)
+## D1 Parcel Coverage Baseline (post-18b-2e re-load, verified 2026-05-23)
 
-From 18b-3 completion notes (2026-05-22):
+Run [26336300126](https://github.com/camsrigby-hash/wasatch-intel/actions/runs/26336300126) completed 2026-05-23 in 15m59s. 462/462 SQL chunks executed (0 failed).
+
+**Overall D1 counts (parcel_records, 947,863 total rows):**
+
+| Column | Count | Notes |
+|---|---|---|
+| zone_current | 202,913 | parcels with raw zone code set |
+| zone_current_normalized | 180,518 | 22,395 NULL = Other/Unknown (Eagle Mountain 17.25/17 + South Jordan P-C + Vineyard) |
+| zone_future | 173,165 | parcels with raw future GP code set |
+| zone_future_normalized | 172,830 | 335 NULL (Herriman color failures + edge cases) |
+| zone_future_secondary | 12,927 | Tooele City (12,813) + other jurisdictions with comma codes |
+
+**Per-county processing (from loader script, 3-county scope):**
 
 | County | Parcels processed | zone_current set | zone_future set |
 |---|---|---|---|
-| Salt Lake | — | — | — |
-| Utah | — | — | — |
-| Tooele | — | — | — |
-| **Total** | **~971k** | **227,245** | **193,407** |
+| Salt Lake | 394,610 | 70,939 | 59,683 |
+| Utah | 327,655 | 127,524 | 108,793 |
+| Tooele | 45,618 | 28,782 | 24,931 |
+| **Total** | **767,883** | **227,245** | **193,407** |
 
-Post-18b-2e re-load adds: `zone_current_normalized`, `zone_future_normalized`, `zone_future_secondary` columns. The zone_current / zone_future counts should remain the same (same spatial join, updated normalization). Update this table after `load_zoning_to_d1.yml` re-run completes.
+Note: D1 total is 947,863 (includes parcels from other sources not in the 3-county loader scope). The `zone_current_normalized` count (180,518) is lower than `zone_current` (202,913) due to parcels where the raw zone code cannot be mapped: Eagle Mountain ordinance codes 17.25/17 (deferred per SD), South Jordan P-C (11,855 parcels), Vineyard Waters Edge/HF/OS codes (1,882 parcels). These latter two are pre-existing taxonomy gaps not in 18b-2e scope — see New Taxonomy Gaps section below.
+
+**Per-jurisdiction zone_current_normalized breakdown (actual D1 parcel counts, 2026-05-23):**
+
+| Jurisdiction | Parcels with zone_current | Other/Unknown (NULL norm) | % | Notes |
+|---|---|---|---|---|
+| American Fork | 13,251 | 729 | 5.5% | Investigate in future phase |
+| Bluffdale | 6,821 | 5 | 0.1% | Clean |
+| Draper | 16,473 | 2,300 | 14.0% | Large parcels with unmapped codes |
+| Eagle Mountain | 21,379 | 3,727 | 17.4% | Expected — 17.25/17 deferred (SD) |
+| Erda | 1,557 | 106 | 6.8% | Expected — UNKNOWN literal |
+| Grantsville | 5,954 | 76 | 1.3% | UNKNOWN literal (1 polygon covers small area) |
+| Herriman | 19,298 | 906 | 4.7% | Investigate in future phase |
+| **Lehi** | **30,559** | **1** | **0%** | ✅ FIXED (was ~41.8% at polygon level) |
+| **Saratoga Springs** | **20,529** | **0** | **0%** | ✅ FIXED (was 15.8% at polygon level) |
+| South Jordan | 29,677 | 11,855 | 39.9% | ⚠️ P-C code (11,855 parcels) — GeoJSON zone_class_normalized is NULL not "Other/Unknown", missed by polygon-level review. Cam action: add south_jordan P-C → Planned/Mixed-Use to taxonomy |
+| **Spanish Fork** | **14,060** | **0** | **0%** | ✅ FIXED (was 36.9% at polygon level) |
+| Tooele | 14,032 | 803 | 5.7% | Acceptable |
+| Vineyard | 4,638 | 1,882 | 40.6% | ⚠️ Waters Edge (1,807), HF (74), OS (1) — same null-norm issue as South Jordan. Cam action: add vineyard codes to taxonomy |
+
+**Per-jurisdiction zone_future_normalized breakdown (actual D1 parcel counts, 2026-05-23):**
+
+| Jurisdiction | Parcels with zone_future | Other/Unknown (NULL norm) | % | Notes |
+|---|---|---|---|---|
+| American Fork | 11,522 | 58 | 0.5% | Comma-split artifact |
+| Bluffdale | 4,965 | 0 | 0% | Clean |
+| Draper | 6,398 | 13 | 0.2% | Clean |
+| Eagle Mountain | 21,344 | 0 | 0% | Clean |
+| Grantsville | 5,419 | 0 | 0% | Clean (typos handled) |
+| Herriman | 19,121 | 0 | 0% | Clean (Cam-KMZ coverage) |
+| Lehi | 30,635 | 87 | 0.3% | NLS caveat; 87 parcels with unmapped codes |
+| Saratoga Springs | 21,101 | 0 | 0% | Clean |
+| South Jordan | 29,620 | 121 | 0.4% | Clean at parcel scale |
+| Spanish Fork | 2,406 | 0 | 0% | Clean |
+| Tooele | 13,953 | 0 | 0% | Clean |
+| Vineyard | 2,985 | 0 | 0% | Clean |
+
+**Tooele City zone_future_secondary: 12,813 parcels** with secondary comma codes populated. Additional jurisdictions with zone_future_secondary: American Fork (58), Centerville (6), Ogden (25), Sunset (2), Syracuse (8), Unincorporated Box Elder (2), Unincorporated Utah (12), Willard (1) — these reflect comma characters in source GP data not specific to Tooele City.
+
+---
+
+## New Taxonomy Gaps (surfaced by parcel-level D1 analysis, 2026-05-23)
+
+These gaps were NOT visible in the polygon-level GeoJSON quality review (which counts zone_class_normalized = "Other/Unknown", not zone_class_normalized = NULL). They represent jurisdictions where some zone polygons have NULL normalized field in the source GeoJSON, causing normalize_current() to fall through to taxonomy with no match.
+
+| Jurisdiction | Raw code | Parcel count | Recommended fix |
+|---|---|---|---|
+| South Jordan | P-C | 11,855 | Add `P-C → Planned/Mixed-Use` to `current_zoning.south_jordan` in gp_taxonomy.yaml |
+| Vineyard | Waters Edge | 1,807 | Add `Waters Edge → Residential-Medium` (or appropriate class) to `current_zoning.vineyard` |
+| Vineyard | HF | 74 | Decode Vineyard HF code; likely High Frequency / Highway Frontage → Commercial-General |
+| Vineyard | OS | 1 | Open Space → Open Space/Public |
+
+**Cam action items** (to fix in a future taxonomy update):
+- South Jordan: Confirm P-C = "Planned Community" → add to gp_taxonomy.yaml. This alone would fix 39.9% → ~0%.
+- Vineyard: Look up city zoning ordinance for Waters Edge, HF, OS codes. Single taxonomy.yaml update fixes 40.6% → ~0%.
 
 ---
 
