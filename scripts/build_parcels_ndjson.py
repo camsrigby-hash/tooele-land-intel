@@ -1,7 +1,7 @@
-"""build_parcels_ndjson.py -- Phase 14-3
+"""build_parcels_ndjson.py -- Phase 14-3 (updated Phase 14a)
 
 Joins parcel polygon CSVs + D1 attribute export -> NDJSON of GeoJSON features
-with 8 baked attributes, ready to feed tippecanoe.
+with baked attributes, ready to feed tippecanoe.
 
 Polygon sources (in order):
   - data/raw/parcels_<county>.csv          (plain CSV, in git)
@@ -9,15 +9,24 @@ Polygon sources (in order):
   - <large-parcels-dir>/parcels_salt_lake.csv.gz  (GH Release large-parcels)
 
 D1 attribute export format (either):
-  - CSV with header row: parcel_id, corner_score, aadt_score, zoning_score,
-    commute_corridor_score, vacancy_class, median_income
+  - CSV with header row: parcel_id, corner_score, aadt_score,
+    commute_corridor_score, vacancy_class, median_income,
+    zone_current, zone_current_source, zone_future, zone_future_source,
+    flu_source_jurisdiction, flu_plan_vintage, flu_currency_note,
+    zone_current_normalized, zone_future_normalized, zone_future_secondary
   - Wrangler JSON: output of `wrangler d1 execute ... --json`
     i.e. [{"results": [{...}, ...], "success": true, "meta": {...}}]
 
 Baked attributes in output features:
   parcel_id, acreage, prop_class, county,
-  corner_score, aadt_score, zoning_score, commute_corridor_score,
-  vacancy_class, median_income
+  corner_score, aadt_score, commute_corridor_score,
+  vacancy_class, median_income,
+  zone_current, zone_current_source, zone_future, zone_future_source,
+  flu_source_jurisdiction, flu_plan_vintage, flu_currency_note,
+  zone_current_normalized, zone_future_normalized, zone_future_secondary
+
+Phase 14a change: zoning_score (prop_class fallback from 13b-5) removed.
+Real zoning columns from migrations 0008 (18b-3) + 0009 (18b-2e) added instead.
 
 Usage:
   # local test (small counties, no D1 attrs):
@@ -64,14 +73,29 @@ RELEASE_GZ_CSV = [
     "parcels_salt_lake.csv.gz",
 ]
 
-# D1 enrichment columns baked into tiles
+# D1 enrichment columns baked into tiles.
+# Phase 14a: removed zoning_score (prop_class fallback, superseded by real
+# zoning data from Phase 18b-3 + 18b-2e migrations 0008/0009).
 D1_ATTR_COLS = [
+    # Scoring dimensions baked into tiles (growth/STIP/competition/vacancy
+    # score dims stay as setFeatureState overlays — not baked here)
     "corner_score",
     "aadt_score",
-    "zoning_score",
     "commute_corridor_score",
     "vacancy_class",
     "median_income",
+    # Phase 18b-3 (migration 0008) — per-parcel zoning columns
+    "zone_current",
+    "zone_current_source",
+    "zone_future",
+    "zone_future_source",
+    "flu_source_jurisdiction",
+    "flu_plan_vintage",
+    "flu_currency_note",
+    # Phase 18b-2e (migration 0009) — taxonomy-harmonized normalized columns
+    "zone_current_normalized",
+    "zone_future_normalized",
+    "zone_future_secondary",
 ]
 
 
@@ -131,12 +155,25 @@ def _load_wrangler_json(path: Path) -> dict[str, dict]:
 
 def _extract_attrs(row: dict) -> dict:
     return {
+        # Numeric score dims
         "corner_score": _float_or_none(row.get("corner_score")),
         "aadt_score": _float_or_none(row.get("aadt_score")),
-        "zoning_score": _float_or_none(row.get("zoning_score")),
         "commute_corridor_score": _float_or_none(row.get("commute_corridor_score")),
+        # String / categorical dims
         "vacancy_class": row.get("vacancy_class") or None,
         "median_income": _int_or_none(row.get("median_income")),
+        # Phase 18b-3 zoning columns (migration 0008)
+        "zone_current": row.get("zone_current") or None,
+        "zone_current_source": row.get("zone_current_source") or None,
+        "zone_future": row.get("zone_future") or None,
+        "zone_future_source": row.get("zone_future_source") or None,
+        "flu_source_jurisdiction": row.get("flu_source_jurisdiction") or None,
+        "flu_plan_vintage": row.get("flu_plan_vintage") or None,
+        "flu_currency_note": row.get("flu_currency_note") or None,
+        # Phase 18b-2e normalized columns (migration 0009)
+        "zone_current_normalized": row.get("zone_current_normalized") or None,
+        "zone_future_normalized": row.get("zone_future_normalized") or None,
+        "zone_future_secondary": row.get("zone_future_secondary") or None,
     }
 
 

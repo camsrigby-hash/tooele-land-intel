@@ -1,7 +1,10 @@
 name: Build parcels PMTiles
 
-# Phase 14-4 — workflow_dispatch only (no cron). Produces parcels.pmtiles in
-# R2 bucket wasatch-intel-tiles from polygon CSVs + D1 enrichment attributes.
+# Phase 14-4 (updated Phase 14a) — workflow_dispatch only (no cron). Produces
+# parcels.pmtiles in R2 bucket wasatch-intel-tiles from polygon CSVs + D1
+# enrichment attributes.
+# Phase 14a change: zoning_score removed; 10 real zoning columns added
+# (zone_current, zone_future, normalized variants — migrations 0008/0009).
 #
 # REQUIRED SECRETS (add to tooele-land-intel Settings → Secrets → Actions;
 # use the same values as the matching secrets in wasatch-intel):
@@ -87,10 +90,24 @@ jobs:
 
           DB = os.environ["D1_DB"]
           PAGE_SIZE = 50_000
-          # parcel_records uses "id" as the PK; alias to parcel_id for build_parcels_ndjson.py join key
-          SELECT_COLS = "id AS parcel_id, corner_score, aadt_score, zoning_score, commute_corridor_score, vacancy_class, median_income"
-          CSV_COLS = ["parcel_id", "corner_score", "aadt_score", "zoning_score",
-                      "commute_corridor_score", "vacancy_class", "median_income"]
+          # parcel_records uses "id" as the PK; alias to parcel_id for build_parcels_ndjson.py join key.
+          # Phase 14a: zoning_score (prop_class fallback) removed; real zoning columns added
+          # from migrations 0008 (18b-3) and 0009 (18b-2e).
+          SELECT_COLS = (
+              "id AS parcel_id, corner_score, aadt_score, commute_corridor_score, "
+              "vacancy_class, median_income, "
+              "zone_current, zone_current_source, zone_future, zone_future_source, "
+              "flu_source_jurisdiction, flu_plan_vintage, flu_currency_note, "
+              "zone_current_normalized, zone_future_normalized, zone_future_secondary"
+          )
+          CSV_COLS = [
+              "parcel_id",
+              "corner_score", "aadt_score", "commute_corridor_score",
+              "vacancy_class", "median_income",
+              "zone_current", "zone_current_source", "zone_future", "zone_future_source",
+              "flu_source_jurisdiction", "flu_plan_vintage", "flu_currency_note",
+              "zone_current_normalized", "zone_future_normalized", "zone_future_secondary",
+          ]
 
           def query_page(db, select_cols, limit, offset, retries=3):
               sql = (
