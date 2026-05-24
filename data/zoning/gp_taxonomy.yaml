@@ -32,7 +32,7 @@
 #   Open Space/Public        — natural open space, greenway, conservation
 #   Other/Unknown            — cannot be determined from code alone
 
-version: "18b-2e"
+version: "14c-data-fix"
 
 # ── Current zoning gap-fills ──────────────────────────────────────────────────
 current_zoning:
@@ -64,6 +64,7 @@ current_zoning:
     MG:    Residential-Medium     # Medium General (residential)
     MG-EX: Residential-Medium     # Medium General Extension
     PUD:   Planned/Mixed-Use      # Planned Unit Development
+    RM-15: Residential-Medium     # Residential Multi, 15k sq ft min (107 parcels wrong → Industrial/Flex)
 
   # Spanish Fork: 9 codes
   # Fixes: 36.9% → ~0.5% Other/Unknown (75/203 → 1/203)
@@ -98,6 +99,47 @@ current_zoning:
     # Ref: https://library.municode.com/ut/eagle_mountain/codes/code_of_ordinances
     "17.25": Other/Unknown        # ~46% Residential-Low, ~35% Other/Unknown, 19% mixed
     "17":    Other/Unknown        # Generic chapter reference; ambiguous
+
+
+  # Herriman: Phase 14c audit — ArcGIS REST zone_class_normalized was wrong for these codes.
+  # 6,444 parcels corrected (4,671 R-2-10 + 837 R-1-21 + 934 R-20-43 + 2 C-2).
+  # R-20-43 confirmed Multifamily via May 2024 Panorama DA (~5.2 du/ac = Medium band).
+  herriman:
+    R-2-10:  Residential-Low      # 2-family, 10k sq ft min; suburban SFR-dominant, ~2-3 du/ac
+    R-1-21:  Residential-Low      # Single-family, 21k sq ft (~0.5 ac) min lot
+    R-20-43: Residential-Medium   # Multifamily zone, confirmed ~5 du/ac; in Herriman GP 4.6-8 du/ac band
+    C-2:     Commercial-General   # Standard commercial zone; ArcGIS incorrectly returned Agriculture/Rural
+
+  # Bluffdale: Phase 14c audit — ArcGIS REST wrong for multiple residential codes.
+  # 3,111 parcels corrected across 8 codes.
+  bluffdale:
+    R-1-43:   Residential-Low     # Single-family, 43k sq ft (~1 ac) min lot
+    "R-1-43 (Cluster Residential Overlay)": Residential-Low   # Cluster variant, still SFR
+    R-1-10:   Residential-Low     # Single-family, 10k sq ft min lot
+    R-2-10:   Residential-Low     # 2-family, 10k sq ft min lot
+    R-1-87:   Residential-Low     # Single-family, 87k sq ft (~2 ac) min lot; large-lot suburban
+    "R-MF Multifamily": Residential-High   # Multifamily residential district
+    "I-1 Light Industry": Industrial/Flex  # Light industrial; ArcGIS wrongly returned Commercial
+    "R-SL Residential": Residential-Low   # Shoreline residential district
+    "I-O Infill Overlay": Other/Unknown   # Infill overlay; use-neutral, cannot normalize standalone
+
+  # Vineyard: Phase 14c audit — R-2-15 wrongly normalized as Mixed-Use.
+  # 82 parcels corrected. Vineyard is a denser new-city context; R-2 + 15k sq ft ~ Residential-Medium.
+  vineyard:
+    R-2-15: Residential-Medium    # 2-family, 15k sq ft min; Vineyard density context ~5 du/ac
+
+  # South Jordan: Phase 14c audit — R-M* (Residential Multifamily) wrongly normalized as Mixed-Use.
+  # 3,099 parcels corrected. Confirmed: SJ city council minutes 2025-05-06 explicitly call R-M
+  # "residential multifamily." Numerical suffix = approved units per acre (per Sterling Codifiers).
+  south_jordan:
+    R-M:          Residential-High    # Base multifamily zone, no density ceiling set
+    "R-M (PD)":   Residential-High    # Base R-M with Planned Development overlay
+    R-M-4:        Residential-Medium  # 4 du/ac multifamily
+    R-M-5:        Residential-Medium  # 5 du/ac multifamily
+    "R-M-5 (PD)": Residential-Medium  # 5 du/ac + Planned Development overlay
+    R-M-6:        Residential-Medium  # 6 du/ac multifamily
+    R-M-7:        Residential-Medium  # 7 du/ac multifamily
+    R-M-8:        Residential-Medium  # 8 du/ac multifamily
 
 
 # ── Future GP / FLU normalization ─────────────────────────────────────────────
