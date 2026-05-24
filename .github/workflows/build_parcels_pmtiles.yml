@@ -96,6 +96,7 @@ jobs:
           SELECT_COLS = (
               "id AS parcel_id, corner_score, aadt_score, commute_corridor_score, "
               "vacancy_class, median_income, "
+              "jurisdiction, "
               "zone_current, zone_current_source, zone_future, zone_future_source, "
               "flu_source_jurisdiction, flu_plan_vintage, flu_currency_note, "
               "zone_current_normalized, zone_future_normalized, zone_future_secondary"
@@ -104,6 +105,7 @@ jobs:
               "parcel_id",
               "corner_score", "aadt_score", "commute_corridor_score",
               "vacancy_class", "median_income",
+              "jurisdiction",
               "zone_current", "zone_current_source", "zone_future", "zone_future_source",
               "flu_source_jurisdiction", "flu_plan_vintage", "flu_currency_note",
               "zone_current_normalized", "zone_future_normalized", "zone_future_secondary",

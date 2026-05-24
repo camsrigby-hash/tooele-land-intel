@@ -11,7 +11,7 @@ Polygon sources (in order):
 D1 attribute export format (either):
   - CSV with header row: parcel_id, corner_score, aadt_score,
     commute_corridor_score, vacancy_class, median_income,
-    zone_current, zone_current_source, zone_future, zone_future_source,
+    jurisdiction, zone_current, zone_current_source, zone_future, zone_future_source,
     flu_source_jurisdiction, flu_plan_vintage, flu_currency_note,
     zone_current_normalized, zone_future_normalized, zone_future_secondary
   - Wrangler JSON: output of `wrangler d1 execute ... --json`
@@ -21,7 +21,7 @@ Baked attributes in output features:
   parcel_id, acreage, prop_class, county,
   corner_score, aadt_score, commute_corridor_score,
   vacancy_class, median_income,
-  zone_current, zone_current_source, zone_future, zone_future_source,
+  jurisdiction, zone_current, zone_current_source, zone_future, zone_future_source,
   flu_source_jurisdiction, flu_plan_vintage, flu_currency_note,
   zone_current_normalized, zone_future_normalized, zone_future_secondary
 
@@ -85,6 +85,7 @@ D1_ATTR_COLS = [
     "vacancy_class",
     "median_income",
     # Phase 18b-3 (migration 0008) — per-parcel zoning columns
+    "jurisdiction",
     "zone_current",
     "zone_current_source",
     "zone_future",
@@ -163,6 +164,7 @@ def _extract_attrs(row: dict) -> dict:
         "vacancy_class": row.get("vacancy_class") or None,
         "median_income": _int_or_none(row.get("median_income")),
         # Phase 18b-3 zoning columns (migration 0008)
+        "jurisdiction": row.get("jurisdiction") or None,
         "zone_current": row.get("zone_current") or None,
         "zone_current_source": row.get("zone_current_source") or None,
         "zone_future": row.get("zone_future") or None,
