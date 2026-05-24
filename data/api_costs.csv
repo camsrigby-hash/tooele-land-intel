@@ -52,3 +52,4 @@ timestamp,script,model,input_tokens,output_tokens,cost_usd,items
 2026-05-21,correlate_signals,claude-haiku-4-5-20251001,11,5767,850,0.010017
 2026-05-22,correlate_signals,claude-haiku-4-5-20251001,10,5099,758,0.008889
 2026-05-23,correlate_signals,claude-haiku-4-5-20251001,10,5238,842,0.009448
+2026-05-24,correlate_signals,claude-haiku-4-5-20251001,6,3173,489,0.005618
