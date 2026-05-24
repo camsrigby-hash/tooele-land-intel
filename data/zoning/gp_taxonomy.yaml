@@ -37,21 +37,28 @@ version: "14c-data-fix"
 # ── Current zoning gap-fills ──────────────────────────────────────────────────
 current_zoning:
 
-  # Lehi: 12 codes that produced Other/Unknown in 18b-1 extraction
-  # Fixes: 41.8% → 0% Other/Unknown (215/514 features)
+  # Lehi: 12 codes from 18b-1 (services9 endpoint) + 5 new codes from 18b-2e (services5 endpoint)
+  # 18b-1 source: services9.arcgis.com/Lehi_City_Zoning (514 features)
+  # 18b-2e source: services5.arcgis.com/Lehi_Zoning (585 features, updated April 2026)
   lehi:
-    TH-5:  Residential-Townhome   # Townhome/attached residential district
-    PF:    Public/Institutional   # Public facilities (schools, civic)
-    A-1:   Agriculture/Rural      # Agricultural (variant of A-5 / RA-1)
-    C:     Commercial-General     # General commercial
-    PC:    Planned/Mixed-Use      # Planned Community
-    NC:    Commercial-Neighborhood # Neighborhood commercial
-    BP:    Industrial/Flex        # Business park
-    C-H:   Commercial-General     # Highway commercial (variant of CH/HC)
-    CR:    Commercial-Recreation  # Commercial recreation
-    H/I:   Industrial/Flex        # Heavy/Industrial (slash variant of H-I)
-    C-I:   Industrial/Flex        # Commercial-industrial
-    T-M:   Industrial/Flex        # Technology-manufacturing
+    TH-5:    Residential-Townhome   # Townhome/attached residential district
+    PF:      Public/Institutional   # Public facilities (schools, civic)
+    A-1:     Agriculture/Rural      # Agricultural (variant of A-5)
+    C:       Commercial-General     # General commercial
+    PC:      Planned/Mixed-Use      # Planned Community
+    NC:      Commercial-Neighborhood # Neighborhood commercial
+    BP:      Industrial/Flex        # Business park
+    C-H:     Commercial-General     # Highway commercial (variant of CH/HC)
+    CR:      Commercial-Recreation  # Commercial recreation
+    H/I:     Industrial/Flex        # Heavy/Industrial (slash variant of H-I)
+    C-I:     Industrial/Flex        # Commercial-industrial
+    T-M:     Industrial/Flex        # Technology-manufacturing
+    # 18b-2e additions — new codes found in services5 April 2026 upload
+    R-1-22:  Residential-Low        # Single-family, 22k sqft min lot
+    "R-1-Flex": Residential-Low     # Flexible SFR district
+    R-2:     Residential-Medium     # Two-family residential
+    R-2.5:   Residential-Medium     # Two-family variant
+    RA-1:    Agriculture/Rural      # Rural agricultural, 1-acre min
 
   # Grantsville: 8 mappable codes (UNKNOWN left as-is)
   # Fixes: 47.4% → ~5% Other/Unknown (9/19 → 1/19 remaining UNKNOWN)
@@ -84,9 +91,13 @@ current_zoning:
   saratoga_springs:
     PC:    Planned/Mixed-Use      # Planned Community
 
-  # Eagle Mountain: ordinance section codes (Title 17 = Zoning Ordinance)
-  # Majority-consensus mappings (≥85% agreement in 18b-1 data):
+  # Eagle Mountain:
+  #   18b-1 source: services1/General_Zoning_view (1392 zone polygons, Title 17 codes)
+  #   18b-2e source: services1/EMC_Zoning_View (22,184 parcel-level, General_Zoning coded domain)
+  # The 17.xx codes below are LEGACY (18b-1 zone-polygon layer, now superseded).
+  # The General_Zoning label entries below are CURRENT (18b-2e parcel-level layer).
   eagle_mountain:
+    # Legacy 17.xx ordinance section codes (18b-1 zone-polygon layer, superseded)
     "17.20": Agriculture/Rural    # Chapter 17.20 Agricultural Zone (~97% consensus)
     "17.23": Open Space/Public    # Chapter 17.23 Open Space/Conservation (~91%)
     "17.31": Open Space/Public    # Chapter 17.31 Open Space (~67%)
@@ -94,11 +105,17 @@ current_zoning:
     "17.37": Open Space/Public    # Chapter 17.37 Open Space (100%)
     "17.38": Commercial-General   # Chapter 17.38 Commercial (~88%)
     "17.40": Industrial/Flex      # Chapter 17.40 Industrial (~82%)
-    # Ambiguous codes — wide variance in 18b-1 data; deferred to human decode
-    # Action: look up Eagle Mountain Title 17 zoning ordinance
-    # Ref: https://library.municode.com/ut/eagle_mountain/codes/code_of_ordinances
     "17.25": Other/Unknown        # ~46% Residential-Low, ~35% Other/Unknown, 19% mixed
     "17":    Other/Unknown        # Generic chapter reference; ambiguous
+    # 18b-2e General_Zoning coded-domain labels (parcel-level, EMC_Zoning_View)
+    "Residential":              Residential-Low     # EM is predominantly SFR; conservative default
+    "Agriculture":              Agriculture/Rural
+    "Open Space":               Open Space/Public
+    "Commercial":               Commercial-General
+    "Business Park / Industrial":   Industrial/Flex
+    "Business Park / Light Industry": Industrial/Flex
+    "Under Review":             Other/Unknown       # zoning amendment in progress
+    "Other":                    Other/Unknown
 
 
   # Herriman: Phase 14c audit — ArcGIS REST zone_class_normalized was wrong for these codes.
@@ -244,30 +261,35 @@ future_zoning:
     "Military Operation":                          Public/Institutional
 
   lehi:
-    # Lehi GP — NLS_LandUseService source (NLS_source_authority_unverified)
-    PF:    Public/Institutional
-    MDR:   Residential-Medium     # Medium Density Residential
-    HDR:   Residential-High       # High Density Residential
-    ESA:   Open Space/Public      # Environmentally Sensitive Area
-    VLDR:  Agriculture/Rural      # Very Low Density Residential (rural lots)
-    LDR:   Residential-Low        # Low Density Residential
-    C:     Commercial-General     # Commercial
-    BP:    Industrial/Flex        # Business Park
-    VLDRA: Agriculture/Rural      # Very Low Density Rural/Agricultural
-    A:     Agriculture/Rural      # Agricultural
-    "T/M": Industrial/Flex        # Technology/Manufacturing
-    HC:    Commercial-General     # Highway Commercial
-    MU:    Mixed-Use              # Mixed Use
-    LI:    Industrial/Flex        # Light Industrial
-    RC:    Commercial-General     # Regional Commercial
-    "NC- Neighborhood Commercial": Commercial-Neighborhood
-    CR:    Commercial-Recreation  # Commercial Recreation
-    CFP:   Public/Institutional   # Community Facility / Public
-    I:     Industrial/Flex        # Industrial
-    SE:    Industrial/Flex        # Special Employment
+    # Lehi GP — city Lehi_General_Plan FeatureServer (18b-2e, services5, updated April 2026)
+    # Source field: Descriptio (text label, not Code).
+    # REPLACED: prior NLS abbreviation entries (LDR, MDR, etc.) now obsolete.
+    # NLS entries are commented out below for reference — DO NOT RESTORE.
+    # 4 miscoded features (Code/Link disagreement) preserved with provenance_note in GeoJSON.
+    "Very Low Density Residential Agriculture": Agriculture/Rural
+    "Very Low Density Residential":             Agriculture/Rural
+    "Low Density Residential":                  Residential-Low
+    "Medium Density Residential":               Residential-Medium
+    "High Density Residential":                 Residential-High
+    "Commercial":                               Commercial-General
+    "Light Industrial":                         Industrial/Flex
+    "Technical / Manufacturing":                Industrial/Flex
+    "Commercial / Residential":                 Mixed-Use
+    "Mixed-Use":                                Mixed-Use      # 1 miscoded feature (Code=14), keep label
+    "Environmentally Sensitive Area":           Open Space/Public
+    "Public Facilities":                        Public/Institutional
+    "Neighborhood Commercial":                  Commercial-Neighborhood
+    "Light Density Residential":                Agriculture/Rural  # miscoded (Link=VLDR); normalize by Descriptio
+    "Heavy Commercial":                         Commercial-General
+    "Transit-Oriented Development":             Mixed-Use
+    "Open Space":                               Open Space/Public
+    # NLS entries below — OBSOLETE after 18b-2e REST replacement; kept for reference only
+    # PF, MDR, HDR, ESA, VLDR, LDR, C, BP, VLDRA, A, T/M, HC, MU, LI, RC, NC- ..., CR, CFP, I, SE
 
   saratoga_springs:
-    # Saratoga Springs GP — NLS_LandUseService source (NLS_source_authority_unverified)
+    # Saratoga Springs FLU — city LandUse/MapServer/2 REST source (18b-2e, current adopted)
+    # Previous NLS entries preserved; new REST values added below.
+    # Ord 25-75 (Dec 2 2025) was Water Element only — no FLU map changes.
     "Low Density Residential":       Residential-Low
     "Institutional":                 Public/Institutional
     "High Density Residential":      Residential-High
@@ -286,6 +308,13 @@ future_zoning:
     "Planned Community Mixed Use":   Planned/Mixed-Use
     "Agricultural":                  Agriculture/Rural
     "General Industrial":            Industrial/Flex
+    # 18b-2e additions — new REST LANDUSEDESC values not in prior NLS data
+    "Business Park":                 Industrial/Flex
+    "Planned Community":             Planned/Mixed-Use      # abbreviated form of Planned Community Residential
+    "Heavy Commercial":              Commercial-General
+    "NH Commercial":                 Commercial-Neighborhood  # Neighborhood Commercial abbreviation
+    "Mixed Use Commercial Overlay":  Mixed-Use
+    "Town Center Overlay":           Mixed-Use
 
   south_jordan:
     OS:     Open Space/Public      # Open Space
