@@ -4,8 +4,42 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-05-18T17:40:51.623773+00:00",
+  "scraped_at": "2026-05-25T16:40:58.561501+00:00",
   "notices": [
+    {
+      "notice_id": "1082813",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082813.html",
+      "title": "Planning Commission Amended Public Notice Letter",
+      "event_date": "June 3, 2026 06:30 PM",
+      "event_date_iso": "2026-06-03T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS\r\n________________________________________\r\n\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on June 3, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings to consider general plan modifications.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Land Use Map Amendment, known as 13:059:0130 & 13:059:0131 - LUMA, located at approximately 375 S 860 E, American Fork City. Consisting of 1.96 acres, the property proposes to change from the Planned Community land use designation to the Design Commercial land use designation.\r\n\r\n \tDescription: The proposed Land Use Map Amendment promotes economic opportunity and economic development on the east side of American Fork City.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Zone Change, known as 13:059:0130 & 13:059:0131 - Zone Change, located at approximately 375 S 860 E, American Fork City. Consisting of 1.96 acres, the property proposes to change from the PC and GC-2 Zones to the GC-1 Zone. \r\n\r\n \tDescription: The proposed Zone Change promotes economic opportunity and economic development on the east side of American Fork City.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Land Use Map Amendment, known as Dixie Well (943 S 900 W) - LUMA, located at approximately 943 S 900 W, American Fork City. Consisting of 0.78 acres, the property proposes to change from the Residential Very-Low Density land use designation to the Institutional Lands, Schools and Public Facilities land use designation.\r\n\r\n \tDescription: The property in question will have a city culinary well drilled on the property. This will change the property's use from vacant to public facilities. This allows for proper property security and access with the proposed land use map amendment. It conforms with the American Fork City Development Code and City property management policies.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Zone Change, known as Dixie Well (943 S 900 W) - Zone Change, located at approximately 943 S 900 W, American Fork City. Consisting of 0.78 acres, the property proposes to change from the PR-3.0 Zone to the PF Zone.   \r\n\r\n \tDescription: The property in question will have a city culinary well drilled on the property. This will change the property's use from vacant to public facilities. This allows for proper property security and access with the proposed zone change. It conforms with the American Fork City Development Code and City property management policies.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Zone Change, known as American Fork Hotel, located at approximately 714 S 600 E, American Fork City. Consisting of 3.13 acres, the property proposes to change from the PI-1 Zone to the GC-2 Zone. \r\n\r\n \tDescription: The current PI-1 Zone does not permit a hotel as hotels are not identified on the permitted uses listed within the PI-1 Zone. The applicant is requesting to change the zone to the GC-2 zone as the GC-2 zone allows for hotels as a permitted use.\r\n\r\n\r\nNotice of public hearings and public meetings on adoption or modification of land use regulation. \r\n\r\n \r\no      Public hearing, review, and recommendation on a proposed Code Text Amendment, known as Floodplain Management, of the American Fork City Municipal Code. Amending Section 15.16, the Code Text Amendment plans to amend the code related to Floodplain Management.  \r\n\r\n\r\n        Description: The proposed amendment seeks to amend the municipal code to ensure compliance with updated and revised FEMA maps and regulations.  \r\n\r\n\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
+      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "May 21, 2026 01:29 PM",
+      "attachments": [
+        {
+          "file_name": "2026.06.03 - PC Public Notice Letter.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437191.pdf",
+          "date_added": "2026/05/21 01:29 PM",
+          "file_id": "1437191"
+        },
+        {
+          "file_name": "2026.06.03 - PC Public Notice Letter - Floodplain Management.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438303.pdf",
+          "date_added": "2026/05/24 01:17 PM",
+          "file_id": "1438303"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1078299",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078299.html",
@@ -306,82 +340,6 @@
           "url": "https://www.utah.gov/pmn/files/1392725.pdf",
           "date_added": "2026/02/17 04:31 PM",
           "file_id": "1392725"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1051819",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1051819.html",
-      "title": "Planning Commission Public Notice and Agenda and Packet and Minutes",
-      "event_date": "February 4, 2026 06:30 PM",
-      "event_date_iso": "2026-02-04T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARINGS\r\n________________________________________\r\n\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on February 4, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity are invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing on amendment and recodification of Title 15 and 17 of the American Fork Municipal Code. The amendment looks to recodify and identify the existing conditions, the planning and visioning process, zoning, preferred development objectives, preferred development scenario, and implementation strategies within the municipal code. \r\nMunicipal Code Updates to Following Areas - See attached file\r\n\r\no\tPublic hearing on an update to the American Fork General Plan to update all sections to establish an updated vision for growth and development in the City. \r\nGeneral Plan Updates - See attached file\r\n\r\nPlease Note:\r\nThis notice is being provided in accordance with the requirements of the American Fork Municipal Code, and the Utah State Code for Public Noticing as your rights as a property owner may be affected by the changes to the Municipal Code and General Plan. To review changes, please review the draft documents at the American Fork Agenda Center in the Planning Commission Packet, available at www.AmericanFork.gov\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov in the Agenda Center, or available by contacting the City Recorder at 801.763.3000.\r\n\r\n\r\n\r\nNOTICE OF PUBLIC HEARINGS\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on February 4, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity are invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing on an amendment and update to the American Fork Municipal Zoning Map. The update looks to update zone classifications, and the zoning of properties in line with the proposed land use updates identified in the American Fork General Plan, and zoning designations within the proposed American Fork Municipal Code. As the proposed land use ordinance adoption or modification is ministerial in nature, as described in Subsections (6)(a) and (b) of UCA 10-20-205, a Class A notice under Section 63G-30-102 is required to be provided and displayed for at least 10 calendar days before the day of the public hearing. The Proposal is being noticed in accordance with the Class A noticing requirements as outlined in the Utah State Code 63G-30-102. \r\nPlease Note:\r\nThis notice is being provided in accordance with the requirements of the American Fork Municipal Code, and the Utah State Code for Public Noticing as your rights as a property owner may be affected by the changes to the Municipal Code and General Plan. To review changes, please review the draft documents at the American Fork Agenda Center in the Planning Commission Packet, available at www.AmericanFork.gov\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov in the Agenda Center, or available by contacting the City Recorder at 801.763.3000.\r\n\r\nAMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA\r\n________________________________________\r\nRegular Session\r\nFebruary 4, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________Planning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission will meet in regular session on February 4, 2026, at the American Fork City Hall, 31 North Church Street commencing at 6:30 PM. The agenda shall be as follows:\r\n\r\n1.\tRegular Session\r\na.\tPledge of Allegiance\r\nb.\tRoll Call\r\n\r\n2.\tCommon Consent Agenda (Common Consent is that class of Commission action that requires no further discussion or which is routine in nature. All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda).\r\na.\tApproval of the January 21, 2026, Planning Commission minutes\r\n\r\n3.\tPublic Hearings (Public Hearings is that class of Commission action that requires further discussion on General Plan changes, Zone changes, and Code Text Amendments that alter the land use characteristics of American Fork City. Public Hearing items will have the chance for the public to speak upon.)\r\na.\tPublic hearing on an amendment and recodification of Title 15 and 17 of the American Fork Municipal Code. The amendment looks to recodify and identify the existing conditions, the planning and visioning process, zoning, preferred development objectives, preferred development scenario, and implementation strategies within the municipal code.  \r\nb.\tPublic hearing on an update to the American Fork General Plan to update all sections to establish an updated vision for growth and development in the City.  \r\nc.\tPublic hearing on an amendment and update to the American Fork Municipal Zoning Map. The update looks to update zone classifications, and the zoning of properties in line with the proposed land use updates identified in the American Fork General Plan, and zoning designations within the proposed American Fork Municipal Code. As the proposed land use ordinance adoption or modification is ministerial in nature, as described in Subsections (6)(a) and (b) of UCA 10-20-205, a Class A notice under Section 63G-30-102 is required to be provided and displayed for at least 10 calendar days before the day of the public hearing. The Proposal is being noticed in accordance with the Class A noticing requirements as outlined in the Utah State Code 63G-30-102.  \r\n\r\n4.\tAction Items (Action Items is that class of Commission action that requires further discussion on Site Plans and proposed zoning designation for annexing areas. The Planning Commission will have authority to approve Site Plans for final action and provide recommendations for the zone of annexing property.)\r\na.\tDiscussion and election of the Chairperson for the American Fork City Planning Commission.\r\nb.\tDiscussion and election of the Vice Chairperson for the American Fork City Planning Commission.\r\n\r\n5.\tOther Business\r\na.\tUpcoming Projects\r\n\r\n6.\tAdjournment\r\n\r\nDated this 28th day of January 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "January 13, 2026 12:42 PM",
-      "attachments": [
-        {
-          "file_name": "2026.02.04 - PC Public Notice Letter.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1376189.pdf",
-          "date_added": "2026/01/13 12:42 PM",
-          "file_id": "1376189"
-        },
-        {
-          "file_name": "2026.02.04_Upcoming Public Hearing Items_Comprehensive Summary.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1379417.pdf",
-          "date_added": "2026/01/20 01:05 PM",
-          "file_id": "1379417"
-        },
-        {
-          "file_name": "2026.02.04 - PC Public Notice Letter - Zone Map.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1380427.pdf",
-          "date_added": "2026/01/21 04:49 PM",
-          "file_id": "1380427"
-        },
-        {
-          "file_name": "Proposed Zoning Map Update_American Fork City_01.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1382675.pdf",
-          "date_added": "2026/01/26 04:53 PM",
-          "file_id": "1382675"
-        },
-        {
-          "file_name": "DRAFT Re-write_1.12.2026_American Fork City.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1382677.pdf",
-          "date_added": "2026/01/26 04:56 PM",
-          "file_id": "1382677"
-        },
-        {
-          "file_name": "26-1-20_American_Fork_General_Plan_DRAFT 1.20.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1382679.pdf",
-          "date_added": "2026/01/26 04:59 PM",
-          "file_id": "1382679"
-        },
-        {
-          "file_name": "2026.02.04 Planning Commission Agenda and Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1383265.pdf",
-          "date_added": "2026/01/28 08:39 AM",
-          "file_id": "1383265"
-        },
-        {
-          "file_name": "Zoning Chart (Version 1)_American Fork City_PDF.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1386229.pdf",
-          "date_added": "2026/02/03 06:37 PM",
-          "file_id": "1386229"
         }
       ],
       "canceled": false

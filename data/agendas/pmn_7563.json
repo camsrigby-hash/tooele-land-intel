@@ -4,8 +4,47 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-05-18T17:37:29.601011+00:00",
+  "scraped_at": "2026-05-25T16:37:48.231685+00:00",
   "notices": [
+    {
+      "notice_id": "1083055",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083055.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "May 26, 2026 07:00 PM",
+      "event_date_iso": "2026-05-26T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, May 26, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info  Video call link: https://meet.google.com/jqv-fdki-usz\r\nOr dial:  (US) +1 415-842-4796  PIN:  200 192 426 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 4-28-26\r\nPublic Comment (3 minute limit per comment)\r\nTraining by Staff\r\nCopper Cove Preliminary Plat Phase 1: Derald Anderson is requesting a preliminary plat approval for Copper Cove phase 1. The plat contains 45 lots at the north east corner of the development. Lots range in size from 5800 sq ft to 10000 sq ft.\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "May 22, 2026 10:01 AM",
+      "attachments": [
+        {
+          "file_name": "Copper Cove phase 1 preliminary staff report with attachments 5-26-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437741.pdf",
+          "date_added": "2026/05/22 10:00 AM",
+          "file_id": "1437741"
+        },
+        {
+          "file_name": "Preliminary Plat Approval State Requirements.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437743.pdf",
+          "date_added": "2026/05/22 10:01 AM",
+          "file_id": "1437743"
+        },
+        {
+          "file_name": "Roberts Rules Simplified.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437745.pdf",
+          "date_added": "2026/05/22 10:01 AM",
+          "file_id": "1437745"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1078403",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078403.html",
@@ -319,23 +358,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1051103",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1051103.html",
-      "title": "**CANCELED*** Erda Planning Commission Meeting",
-      "event_date": "January 13, 2026 07:00 PM",
-      "event_date_iso": "2026-01-13T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED*****\r\nNotice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday January 13th, 2026 has been canceled.\r\nThe Planning Commission will hold their next regularly scheduled meeting on Tuesday January 27th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
-      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "January 09, 2026 05:27 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }

@@ -4,8 +4,33 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-05-18T17:38:41.910448+00:00",
+  "scraped_at": "2026-05-25T16:38:56.409890+00:00",
   "notices": [
+    {
+      "notice_id": "1082847",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082847.html",
+      "title": "Planning Commission Meeting",
+      "event_date": "May 28, 2026 06:00 PM",
+      "event_date_iso": "2026-05-28T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "PLANNING COMMISSION AGENDA \r\nCITY OF SARATOGA SPRINGS\r\nThursday, May 28, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 S. Saratoga Road, Saratoga Springs, UT 84045\r\n\r\n\r\nCALL TO ORDER\r\n\r\n1.\tPledge of Allegiance.\r\n2.\tRoll Call\r\n3.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nBUSINESS ITEMS\r\nThe Commission will discuss (without public comment) and may either make a recommendation to the City Council, or approve the following items as needed:\r\n\r\n1.\tSite Plan for Westport Business Park Lot 5, located at 2056 N. Stagecoach Drive. Larry Lindstrom and Mark Johnson as applicants. Senior Planner Kendal Black.\r\n2.\tApproval of Minutes: May 14th, 2026.\r\n\r\nREPORTS\r\n\r\n1.\tCommissioner's Comments.\r\n2.\tDirector's Report.\r\n\r\nCLOSED SESSION\r\n\r\n\tPossible motion to enter into closed session for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 21, 2026 02:36 PM",
+      "attachments": [
+        {
+          "file_name": "2026-05-28 PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437265.pdf",
+          "date_added": "2026/05/21 02:36 PM",
+          "file_id": "1437265"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1078867",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078867.html",
@@ -70,6 +95,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "April 23, 2026 05:47 PM",
       "attachments": [
+        {
+          "file_name": "2026-04-30 pc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1435263.pdf",
+          "date_added": "2026/05/18 03:32 PM",
+          "file_id": "1435263"
+        },
         {
           "file_name": "2026-04-30 PC Agenda.pdf",
           "category": "Public Information Handout",
@@ -213,23 +245,6 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "March 13, 2026 12:00 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1062871",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1062871.html",
-      "title": "Notice of Public Hearing for Planning Commission",
-      "event_date": "March 12, 2026 06:00 PM",
-      "event_date_iso": "2026-03-12T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on March 12, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.16 - Site and Architectural Design Standards. This amendment would allow an exception for building buffer requirements at the corners of buildings and loading bays. Citywide. City-Initiated.\r\n2.\tBeacon Pointe Village Plan 8 - Porter Haven. Located approximately at Ensign Drive and Mountain View Corridor. Ryan Bull as applicant.\r\n3.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.19 - Open Space. This amendment will allow a broader range of amenities within open space. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "February 27, 2026 03:09 PM",
       "attachments": [],
       "canceled": false
     },

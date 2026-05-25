@@ -4,24 +4,93 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-05-18T17:38:05.612175+00:00",
+  "scraped_at": "2026-05-25T16:38:22.364594+00:00",
   "notices": [
     {
-      "notice_id": "1076379",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076379.html",
-      "title": "NOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY",
-      "event_date": "May 12, 2026 07:00 PM",
-      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_id": "1082333",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082333.html",
+      "title": "Lehi City Notice of Public Hearing- Fee Schedule Amendment Power",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
       "notice_types": [
         "Notice",
-        "Meeting",
         "Hearing"
       ],
-      "agenda_text": "LEHI CITY\r\nNOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 12, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of accepting comments concerning the sale of real property described as follows: approximately 535 South Mill Pond Drive, on 4 acres.",
+      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING\r\nFEE SCHEDULE AMENDMENT \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., in the Council Chambers at 153 N 100 E, Lehi, UT  84043, for the purpose of receiving input from the public regarding and amendment to the Lehi City FY2027 Consolidated Fee Schedule for Power Fees.\r\n\r\nDated this 20th day of May, 2026.",
+      "meeting_location": "153 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 20, 2026 09:29 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082329",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082329.html",
+      "title": "Lehi City Notice of Public Hearing FY 2026 Budget Amendment",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING\r\n\r\n FY2026 BUDGET AMENDMENT\r\n \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding an amendment to the Lehi City FY2026 Budget.\r\n\r\nDated this 20th day of May, 2026.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 20, 2026 09:27 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082295",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082295.html",
+      "title": "Public Hearing Notice for Executive Municipal Officers Compensation Increases",
+      "event_date": "May 26, 2026 07:00 PM",
+      "event_date_iso": "2026-05-26T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nLEHI CITY \r\nPUBLIC HEARING\r\n\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 26, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of receiving input regarding the FY2027 Executive Municipal Officers Compensation Increases. Public comment is invited.",
       "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 28, 2026 07:12 PM",
+      "posted_on": "May 19, 2026 10:31 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082291",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082291.html",
+      "title": "Lehi City Council Meeting Agenda",
+      "event_date": "May 26, 2026 04:30 PM",
+      "event_date_iso": "2026-05-26T16:30:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Lehi City Council Meeting\r\n\r\nAgenda\r\n\r\nMay 26, 2026\r\n\r\n4:30 PM - Lehi Civic Center, Council Chambers (131 N. 100 E., Lehi, Utah)\r\n\r\nPre-Council, 4:30 p.m.\r\n\r\n1.\tWelcome and Opening Comment\r\n\r\n2.\tPresentations and Reports\r\n\r\n2.1. FrontRunner 2X Presentation and Update\r\n\r\n3.\tWorking Discussion Items\r\n\r\n3.1. Parks, Trails and Trees Committee Discussion on Proposed Code Amendments lehi city code proposal.docx\r\n\r\n3.2. Discussion of the Electric Cost of Service and Rate Design Study- Power Department\r\n\r\n3.3. Life Safety Signage Ordinance Discussion- Fire Department life safety signage ordinance.docx\r\n\r\n3.4. Neighborhood Exchange Structures Ordinance Discussion- Parks and Facilities Department Cover Page.pdf\r\n\r\nCh12 Development Standards.pdf\r\n\r\n3.5. Discussion of Budget Amendment for Current Fiscal Year (2025-2026) Budget Adjustment #5.pdf\r\n\r\n4.\tAgenda Questions\r\n\r\nThe Mayor and City Council discuss and ask questions on items on the Regular Session agenda.\r\n\r\n5.\tAdministrative Report\r\n\r\n6.\tMayor and Council Reports\r\n\r\nCalendar items and outside Committee reports\r\n\r\nClosed Session\r\n \r\nThe Council may consider a motion to enter into a closed session for specific purposes allowed under the Open and Public Meetings Act (Utah Code 52-4-205), including to discuss the purpose, exchange, lease, or sale of real property; pending or reasonably imminent litigation; the character, competence, or physical or mental health of an individual; or any other lawful purpose.\r\n\r\nRegular Session, 7:00 p.m.\r\n\r\n1.\tWelcome, Roll Call, Pledge of Allegiance\r\n\r\n2.\tCitizen Input\r\n\r\nFor public comments on items not listed on the agenda. Comments limited to 3 minutes per person, with a time limit not to exceed 20 minutes for this item.\r\n\r\n3.\tConsent Agenda\r\n\r\n3.1. Approve Purchase Orders\r\n\r\n3.2. Approve City Council Meeting Minutes\r\n\r\n4.\tRegular Agenda\r\n\r\n4.1. Consideration of Resolution #2026-36 approving an agreement with Wilson and Company for Engineering Services for the Pony Express Parkway and Utah Lake Trail.\r\n\r\nCover Page for Pony Express Pkwy.pdf Res 2026-36 and Agreement.pdf\r\n\r\n4.2. Consideration of Resolution #2026-37 approving an agreement with Willmeng Construction Inc. for the construction of Lakeview Park.\r\n\r\nRes 2026-37 and Agreement.pdf\r\n\r\n4.3. Consideration of Concept approval for the updated Spring Meadow Villas (PUD) Concept, a 71-lot single family residential project located at approximatley1630 South 500 East. Petitioner: Windy City Development LLC\r\n\r\nSpring Meadows Updated Concept 1.pdf\r\n\r\n4.4. Consideration of Preliminary subdivision approval of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in\r\n\r\nlieu for connectivity.\r\n\r\nPetitioner: Symphony Development\r\n\r\nHeritage Meadows Updated Preliminary Subdivision 1.pdf\r\n\r\n4.5. Pubic Hearing for the Executive Municipal Officers Compensation Increases.\r\n\r\n4.6. Consideration of Resolution #2026-39 taking formal action to Pick Up Required Employee Contributions in the Public Safety and Firefighter Tier I and Pubic Safety and Firefighter Tier II Contributory Retirement System.\r\n \r\nRes 2026-39.docx\r\n\r\n4.7. Consideration of Resolution #2026-38 adopting the Budget and Consolidated Fee Schedule for the City of Lehi for Fiscal Year 2026-2027 (July 1, 2026- June 30, 2027).\r\n\r\nRes 2026-38.docx\r\n\r\nInterim Budget Adjustments.pdf\r\n\r\n5.\tAdjournment\r\n\r\nLehi Local Building Authority and Lehi Redevelopment Agency Meetings will be held immediately upon conclution of the Lehi City Council Meeting.\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 19, 2026 10:18 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082307",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082307.html",
+      "title": "Lehi City Notice of Intent to Prepare an Impact Fee Facilities Plan and Analysis",
+      "event_date": "May 20, 2026 08:00 AM",
+      "event_date_iso": "2026-05-20T08:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "LEHI CITY PUBLIC NOTICE\r\n\r\nIMPACT FEE FACILITIES PLAN AND ANALYSIS\r\n\r\nNotice is hereby given that Lehi City intends to prepare an Impact Fee Facilities Plan and Impact Fee Analysis for the provision of PUBLIC SAFETY in Lehi City.\r\n\r\n\r\nDated this 20th day of May, 2026.\r\n\r\n\r\nCITY OF LEHI, UTAH\r\n\r\n\t/s/ Teisha Wilson\t\r\nCity Recorder",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 20, 2026 08:13 AM",
       "attachments": [],
       "canceled": false
     },
@@ -41,6 +110,25 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "April 28, 2026 05:33 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1076379",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076379.html",
+      "title": "NOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY",
+      "event_date": "May 12, 2026 07:00 PM",
+      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY\r\nNOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 12, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of accepting comments concerning the sale of real property described as follows: approximately 535 South Mill Pond Drive, on 4 acres.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "April 28, 2026 07:12 PM",
       "attachments": [],
       "canceled": false
     },
@@ -81,41 +169,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1068829",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068829.html",
-      "title": "Slay Holdings Annexation Public Hearing Notice",
-      "event_date": "April 28, 2026 07:00 PM",
-      "event_date_iso": "2026-04-28T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nSLAY HOLDINGS ANNEXATION\r\nPUBLIC HEARING\r\n\r\n\r\nOn March 10, 2026, the Lehi City Council passed Resolution #2026-09 approving Lehi City's intent to annex approximately 4 acres of real property owned by Slay Holdings LLC., located at approximately 2300 W. 300 S., Lehi, Utah. \r\nA public hearing has been scheduled before the Lehi City Council on the 28th day of April, 2026, at 7:00 p.m. for the purpose of receiving public comment.  The public hearing will be held at the Lehi Civic Center, in the Council Chambers, located at 131 N. 100 E., Lehi, UT.  \r\nThe Lehi City Council will annex the above described parcel unless, at or before the public hearing, written protests to the annexation are filed by the owners of real property located within the area proposed for annexation covering a majority of the total private land area within the entire area proposed for annexation and also is equal to at least 1/2 the assessed value of all private real property within the entire area proposed for annexation.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "March 26, 2026 11:21 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1070499",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070499.html",
-      "title": "Public Hearing Notice for the Lehi City Community Development Block Grant",
-      "event_date": "April 28, 2026 07:00 PM",
-      "event_date_iso": "2026-04-28T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Public Hearing and Public Comment Period Notice\r\nLehi City Community Development Block Grant\r\nMountainland Association of Governments will hold a public hearing to consider feedback on the Lehi City CDBG Annual Action Plan, which outlines community needs, potential community funding priorities, and program structure and governance for the program year 2026-2027. The amount of CDBG funds for this program year will be discussed along with the range of projects eligible.\r\nThe hearing will be held in the Lehi Council Chambers located at 131 North 100 East, Lehi, Utah, on April 28th at 7:00 pm. Suggestions will be solicited verbally, electronically, and in writing from all interested parties during the public comment period from April 3 to May 5, 2026. To comment or for further information, contact Claudia Saldana at 801-229-3673 or csaldana@mountainland.org.\r\nThe public hearing facility is fully accessible to persons with disabilities. Individuals needing special accommodations (including auxiliary aids/services or translation) during the hearing should notify Claudia Saldana at least five days prior to the hearing. A Utah Relay telephone number or a language interpreter can be provided upon request.\r\n________________________________________\r\nMountainland Association of Governments llevará a cabo una audiencia pública para considerar la retroalimentación sobre el Plan de Acción Anual de la Ciudad de Lehi CDBG, que resume las necesidades de la comunidad, posibles prioridades de financiación comunitaria y la estructura y gestión del programa para el año 2026-2027. El monto estimado de los fondos CDBG para este año del programa se examinará junto con la gama de proyectos elegibles.\r\nLa audiencia se llevará a cabo en las oficinas de la ciudad de Lehi, 131 North 100 East, Lehi, Utah, el Martes 28 de Abril de 2026 a las 7:00 pm. Las sugerencias serán solicitadas verbalmente, electrónicamente y por escrito de todas las partes interesadas durante el período de comentarios públicos del 3 de abril al 5 de mayo de 2026. Para comentar u obtener información adicional, póngase en contacto con Claudia Saldaña al 801-229-3673 o csaldana@mountainland.org.\r\nLa instalación de la audiencia pública es totalmente accesible para personas con discapacidad. Las personas que necesiten adaptaciones especiales (servicios auxiliares o traducción) durante la audiencia deberán notificar a Claudia Saldana al menos cinco días antes de la misma. Un número de teléfono de Utah Relay o un intérprete de idiomas pueden estar disponibles bajo petición.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 03, 2026 01:18 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1068827",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068827.html",
       "title": "Cedar Hollow Annexation Public Hearing Notice",
@@ -130,59 +183,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "March 26, 2026 11:20 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1074879",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074879.html",
-      "title": "Lehi City Council Meeting Agenda",
-      "event_date": "April 28, 2026 07:00 PM",
-      "event_date_iso": "2026-04-28T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Lehi City Council Meeting\r\n\r\nAgenda\r\n\r\nApril 28, 2026\r\n\r\n7:00 PM - Lehi City Council Chambers (131 N. 100 E., Lehi, Utah)\r\n\r\nRegular Session, 7:00 p.m.\r\n\r\nI.\tWelcome, Roll Call, Pledge of Allegiance\r\n\r\nII.\tPresentations and Reports\r\n\r\n1.\tDragonfly Park Presentation and Discussion\r\n\r\n2.\tPresentation and Discussion of Bike and Pedestrian Master Plan Vision, Goals, and Map. \r\n\r\nIII.\tCitizen Input\r\n\r\nFor public comments on items not listed on the agenda. Comments limited to 3 minutes per person, with a time limit not to exceed 20 minutes for this item.\r\n\r\nIV.  Consent Agenda\r\n\r\n1.\tApprove Purchase Orders\r\n\r\n2.\tApprove City Council Meeting Minutes \r\n\r\n3.\tConsideration of Resolution #2026-30, approving an agreement with SMM Excavation for the 2025 Community Development Block Grant (CDBG) Downtown Street Improvement Project.\r\n\r\n\r\n4.\tConsideration of Resolution #2026-31, approving the allocation of PARC Tax funds for cultural facilities organizations with Lehi City.\r\n\r\n \r\nV.\tRegular Agenda\r\n\r\n1.\tPublic Hearing to consider feedback on the Lehi City Community Development Block Grant (CDBG) Annual Action Plan, which outlines community needs, potential community funding priorities, and program structure and governance for the program year 2026-2027.\r\n\r\n\r\n2.\tCedar Hollow Holdings Annexation located at 400 South Center Street.\r\n\r\na.\tPublic Hearing\r\n\r\nb.\tConsideration of Resolution #2026-32 approving an Annexation Agreement.\r\n\r\nc.\tConsideration of Ordinance #22-2026 approving the Cedar Hollow Holdings Annexation, with R-1-Flex zoning on 15.31 acres of property located at approximately 400 South Center Street.\r\nPetitioner: Gary Cooper\r\n\r\n\r\n3.\tSlay Holdings Annexation located at 2300 West 300 South\r\n\r\na.\tPublic Hearing\r\n\r\nb.\tConsideration of Resolution #2026-33 approving an Annexation Agreement.\r\n\r\nc.\tConsideration of Ordinance #23-2026 approving the Slay Holdings Annexation, with R-1-Fex (residential) zoning on 4 acres of property located at approximately 2300 West 300 South.\r\nPetitioner: Slay Holdings\r\n\r\n\r\n4.\tConsideration of Ordinance #21-2026 creating the Lehi City Small Business Advisory Council and approving and adopting an accompanying Guiding Principles Policy. \r\n\r\n5.\tBoards and Committees Update and Discussion\r\n\r\nVI.  Administrative Report\r\n\r\nVII. Mayor and Council Reports\r\n\r\nCalendar items and outside Committee reports\r\n\r\nClosed Session\r\n\r\nThe Council may consider a motion to enter into a closed session for specific purposes allowed under the Open and Public Meetings Act (Utah Code 52-4-205), including to discuss the purpose, exchange, lease, or sale of real property; litigation; the character, competence, or physical or mental health of an individual; or any other lawful purpose.\r\n\r\nVIII. Adjournment\r\n\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 21, 2026 05:56 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1074877",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074877.html",
-      "title": "Lehi City Council Work Session Meeting Agenda",
-      "event_date": "April 28, 2026 12:00 PM",
-      "event_date_iso": "2026-04-28T12:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Lehi City Council Meeting\r\n\r\nAgenda\r\n\r\nApril 28, 2026\r\n\r\n12:00 PM - Lehi Civic Center, Community Room (131 N. 100 E., Lehi, Utah)\r\n\r\nI.\tWelcome, Opening Comment, and Lunch\r\n\r\nII.\tOpen and Public Meetings Act Discussion\r\n\r\nIII.\tPublic Relations and Communications Discussion IV. \tLibrary Book Drop Box Discussion\r\n\r\nV.\tBudget Discussions\r\n\r\n1.\tJustice Court\r\n\r\n2.\tPolice\r\n\r\n3.\tFire\r\n\r\n4.\tParks\r\n\r\n5.\tHuman Resources\r\n\r\n6.\tCity Recorder\r\n\r\n7.\tAdministration\r\n\r\n8.\tTreasury\r\n\r\n9.\tFinance\r\n\r\n10.\tMayor & City Council\r\n\r\n11.\tLegal Services\r\n\r\n12.\tEmergency Management/Risk Management\r\n\r\n13.\tInformation Center\r\n\r\n14.\tPlanning & Zoning\r\n\r\n15.\tDevelopment Services (Building Inspections)\r\n\r\n16.\tEconomic Development\r\n\r\n17.\tStreets\r\n\r\n18.\tEngineering\r\n\r\n19.\tCommunity Events\r\n\r\n20.\tSenior Citizen\r\n\r\n21.\tLibrary\r\n\r\n22.\tLiteracy Center\r\n \r\n23.\tCemetery\r\n\r\n24.\tMuseum\r\n\r\n25.\tNon-departmental\r\n\r\n26.\tPower\r\n\r\n27.\tFiber\r\n\r\n28.\tWater/PI/Sewer/Drainage\r\n\r\n29.\tFleet\r\n\r\n30.\tRecreation\r\n\r\n\r\nFY 2027 MAYOR'S TENTATIVE BUDGET.pdf\r\n\r\nVI.  Adjournment",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 21, 2026 05:54 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1071209",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1071209.html",
-      "title": "Lehi City Budget Amendment Notice of Public Hearing",
-      "event_date": "April 14, 2026 07:00 PM",
-      "event_date_iso": "2026-04-14T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "APRIL 7, 2026\r\n\r\n\r\nPublic Hearing Notice\r\nLehi City \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, April 14, 2026, which begins at 7:00 p.m., at Lehi City Civic Center, in the City Council Chambers, 131 N 100 E, for the purpose of receiving public input regarding an amendment to the Lehi City FY2026 Budget.  Public comments are invited.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 07, 2026 02:13 PM",
       "attachments": [],
       "canceled": false
     }

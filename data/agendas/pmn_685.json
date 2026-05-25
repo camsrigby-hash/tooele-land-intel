@@ -4,12 +4,12 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-05-18T17:37:41.817653+00:00",
+  "scraped_at": "2026-05-25T16:37:59.658359+00:00",
   "notices": [
     {
       "notice_id": "1081210",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081210.html",
-      "title": "City Council Work and Business Meeting Cancelled",
+      "title": "City Council Business Meeting Cancelled",
       "event_date": "May 20, 2026 07:00 PM",
       "event_date_iso": "2026-05-20T19:00:00",
       "notice_types": [
@@ -34,7 +34,7 @@
     {
       "notice_id": "1081208",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081208.html",
-      "title": "City Council Work Meeting Cancellation",
+      "title": "City Council Work Meeting Cancelled",
       "event_date": "May 20, 2026 05:30 PM",
       "event_date_iso": "2026-05-20T17:30:00",
       "notice_types": [
