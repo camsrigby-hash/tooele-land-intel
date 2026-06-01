@@ -1,6 +1,6 @@
 id,jurisdiction,body,meeting_date,title,item_type,confidence,signal_type,description,location,acres,units,developer,zoning_from,zoning_to,status_enum,growth_score,notes,url,agenda_text,source,scraped_at,lat,lng,geocode_source,geocode_confidence
 pmn_1057025_item0,American Fork,Planning Commission,2026-02-18,Adoption and Amendment of Design Standards and Public Improvement Specifications,nan,0.9,INFRASTRUCTURE,"American Fork City Planning Commission will consider proposed amendment and adoption of Design Standards and Public Improvement Specifications applicable to development within the city. The proposal includes removing existing engineering standards from the Municipal Code and adopting new standards by reference, aligned with Utah APWA Standard Specifications while establishing uniform city-specific design criteria.",American Fork City,,,,,,PROPOSED,25,Infrastructure/code modernization effort. Affects all future development in American Fork City.,https://www.utah.gov/pmn/sitemap/notice/1057025.html,,pmn,2026-06-01T13:46:15.662475Z,,,,
-pmn_1057025_item1,American Fork,Planning Commission,2026-02-18,Jasper Lot Land Use Map Amendment at 570 E Main Street,nan,0.9,GENERAL_PLAN_AMENDMENT,"Public hearing, review, and recommendation on an application for a Land Use Map Amendment (Jasper Lot) located at 570 E Main Street, American Fork City. The amendment covers approximately 0.26 acres currently designated as Residential High Density and will change to General Commercial Land Use Designation.","570 E Main Street, American Fork City",0.26,,,Residential High Density,General Commercial,PROPOSED,55,Small commercial conversion opportunity on Main Street. Change from residential to general commercial suggests retail/office potential.,https://www.utah.gov/pmn/sitemap/notice/1057025.html,,pmn,2026-06-01T13:46:15.662475Z,,,,
+pmn_1057025_item1,American Fork,Planning Commission,2026-02-18,Jasper Lot Land Use Map Amendment at 570 E Main Street,nan,0.9,GENERAL_PLAN_AMENDMENT,"Public hearing, review, and recommendation on an application for a Land Use Map Amendment (Jasper Lot) located at 570 E Main Street, American Fork City. The amendment covers approximately 0.26 acres currently designated as Residential High Density and will change to General Commercial Land Use Designation.","570 E Main Street, American Fork City",0.26,,,Residential High Density,General Commercial,PROPOSED,55,Small commercial conversion opportunity on Main Street. Change from residential to general commercial suggests retail/office potential.,https://www.utah.gov/pmn/sitemap/notice/1057025.html,,pmn,2026-06-01T13:46:15.662475Z,40.3775334,-111.7980339,haiku_pdf_address,0.85
 pmn_1060999_item0,American Fork,Planning Commission,2026-03-02,Walton Lot Amended Final Plat at 794 W 1000 N Circle,nan,0.9,NEW_SUBDIVISION,Review and action on an Amended Final Plat application for Walton Lot to allow construction of a single-family home on one of the lots. The application will clean up a prior subdivision and ensure all lots meet underlying zone requirements.,"794 W 1000 N Circle, American Fork City",2.38,1,,R1-12000 and RA-1,,PROPOSED,25,Amended plat for lot cleanup and compliance with zone requirements. Single-family residential development.,https://www.utah.gov/pmn/sitemap/notice/1060999.html,,pmn,2026-06-01T13:46:15.662472Z,,,,
 pmn_1061929,American Fork,Planning Commission,2026-03-04,Planning Commission Agenda - Meeting Canceled,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1061929.html,"CANCELED - AMERICAN FORK CITY
 PLANNING COMMISSION AGENDA
@@ -172,7 +172,7 @@ Notice is hereby given that the American Fork City Council will hold a public he
 Dated this 18th day of May 2026
 
 /s/Terilyn Lurker
-City Recorder",pmn,2026-06-01T13:46:15.662226Z,,,,
+City Recorder",pmn,2026-06-01T13:46:15.662226Z,40.3775031,-111.7975657,haiku_pdf_address,0.55
 pmn_1084457,American Fork,City Council,2026-06-02,06.02.26 City Council work session agenda,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1084457.html,"AMERICAN FORK CITY COUNCIL
 JUNE 2, 2026
 		WORK SESSION AGENDA
@@ -198,7 +198,7 @@ Dated the 28th day of May 2026.
 City Recorder
 
 -	In accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.
--	The order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",pmn,2026-06-01T13:46:15.662221Z,,,,
+-	The order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",pmn,2026-06-01T13:46:15.662221Z,40.3769706,-111.7973189,haiku_pdf_address,0.55
 pmn_1082813_item0,American Fork,Planning Commission,2026-06-03,Land Use Map Amendment for 375 S 860 E from Planned Community to Design Commercial,nan,0.9,GENERAL_PLAN_AMENDMENT,Proposed Land Use Map Amendment (LUMA) to change property designation from Planned Community to Design Commercial land use to promote economic opportunity and development on the east side of American Fork City.,"375 S 860 E, American Fork City",1.96,,,,,PROPOSED,65,Companion zone change also proposed for same parcels. Economic development focus on east side of city.,https://www.utah.gov/pmn/sitemap/notice/1082813.html,"{""parcel_ids"": [""13:059:0130"", ""13:059:0131""]}",pmn,2026-06-01T13:46:15.662448Z,,,,
 pmn_1082813_item1,American Fork,Planning Commission,2026-06-03,Zone Change for 375 S 860 E from PC/GC-2 to GC-1,nan,0.9,REZONE,Proposed Zone Change to rezone property from PC (Planned Community) and GC-2 zones to GC-1 (General Commercial) zone to support economic development on the east side of American Fork City.,"375 S 860 E, American Fork City",1.96,,,"PC, GC-2",GC-1,PROPOSED,70,Companion LUMA also proposed for same parcels. Commercial rezoning to support economic opportunity.,https://www.utah.gov/pmn/sitemap/notice/1082813.html,"{""parcel_ids"": [""13:059:0130"", ""13:059:0131""]}",pmn,2026-06-01T13:46:15.662448Z,,,,
 pmn_1082813_item2,American Fork,Planning Commission,2026-06-03,Land Use Map Amendment for Dixie Well (943 S 900 W) from Residential to Institutional,nan,0.9,GENERAL_PLAN_AMENDMENT,"Proposed Land Use Map Amendment to change property designation from Residential Very-Low Density to Institutional Lands, Schools and Public Facilities to accommodate a city culinary well facility.","943 S 900 W, American Fork City",0.78,,,,,PROPOSED,25,Property designated for public utilities infrastructure (culinary well). Changes use from vacant to public facilities.,https://www.utah.gov/pmn/sitemap/notice/1082813.html,,pmn,2026-06-01T13:46:15.662448Z,,,,
@@ -210,7 +210,7 @@ The fiscal year ending June 30, 2027, tentative budget includes a proposed prope
 
 All interested people are invited to attend.
 
-Dated this 27th day of May, 2026",pmn,2026-06-01T13:46:15.662216Z,,,,
+Dated this 27th day of May, 2026",pmn,2026-06-01T13:46:15.662216Z,40.3775031,-111.7975657,haiku_pdf_address,0.55
 pmn_1039851_item0,Bluffdale,City Council & Planning Commission,2025-12-10,Draft Integrated Water and Land Use Element of the Bluffdale General Plan,nan,0.9,GENERAL_PLAN_AMENDMENT,"Public hearing on draft integrated Water and Land Use Element of the Bluffdale General Plan as required by SB 110 (2022) and SB 76 (2023). Planning Commission hearing on December 3, 2025 and City Council hearing on December 10, 2025.","Bluffdale City Hall, 2222 W 14400 S",,,City of Bluffdale,,,PROPOSED,45,"Statutorily required general plan amendment per SB 110 and SB 76. Public comment period open through December 10, 2025. Staff contacts: Caitlyn Tubbs and Dan Tracer.",https://www.utah.gov/pmn/sitemap/notice/1039851.html,,pmn,2026-06-01T13:46:15.663691Z,,,,
 pmn_1039853_item0,Bluffdale,City Council & Planning Commission,2025-12-10,Gateway Redevelopment Area boundary change to remove city-owned open space parcel,nan,0.9,DEVELOPER_ACTIVITY,"Public hearing before Bluffdale City Redevelopment Agency to receive comment on a proposed boundary change for the Gateway Redevelopment Area. The proposal seeks to remove a portion of a city-owned open space parcel (Parcel 33-09-201-020-0000) from the RDA boundary. The parcel being removed is approximately 0.10 acres located south and east of the South Quarter Corner of Section 4, Township 4 South, Range 1 West. Tax increment financing will apply to remaining project area property.","Bluffdale, Utah (Section 4, Township 4 South, Range 1 West)",0.1,,,,,PROPOSED,25,"RDA boundary adjustment involving removal of small open space parcel. Tax increment revenue implications for Gateway Redevelopment Area. Public hearing scheduled for December 10, 2025 at 6:00 p.m. at Bluffdale City Hall.",https://www.utah.gov/pmn/sitemap/notice/1039853.html,"{""parcel_ids"": [""33-09-201-020-0000""]}",pmn,2026-06-01T13:46:15.663694Z,,,,
 pmn_1039807_item0,Bluffdale,City Council & Planning Commission,2025-12-10,Text Amendments to Chapter 7.40.030 and related chapters to adopt permitted street trees near power corridors,nan,0.9,GENERAL_PLAN_AMENDMENT,"Proposed text amendments to city code chapters 7.40.030, 11.150.050, 11.160.290, and 12.80.060 to adopt a list of street trees permitted within or abutting power corridors and to address trees near power lines or other utilities' corridors and equipment.",,,,City of Bluffdale,,,PROPOSED,15,"Public comment meeting scheduled for December 10, 2025 at 6:00 p.m. Staff presenter: Ellen Oakman, Associate Planner. This is a regulatory/code amendment focused on utility corridor management and vegetation standards, not a development project.",https://www.utah.gov/pmn/sitemap/notice/1039807.html,,pmn,2026-06-01T13:46:15.663689Z,,,,
@@ -234,7 +234,7 @@ To request a copy of the public notice or for additional inquiries contact John 
 
 Dated this 21st Day of May, 2026
 
-Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665030Z,,,,
+Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665030Z,40.5251449,-111.8757746,haiku_pdf_address,0.55
 pmn_1082753,Draper,City Council,2026-06-02,Notice of Public Hearing: Executive Municipal Officer Compensation,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082753.html,"Posted on May 21, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT
 
 NOTICE OF PUBLIC HEARING: Executive Municipal Officer Compensation
@@ -265,7 +265,7 @@ To request a copy of the public notice or for additional inquiries contact John 
 
 Dated this 21st Day of May, 2026
 
-Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665027Z,,,,
+Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665027Z,40.5251449,-111.8757746,haiku_pdf_address,0.55
 pmn_1082763,Draper,City Council,2026-06-02,Notice of Public Hearing: Municipal Water Rates,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082763.html,"Posted on May 21, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT
 
 NOTICE OF PUBLIC HEARING: Municipal Water Rates
@@ -294,7 +294,7 @@ To request a copy of the public notice or for additional inquiries contact John 
 
 Dated this 21st Day of May, 2026
 
-Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665036Z,,,,
+Attest: Nicole Smedley, City Recorder",pmn,2026-06-01T13:46:15.665036Z,40.5251449,-111.8757746,haiku_pdf_address,0.55
 pmn_1084347_item0,Draper,City Council,2026-06-09,Draper-Highland Boundary Adjustment #2 Land Use and Zoning Map Amendment at 16377 S. Suncrest Drive,nan,0.9,GENERAL_PLAN_AMENDMENT,City-initiated land use and zoning map amendment to add designations for approximately 0.31 acres of property related to a prior enacted city boundary adjustment between Draper City and Highland City.,"16377 S. Suncrest Drive, Draper, UT",0.31,,,,,PROPOSED,15,"City-initiated action related to boundary adjustment; small parcel; hearing scheduled for June 9, 2026 at 7:00 p.m.",https://www.utah.gov/pmn/sitemap/notice/1084347.html,,pmn,2026-06-01T13:46:15.665017Z,40.4730933,-111.824605,nominatim,0.75
 pmn_1084337_item0,Draper,City Council,2026-06-09,Short-Term Rentals Text Amendment - DCMC Titles 6 and 9,nan,0.9,,"City-initiated amendment to Draper City Municipal Code requiring short-term rentals to be licensed and permitted, with associated operational standards.",,,,,,,PROPOSED,15,"Regulatory/code amendment affecting short-term rental operations citywide. Public hearing scheduled for June 9, 2026 at 7:00 p.m. at Draper City Hall. Contact Todd Taylor (801) 576-6510 for additional information.",https://www.utah.gov/pmn/sitemap/notice/1084337.html,,pmn,2026-06-01T13:46:15.665014Z,,,,
 pmn_1084351_item0,Draper,City Council,2026-06-09,Nielsen Zoning Map Amendment Request at 12738 S 300 E,nan,0.9,REZONE,Zoning map amendment request to rezone property from RA1 (residential agricultural) to R3 (residential). Public hearing to be held before City Council.,"12738 S 300 E, Draper, UT",,,Nielsen,RA1,R3,PROPOSED,65,"Public hearing scheduled for June 9, 2026 at 7:00 p.m. at Draper City Hall. Change from agricultural to residential zoning indicates potential for residential development. Contact Paul Geilman for additional information.",https://www.utah.gov/pmn/sitemap/notice/1084351.html,,pmn,2026-06-01T13:46:15.665022Z,,,,
@@ -400,7 +400,7 @@ pmn_1080087,Eagle Mountain,City Council,2026-05-20,Public Meeting,nan,nan,,,,,,,
 CERTIFICATE OF POSTING
 The undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 13 day of May, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html, 
 
-Lacie Messerly, City Recorder",pmn,2026-06-01T13:46:15.664646Z,,,,
+Lacie Messerly, City Recorder",pmn,2026-06-01T13:46:15.664646Z,40.3093503,-112.0120054,haiku_pdf_address,0.70
 pmn_1080169_item0,Eagle Mountain,Planning Commission,2026-05-26,Annexation Policy Plan - Eagle Mountain City updated annexation policy identifying seven potential unincorporated Utah County areas,nan,0.9,ANNEXATION,Eagle Mountain City is proposing an updated annexation policy plan that identifies six to seven areas of unincorporated Utah County that the city would potentially consider for annexation. The plan includes a map showing these areas in relation to current city boundaries and establishes criteria and considerations to facilitate analysis and decision-making for future annexation proposals.,unincorporated Utah County areas surrounding Eagle Mountain City,,,,,,PROPOSED,65,"Policy-level annexation planning; identifies target areas for future growth rather than specific development proposals. Contact: Brandon Larsen, Community Development Director (blarsen@eaglemountain.gov). Public hearing scheduled for May 26, 2026 at 6:30 PM.",https://www.utah.gov/pmn/sitemap/notice/1080169.html,,pmn,2026-06-01T13:46:15.664868Z,,,,
 pmn_1082575_item0,Eagle Mountain,Planning Commission,2026-05-26,Variance approval for Pony Express Business Park,nan,0.9,COMMERCIAL_PROJECT,Planning Commission consideration of a variance request for Pony Express Business Park,,,,,,,PROPOSED,35,Variance type and specific relief requested not detailed in agenda; business park development implies commercial/industrial use,https://www.utah.gov/pmn/sitemap/notice/1082575.html,,pmn,2026-06-01T13:46:15.664871Z,,,,
 pmn_1083205,Eagle Mountain,City Council,2026-05-26,Public Meeting,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1083205.html,"EAGLE MOUNTAIN CITY COUNCIL MEETING 
@@ -420,7 +420,7 @@ https://city-eagle-mountain-ut-cleardoc.cleargov.com/22130/845077/d.  It include
 3.ADJOURNMENT
 
 THE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.
-In accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically",pmn,2026-06-01T13:46:15.664643Z,,,,
+In accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically",pmn,2026-06-01T13:46:15.664643Z,40.3093503,-112.0120054,haiku_pdf_address,0.55
 pmn_1082697_item0,Eagle Mountain,City Council,2026-06-02,Horizon Master Development Plan and Preliminary Plat Approval for 110 single-family detached residential lots on approximately 109 acres,nan,0.9,LARGE_PROJECT,Request for Master Development Plan and Preliminary Plat Approval for a residential development consisting of 110 single-family detached lots with open space on approximately 109 acres located north of Pony Express Parkway and Lone Tree Parkway,"2434 E. Pony Express Parkway, Eagle Mountain, Utah; Section 30, T5S, R1W",109,110,Caden Hazard,,,PROPOSED,85,"Project name is 'Horizon'. Point of contact: Senior Planner Robert Hobbs (rhobbs@eaglemountain.gov). Public hearing scheduled for June 2, 2026 at 7:00 PM.",https://www.utah.gov/pmn/sitemap/notice/1082697.html,"{""parcel_ids"": [""58:040:0378""]}",pmn,2026-06-01T13:46:15.664628Z,40.3620428,-111.9473717,haiku_nominatim,0.70
 pmn_1082269_item0,Eagle Mountain,City Council,2026-06-02,Annexation Policy Plan: Eagle Mountain City updated annexation policy identifying seven potential unincorporated Utah County areas,nan,0.9,ANNEXATION,Eagle Mountain City is proposing an updated annexation policy plan that identifies seven (7) areas of unincorporated Utah County that the city would potentially consider for annexation. The plan includes a map of these areas in relation to current city boundaries and contains criteria and considerations to facilitate analysis and decision-making for future annexation proposals.,unincorporated Utah County (seven designated areas),,,,,,PROPOSED,45,This is a policy-level planning document establishing framework for future annexations rather than a specific development proposal. Contact: Community Development Director blarsen@eaglemountain.gov,https://www.utah.gov/pmn/sitemap/notice/1082269.html,,pmn,2026-06-01T13:46:15.664634Z,,,,
 pmn_1081649_item0,Eagle Mountain,City Council,2026-06-02,Land Disposal Application - Casey Hansen for approximately 0.01 acres of public property,nan,0.9,,"Public hearing to consider a Land Disposal Application from Casey Hansen to dispose of approximately 0.01 acres of real public property, identified as a portion of Utah County Parcel No 45:326:0109, designated as 'Significant Real Property'.",,0.01,,Casey Hansen,,,PROPOSED,5,This is a municipal land disposal application involving a very small parcel of public property. Low growth impact due to minimal acreage.,https://www.utah.gov/pmn/sitemap/notice/1081649.html,"{""parcel_ids"": [""45:326:0109""]}",pmn,2026-06-01T13:46:15.664637Z,,,,
@@ -547,7 +547,7 @@ Adjournment
 **All handouts for this meeting can be found on the city's website erda.gov under the calendar section**
 
 Board may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).
-**Format and Verbiage to be used when going into a closed session",pmn,2026-06-01T13:46:15.665763Z,,,,
+**Format and Verbiage to be used when going into a closed session",pmn,2026-06-01T13:46:15.665763Z,40.6008601,-112.3554442,haiku_pdf_address,0.55
 pmn_1074883_item0,Erda,Erda Planning Commission,2026-04-28,Copper Cove Preliminary Plat Phase 1 – 45-lot residential subdivision,nan,0.9,NEW_SUBDIVISION,"Derald Anderson requesting preliminary plat approval for Copper Cove Phase 1, a 45-lot residential subdivision located at the northeast corner of the development. Individual lots range from 5,800 to 10,000 square feet.","northeast corner of Copper Cove development, Erda, UT",,45,Derald Anderson,,,PROPOSED,68,Preliminary plat for Phase 1 only; lot sizes suggest standard residential density; full development scope unknown from agenda item.,https://www.utah.gov/pmn/sitemap/notice/1074883.html,,pmn,2026-06-01T13:46:15.665924Z,,,,
 pmn_1078403,Erda,Erda Planning Commission,2026-05-12,**CANCELED*** Erda Planning Commission Meeting,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1078403.html,"****CANCELED*****Notice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday May 12th, 2026 has been canceled. The Planning Commission will hold their next regularly scheduled meeting on Tuesday May 26th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",pmn,2026-06-01T13:46:15.665921Z,40.6008601,-112.3554442,haiku_pdf_address,0.55
 pmn_1079709_item0,Erda,Erda City Council,2026-05-14,Ordinance 26-05: Temporary Land Use Regulation for Disconnect Areas,nan,0.9,GENERAL_PLAN_AMENDMENT,"Adoption of temporary land use regulations for disconnect areas within Erda City, pursuant to Utah Code §10-20-504",Erda City (disconnect areas),,,,,,PROPOSED,25,Related to East and West Applications to Disconnect from Erda City; temporary regulation suggests areas in transition or pending disconnection status,https://www.utah.gov/pmn/sitemap/notice/1079709.html,,pmn,2026-06-01T13:46:15.665758Z,,,,
@@ -580,7 +580,7 @@ FOLLOW UP ITEMS:
 Board may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).
 
 
-Pursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",pmn,2026-06-01T13:46:15.665749Z,,,,
+Pursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",pmn,2026-06-01T13:46:15.665749Z,40.6008601,-112.3554442,haiku_pdf_address,0.55
 pmn_1081585,Erda,Erda City Council,2026-05-28,Notice of Public Hearing on Adoption of Annual Budget 2026-2027,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1081585.html,"ERDA
 Notice of Public Hearing Regarding Adoption of Erda City Fiscal Year 2026-2027 Budget 
 
@@ -591,14 +591,14 @@ Erda
 2163 W. Erda Way
 Erda UT, 84074
 435-243-5577
-jpoole@erda.gov",pmn,2026-06-01T13:46:15.665755Z,,,,
+jpoole@erda.gov",pmn,2026-06-01T13:46:15.665755Z,40.6008601,-112.3554442,haiku_pdf_address,0.55
 web_8989099638218286815,Grantsville,nan,nan,Notice of 2026 Annual Meeting Schedule,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/2026%20Annual%20Meeting%20Schedule%20Notice.pdf?t=202601201257560,"GRANTSVILLE CITY
 NOTICE OF ANNUAL MEETING SCHEDULES
 The public is hereby given notice in accordance with Utah State Code §52-4-202, Public Notice of
 Meetings, that the Grantsville City Council will hold its regular meetings on the first and third
 Wednesdays of each month at the Grantsville City Offices, 429 East Main Street, Grantsville, Utah and
 electronically via Zoom. The meetings start at 7:00 pm unless otherwise noticed.
-The Grantsville City Planning Commission will hold its regular monthly",web,2026-06-01T13:40:04.452727+00:00,,,,
+The Grantsville City Planning Commission will hold its regular monthly",web,2026-06-01T13:40:04.452727+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_7047444790186835176_item0,Grantsville,nan,2025-08-21,Appeal of Zoning Administrator denial for three large animals and barn at 1076 Windflower Lane,other,0.9,,Tori McCurdy appealing Zoning Administrator's denial of request to keep three large animals at residential property. Denial based on proposed barn location not meeting required 100-foot setback from adjacent residence.,"1076 Windflower Lane, Grantsville, UT",,,Tori McCurdy,,,PROPOSED,5,Administrative/code compliance matter. Setback variance or conditional use variance may be requested. Low growth impact - residential use variance only.,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/Revised%20Combined%20Agenda%20and%20Notices.pdf?t=202508211557220,,web,2026-04-23T05:21:59.845714+00:00,40.6285237,-112.5045939,nominatim,0.75
 web_9093161150499011358_item0,Grantsville,nan,2025-09-04,Conditional Use Permit for Spence Rents equipment rental business at 40 E Main Street,conditional_use,0.9,COMMERCIAL_PROJECT,"Spencer Ostler is seeking a Conditional Use Permit to own and operate Spence Rents, an equipment rental business in the CS (Commercial Service) zone.","40 E Main Street, Grantsville, UT",,,Spencer Ostler,CS,,PROPOSED,35,Equipment rental business requires conditional use permit in CS zone; appears to be an existing commercial location being activated for new use,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/Combined%20Agenda%20and%20Notices%209-4-25.pdf?t=202508281725270,,web,2026-05-04T13:15:09.104774+00:00,40.5997625,-112.4618521,nominatim,0.75
 web_5092677360457743482_item0,Grantsville,nan,2025-09-18,"General Plan amendment adding Water Element for supply, planning, and conservation",residential_subdivision,0.9,GENERAL_PLAN_AMENDMENT,"Recommendation of a General Plan amendment to add a Water Element addressing supply, planning, and conservation as required by §10-9a-403.",,,,,,,PROPOSED,35,Procedural general plan amendment required by state statute; affects citywide water policy and future land use planning.,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/PC%20Agenda%209-18-25.pdf?t=202509111736120,,web,2026-06-01T13:41:17.977335+00:00,,,,
@@ -629,7 +629,7 @@ meeting.
 Join Zoom Meeting
 https://us02web.zoom.us/j/84449308949
 Meeting ID: 844 4930 8949
-In compli",web,2026-06-01T13:40:32.754105+00:00,,,,
+In compli",web,2026-06-01T13:40:32.754105+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_8279273600883419672_item0,Grantsville,nan,2025-12-02,Conditional use permit for home-based dumpster rental and storage business at 334 S Banister Lane,conditional_use,0.9,COMMERCIAL_PROJECT,Russell Wallis is requesting a conditional use permit to own and operate a home-based business for storage and rental of three 16'x7' roll-off dumpsters and one trailer unit on residential property,"334 S Banister Lane, Grantsville, UT",,,Russell Wallis,RR-1,,PROPOSED,25,Home-based business use in rural residential zone; involves commercial equipment storage and rental operations,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/Revised%20PC%20Agenda%2012-2-25.pdf?t=202511261537120,,web,2026-06-01T13:40:31.050525+00:00,40.5913001,-112.4421508,nominatim,0.75
 web_4799940166415777071_item0,Grantsville,nan,2025-12-02,Conditional use permit for home-based dumpster rental and storage business at 334 S Banister Lane,conditional_use,0.9,COMMERCIAL_PROJECT,Russell Wallis is requesting a conditional use permit to own and operate a home-based business for storage and rental of three 16'x7' roll-off dumpsters and one trailer unit on residential property,"334 S Banister Lane, Grantsville, UT",,,Russell Wallis,RR-1,,PROPOSED,25,Home-based business use in rural residential zone; involves commercial equipment storage and rental operations,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/Combined%20Planning%20Commission%20Packet%2012-2-25.pdf?t=202511261537370,,web,2026-06-01T13:40:32.272873+00:00,40.5913001,-112.4421508,nominatim,0.75
 web_254844348667030687_item0,Grantsville,nan,2025-12-16,Rezone 587 E Main Street from C-D to RM-15,rezone,0.9,REZONE,Proposed rezone of property at 587 E Main Street from Commercial Development District (C-D) to Multiple Residential District (RM-15) zoning designation,"587 E Main Street, Grantsville, UT",,,,C-D,RM-15,PROPOSED,45,Commercial-to-residential conversion; commercial property being repurposed for residential use,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2025/PC%20Agenda%2012-16-25.pdf?t=202512041718380,,web,2026-06-01T13:40:30.802108+00:00,40.5997152,-112.4385364,nominatim,0.75
@@ -645,7 +645,7 @@ ROLL CALL
 AGENDA:
 1. Closed Session – (Imminent Litigation, Real Estate Negotiations, or Personnel)
 2. Consideration of approving Resolution 2026-11 authorizing the city attorney, with the approval of the city
-manager and mayor, to take any reasonable legal action necessary to ",web,2026-05-04T13:14:17.974962+00:00,,,,
+manager and mayor, to take any reasonable legal action necessary to ",web,2026-05-04T13:14:17.974962+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_5750931266038861471_item0,Grantsville,nan,2026-01-26,Resolution 2026-11: Authorization to enforce annexation of Six Mile Ranch into Grantsville City,annexation,0.9,ANNEXATION,City Council consideration of resolution authorizing the city attorney to take legal action necessary to enforce the annexation of Six Mile Ranch into Grantsville City,Six Mile Ranch,,,,,,PROPOSED,65,"This is an enforcement action related to a pending annexation, indicating potential dispute or delay in completing the annexation process. Developer should monitor for any barriers to annexation completion.",https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/01.26.2026/01.26%20Agenda%20Packet.pdf?t=202601231854040,,web,2026-04-27T13:09:33.286047+00:00,,,,
 web_6327303943033369441,Grantsville,nan,2026-01-30,Agenda,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/01.30.2026/01.30.2026%20Site%20Visit%20Notice.pdf?t=202601281624080,"Public Notice of Site Visit / Traveling Tour
 PUBLIC NOTICE IS HEREBY GIVEN that members of the Grantsville City Council will
@@ -653,7 +653,7 @@ participate in a site visit on Friday, January 30, 2026, from 10:00 a.m. to 2:00
 at Burt Brothers Motorpark / Utah Motorsports Campus, located at 512 Sheep
 Ln, Tooele, UT 84074, pursuant to Utah Code § 52-4-203(7).
 A quorum of the City Council will be present. The site visit will consist of a traveling
-tour to view various locations. No public business will be conduct",web,2026-05-04T13:14:17.808893+00:00,,,,
+tour to view various locations. No public business will be conduct",web,2026-05-04T13:14:17.808893+00:00,40.5800481,-112.3790569,haiku_pdf_address,0.70
 web_5646947543408196025_item0,Grantsville,nan,2026-02-03,Proposed new use allowing Micro-Entrepreneurship within the RM-7 zoning designation,general_plan_amendment,0.9,GENERAL_PLAN_AMENDMENT,"Consideration of a proposed new use allowing Micro-Entrepreneurship within the RM-7 zoning designation, which would permit small business operations in residential areas.",,,,,RM-7,,PROPOSED,35,This is a use-type expansion within existing zoning rather than a rezone. Micro-entrepreneurship typically includes home-based businesses or small flex operations.,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2026/Amended%20PC%20Agenda%202-3-26..pdf?t=202601291627340,,web,2026-06-01T13:40:30.138261+00:00,,,,
 web_5646947543408196025_item1,Grantsville,nan,2026-02-03,"General Plan Amendment for parcels 01-131-0-0002, 01-130-0-0009, 01-130-0-0008, 01-130-0-0016, 01-130-0-0014 to change land use designation",general_plan_amendment,0.9,GENERAL_PLAN_AMENDMENT,Consideration of a proposed General Plan Amendment affecting five parcels to change their future land use designation. Specific new designation not provided in agenda text.,,,,,,,PROPOSED,45,Agenda text appears truncated; specific new land use designation not stated. Five-parcel consolidation suggests potential larger development project.,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2026/Amended%20PC%20Agenda%202-3-26..pdf?t=202601291627340,"{""parcel_ids"": [""01-131-0-0002"", ""01-130-0-0009"", ""01-130-0-0008"", ""01-130-0-0016"", ""01-130-0-0014""]}",web,2026-06-01T13:40:30.138261+00:00,40.578411893065756,-112.39062428125462,parcel_id,0.95
 web_4099470093838229760,Grantsville,nan,2026-02-04,Agenda,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.04.2026/02.04.2026%20Agenda%20AMENDED.pdf?t=202602041900340,"PUBLIC NOTICE:
@@ -667,7 +667,7 @@ AGENDA (amended 2/3/2026 5:30 pm):
 a. Approval of Minutes from the January 22, 2026 City Council Regular Meeting and January
 26, 2026 Special Meeting
 b. Approval of Bills
-3. Consideration of approving Resolution 2026-02 aut",web,2026-05-04T13:14:13.368710+00:00,,,,
+3. Consideration of approving Resolution 2026-02 aut",web,2026-05-04T13:14:13.368710+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_8893867784119074461,Grantsville,nan,2026-02-04,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.04.2026/02.04.2026%20City%20Council%20Meeting%20Minutes%20FINAL.pdf?t=202603241811430,"MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON FEBRUARY 4TH, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT
 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA
@@ -679,7 +679,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Fire Chief Jason Remick
-Alicia Fairbourne, City",web,2026-05-04T13:14:17.687673+00:00,,,,
+Alicia Fairbourne, City",web,2026-05-04T13:14:17.687673+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_7189546898345246917,Grantsville,nan,2026-02-04,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.04.2026/02.04.2026%20Council%20Meeting%20Packet%20v5.pdf?t=202602041901140,"February 4, 2026
 City Council Meeting
 Information Packet
@@ -696,7 +696,7 @@ MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON JANUARY 22nd, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT
 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA
 ZOOM. THE MEETING BEGAN AT 6:00 P.M.
-Mayor ",web,2026-05-04T13:14:15.924883+00:00,,,,
+Mayor ",web,2026-05-04T13:14:15.924883+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.70
 pmn_1057723_item0,Grantsville,Grantsville City Planning Commission,2026-02-17,Appeal of Zoning Administrator's denial of large animal keeping at 565 S. McKay Circle,nan,0.9,,Courtny Rossow is appealing the Zoning Administrator's denial of a request to keep one large animal at the property. The denial was based on the property's failure to meet the required open space standard for the R-1-21 zoning district.,565 S. McKay Circle,,,Courtny Rossow,R-1-21,,PROPOSED,5,This is a variance/conditional use appeal rather than a development project. Applicant seeking exception to open space standards.,https://www.utah.gov/pmn/sitemap/notice/1057723.html,,pmn,2026-06-01T13:46:15.663024Z,40.5813019,-112.4793017,haiku_nominatim,0.70
 pmn_1057723_item1,Grantsville,Grantsville City Planning Commission,2026-02-17,Conditional Use Permit for home-based farm stand and cottage food products business at 10 W Clark Street,nan,0.9,DEVELOPER_ACTIVITY,Vickie Lake and Kathleen Hunt are requesting a Conditional Use Permit to operate a home-based micro-entrepreneurship business consisting of a farm stand and the sale of cottage food products and non-food craft goods at 10 W Clark Street in the RM-7 zoning district.,10 W Clark Street,,,Vickie Lake and Kathleen Hunt,RM-7,,PROPOSED,15,Home-based business conditional use permit; small-scale agricultural/craft retail operation.,https://www.utah.gov/pmn/sitemap/notice/1057723.html,,pmn,2026-06-01T13:46:15.663024Z,40.602414,-112.4642552,haiku_nominatim,0.70
 web_5189160122601209722,Grantsville,nan,2026-02-18,Agenda,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.18.2026/02.18.2026%20City%20Council%20Meeting%20Agenda.pdf?t=202602132011090,"PUBLIC NOTICE:
@@ -710,7 +710,7 @@ AGENDA:
 2. Summary Action Items
 a. Approval of Minutes from the February 4, 2026 City Council Regular Meeting
 b. Approval of Bills
-3. Presentation from the Tooele Technical College introducing the 2026 Student of the ",web,2026-05-04T13:14:10.146978+00:00,,,,
+3. Presentation from the Tooele Technical College introducing the 2026 Student of the ",web,2026-05-04T13:14:10.146978+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_4810200641743476316,Grantsville,nan,2026-02-18,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.18.2026/02.18.2026%20City%20Council%20Regular%20Meeting%20Minutes%20DRAFT.pdf?t=202603241810530,"MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON FEBRUARY 18TH, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT
 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA
@@ -722,7 +722,7 @@ Brittany Skinner
 Council Members Excused: Rhett Butler
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Christy Montierth, Public Works Director
-Alicia Fair",web,2026-05-04T13:14:13.050927+00:00,,,,
+Alicia Fair",web,2026-05-04T13:14:13.050927+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_5159906090578955243,Grantsville,nan,2026-02-18,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/02.18.2026/02.18.2026%20Packet.pdf?t=202602132011160,"February 18, 2026
 City Council Meeting
 Information Packet
@@ -739,7 +739,7 @@ HELD ON FEBRUARY 4TH, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT
 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA
 ZOOM. THE MEETING BEGAN AT 7:00 P.M.
 Mayor and Council Members Present:
-May",web,2026-05-04T13:14:11.764332+00:00,,,,
+May",web,2026-05-04T13:14:11.764332+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_1835845419027795839_item0,Grantsville,nan,2026-03-03,Rezone Parcel 01-066-0-0030 from A-10 Agricultural to C-S Shopping Commercial at 519 W Main Street,commercial,0.9,REZONE,Proposed rezone of agricultural land to shopping commercial district. Located at approximately 519 W Main Street in Grantsville.,"519 W Main Street, Grantsville, UT",,,,A-10,C-S,PROPOSED,65,Agricultural to commercial conversion represents significant land use shift for this Main Street corridor property. Actual development proposal not detailed in agenda text provided.,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2026/PC%20Agenda%203-3-26.pdf?t=202602191903290,"{""parcel_ids"": [""01-066-0-0030""]}",web,2026-06-01T13:40:29.940725+00:00,40.599113411526105,-112.48107370775165,parcel_id,0.95
 pmn_1061015_item0,Grantsville,Grantsville City Planning Commission,2026-03-03,Rezone Parcel 01-066-0-0030 from A-10 (Agricultural) to C-S (Shopping Commercial District) at 519 W Main Street,nan,0.9,REZONE,"Consideration of a proposed rezone of Parcel 01-066-0-0030 from A-10 (Agricultural) to Shopping Commercial District (C-S), located at approximately 519 W Main Street in Grantsville.","519 W Main Street, Grantsville, UT",,,,A-10,C-S,PROPOSED,65,Agricultural land proposed for conversion to commercial use; typical signal of commercial development activity in area.,https://www.utah.gov/pmn/sitemap/notice/1061015.html,"{""parcel_ids"": [""01-066-0-0030""]}",pmn,2026-06-01T13:46:15.663019Z,40.599113411526105,-112.48107370775165,parcel_id,0.95
 pmn_1061015_item1,Grantsville,Grantsville City Planning Commission,2026-03-03,"Proposed amendments to Grantsville City Land Use and Management Code Chapters 2, 4, 6, 7, 8, 9, 14, 15, 16, 20, and 21",nan,0.9,GENERAL_PLAN_AMENDMENT,Consideration of proposed amendments to the Grantsville City Land Use and Management Code affecting multiple chapters related to zoning regulations and land use management.,,,,,,,PROPOSED,45,Broad-based code amendments suggest comprehensive zoning/planning update; may reflect strategic development policy shift.,https://www.utah.gov/pmn/sitemap/notice/1061015.html,,pmn,2026-06-01T13:46:15.663019Z,,,,
@@ -771,7 +771,7 @@ to join Zoom
 meeting.
 Join Zoom Meeting
 Join Zoom Meeting: https://us02web.zoom.us/j/4358843411
-By Phone, Dial: 1-253-2",web,2026-06-01T13:40:29.460022+00:00,,,,
+By Phone, Dial: 1-253-2",web,2026-06-01T13:40:29.460022+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1067817,Grantsville,Grantsville City Planning Commission,2026-03-24,"Planning Commission Training Meeting March 24, 2026",nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1067817.html,"PUBLIC NOTICE
 The Grantsville City Planning Commission will hold a training session with staff at 6:30 p.m. on Tuesday, March 24, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:
 ROLL CALL
@@ -814,7 +814,7 @@ AGENDA:
 a. Approval of Minutes from the February 18, 2026 City Council Regular Meeting
 b. Approval of Minutes from the March 4, 2026 City Council Regular Meeting
 c. Approval of bills
-3. Presentat",web,2026-05-25T16:36:12.935992+00:00,,,,
+3. Presentat",web,2026-05-25T16:36:12.935992+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_1068182628266287238,Grantsville,nan,2026-03-25,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/03.25.2026/03.25.2026%20City%20Council%20Minutes%20FINAL.pdf?t=202605042246380,"MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON MARCH 25, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT 429
 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA ZOOM.
@@ -826,7 +826,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Fire Chief Jason Remick
-Alicia Fairbourne, City Rec",web,2026-05-11T17:14:58.753159+00:00,,,,
+Alicia Fairbourne, City Rec",web,2026-05-11T17:14:58.753159+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_7583996639448905951,Grantsville,nan,2026-03-25,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/03.25.2026/03.25.2026%20Agenda%20Packet.pdf?t=202603241807430,"March 25, 2026
 City Council Meeting
 Information Packet
@@ -845,7 +845,7 @@ February 18, 2026 City
 Council Meeting Minutes
 MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON FEBRUARY 18TH, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT
-429 EAST MAIN STREET,",web,2026-05-25T16:36:14.478799+00:00,,,,
+429 EAST MAIN STREET,",web,2026-05-25T16:36:14.478799+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_3510126231556186358,Grantsville,nan,2026-04-01,Agenda,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.01.2026/04.01.2026%20Council%20Meeting%20Agenda%20AMENDED.pdf?t=202603311736360,"PUBLIC NOTICE:
 The Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, April 1, 2026 in
 person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm.
@@ -857,7 +857,7 @@ AGENDA:
 2. Summary Action Items
 a. Approval of Minutes from the March 25, 2026 City Council Regular Meeting
 b. Approval of bills
-3. Presentation of a Community Enhancement grant for the Gr",web,2026-05-25T16:36:10.450754+00:00,,,,
+3. Presentation of a Community Enhancement grant for the Gr",web,2026-05-25T16:36:10.450754+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_1486120910181399845,Grantsville,nan,2026-04-01,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.01.2026/04.01.2026%20City%20Council%20Meeting%20Minutes%20DRAFT.pdf?t=202605042244340,"MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON APRIL 1, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT 429
 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA ZOOM.
@@ -869,7 +869,7 @@ Derek Dalton
 Council Members Excused: Brittany Skinner
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Bill Cobabe, Comm. Development Director
-Alicia Fairbourne,",web,2026-05-25T16:36:12.728000+00:00,,,,
+Alicia Fairbourne,",web,2026-05-25T16:36:12.728000+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_4140350968747533617_item0,Grantsville,nan,2026-04-01,Resolution 2026-17 - Professional landscape and memorial design services for Veterans Memorial Park,other,0.9,INFRASTRUCTURE,City Council consideration of approving Resolution 2026-17 to award a contract for professional landscape and memorial design services for Veterans Memorial Park to Fritz Custom C (applicant name appears truncated in document).,Veterans Memorial Park,,,Fritz Custom C,,,PROPOSED,15,Parks and recreation infrastructure improvement; memorial park enhancement project,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.01.2026/04.01.2026%20Agenda%20Packet%20AMENDED.pdf?t=202604060016340,,web,2026-05-25T16:36:11.044648+00:00,40.5303007,-112.2993634,nominatim,0.75
 web_2698137415833386221_item0,Grantsville,nan,2026-04-07,Falcon's Landing Subdivision - concept presentation and discussion,residential_subdivision,0.9,NEW_SUBDIVISION,Presentation and discussion of a proposed concept for Falcon's Landing Subdivision,,,,,,,PROPOSED,45,"Early stage concept presentation; no specific parcel, acreage, or unit count provided",https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2026/PC%20Agenda%204-7-26%20Updated.pdf?t=202604031047010,,web,2026-06-01T13:40:29.314249+00:00,,,,
 web_2698137415833386221_item1,Grantsville,nan,2026-04-07,"Conditional Use Permit for BnP Firearms and So Much More, LLC - Patsy Perry",residential_subdivision,0.9,COMMERCIAL_PROJECT,"Public hearing and consideration of a proposed Conditional Use Permit for Patsy Perry to own and operate BnP Firearms and So Much More, LLC",,,,"Patsy Perry / BnP Firearms and So Much More, LLC",,,PROPOSED,25,Firearms retail business conditional use permit; no location or zoning information provided in agenda,https://www.grantsvilleut.gov/Document_Center/Department/Community%20&%20Economic%20Development/P%20&%20Z%20Agendas/2026/PC%20Agenda%204-7-26%20Updated.pdf?t=202604031047010,,web,2026-06-01T13:40:29.314249+00:00,,,,
@@ -893,7 +893,7 @@ Council Members Excused: Jake Thomas
 Cameron Moulton
 Planning Commissioners Present:
 Jason Hill
-Chair ",web,2026-05-25T16:36:10.231892+00:00,,,,
+Chair ",web,2026-05-25T16:36:10.231892+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_4237275619546224033_item0,Grantsville,nan,2026-04-14,Grantsville City Master Transportation Plan - Presentation and Discussion,other,0.9,INFRASTRUCTURE,"Planning Commission and City Council work meeting to discuss the Grantsville City Master Transportation Plan, including current conditions, future transportation needs, and potential improvements. No formal action will be taken at this meeting.","Grantsville, UT",,,,,,PROPOSED,45,This is a work meeting/discussion item with no formal action. Indicates city is in planning phase for transportation infrastructure updates.,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.14.2026/Combined%20Work%20Meeting%20Packet%204-14-26.pdf?t=202604131125430,,web,2026-06-01T13:40:28.561115+00:00,40.6000817,-112.463531,nominatim,0.75
 pmn_1071699,Grantsville,Grantsville City Planning Commission,2026-04-14,"Planning Commission Combined Work Meeting April 14th, 2026",nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1071699.html,"PUBLIC NOTICE
 The Grantsville City Planning Commission will hold a Work Meeting with the Grantsville City Council at 7:00 p.m. on Tuesday, April 14, 2026 at 429 East Main Street, Grantsville, UT 84029 and electronically via Zoom. The agenda is as follows:
@@ -926,7 +926,7 @@ AGENDA:
 2. Summary Action Items
 a. Approval of Minutes from the April 1, 2026 City Council Regular Meeting
 b. Approval of bills
-3. Consideration of Resolution 2026-24 approving the appointment of Candy Swallom to the Gra",web,2026-06-01T13:40:22.677124+00:00,,,,
+3. Consideration of Resolution 2026-24 approving the appointment of Candy Swallom to the Gra",web,2026-06-01T13:40:22.677124+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_7919051817675415671,Grantsville,nan,2026-04-15,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.15.2026/04.15.2026%20City%20Council%20Regular%20Meeting%20and%20Public%20Hearing%20Minutes%20FINAL.pdf?t=202605071507040,"MINUTES OF THE BUSINESS MEETING OF THE GRANTSVILLE CITY COUNCIL,
 HELD ON APRIL 15TH, 2026 AT THE GRANTSVILLE CITY HALL, LOCATED AT 429
 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA ZOOM.
@@ -938,7 +938,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Aspen Clegg, Finance Director
-Alicia Fairbourne, ",web,2026-06-01T13:40:26.761251+00:00,,,,
+Alicia Fairbourne, ",web,2026-06-01T13:40:26.761251+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_5079330928387171721,Grantsville,nan,2026-04-15,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/04.15.2026/04.15.2026%20Agenda%20Packet.pdf?t=202604131127060,"April 15, 2026
 City Council Meeting
 Information Packet
@@ -988,7 +988,7 @@ The agenda is as follows:
 ROLL CALL
 AGENDA:
 1. Training of roles and responsibilities of Legal Department
-2. Training of roles and responsibilities of City Recorder and Open Public Meetings Act tr",web,2026-06-01T13:40:20.210900+00:00,,,,
+2. Training of roles and responsibilities of City Recorder and Open Public Meetings Act tr",web,2026-06-01T13:40:20.210900+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_4872386958922147938,Grantsville,nan,2026-05-01,Minutes,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/05.01.2026/05.01.2026%20City%20Council%20Special%20Work%20Session%20Minutes%20FINAL.pdf?t=202605261915080,"MINUTES OF THE SPECIAL WORK MEETING OF THE GRANTSVILLE CITY
 COUNCIL, HELD ON MAY 1ST, 2026 AT GRANTSVILLE CITY HALL, LOCATED AT
 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND ELECTRONICALLY VIA
@@ -1000,7 +1000,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Heidi Jeffries, Human Resources / Treasurer
-Alicia F",web,2026-06-01T13:40:22.405826+00:00,,,,
+Alicia F",web,2026-06-01T13:40:22.405826+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_813360534832952365,Grantsville,nan,2026-05-01,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/05.01.2026/05.01.2026%20Council%20Work%20Meeting%20Packet.pdf?t=202605071515260,"May 1, 2026
 City Council Special
 Work Meeting
@@ -1041,7 +1041,7 @@ AGENDA:
 2. Summary Action Items
 a. Approval of Minutes from the April 1, 2026 City Council Regular Meeting
 b. Approval of Minutes from the April 14, 2026 City Council and Planning Commission
-",web,2026-06-01T13:40:13.996715+00:00,,,,
+",web,2026-06-01T13:40:13.996715+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1077925_item0,Grantsville,Grantsville City Council,2026-05-06,General Plan Amendment for Wellstone Subdivision,nan,0.9,GENERAL_PLAN_AMENDMENT,"Consideration of Ordinance 2026-19 approving a General Plan Amendment for the Wellstone Subdivision. Item continued to May 20, 2026.",,,,,,,CONTINUED,65,"Public hearing item continued to May 20, 2026 meeting",https://www.utah.gov/pmn/sitemap/notice/1077925.html,,pmn,2026-06-01T13:46:15.662823Z,,,,
 pmn_1077925_item1,Grantsville,Grantsville City Council,2026-05-06,Rezone from R-1-21 to R-1-12 for Wellstone Subdivision,nan,0.9,REZONE,"Consideration of Ordinance 2026-20 approving a rezone from R-1-21 to R-1-12 for the Wellstone subdivision. Item continued to May 20, 2026.",,,,,R-1-21,R-1-12,CONTINUED,70,"Public hearing item continued to May 20, 2026 meeting. Rezone to smaller lot minimum indicates higher density residential development.",https://www.utah.gov/pmn/sitemap/notice/1077925.html,,pmn,2026-06-01T13:46:15.662823Z,,,,
 pmn_1077925_item2,Grantsville,Grantsville City Council,2026-05-06,Plat amendment to Moody Acres Subdivision at 415 South Worthington Street,nan,0.9,NEW_SUBDIVISION,Consideration of Resolution 2026-30 approving a plat amendment to the Moody Acres Subdivision.,415 South Worthington Street,,,,,,PROPOSED,50,Public hearing item for plat amendment to existing subdivision,https://www.utah.gov/pmn/sitemap/notice/1077925.html,,pmn,2026-06-01T13:46:15.662823Z,,,,
@@ -1058,7 +1058,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Christy Montierth, Public Works Director
-Alicia Fair",web,2026-06-01T13:40:20.023600+00:00,,,,
+Alicia Fair",web,2026-06-01T13:40:20.023600+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1075747_item0,Grantsville,Grantsville City Council,2026-05-06,"Land Use and Management Code Amendments to Chapters 4, 6, 7, 8, 9, 14, 15, 16, 20, and 21",nan,0.9,GENERAL_PLAN_AMENDMENT,"Proposed amendments to Grantsville City Land Use and Management Code including revisions to improve organization, clarity, and administration. Changes include updates to definitions, formatting, cross-references, and modifications to development standards, procedures, and approval criteria across multiple chapters.","Grantsville City Hall, 429 E. Main Street, Grantsville, Utah, 84029",,,,,,PROPOSED,35,"Comprehensive code update affecting multiple regulatory chapters. Public hearing scheduled for May 6th, 2026 at 7:00 p.m. Full text will be available 10 days prior to hearing. This is procedural/administrative modernization rather than a specific development project.",https://www.utah.gov/pmn/sitemap/notice/1075747.html,,pmn,2026-06-01T13:46:15.662746Z,,,,
 pmn_1075745_item0,Grantsville,Grantsville City Council,2026-05-06,"Capital Facilities Plan, Impact Fee Facilities Plan, and Impact Fee Analysis Amendments",nan,0.9,INFRASTRUCTURE,"Public hearing to consider amendments to the City's Capital Facilities Plans (CFPs), Impact Fee Facilities Plans (IFFPs), and Impact Fee Analyses (IFAs). Proposed amendments include updates related to Drinking Water, Public Safety, Parks, Wastewater, Water Rights Acquisition, and Storm Drainage to reflect current and projected infrastructure needs to support growth and development within Grantsville City.","Grantsville City Hall, 429 E. Main Street, Grantsville, Utah 84029",,,,,,PROPOSED,60,"Infrastructure planning to support future growth and development. Transportation-related plans not included but will be considered at future hearing. Public hearing scheduled for May 6, 2026 at 7:00 p.m.",https://www.utah.gov/pmn/sitemap/notice/1075745.html,,pmn,2026-06-01T13:46:15.662749Z,40.6000544,-112.4462816,nominatim,0.75
 pmn_1075749_item0,Grantsville,Grantsville City Council,2026-05-06,Plat amendment to Moody Acres Subdivision at 415 South Worthington Street,nan,0.9,NEW_SUBDIVISION,Proposed amendment to adjust lot configuration in existing Moody Acres Subdivision to better align with future right-of-way and access improvements without increasing density.,415 South Worthington Street,,,,,,PROPOSED,25,Lot reconfiguration only; no density increase; infrastructure-driven adjustment for right-of-way alignment,https://www.utah.gov/pmn/sitemap/notice/1075749.html,"{""parcel_ids"": [""16-057-0-0002"", ""01-070-0-0096""]}",pmn,2026-06-01T13:46:15.662752Z,,,,
@@ -1099,7 +1099,7 @@ AGENDA:
 1. Discussion of the Memorandum of Understanding with the Tooele County School District
 2. Presentation and discussion of the FY27 budget (this is a discussion item only. No public comment
 or action will be taken.)
-a. Presentation of the proposed pr",web,2026-06-01T13:40:11.782219+00:00,,,,
+a. Presentation of the proposed pr",web,2026-06-01T13:40:11.782219+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1079295,Grantsville,Grantsville City Council,2026-05-11,Grantsville City Council Special Work Meeting,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1079295.html,"PUBLIC NOTICE:
 
 The Grantsville City Council will hold a Special Work Meeting on Monday, May 11, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 6:00 pm. 
@@ -1128,7 +1128,7 @@ Derek Dalton Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
 Michael Resare, City Manager Bill Cobabe, Comm. Development Director
-Alicia ",web,2026-06-01T13:40:13.558908+00:00,,,,
+Alicia ",web,2026-06-01T13:40:13.558908+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_457645689875325560,Grantsville,nan,2026-05-11,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/05.11.2026/Property%20Tax%20Impact%20Schedule%2005.06.2026.pdf?t=202605081937140,"GRANTSVILLE CITY CORPORATION
 PROPERTY TAX IMPACT SCHEDULE
 FISCAL YEAR 2026-2027
@@ -1156,7 +1156,7 @@ AGENDA:
 1. Closed Session – (Imminent Litigation, Real Estate Negotiations, Personnel)
 This portion of the meeting is closed to the public pursuant to the Open and Public Meetings Act,
 UCA § 52-4-205
-7:00 p.m",web,2026-06-01T13:40:07.873939+00:00,,,,
+7:00 p.m",web,2026-06-01T13:40:07.873939+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1081392_item0,Grantsville,Grantsville City Council,2026-05-18,Council Appeal Decision for driveway deviation at 175 N Hatchet Ranch Drive,nan,0.9,,"Council consideration of Resolution 2026-15 approving a driveway deviation for property at 175 N Hatchet Ranch Drive, subject to certain conditions","175 N Hatchet Ranch Drive, Grantsville",,,,,,PROPOSED,10,Appeal decision item; appears to be a variance/deviation request rather than development activity,https://www.utah.gov/pmn/sitemap/notice/1081392.html,,pmn,2026-06-01T13:46:15.662738Z,40.6056675,-112.47154,nominatim,0.75
 pmn_1081392_item1,Grantsville,Grantsville City Council,2026-05-18,Townhomes on Willow sidewalk improvements discussion,nan,0.9,INFRASTRUCTURE,Discussion and Council direction regarding sidewalk improvements or installation for Townhomes on Willow project,,,,,,,PROPOSED,15,Infrastructure discussion related to existing or proposed townhome development,https://www.utah.gov/pmn/sitemap/notice/1081392.html,,pmn,2026-06-01T13:46:15.662738Z,,,,
 pmn_1081392_item2,Grantsville,Grantsville City Council,2026-05-18,General Plan Amendment for Wellstone Subdivision,nan,0.9,GENERAL_PLAN_AMENDMENT,Public hearing and consideration of Ordinance 2026-19 approving a General Plan Amendment for the Wellstone Subdivision,,,,,,,PROPOSED,60,General Plan Amendment paired with rezone; indicates significant land use change for residential subdivision,https://www.utah.gov/pmn/sitemap/notice/1081392.html,,pmn,2026-06-01T13:46:15.662738Z,,,,
@@ -1171,7 +1171,7 @@ Rhett Butler Jake Thomas
 Derek Dalton excused at 9:24 p.m. Jeff Williams
 Council Members Excused: none.
 Appointed Officers and Employees Present:
-Michael Resare, City Manager via Zo",web,2026-06-01T13:40:11.608659+00:00,,,,
+Michael Resare, City Manager via Zo",web,2026-06-01T13:40:11.608659+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 web_1183775545798185981,Grantsville,nan,2026-05-18,Packet,other,0.0,,,,,,,,,PROPOSED,,,https://www.grantsvilleut.gov/Document_Center/Government/City%20Council/2026/05.18.2026/05.18.2026%20Council%20Meeting%20Materials%20v1.pdf?t=202605152115170,"May 18, 2026
 City Council Meeting
 Information Packet
@@ -1211,7 +1211,7 @@ AGENDA:
 a. Approval of Minutes from the May 18, 2026 City Council Regular Meeting
 b. Approval of bills
 3. Update from the victim advocate
-4. Consideration of Resolution 2026-40 authorizing the addit",web,2026-06-01T13:40:04.776587+00:00,,,,
+4. Consideration of Resolution 2026-40 authorizing the addit",web,2026-06-01T13:40:04.776587+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1084941_item0,Grantsville,Grantsville City Council,2026-06-03,Resolution 2026-40: Solar energy component addition to Wastewater Treatment Plant capital project,nan,0.9,INFRASTRUCTURE,Authorization for addition of solar energy component to Wastewater Treatment Plant capital project and authorization to use bond proceeds for solar development,,,,,,,PROPOSED,30,Infrastructure improvement; municipal utility enhancement,https://www.utah.gov/pmn/sitemap/notice/1084941.html,,pmn,2026-06-01T13:46:15.662723Z,,,,
 pmn_1084941_item1,Grantsville,Grantsville City Council,2026-06-03,Ordinance 2026-22: General Plan Amendment for Mack Canyon Subdivision,nan,0.9,GENERAL_PLAN_AMENDMENT,"General Plan Amendment for parcels 01-065-0-0074 and 01-065-0-0014 amending future land use map from Mixed-Use Density, High Single-Family Density Residential, and Low Density Residential to Medium Density Residential for the Mack Canyon Subdivision",near Mack Canyon Road and SR-138,,,,,,PROPOSED,65,Future land use map amendment to support residential development; public hearing scheduled,https://www.utah.gov/pmn/sitemap/notice/1084941.html,"{""parcel_ids"": [""01-065-0-0074"", ""01-065-0-0014""]}",pmn,2026-06-01T13:46:15.662723Z,40.603643204437915,-112.49241158718596,parcel_id,0.95
 pmn_1084941_item2,Grantsville,Grantsville City Council,2026-06-03,Ordinance 2026-23: Rezone Mack Canyon Subdivision from R-1-21 to R-1-12,nan,0.9,REZONE,"Rezone of parcels 01-065-0-0074 and 01-065-0-0014 from R-1-21 (Single Family Residential, 21,000 sq ft minimum lot size) to R-1-12 (Single Family Residential, 12,000 sq ft minimum lot size) for the Mack Canyon Subdivision",near Mack Canyon Road and SR-138,,,,R-1-21,R-1-12,PROPOSED,70,"Zone change allowing smaller minimum lot sizes (12,000 sq ft vs 21,000 sq ft); enables higher density residential development; public hearing scheduled",https://www.utah.gov/pmn/sitemap/notice/1084941.html,"{""parcel_ids"": [""01-065-0-0074"", ""01-065-0-0014""]}",pmn,2026-06-01T13:46:15.662723Z,40.603643204437915,-112.49241158718596,parcel_id,0.95
@@ -1242,7 +1242,7 @@ Copies of the proposed tentative budget, proposed resolution, and Property Tax I
 
 DATED this 22nd day of May, 2026.
 Alicia Fairbourne
-Grantsville City Recorder",pmn,2026-06-01T13:46:15.662729Z,,,,
+Grantsville City Recorder",pmn,2026-06-01T13:46:15.662729Z,40.6000544,-112.4462816,haiku_pdf_address,0.55
 pmn_1083285_item0,Grantsville,Grantsville City Council,2026-06-03,General Plan Amendment for Mack Canyon Subdivision (parcels 01-065-0-0074 and 01-065-0-0014),nan,0.9,GENERAL_PLAN_AMENDMENT,"Amendment to Future Land Use Map changing parcels from Mixed-Use Density, High Single-Family Density Residential, and Low Density Residential to Medium Density Residential","Mack Canyon Road and SR-138, Grantsville, Utah",,,,,,PROPOSED,65,"Part of Mack Canyon Subdivision project; public hearing scheduled for June 3, 2026",https://www.utah.gov/pmn/sitemap/notice/1083285.html,"{""parcel_ids"": [""01-065-0-0074"", ""01-065-0-0014""]}",pmn,2026-06-01T13:46:15.662735Z,40.603643204437915,-112.49241158718596,parcel_id,0.95
 pmn_1083285_item1,Grantsville,Grantsville City Council,2026-06-03,Rezone of Mack Canyon Subdivision parcels from R-1-21 to R-1-12,nan,0.9,REZONE,"Rezone of parcels 01-065-0-0074 and 01-065-0-0014 from R-1-21 (Single-Family Residential, 21,000 sq ft minimum lot) to R-1-12 (Single-Family Residential, 12,000 sq ft minimum lot)","Mack Canyon Road and SR-138, Grantsville, Utah",,,,R-1-21,R-1-12,PROPOSED,72,Allows for higher density single-family development; part of Mack Canyon Subdivision master development,https://www.utah.gov/pmn/sitemap/notice/1083285.html,"{""parcel_ids"": [""01-065-0-0074"", ""01-065-0-0014""]}",pmn,2026-06-01T13:46:15.662735Z,40.603643204437915,-112.49241158718596,parcel_id,0.95
 pmn_1083285_item2,Grantsville,Grantsville City Council,2026-06-03,Master Development Agreement for Mack Canyon Subdivision,nan,0.9,LARGE_PROJECT,Approval of Master Development Agreement for the Mack Canyon Subdivision project,"Mack Canyon Road and SR-138, Grantsville, Utah",,,,,,PROPOSED,75,"Master development agreement coordinates general plan amendment and rezone for Mack Canyon Subdivision; public hearing June 3, 2026",https://www.utah.gov/pmn/sitemap/notice/1083285.html,"{""parcel_ids"": [""01-065-0-0074"", ""01-065-0-0014""]}",pmn,2026-06-01T13:46:15.662735Z,,,,
@@ -1263,7 +1263,7 @@ GRANTSVILLE CITY COUNCIL, HELD ON MAY 18, 2026 AT THE GRANTSVILLE
 CITY HALL, LOCATED AT 429 EAST MAIN STREET, GRANTSVILLE, UTAH AND
 ELECTRONICALLY VIA ZOOM. THE MEETING BEGAN AT 6:30 P.M.
 Mayor and Council Members Present:
-May",web,2026-06-01T13:40:07.612179+00:00,,,,
+May",web,2026-06-01T13:40:07.612179+00:00,40.6000544,-112.4462816,haiku_pdf_address,0.70
 pmn_1050603_item0,Herriman,City Council,2026-01-14,Fiscal Year 2027 and 2028 Budget Discussion: Revenues and Debt Service,nan,0.9,,City Council review and discussion of proposed fiscal year 2027 and 2028 budgets focusing on revenues and debt service obligations.,,,,,,,PROPOSED,0,Finance planning matter; no direct development activity.,https://www.utah.gov/pmn/sitemap/notice/1050603.html,,pmn,2026-06-01T13:46:15.661870Z,,,,
 pmn_1050603_item1,Herriman,City Council,2026-01-14,Proposed Transportation Master Plan and Impact Fee Analysis,nan,0.9,INFRASTRUCTURE,Discussion of a proposed Transportation Master Plan and associated impact fee analysis by City Engineer.,,,,,,,PROPOSED,25,Infrastructure planning document; indicates future transportation improvements and developer impact fees.,https://www.utah.gov/pmn/sitemap/notice/1050603.html,,pmn,2026-06-01T13:46:15.661870Z,,,,
 pmn_1050603_item2,Herriman,City Council,2026-01-14,Amendment to Teton Commercial Project Master Development Agreement,nan,0.9,COMMERCIAL_PROJECT,Discussion regarding a proposed amendment to the existing Teton Commercial Project Master Development Agreement.,,,,,,,PROPOSED,45,Modification to existing commercial development agreement; specific details not provided in agenda.,https://www.utah.gov/pmn/sitemap/notice/1050603.html,,pmn,2026-06-01T13:46:15.661870Z,,,,
@@ -1667,7 +1667,7 @@ LEHI CITY
 PUBLIC HEARING
 
 
-Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 26, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of receiving input regarding the FY2027 Executive Municipal Officers Compensation Increases. Public comment is invited.",pmn,2026-06-01T13:46:15.663307Z,,,,
+Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 26, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of receiving input regarding the FY2027 Executive Municipal Officers Compensation Increases. Public comment is invited.",pmn,2026-06-01T13:46:15.663307Z,40.4213651,-111.8480146,haiku_pdf_address,0.55
 pmn_1083851_item0,Lehi,Planning Commission,2026-05-27,Bishop Development Agreement review to increase lots from current to 13 in 7-acre subdivision at 2424 West 900 North,nan,0.9,NEW_SUBDIVISION,Public hearing and consideration of Terry Bishop's request to modify an existing development agreement to increase the number of lots in a subdivision to 13 lots on a 7-acre parcel. This is a subdivision lot count increase requiring planning commission review.,"2424 West 900 North, Lehi, UT",7,13,Terry Bishop,,,PROPOSED,65,"Development agreement modification indicates existing approved project being expanded. 13 lots on 7 acres suggests approximately 0.54 acres per lot, moderate density residential.",https://www.utah.gov/pmn/sitemap/notice/1083851.html,,pmn,2026-06-01T13:46:15.663503Z,40.3987621,-111.8883871,nominatim,0.75
 pmn_1083851_item1,Lehi,Planning Commission,2026-05-27,Amendment to Chapter 35 Community Forestry Development Code regarding migratory bird protection and public tree planting list,nan,0.9,GENERAL_PLAN_AMENDMENT,Public hearing and recommendation of Lehi City's request to amend Chapter 35 of the Development Code regarding Community Forestry. Amendments add requirements for trees affected by migratory birds and clarify the City's recommended public tree planting list.,,,,,,,PROPOSED,15,Code amendment with environmental/conservation focus. May impact tree removal/preservation requirements in future developments.,https://www.utah.gov/pmn/sitemap/notice/1083851.html,,pmn,2026-06-01T13:46:15.663503Z,,,,
 pmn_1083851_item2,Lehi,Planning Commission,2026-05-27,Amendment to Chapter 26 Accessory Uses Development Code to update Detached Accessory Dwelling Unit (DADU) requirements per 2026 State Legislation,nan,0.9,GENERAL_PLAN_AMENDMENT,Public hearing and recommendation of Lehi City's request to amend Chapter 26 of the Development Code regarding Accessory Uses. Amendment updates requirements for Detached Accessory Dwelling Units (DADUs) to comply with 2026 State Legislation.,,,,,,,PROPOSED,35,State-mandated code update to enable/clarify DADU development standards. May increase allowable density in residential zones and facilitate secondary unit construction.,https://www.utah.gov/pmn/sitemap/notice/1083851.html,,pmn,2026-06-01T13:46:15.663503Z,,,,
@@ -1681,13 +1681,13 @@ pmn_1082329,Lehi,City Council,2026-06-09,Lehi City Notice of Public Hearing FY 2
 
 Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding an amendment to the Lehi City FY2026 Budget.
 
-Dated this 20th day of May, 2026.",pmn,2026-06-01T13:46:15.663304Z,,,,
+Dated this 20th day of May, 2026.",pmn,2026-06-01T13:46:15.663304Z,40.4213651,-111.8480146,haiku_pdf_address,0.55
 pmn_1082333,Lehi,City Council,2026-06-09,Lehi City Notice of Public Hearing- Fee Schedule Amendment Power,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082333.html,"LEHI CITY NOTICE OF PUBLIC HEARING
 FEE SCHEDULE AMENDMENT 
 
 Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., in the Council Chambers at 153 N 100 E, Lehi, UT  84043, for the purpose of receiving input from the public regarding and amendment to the Lehi City FY2027 Consolidated Fee Schedule for Power Fees.
 
-Dated this 20th day of May, 2026.",pmn,2026-06-01T13:46:15.663300Z,,,,
+Dated this 20th day of May, 2026.",pmn,2026-06-01T13:46:15.663300Z,40.4213651,-111.8480146,haiku_pdf_address,0.70
 pmn_1084221_item0,Lehi,Planning Commission,2026-06-11,"Prestwich Zone Change – 1.09 acres at 2004 North 900 West, RA-1 to R-2",nan,0.9,REZONE,TN Contracting LLC requesting zone change from RA-1 (Agricultural Residential) to R-2 (Residential) for 1.09-acre parcel,"2004 North 900 West, Lehi",1.09,,TN Contracting LLC,RA-1,R-2,PROPOSED,55,Small residential rezone; likely enabling single-family or duplex development on agricultural land,https://www.utah.gov/pmn/sitemap/notice/1084221.html,,pmn,2026-06-01T13:46:15.663497Z,,,,
 pmn_1084221_item1,Lehi,Planning Commission,2026-06-11,Conditional Use Approval – Two Pylon Signs for The Collective at 1050 West Sunrise Way,signage,0.9,,Trademark Visual requesting conditional use approval for two pylon signs with exception for greater height and sign area at The Collective commercial development,"1050 West Sunrise Way, Lehi",,,Trademark Visual,,,PROPOSED,15,Sign-only application; requesting height and area variances for commercial signage,https://www.utah.gov/pmn/sitemap/notice/1084221.html,,pmn,2026-06-01T13:46:15.663497Z,,,,
 pmn_1084221_item2,Lehi,Planning Commission,2026-06-11,Cortese Preliminary Subdivision – 8-lot residential development at 1450 West 1220 North,nan,0.9,NEW_SUBDIVISION,"Grow Development requesting approval of Cortese Preliminary Subdivision, an 8-lot residential plat in R-1-22 zone","1450 West 1220 North, Lehi",,8,Grow Development,,,PROPOSED,45,Preliminary plat approval for small residential subdivision; low-density zoning,https://www.utah.gov/pmn/sitemap/notice/1084221.html,,pmn,2026-06-01T13:46:15.663497Z,,,,
@@ -1796,7 +1796,7 @@ The Council will accept public comment and may approve the following items:
 
 1.	Compensation Increase for Defined Executive Municipal Officers.
 2.	Consideration of Ordinance 26-26 (06-02-26). An ordinance of the Council of the City of Saratoga Springs, adopting an Interim Budget, which includes a proposed property tax rate increase for Fiscal Year 2026-2027, a compensation schedule for appointed and elected municipal officers, and a compensation increase for defined executive municipal officers, and will be in effect from July 1, 2026, until the date before September 1, 2026, on which the City will adopt a final budget, subject to the requirements of Utah Code Subsection 59-2-919.
-3.	Budget Amendment #5 for Fiscal Year 2025-2026. Resolution R26-31 (06-02-",pmn,2026-06-01T13:46:15.662048Z,,,,
+3.	Budget Amendment #5 for Fiscal Year 2025-2026. Resolution R26-31 (06-02-",pmn,2026-06-01T13:46:15.662048Z,40.3567918,-111.9008823,haiku_pdf_address,0.55
 pmn_1082945,Saratoga Springs,City of Saratoga Springs City Council,2026-06-02,City Council Public Hearing - Interim Budget for FY 26-27,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082945.html,"Notice of Public Hearing
 
 
@@ -1820,7 +1820,7 @@ Notice is hereby given that the City of Saratoga Springs City Council will condu
 The public hearing will be held during City Council meeting on Tuesday, June 2, 2026, at 6:00 p.m. in the City of Saratoga Springs Council Chambers located at 319 South Saratoga Road, Saratoga Springs, Utah. 
 
 Questions may be directed to the City Finance Dept. 801-766-9793.
-Public Comments may be submitted to comments@saratogasprings-ut.gov",pmn,2026-06-01T13:46:15.662058Z,,,,
+Public Comments may be submitted to comments@saratogasprings-ut.gov",pmn,2026-06-01T13:46:15.662058Z,40.353067,-111.9026002,haiku_pdf_address,0.55
 pmn_1067391,South Jordan,Planning Commission,2026-03-24,Notice of Meeting Cancellation,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1067391.html,"NOTICE OF MEETING CANCELLATION
 
 
@@ -1942,7 +1942,7 @@ In addition to in-person attendance, the City intends to provide virtual access 
 
 Please note that attendees joining virtually or by phone may not comment during public comment or a public hearing; to comment, individuals must attend in person or submit written comments prior to the meeting. To ensure comments are received, please submit them in writing to City Recorder Anna Crookston at acrookston@sjc.utah.gov by 3:00 p.m. on the day of the meeting. 
 
-The ability to participate virtually depends on the individual's internet connection. Instructions on how to join virtually a",pmn,2026-06-01T13:46:15.660803Z,,,,
+The ability to participate virtually depends on the individual's internet connection. Instructions on how to join virtually a",pmn,2026-06-01T13:46:15.660803Z,40.5582032,-111.9364438,haiku_pdf_address,0.70
 pmn_1078949_item0,South Jordan,City Council,2026-05-19,Ordinance 2026-11: Text amendments to Planning Commission removal criteria and General Use Regulations,nan,0.9,,Text amendments to revise criteria for removal of planning commissioners and to allow text amendments for new and unlisted uses to go directly to city council without planning commission review.,,,,,,,PROPOSED,15,Procedural/administrative ordinance affecting development review processes,https://www.utah.gov/pmn/sitemap/notice/1078949.html,,pmn,2026-06-01T13:46:15.660808Z,,,,
 pmn_1078949_item1,South Jordan,City Council,2026-05-19,Zoning Ordinance 2026-04-z: Rezone 10981 S Temple Drive from A-1 to R-2.5 (Brewer rezone),nan,0.9,REZONE,Rezoning of property at 10981 S Temple Drive from Agricultural (A-1) to Residential (R-2.5) zoning district. Known as Brewer rezone.,"10981 S Temple Drive, South Jordan",,,,A-1,R-2.5,PROPOSED,65,Agricultural to residential rezone suggests conversion of farmland for residential development,https://www.utah.gov/pmn/sitemap/notice/1078949.html,,pmn,2026-06-01T13:46:15.660808Z,,,,
 pmn_1078949_item2,South Jordan,City Council,2026-05-19,Zoning Ordinance 2026-05-z: Rezone 9633 S Temple Drive from A-5 to R-2.5 (The Reserve Residential Rezone),nan,0.9,REZONE,Rezoning of property at 9633 S Temple Drive from Agricultural (A-5) to Residential (R-2.5) zoning district. Known as The Reserve Residential Rezone.,"9633 S Temple Drive, South Jordan",,,,A-5,R-2.5,PROPOSED,70,Agricultural to residential rezone; named project 'The Reserve' suggests master-planned residential community,https://www.utah.gov/pmn/sitemap/notice/1078949.html,,pmn,2026-06-01T13:46:15.660808Z,,,,
@@ -1969,7 +1969,7 @@ STATE OF UTAH		)
 			: §
 COUNTY OF SALT LAKE	)
 	
-I, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 20th Day of May, 2026.",pmn,2026-06-01T13:46:15.660791Z,,,,
+I, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 20th Day of May, 2026.",pmn,2026-06-01T13:46:15.660791Z,40.5573506,-111.9206062,haiku_pdf_address,0.70
 pmn_1080751_item0,South Jordan,Planning Commission,2026-05-26,Veendendaal Garage Conditional Use Permit at 11739 S 1220 W,nan,0.9,DEVELOPER_ACTIVITY,Conditional Use Permit application for a garage use at the specified address. Applicant Chip Galloway is seeking approval for this conditional use.,"11739 S 1220 W, South Jordan",,,Chip Galloway,,,PROPOSED,15,Conditional Use Permit application (PLCUP202600078). Garage use typically requires CUP in residential zones. Low growth impact.,https://www.utah.gov/pmn/sitemap/notice/1080751.html,,pmn,2026-06-01T13:46:15.661235Z,40.5659433,-112.0581985,nominatim,0.75
 pmn_1080751_item1,South Jordan,Planning Commission,2026-05-26,Ordinance 2026-15 - Water Share Exactions Municipal Code Amendment,nan,0.9,INFRASTRUCTURE,City of South Jordan proposing amendment to Section 16.04.320 of Municipal Code regarding water share exactions. This involves modifications to development impact fees or requirements related to water shares.,,,,City of South Jordan,,,PROPOSED,45,Code amendment affecting infrastructure exaction requirements city-wide. Water share exactions are standard development impact fees in Utah and affect project feasibility and costs.,https://www.utah.gov/pmn/sitemap/notice/1080751.html,,pmn,2026-06-01T13:46:15.661235Z,,,,
 pmn_1083033,South Jordan,Planning Commission,2026-05-26,South Jordan Planning Commission Meeting,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1083033.html,"Planning Commission Meeting CITY OF SOUTH JORDAN PLANNING COMMISSION MEETING AGENDA
@@ -2015,7 +2015,7 @@ STATE OF UTAH		)
 			: §
 COUNTY OF SALT LAKE	)
 	
-I, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 27th Day of May, 2026.",pmn,2026-06-01T13:46:15.660785Z,,,,
+I, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 27th Day of May, 2026.",pmn,2026-06-01T13:46:15.660785Z,40.551158,-111.93877,haiku_pdf_address,0.70
 pmn_1084255,South Jordan,City Council,2026-06-02,"City Council Study Meeting scheduled for June 2, 2026, at 4:30 p.m. has been CANCELED",nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1084255.html,"CITY OF SOUTH JORDAN CITY COUNCIL STUDY MEETING
 
 NOTICE IS HEREBY GIVEN, the City Council Study Meeting scheduled for June 2, 2026, at 4:30 p.m. has been CANCELED.
@@ -2031,7 +2031,7 @@ TUESDAY, JUNE 02, 2026 at 6:30 p.m.
 Notice is hereby given that the South Jordan City Council will hold a Combined City Council and Redevelopment Agency meeting at 6:30 p.m. on Tuesday, June 2, 2026. The meeting will be conducted in person in the City Council Chambers, located at 1600 W. Towne Center Drive, South Jordan, Utah, and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the meeting. The agenda may be amended, and an executive session may be held at the end of the meeting. Times listed are approximate and may be accelerated or delayed.
 In addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. 
 Please note that attendees joining virtually or by phone may not comment during public comment or a public hearing; to comment, individuals must attend in person or submit written comments prior to the meeting. To ensure comments are received, please submit them in writing to City Recorder Anna Crookston at acrookston@sjc.utah.gov by 3:00 p.m. on the day of the meeting. 
-The ability to participate virtually depends on the indi",pmn,2026-06-01T13:46:15.660732Z,,,,
+The ability to participate virtually depends on the indi",pmn,2026-06-01T13:46:15.660732Z,40.5582032,-111.9364438,haiku_pdf_address,0.55
 pmn_1082983_item0,South Jordan,City Council,2026-06-02,"Ordinance 2026-15, Amending 16.04.320 Water Shares Required",nan,0.9,INFRASTRUCTURE,"Amendment to municipal code regarding water share requirements, likely related to development impact fees or water availability for new projects",,,,,,,PROPOSED,35,Procedural/policy item affecting development infrastructure requirements,https://www.utah.gov/pmn/sitemap/notice/1082983.html,,pmn,2026-06-01T13:46:15.660747Z,,,,
 pmn_1082983_item1,South Jordan,City Council,2026-06-02,The Reserve Residential Rezone at 9633 S Temple Dr,nan,0.9,REZONE,Residential rezone application for The Reserve development project,"9633 S Temple Drive, South Jordan, Utah",,,Derek Rindlisbacher,,,PROPOSED,72,"Residential development rezone; applicant Derek Rindlisbacher; project name 'The Reserve'; public hearing scheduled for June 2, 2026",https://www.utah.gov/pmn/sitemap/notice/1082983.html,,pmn,2026-06-01T13:46:15.660747Z,,,,
 pmn_1082981,South Jordan,City Council,2026-06-02,Notice of Public Hearing,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082981.html,"CITY OF SOUTH JORDAN
@@ -2039,7 +2039,7 @@ NOTICE OF PUBLIC HEARING
 Notice is hereby given that the South Jordan City Council will hold a public hearing on Tuesday, June 2, 2026 at 6:30 p.m., to receive comment regarding the Budget of South Jordan City for fiscal year 2026-2027. 
 The hearing will be held in the City Council Chambers at South Jordan City Hall, 1600 West Towne Center Drive and also electronically via Zoom.us phone and video conferencing. Citizens of South Jordan City are invited to offer oral comments and questions during the hearing regarding the Budget. Written statements may be submitted prior to the hearing date to the Recorder's Office. Copies of the Budget will be available beginning May 22, 2026, between the hours of 8:00 am and 5:00 pm, Monday through Thursday, and 8:00 am to 12:00 pm on Friday at the Recorder's Office, 1600 West Towne Center Drive and online at www.sjc.utah.gov. 
 
-All those who desire to attend the meeting electronically, please visit www.sjc.utah.gov/241/City-Council for further instructions.",pmn,2026-06-01T13:46:15.660754Z,,,,
+All those who desire to attend the meeting electronically, please visit www.sjc.utah.gov/241/City-Council for further instructions.",pmn,2026-06-01T13:46:15.660754Z,40.5584954,-111.9367887,haiku_pdf_address,0.55
 pmn_1082979,South Jordan,City Council,2026-06-02,Notice of Public Hearing,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1082979.html,"CITY OF SOUTH JORDAN
 NOTICE OF PUBLIC HEARING
 Notice is hereby given that the South Jordan City Council will hold a public hearing on Tuesday, June 2, 2026 at 6:30 p.m., to receive comment regarding the proposed compensation increases for specific City Officers. 
@@ -2174,7 +2174,7 @@ SPANISH FORK CITY does not discriminate on the basis of race, color, national or
 A. Budget Document
 
 B. Adjourn to a Closed Meeting
-2. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, ",pmn,2026-06-01T13:46:15.664075Z,,,,
+2. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, ",pmn,2026-06-01T13:46:15.664075Z,40.1088635,-111.6553552,haiku_pdf_address,0.55
 pmn_1083409,Spanish Fork,City Council,2026-06-02,Spanish Fork City Council Notice of the Fiscal Year 2027 Budget Public Hearing,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1083409.html,"NOTICE OF THE FISCAL YEAR 2027 BUDGET PUBLIC HEARING  
 A Public Hearing for the Spanish Fork City Fiscal Year 2027 Budget will be held before the Spanish Fork City Council on June 2nd, 2026 at 6:00 P.M. This hearing is to receive public comment for the following items:
  1) The proposed Budget for Fiscal Year 2027
@@ -2183,7 +2183,7 @@ Donations in the form of cash and fee waivers;
 All fees and utility rates schedule; 
 This will be held in the Spanish Fork City Council Chambers at 6 pm located at 80 S Main Street, Spanish Fork, Utah. All interested residents are invited to attend.
 If you need special accommodation to participate in the meeting please contact the City Manager's office, 801-804-4530.
-This was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 05-26-2026",pmn,2026-06-01T13:46:15.664072Z,,,,
+This was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 05-26-2026",pmn,2026-06-01T13:46:15.664072Z,40.1088635,-111.6553552,haiku_pdf_address,0.55
 pmn_1083411,Spanish Fork,City Council,2026-06-02,Spanish Fork City Council Notice to Spanish Fork City Utility Customers 2027,nan,nan,,,,,,,,,PROPOSED,,,https://www.utah.gov/pmn/sitemap/notice/1083411.html,"NOTICE TO SPANISH FORK CITY UTILITY CUSTOMERS
 
 State law requires that the City provide an annual disclosure on funds transferred from a utility enterprise fund to any other fund. The City has budgeted the following transfers. 
@@ -2226,7 +2226,7 @@ A. Prayer & Motivational Message
 B. Pledge, led by invitation
 C. Recognitions
 
-4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been ",pmn,2026-06-01T13:46:15.664064Z,,,,
+4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been ",pmn,2026-06-01T13:46:15.664064Z,40.1088635,-111.6553552,haiku_pdf_address,0.55
 pmn_1084041_item0,Spanish Fork,Planning Commission,2026-06-03,Title 15 Flood Damage Prevention Ordinance Updates,nan,0.9,,Public hearing and consideration of updates to the city's flood plain ordinance to align with current effective FIRM/FIS flood maps and standards.,,,,,,,PROPOSED,15,Regulatory update affecting flood-prone development areas; may impact project feasibility in flood plains,https://www.utah.gov/pmn/sitemap/notice/1084041.html,,pmn,2026-06-01T13:46:15.665164Z,,,,
 pmn_1084041_item1,Spanish Fork,Planning Commission,2026-06-03,Construction Standards Revision (26.01),nan,0.9,,Public hearing and consideration of various updates being made to the City's Construction Standards.,,,,,,,PROPOSED,20,Broad construction standards revision; specifics of updates not detailed in agenda packet,https://www.utah.gov/pmn/sitemap/notice/1084041.html,,pmn,2026-06-01T13:46:15.665164Z,,,,
 pmn_1069087_item0,Tooele,City Council,2026-04-01,Ordinance 2025-32 - Recreational Vehicle Parking Code Amendment,nan,0.9,,Public hearing and motion on ordinance amending Tooele City Code Section 7-9-2 regarding the parking of recreational vehicles,,,,,,,PROPOSED,0,"Municipal code amendment, regulatory in nature. Presented by Adrian Day, Police Chief.",https://www.utah.gov/pmn/sitemap/notice/1069087.html,,pmn,2026-06-01T13:46:15.665357Z,,,,
