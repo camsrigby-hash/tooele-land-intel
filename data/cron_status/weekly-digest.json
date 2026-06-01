@@ -1,6 +1,6 @@
 {
   "workflow_name": "weekly-digest",
-  "ran_at": "2026-05-11T17:44:01Z",
+  "ran_at": "2026-06-01T14:50:11Z",
   "status": "success",
   "items_processed": null,
   "notes": "split + digest + aggregate"
