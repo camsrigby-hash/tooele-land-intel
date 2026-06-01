@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "1032",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1032.html",
-  "scraped_at": "2026-05-25T16:39:42.024689+00:00",
+  "scraped_at": "2026-06-01T13:44:08.568422+00:00",
   "notices": [
+    {
+      "notice_id": "1084671",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084671.html",
+      "title": "Notice of Meeting Cancellation",
+      "event_date": "June 9, 2026 06:30 PM",
+      "event_date_iso": "2026-06-09T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF MEETING CANCELLATION\r\n\r\n\r\nThe regularly scheduled South Jordan City Planning Commission meeting for June 9, 2026 has been cancelled.\r\n\r\nThe next regularly scheduled meeting will be Tuesday, June 23, 2026 at 6:30 PM.",
+      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "May 29, 2026 11:26 AM",
+      "attachments": [
+        {
+          "file_name": "06-09-26 Notice of Meeting Cancellation.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1440767.pdf",
+          "date_added": "2026/05/29 11:25 AM",
+          "file_id": "1440767"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1083033",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083033.html",
@@ -124,6 +151,13 @@
           "url": "https://www.utah.gov/pmn/files/1423327.pdf",
           "date_added": "2026/04/23 04:51 PM",
           "file_id": "1423327"
+        },
+        {
+          "file_name": "04-28-26 PC Minutes - FINAL.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1439393.pdf",
+          "date_added": "2026/05/27 11:39 AM",
+          "file_id": "1439393"
         }
       ],
       "canceled": false
@@ -280,33 +314,6 @@
           "url": "https://www.utah.gov/pmn/files/1407167.pdf",
           "date_added": "2026/03/19 08:04 AM",
           "file_id": "1407167"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1066066",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1066066.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "March 24, 2026 06:30 PM",
-      "event_date_iso": "2026-03-24T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, March 24, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLSPR202500109 - Allan Boldt Reception Center, Site Plan, 1188 W 10400 S, NICHOLS NAYLOR ARCHITECTS (Applicant)\r\n\r\n-\tPLCUP202600015 - Allan Boldt Reception Center, Conditional Use Permit, 1188 W 10400 S, Nichols Naylor Architects (Applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on March 24, 2026.  Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "March 13, 2026 11:05 AM",
-      "attachments": [
-        {
-          "file_name": "03-24-26 Notice of Public Hearing.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1404888.pdf",
-          "date_added": "2026/03/13 11:04 AM",
-          "file_id": "1404888"
         }
       ],
       "canceled": false

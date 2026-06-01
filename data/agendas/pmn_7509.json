@@ -4,8 +4,55 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-05-25T16:37:36.865643+00:00",
+  "scraped_at": "2026-06-01T13:41:55.945979+00:00",
   "notices": [
+    {
+      "notice_id": "1083489",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083489.html",
+      "title": "Erda City Council Meeting",
+      "event_date": "May 28, 2026 07:00 PM",
+      "event_date_iso": "2026-05-28T19:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, May 28th, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/nwi-afjy-fqa\r\nOr dial:  (US) +1 732-844-0616  PIN:  256 462 625 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 5-14-26\r\nConsideration of Ordinance 26-07 Regulating, Preventing, and Banning the Discharge of Fireworks Within Certain Areas of the City\r\n2026-2027 Annual Budget Hearing, Discussion, and Adjuistments\r\nOpen Public Hearing\r\nClose Public Hearing\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\nFOLLOW UP ITEMS:\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).\r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "May 26, 2026 10:01 AM",
+      "attachments": [
+        {
+          "file_name": "_5-28-26 Agenda for City Council.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438487.docx",
+          "date_added": "2026/05/26 10:00 AM",
+          "file_id": "1438487"
+        },
+        {
+          "file_name": "Ordinance 26-07_Fireworks Ban (2026).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438489.docx",
+          "date_added": "2026/05/26 10:00 AM",
+          "file_id": "1438489"
+        },
+        {
+          "file_name": "Copy of FireworkRestrictions_2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438491.pdf",
+          "date_added": "2026/05/26 10:00 AM",
+          "file_id": "1438491"
+        },
+        {
+          "file_name": "Proposed FY 2027 BUDGET V1.0.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438493.pdf",
+          "date_added": "2026/05/26 10:01 AM",
+          "file_id": "1438493"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1081585",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081585.html",
@@ -414,23 +461,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1061793",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1061793.html",
-      "title": "**CANCELED*** Erda City Council Meeting",
-      "event_date": "February 26, 2026 07:00 PM",
-      "event_date_iso": "2026-02-26T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED*****\r\nNotice is hereby given that the Erda City Council's Scheduled Meeting on Thursday February 26th, 2026 has been canceled. The City Council will hold their next regularly scheduled meeting on Thursday March 12th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT",
-      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "February 23, 2026 05:41 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }
