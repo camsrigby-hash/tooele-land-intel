@@ -66,3 +66,4 @@ timestamp,script,model,input_tokens,output_tokens,cost_usd,items
 2026-06-01T14:50:11.787486+00:00,weekly_digest,claude-opus-4-7,17377,1689,0.38733,148
 2026-06-01T14:58:24.548517+00:00,geocode_items,claude-haiku-4-5-20251001,6000,1500,0.0108,40
 2026-06-01T15:04:39.041262+00:00,extract_parcels_from_pdfs,claude-haiku-4-5-20251001,144670,9940,0.19437,55
+2026-06-01,correlate_signals,claude-haiku-4-5-20251001,6,3125,479,0.00552
