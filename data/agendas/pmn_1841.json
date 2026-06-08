@@ -4,8 +4,49 @@
   "public_body": "Grantsville City Planning Commission",
   "body_id": "1841",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1841.html",
-  "scraped_at": "2026-06-01T13:41:43.841171+00:00",
+  "scraped_at": "2026-06-08T12:29:38.028418+00:00",
   "notices": [
+    {
+      "notice_id": "1086735",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086735.html",
+      "title": "Planning Commission Regular Meeting June 16, 2026",
+      "event_date": "June 16, 2026 07:00 PM",
+      "event_date_iso": "2026-06-16T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, June 16, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\n\r\nAGENDA\r\n1.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of a proposed Hold Harmless Agreement for the property located at 641 S Maxwell Drive, in the R-1-21 zone.\r\n2.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of the Sun Sage Terrace Master Development Agreement (MDA) and Lot layout for phases 3-6 located in the R-1-21 zoning at approximately 1161 West Main St.\r\n3.\tPresentation and Discussion: Discussion of the proposed Alington Plat PUD for parcels 01-059-0-0040 and 01-059-0-0039 located in the MU zoning district, located at approximately 948 East and SR-138.\r\n4.\tPresentation and Discussion: Discussion of a proposed General Plan Amendment for parcels 01-059-0- 0041, 01-059-0-0001, 01-059-0-0028, and 01-059-0-0027, amending the land use designation from Rural Residential 1 and High Single-Family Residential to High Single-Family Residential for the Orion Subdivision, located approximately at 800 East Main Street.\r\n5.\tPresentation and Discussion: Discussion of a proposed Rezone for parcels 01-059-0-0041, 01-059-0-0001, 01-059-0-0028, and 01-059-0-0027, from RR-1, RM-7, to RM-15 for the Orion Subdivision, located approximately at 800 East Main Street\r\n6.\tApproval of the minutes from the June 2, 2026 Planning Commission Regular Meeting.\r\n7.\tReport from City Staff.\r\n8.\tOpen Forum for Planning Commissioners.\r\n9.\tReport from City Council.\r\n10.\tAdjourn.\r\n\r\n \r\nShelby Moore\r\nZoning Administrator\r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411 By Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411\r\n \r\n\r\nScan QR code to join Zoom meeting.",
+      "meeting_location": "429 E Main Street Grantsville , UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shelby Moore",
+      "contact_email": "smoore@grantsvilleut.gov",
+      "posted_on": "June 05, 2026 01:09 PM",
+      "attachments": [
+        {
+          "file_name": "2026.06.16 - Public Notice - Hold Harmless Agreement.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1444669.pdf",
+          "date_added": "2026/06/05 01:09 PM",
+          "file_id": "1444669"
+        },
+        {
+          "file_name": "2026.06.16 - Public Notice - Sun Sage Terrace MDA.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1444671.pdf",
+          "date_added": "2026/06/05 01:09 PM",
+          "file_id": "1444671"
+        },
+        {
+          "file_name": "PC Agenda 6-16-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1444673.pdf",
+          "date_added": "2026/06/05 01:09 PM",
+          "file_id": "1444673"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1083189",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083189.html",
@@ -22,6 +63,13 @@
       "contact_email": "smoore@grantsvilleut.gov",
       "posted_on": "May 22, 2026 01:26 PM",
       "attachments": [
+        {
+          "file_name": "2026.06.02 - PC Regular Meeting - Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1442855.mp3",
+          "date_added": "2026/06/03 11:11 AM",
+          "file_id": "1442855"
+        },
         {
           "file_name": "Public Notice - Arbon Acers Preliminary.pdf",
           "category": "Public Information Handout",
@@ -83,6 +131,13 @@
           "url": "https://www.utah.gov/pmn/files/1436905.mp3",
           "date_added": "2026/05/21 08:49 AM",
           "file_id": "1436905"
+        },
+        {
+          "file_name": "2026.05.19 - PC Regular Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1442859.pdf",
+          "date_added": "2026/06/03 11:11 AM",
+          "file_id": "1442859"
         },
         {
           "file_name": "PC Agenda 5-19-26.pdf",
@@ -154,6 +209,13 @@
           "file_id": "1429011"
         },
         {
+          "file_name": "05_05_2026 - PC Regular Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1442861.pdf",
+          "date_added": "2026/06/03 11:13 AM",
+          "file_id": "1442861"
+        },
+        {
           "file_name": "2026.05.05 - Public Notice - Appeal.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1423749.pdf",
@@ -222,6 +284,13 @@
       "contact_email": "smoore@grantsvilleut.gov",
       "posted_on": "April 09, 2026 08:32 AM",
       "attachments": [
+        {
+          "file_name": "04_21_26 - PC Regular Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1442865.pdf",
+          "date_added": "2026/06/03 11:15 AM",
+          "file_id": "1442865"
+        },
         {
           "file_name": "PC Agenda 4-21-26.pdf",
           "category": "Public Information Handout",
@@ -627,68 +696,6 @@
           "url": "https://www.utah.gov/pmn/files/1399125.pdf",
           "date_added": "2026/03/03 10:35 AM",
           "file_id": "1399125"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1057723",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1057723.html",
-      "title": "Planning Commission Regular Meeting February 17, 2026",
-      "event_date": "February 17, 2026 07:00 PM",
-      "event_date_iso": "2026-02-17T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, February 17, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nAGENDA\r\n1.\tPresentation, Public Hearing, and Discussion and Consideration: Appeal by Courtny Rossow of the Zoning Administrator's denial of a request to keep one large animal at 565 S. McKay Circle, located in the R-1-21 zoning district, based on the property's failure to meet the required open space standard.\r\n2.\tPresentation, Public Hearing, and Discussion and Consideration: Proposed Conditional Use Permit for a micro-entrepreneurship allowing Vickie Lake and Kathleen Hunt to operate a home-based business consisting of a farm stand and the sale of cottage food products and non-food craft goods at 10 W Clark Street, located in the RM-7 zoning district.\r\n3.\tGeographic Information System (GIS) Presentation by the Grantsville City GIS Analyst/City Planner\r\n4.\tApproval of minutes from the June 20, 2026, and the February 3, 2026 Planning Commission Regular Meetings.\r\n5.\tReport from City Staff.\r\n6.\tOpen Forum for Planning Commissioners.\r\n7.\tReport from City Council.\r\n8.\tAdjourn. \r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411\r\nBy Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411",
-      "meeting_location": "429 E Main Street Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shelby Moore",
-      "contact_email": "smoore@grantsvilleut.gov",
-      "posted_on": "February 06, 2026 09:07 AM",
-      "attachments": [
-        {
-          "file_name": "2026.02.17 - PC Regular Meeting Audio.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1392995.mp3",
-          "date_added": "2026/02/18 09:21 AM",
-          "file_id": "1392995"
-        },
-        {
-          "file_name": "02_17_2026 - PC Regular Minutes (2).pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1402735.pdf",
-          "date_added": "2026/03/10 12:11 PM",
-          "file_id": "1402735"
-        },
-        {
-          "file_name": "Updated Public Notice - Micro-Entrepreneurship.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1389139.pdf",
-          "date_added": "2026/02/10 08:41 AM",
-          "file_id": "1389139"
-        },
-        {
-          "file_name": "Updated Public Notice- Appeal.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1389141.pdf",
-          "date_added": "2026/02/10 08:41 AM",
-          "file_id": "1389141"
-        },
-        {
-          "file_name": "Updated PC Agenda 2-17-26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1390901.pdf",
-          "date_added": "2026/02/12 01:54 PM",
-          "file_id": "1390901"
-        },
-        {
-          "file_name": "Combined Planning Commission Packet 02-17-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1390903.pdf",
-          "date_added": "2026/02/12 01:55 PM",
-          "file_id": "1390903"
         }
       ],
       "canceled": false

@@ -4,8 +4,34 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-06-01T13:43:20.167207+00:00",
+  "scraped_at": "2026-06-08T12:31:14.741556+00:00",
   "notices": [
+    {
+      "notice_id": "1086329",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086329.html",
+      "title": "Planning Commission Meeting - Canceled",
+      "event_date": "June 11, 2026 06:00 PM",
+      "event_date_iso": "2026-06-11T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "PLANNING COMMISSION MEETING\r\n\r\nCITY OF SARATOGA SPRINGS\r\n\r\nThursday, June 11, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 S. Saratoga Road, Saratoga Springs, UT 84045\r\n\r\n\r\nThe City of Saratoga Springs Planning Commission Meeting scheduled for Thursday, June 11, 2026 has been canceled due to lack of business.\r\n\r\nThe next Planning Commission Meeting is scheduled for Thursday, June 25, 2026 at 6:00 p.m. at the Saratoga Springs City Offices, City Council Chambers: 319 S. Saratoga Road, Saratoga Springs, Utah.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "June 04, 2026 02:10 PM",
+      "attachments": [
+        {
+          "file_name": "2026-06-11 PC Agenda - meeting canceled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1443915.pdf",
+          "date_added": "2026/06/04 02:09 PM",
+          "file_id": "1443915"
+        }
+      ],
+      "canceled": true
+    },
     {
       "notice_id": "1082847",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082847.html",
@@ -253,45 +279,6 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "March 13, 2026 12:00 PM",
       "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1064189",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064189.html",
-      "title": "Planning Commission Meeting",
-      "event_date": "March 12, 2026 06:00 PM",
-      "event_date_iso": "2026-03-12T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "PLANNING COMMISSION MEETING\r\n\r\nCITY OF SARATOGA SPRINGS\r\nThursday, March 12, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 S. Saratoga Road, Saratoga Springs, UT 84045\r\nCALL TO ORDER\r\n1. Pledge of Allegiance.\r\n2. Roll Call\r\n3. Public Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total.\r\nPUBLIC HEARINGS\r\nThe Commission will accept public comment and may make a recommendation to the City Council for the following items:\r\n1. Beacon Pointe Village Plan 8 - Porter Haven. Located approximately at Ensign Drive and Mountain View Corridor. Ryan Bull as applicant. Senior Planner Gina Grandpre.\r\n2. Amendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.19 - Open Space. This amendment will allow a broader range of amenities within open space. Citywide. City-Initiated. Senior Planner Gina Grandpre.\r\n3. Amendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.16 - Site and Architectural Design Standards. This amendment would allow an exception for building buffer requirements at the corners of buildings and loading bays. Citywide. City-Initiated. Senior Planner Austin Roy.\r\nBUSINESS ITEMS\r\nThe Commission will discuss (without public comment) and may either make a recommendation to the City Council, or approve the following items as needed:\r\n1. Approval of Minutes: February 26, 2026.\r\nREPORTS\r\n1. Commissioner's Comments.\r\n2. Director's Report.\r\nCLOSED SESSION\r\nPossible motion to enter into closed session for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\nADJOURNMENT",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "March 05, 2026 05:34 PM",
-      "attachments": [
-        {
-          "file_name": "2026-03-12 pc minutes approved.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1411555.pdf",
-          "date_added": "2026/03/30 10:44 AM",
-          "file_id": "1411555"
-        },
-        {
-          "file_name": "2026-03-12 PC Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1400921.pdf",
-          "date_added": "2026/03/05 05:33 PM",
-          "file_id": "1400921"
-        },
-        {
-          "file_name": "2026-03-12 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1400923.pdf",
-          "date_added": "2026/03/05 05:34 PM",
-          "file_id": "1400923"
-        }
-      ],
       "canceled": false
     }
   ]

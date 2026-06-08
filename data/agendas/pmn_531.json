@@ -4,8 +4,25 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-06-01T13:45:54.762412+00:00",
+  "scraped_at": "2026-06-08T12:33:49.483688+00:00",
   "notices": [
+    {
+      "notice_id": "1085007",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085007.html",
+      "title": "Planning Commission Cancellation Notice",
+      "event_date": "June 3, 2026 07:00 PM",
+      "event_date_iso": "2026-06-03T19:00:00",
+      "notice_types": [
+        "Bond"
+      ],
+      "agenda_text": "CANCELATION OF REGULAR MEETING\r\nOF THE VINEYARD PLANNING COMMISSION,\r\nWednesday, June 3, 2026, 7:00 p.m.\r\nCANCELATION NOTICE\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Planning Commission's regularly scheduled meeting for June 3, 2026, has been canceled. \r\n \r\nThe foregoing CANCELATION notice was posted on the Utah Public Notice Website and Vineyard Website, posted at the Vineyard City Offices and City Hall, and delivered electronically to city staff and each member of the Planning Commission.\r\n\r\n\r\nCANCELLATION NOTICING COMPLETED ON: June 1, 2026\r\n\r\nNOTICED BY:   /s/ Rachel Stevens\r\n                          Rachel Stevens, Planner",
+      "meeting_location": "125 S Main Street Vineyard , UT 89129 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "June 01, 2026 08:19 AM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1077143",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077143.html",
@@ -242,32 +259,6 @@
           "url": "https://www.utah.gov/pmn/files/1371171.pdf",
           "date_added": "2025/12/31 10:41 AM",
           "file_id": "1371171"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1044705",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1044705.html",
-      "title": "Planning Commission Meeting Cancelation",
-      "event_date": "December 17, 2025 06:00 PM",
-      "event_date_iso": "2025-12-17T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CANCELLATION OF REGULAR MEETING\r\nOF THE VINEYARD PLANNING COMMISSION,\r\nWednesday, December 17, 2025, 6:00 p.m.\r\nCANCELATION NOTICE\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Planning Commission's regularly scheduled meeting for December 17th, 2025, has been canceled. \r\n \r\nThe foregoing CANCELATION notice was posted on the Utah Public Notice Website and Vineyard Website, posted at the Vineyard City Offices and City Hall, and delivered electronically to city staff and each member of the Planning Commission.\r\n\r\n\r\nCANCELATION NOTICING COMPLETED ON: December 10th, 2025.\r\n\r\nNOTICED BY:   /s/ Madison Reed\r\n                          Madison Reed, Planning Technician",
-      "meeting_location": "125 S Main St Vineyard , UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "December 10, 2025 12:51 PM",
-      "attachments": [
-        {
-          "file_name": "12.17.2025 Planning Commission Meeting Agenda.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1364213.pdf",
-          "date_added": "2025/12/10 04:53 PM",
-          "file_id": "1364213"
         }
       ],
       "canceled": false

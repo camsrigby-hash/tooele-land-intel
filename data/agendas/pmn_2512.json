@@ -4,8 +4,44 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-06-01T13:42:44.230102+00:00",
+  "scraped_at": "2026-06-08T12:30:38.584825+00:00",
   "notices": [
+    {
+      "notice_id": "1085509",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085509.html",
+      "title": "NOTICE OF PUBLIC HEARING FOR ELECTED OFFICERS COMPENSATION",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding the FY 2027 compensation for Elected Officials.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "June 02, 2026 02:38 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1085283",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085283.html",
+      "title": "Notice of Public Hearing for Executive Officers Compensation Increases",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY PUBLIC NOTICE\r\n\r\nPUBLIC HEARING FOR EXECUTIVE OFFICERS \r\nCOMPENSATION INCREASES\r\n\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of receiving input regarding the FY2027 Executive Municipal Officers Compensation Increases. Public comments are invited.\r\n\r\n\r\nDated this 1st day of June, 2026.\r\n\r\nCITY OF LEHI, UTAH",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "June 01, 2026 05:30 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1082333",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082333.html",
@@ -95,25 +131,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1076371",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076371.html",
-      "title": "Lehi City Council Public Hearing on the Budget and Consolidated Fee Schedule",
-      "event_date": "May 12, 2026 07:00 PM",
-      "event_date_iso": "2026-05-12T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nLEHI CITY \r\nPUBLIC HEARING\r\n\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 12, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of adopting the Lehi City FY2027 Budget and Consolidated Fee Schedule. Public comment is invited.",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 28, 2026 05:33 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1076379",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076379.html",
       "title": "NOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY",
@@ -133,6 +150,25 @@
       "canceled": false
     },
     {
+      "notice_id": "1076371",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076371.html",
+      "title": "Lehi City Council Public Hearing on the Budget and Consolidated Fee Schedule",
+      "event_date": "May 12, 2026 07:00 PM",
+      "event_date_iso": "2026-05-12T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nLEHI CITY \r\nPUBLIC HEARING\r\n\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, May 12, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of adopting the Lehi City FY2027 Budget and Consolidated Fee Schedule. Public comment is invited.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "April 28, 2026 05:33 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1078575",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078575.html",
       "title": "Lehi City Council Meeting Agenda",
@@ -147,42 +183,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 07, 2026 08:52 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1078137",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078137.html",
-      "title": "Lehi City Council Work Session Agenda",
-      "event_date": "May 11, 2026 12:00 PM",
-      "event_date_iso": "2026-05-11T12:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "Lehi City Council Meeting\r\nAgenda\r\nMay 11, 2026\r\n12:00 PM - Lehi Civic Center, Council Chambers (131 N. 100 E., Lehi, Utah)\r\nI. Lunch, Welcome and Opening Comment\r\nII. Discussion Items\r\nA. Discussion of the Electric Cost of Service and Rate Design Study Lehi Draft Report May 4.pdf\r\nB. Continue with Budget Review Discussions\r\n1. Power Department\r\n2. Fiber Department\r\n3. Development Services (Building Inspections)\r\n4. Economic Development\r\n5. Streets\r\n6. Engineering\r\n7. Water/PI/Sewer/Drainage\r\n8. Fleet\r\n9. Recreation\r\n10. Non-Departmental\r\nC. Discuss any Revisions to the Budget\r\nIII. Adjournment",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 05, 2026 02:51 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1068827",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068827.html",
-      "title": "Cedar Hollow Annexation Public Hearing Notice",
-      "event_date": "April 28, 2026 07:00 PM",
-      "event_date_iso": "2026-04-28T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nCEDAR HOLLOW HOLDINGS ANNEXATION\r\nPUBLIC HEARING\r\n\r\n\r\nOn March 10, 2026, the Lehi City Council passed Resolution #2026-10 approving Lehi City's intent to annex approximately 15.31 acres of real property owned by Gary Cooper, located at 400 S. Center Street, Lehi, Utah. \r\nA public hearing has been scheduled before the Lehi City Council on the 28th day of April, 2026, at 7:00 p.m. for the purpose of receiving public comment.  The public hearing will be held at the Lehi Civic Center, in the Council Chambers, located at 131 N. 100 E., Lehi, UT.  \r\nThe Lehi City Council will annex the above described parcel unless, at or before the public hearing, written protests to the annexation are filed by the owners of real property located within the area proposed for annexation covering a majority of the total private land area within the entire area proposed for annexation and also is equal to at least 1/2 the assessed value of all private real property within the entire area proposed for annexation.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "March 26, 2026 11:20 AM",
       "attachments": [],
       "canceled": false
     }

@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-06-01T13:45:42.832389+00:00",
+  "scraped_at": "2026-06-08T12:33:37.464233+00:00",
   "notices": [
+    {
+      "notice_id": "1086367",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086367.html",
+      "title": "City Council Meeting",
+      "event_date": "June 9, 2026 06:00 PM",
+      "event_date_iso": "2026-06-09T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A PUBLIC HEARING HELD DURING A REGULAR\r\nCITY COUNCIL MEETING\r\nJune 9, 2026, at 6:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a public hearing during a regularly scheduled City Council meeting on Tuesday, June 9, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION, INSPIRATIONAL THOUGHT, AND PLEDGE OF ALLEGIANCE\r\n\r\n3.\tPUBLIC HEARING FOR HOLDAWAY FIELDS DEVELOPMENT AGREEMENT AMENDMENT\r\n\r\n4.\tPRESENTATIONS, RECOGNITIONS, AWARDS, OR PROCLAMATIONS\r\n\r\n5.\tWORK SESSION\r\n\r\n \t5.1.\tPresentation of City Water System Risk & Resilience Assessment (Naseem Ghandour)\r\n \t \t\r\n\r\n \t5.2.\tDiscuss Proposed Municipal Code Changes (Cris Thomas)\r\n \t \t\r\n\r\n \t5.3.\tDiscuss Tax Payment for Sunset Beach Park (Evan Smith)\r\n        \r\n        5.4 Discuss a Membership with the Utah Coalition of Cities and Counties (UC3) (David Lauret)\r\n \t \t\r\n\r\n6.\tPUBLIC COMMENTS\r\n \t'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n7.\tCONSENT ITEMS\r\n\r\n \t7.1.\tApprove the May 26, 2026, meeting minutes.\r\n\r\n \t7.2.\tAccept Vineyard City's Floodplain Regulation Update (National Flood Insurance Program Compliance)\r\n \t \tVineyard City is proposing updates to its floodplain management regulations by ordinance to maintain compliance with the National Flood Insurance Program (NFIP) following updated flood hazard determinations issued by the Federal Emergency Management Agency (FEMA).\r\n\r\n8.\tMAYOR AND COUNCILMEMBERS' REPORTS, DISCLOSURES, OR RECUSALS\r\n\r\n9.\tAPPOINTMENTS AND REMOVALS\r\n\r\n \t9.1.\tAppoint Brian Voeks to the Timpanogos Special Service District Board (TSSD) and the North Utah Valley Animal Services Special Service District Board (NUVASSSD)\r\n \t \t\r\n\r\n10.\tBUSINESS ITEMS\r\n\r\n \t10.1.\tApprove ARCH Grant Extension Request (Brian Vawdrey)\r\n \t \tIt has been requested that an ARCH Grant extension be offered to the Heritage Commission for the Ladle signage and Vineyard Parks & Rec for a Mountain Bike Park\r\n\r\n \t10.2.\tApprove Holdaway Fields Development Agreement Amendment (Anthony Fletcher and David Herring)\r\n \t \tThe developers of Holdaway Fields have submitted a proposed amendment to the existing Development Agreement. The intent of this amendment is to align the agreement more closely with their current build strategy and implementation schedule. The proposal introduces updates to the phasing plan, and park dedication timing.\r\n\r\n11.\tCLOSED SESSION \r\n\r\n \t11.1.\t\tThe Mayor and City Council, pursuant to Utah Code 52-4-205, may vote to go into a closed session for the purpose of personnel, real property, or litigation.\r\n\r\n\r\n\r\n12.\tADJOURNMENT",
+      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "June 04, 2026 02:41 PM",
+      "attachments": [
+        {
+          "file_name": "6.9.26 CC Agenda Packet (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1444163.pdf",
+          "date_added": "2026/06/04 04:55 PM",
+          "file_id": "1444163"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1083079",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083079.html",
@@ -73,6 +99,13 @@
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "May 14, 2026 08:38 PM",
       "attachments": [
+        {
+          "file_name": "5.19.26 CC Minutes - Final_exppdf.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1441223.pdf",
+          "date_added": "2026/06/01 08:23 AM",
+          "file_id": "1441223"
+        },
         {
           "file_name": "5.19.26 CC Work Packet 5.pdf",
           "category": "Public Information Handout",
@@ -243,38 +276,6 @@
           "url": "https://www.utah.gov/pmn/files/1421353.pdf",
           "date_added": "2026/04/20 02:04 PM",
           "file_id": "1421353"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072331",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072331.html",
-      "title": "City Council Meeting And RDA Meeting",
-      "event_date": "April 14, 2026 06:00 PM",
-      "event_date_iso": "2026-04-14T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "NOTICE OF A REGULAR\r\nCITY COUNCIL MEETING and RDA (Vineyard Redevelopment Agency) Meeting\r\nApril 14, 2026, at 6:00 PM\r\n\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, April 14, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\nPresiding Mayor Zack Stratton\r\n\r\n1.\tCALL TO ORDER/INVOCATION/INSPIRATIONAL THOUGHT/PLEDGE OF ALLEGIANCE\r\n\r\n2.\tWORK SESSION\r\n\r\n\tDiscuss Safety Improvement and Compromise for 400 S and Geneva Road to Main Street\r\n\r\n\r\n3.\tPUBLIC COMMENTS\r\n \t'Public Comments' is defined as time set aside for citizens to express their views for items not on the agenda. During a period designated for public comment, the mayor or chair may allot each speaker a maximum amount of time to present their comments, subject to extension by the mayor or by a majority vote of the council. Speakers offering duplicate comments may be limited. Public comments can be submitted ahead of time to tonyl@vineyardutah.gov.\r\n\r\n4.\tMAYOR AND COUNCILMEMBERS' REPORTS/DISCLOSURES/RECUSALS\r\n\r\n5.\tBUSINESS ITEMS\r\n\r\n \t5.1.\tDiscuss SB-284 and Resolution Pack\r\n \t \t\r\n\r\n \t5.2.\tAdopt Resolution 2026-23 to Establish a Complete Land Use Application and Applicant Vesting Control Policy.\r\n \t \t\r\n\r\n \t5.3.\tAdopt Resolution 2026-24 to Establish a Mandatory Development Agreement Policy for Large-scale, Master-planned, and Phased Development Projects\r\n \t \t\r\n\r\n \t5.4.\tAdopt Resolution 2026-25 to Establish an Infrastructure Phasing, Public Improvement Sequencing, and City Acceptance Policy Tying Certificate-of-Occupancy and Reimbursement Rights to Objective Milestones\r\n \t \t\r\n\r\n \t5.5.\tAdopt Resolution 2026-26 to Establish a Utility Capacity Verification and Water Service Findings Policy; Adopting Standards for same\r\n \t \t\r\n\r\n \t5.6.\tAdopt Resolution 2026-27 to Establish an Independent Appeal Authority and Administrative Record Policy, Direct a Zoning Text Audit and Precision Definitions Program, and Direct the Preparation of Implementing Ordinances\r\n \t \t\r\n\r\n \t5.7.\tAdopt Resolution 2026-28 to Establish an Approval Policy for Commercial Lodging Structure Height, Story Count, and Building Envelope\r\n \t \t\r\n\r\n6.\tADJOURN AS THE CITY COUNCIL AND CONVENE AS THE VINEYARD REDEVELOPMENT AGENCY\r\n\r\n \t6.1.\tAdopt Resolution 2026-01 to Establish Madatory Fiscal Impact Findings for all Financial Partipation from various Public Finance Activities within the Vineyard/Geneva Redevelopment Project Area\r\n\r\n7.\tADJOURNMENT",
-      "meeting_location": "125 South Main None Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "April 10, 2026 06:39 PM",
-      "attachments": [
-        {
-          "file_name": "4.14.26 Approved CC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1427123.pdf",
-          "date_added": "2026/05/04 01:36 PM",
-          "file_id": "1427123"
-        },
-        {
-          "file_name": "4.14.26 CC Agenda Packet rrb.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1417061.pdf",
-          "date_added": "2026/04/10 06:39 PM",
-          "file_id": "1417061"
         }
       ],
       "canceled": false

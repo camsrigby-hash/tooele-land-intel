@@ -4,8 +4,26 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-06-01T13:41:55.945979+00:00",
+  "scraped_at": "2026-06-08T12:29:50.279875+00:00",
   "notices": [
+    {
+      "notice_id": "1086409",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086409.html",
+      "title": "Notice of Public Hearing on Budget Amendment for Fiscal Year 2025-2026",
+      "event_date": "June 11, 2026 07:00 PM",
+      "event_date_iso": "2026-06-11T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY - FISCAL YEAR 2025-2026 BUDGET AMENDMENT\r\nNotice is hereby given that the Erda City Council will hold a public hearing to consider an amendment to the Fiscal Year 2025-2026 Budget.\r\nDate: June 11, 2026\r\nTime: 7:00PM\r\nLocation: Erda City Office: 2163 W Erda Way, Erda Ut,\r\nThe purpose of the hearing is to receive public comment regarding proposed amendments to the City's budget, including adjustments to revenues and expenditures within various funds.\r\nAll interested persons are invited to attend and provide comments. A copy of the proposed budget amendment is available for public inspection at Erda City Hall during regular business hours.",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "June 04, 2026 04:03 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1083489",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083489.html",
@@ -22,6 +40,13 @@
       "contact_email": "sbirch@erda.gov",
       "posted_on": "May 26, 2026 10:01 AM",
       "attachments": [
+        {
+          "file_name": "5-28-26 Audio of City Council Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1443517.mp3",
+          "date_added": "2026/06/04 10:00 AM",
+          "file_id": "1443517"
+        },
         {
           "file_name": "_5-28-26 Agenda for City Council.docx",
           "category": "Public Information Handout",
@@ -107,6 +132,13 @@
           "url": "https://www.utah.gov/pmn/files/1434895.mp3",
           "date_added": "2026/05/18 10:51 AM",
           "file_id": "1434895"
+        },
+        {
+          "file_name": "5-14-26 Signed Meeting Minutes City Council.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1444201.pdf",
+          "date_added": "2026/06/04 05:26 PM",
+          "file_id": "1444201"
         },
         {
           "file_name": "Ordinance 26-04  Directing  Erda be removed as a party.docx.pdf",
@@ -266,6 +298,13 @@
           "file_id": "1424769"
         },
         {
+          "file_name": "4-24-26 Signed Meeting Minutes City Council Meeting.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1444185.pdf",
+          "date_added": "2026/06/04 05:09 PM",
+          "file_id": "1444185"
+        },
+        {
           "file_name": "Copy of Resolution 26-05 App Interlocal w Tooele Co (dispatch services).docx",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1422075.docx",
@@ -405,59 +444,6 @@
           "url": "https://www.utah.gov/pmn/files/1411277.pdf",
           "date_added": "2026/03/27 03:10 PM",
           "file_id": "1411277"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1065007",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1065007.html",
-      "title": "Erda City Council Meeting",
-      "event_date": "March 12, 2026 07:00 PM",
-      "event_date_iso": "2026-03-12T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, March 12, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/ved-qaob-bax\r\nOr dial:  (US) +1 443-712-7922  PIN:  228 169 532 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 2-12-26\r\nTreasurer Report\r\nSheriff's Report\r\nNTFD Report\r\nConsideration of Resolution 26-01 Appointment of a Proxy to Salt Lake Airport Advisory Board\r\nPresentation on State Regulations regarding the process and handling of Disconnect Applications\r\nDiscussion on Transportation Impact Fee\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).\r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Larry Kimpel at 435-354-9216",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "March 09, 2026 07:31 PM",
-      "attachments": [
-        {
-          "file_name": "3-12-26 Audio of City Council Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1404884.mp3",
-          "date_added": "2026/03/13 10:59 AM",
-          "file_id": "1404884"
-        },
-        {
-          "file_name": "3-12-26 Signed Meeting Minutes City Council.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1418715.pdf",
-          "date_added": "2026/04/15 11:54 AM",
-          "file_id": "1418715"
-        },
-        {
-          "file_name": "Feb 2026 City Financials.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1402427.pdf",
-          "date_added": "2026/03/09 07:30 PM",
-          "file_id": "1402427"
-        },
-        {
-          "file_name": "Resolution 26-01 Appointment to Salt Lake Airport Advisory Board (2026) (1).docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1402429.docx",
-          "date_added": "2026/03/09 07:30 PM",
-          "file_id": "1402429"
-        },
-        {
-          "file_name": "3-12-26 Agenda for City Council (1).docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1402431.docx",
-          "date_added": "2026/03/09 07:31 PM",
-          "file_id": "1402431"
         }
       ],
       "canceled": false
