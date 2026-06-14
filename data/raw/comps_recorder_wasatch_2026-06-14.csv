@@ -1,0 +1,23 @@
+address,sale_date,sale_price,price_per_acre,acres,zoning_class,source,link,scraped_at
+"1950 W UPPER CANYON DR, Wasatch County, UT",2026-01-01,45000,45000.0,1.0,Residential,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"2007 N 1130 W, Wasatch County, UT",2026-01-01,901300,137184.17,6.57,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,20500,10000.0,2.05,Residential,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,3565800,90000.0,39.62,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,900000,90000.0,10.0,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,931500,90000.0,10.35,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,130000,118181.82,1.1,Agricultural,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,1227600,90000.0,13.64,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,675000,90000.0,7.5,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,921600,90000.0,10.24,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,766000,200000.0,3.83,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,113400,90000.0,1.26,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,63900,90000.0,0.71,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"1285 W POTTER LN, Wasatch County, UT",2026-01-01,892300,137913.45,6.47,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,1066000,126904.76,8.4,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,3193200,90000.0,35.48,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,111600,90000.0,1.24,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,70000,122807.02,0.57,Residential,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Wasatch County, UT",2026-01-01,98500,50512.82,1.95,Residential,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Midway, Wasatch County, UT",2026-01-01,452000,200000.0,2.26,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"Midway, Wasatch County, UT",2026-01-01,842000,200000.0,4.21,Greenbelt,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
+"1235 W SWISS ALPINE RD, Wasatch County, UT",2026-01-01,10000,14492.75,0.69,Residential,ugrc_lir_assessor_fallback:wasatch,https://docs.wasatch.utah.gov/PublicAccess/sample-cq/index.html,2026-06-14T09:32:39+00:00
