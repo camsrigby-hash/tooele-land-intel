@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-06-08T12:32:26.851807+00:00",
+  "scraped_at": "2026-06-15T13:58:48.910580+00:00",
   "notices": [
+    {
+      "notice_id": "1087023",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087023.html",
+      "title": "Appeal Authority Agenda",
+      "event_date": "June 9, 2026 03:00 PM",
+      "event_date_iso": "2026-06-09T15:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Review and consider a variance request (City File No. V2026-080) submitted by Dallin Burningham, Fairbanks Homes, property owner, to reduce the minimum rear yard (i.e., building setback) from 20 -0  to 7 -9  to facilitate the construction of a new single-family home at 14171 S Summit Top Lane in the A-1-10 Agricultural Single Family Zone.",
+      "meeting_location": "5355 West Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Angela Hansen",
+      "contact_email": "anhansen@herriman.gov",
+      "posted_on": "June 08, 2026 08:42 AM",
+      "attachments": [
+        {
+          "file_name": "2026_06_09 V2026-080 Appeal Authority Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445091.pdf",
+          "date_added": "2026/06/08 08:41 AM",
+          "file_id": "1445091"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1084213",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084213.html",
@@ -223,26 +248,26 @@
       "canceled": false
     },
     {
-      "notice_id": "1064159",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064159.html",
-      "title": "Planning Commision Meeting",
+      "notice_id": "1064161",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064161.html",
+      "title": "Planning Commission Meeting",
       "event_date": "March 18, 2026 07:00 PM",
       "event_date_iso": "2026-03-18T19:00:00",
       "notice_types": [
         "Notice"
       ],
-      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda item:\r\n\r\n-\tReview and consider preliminary approval of a subdivision plat for POD 7 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 108 residential dwelling units at approximately at 15590 S Mountain View Corridor in the R-2-10 Multifamily Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)19.9\r\nCity File No: S2025-145",
+      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda item:\r\n\r\n-\tReview and consider approval of a preliminary subdivision plat for POD 16 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 69 residential dwelling units at approximately 15590 S Mountain View Corridor Highway in the R-20-43 Multifamily Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)10.275\r\nCity File No: S2025-144",
       "meeting_location": "5355 West Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
       "contact_name": "Angela Hansen",
       "contact_email": "anhansen@herriman.gov",
-      "posted_on": "March 05, 2026 04:28 PM",
+      "posted_on": "March 05, 2026 04:29 PM",
       "attachments": [
         {
           "file_name": "Public Notice 03182026.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1400871.pdf",
-          "date_added": "2026/03/05 04:30 PM",
-          "file_id": "1400871"
+          "url": "https://www.utah.gov/pmn/files/1400869.pdf",
+          "date_added": "2026/03/05 04:29 PM",
+          "file_id": "1400869"
         }
       ],
       "canceled": false
@@ -273,26 +298,26 @@
       "canceled": false
     },
     {
-      "notice_id": "1064161",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064161.html",
-      "title": "Planning Commission Meeting",
+      "notice_id": "1064159",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064159.html",
+      "title": "Planning Commision Meeting",
       "event_date": "March 18, 2026 07:00 PM",
       "event_date_iso": "2026-03-18T19:00:00",
       "notice_types": [
         "Notice"
       ],
-      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda item:\r\n\r\n-\tReview and consider approval of a preliminary subdivision plat for POD 16 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 69 residential dwelling units at approximately 15590 S Mountain View Corridor Highway in the R-20-43 Multifamily Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)10.275\r\nCity File No: S2025-144",
+      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda item:\r\n\r\n-\tReview and consider preliminary approval of a subdivision plat for POD 7 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 108 residential dwelling units at approximately at 15590 S Mountain View Corridor in the R-2-10 Multifamily Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)19.9\r\nCity File No: S2025-145",
       "meeting_location": "5355 West Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
       "contact_name": "Angela Hansen",
       "contact_email": "anhansen@herriman.gov",
-      "posted_on": "March 05, 2026 04:29 PM",
+      "posted_on": "March 05, 2026 04:28 PM",
       "attachments": [
         {
           "file_name": "Public Notice 03182026.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1400869.pdf",
-          "date_added": "2026/03/05 04:29 PM",
-          "file_id": "1400869"
+          "url": "https://www.utah.gov/pmn/files/1400871.pdf",
+          "date_added": "2026/03/05 04:30 PM",
+          "file_id": "1400871"
         }
       ],
       "canceled": false
@@ -342,23 +367,6 @@
           "file_id": "1404411"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1061017",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1061017.html",
-      "title": "Planning Commission Meeting",
-      "event_date": "March 4, 2026 07:00 PM",
-      "event_date_iso": "2026-03-04T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 4, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda items:\r\n\r\n-\tReview and consider a recommendation to adopt the 2026 Transportation Master Plan Update, which is an element of the adopted Herriamn City General Plan. The 2026 Transportation Master Plan (TMP) update is necessary to address continued population growth, projected to increase from  65,000 residents in 2025 to  115,000 by 2050, and ensure a transportation network that is efficient, connected, and sustainable. The TMP update began in early 2025, led by Wall Consultant Group (WCG). The plan incorporates information from the City's General Plan (Herriman NEXT), regional transportation plans, and community input gathered through surveys and public events, including outreach conducted at Herriman Towne Days. (Public Hearing)\r\nApplicant:\tHerriman City\r\nCity File No:\tG2025-157).",
-      "meeting_location": "5355 W Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Angela Hansen",
-      "contact_email": "anhansen@herriman.gov",
-      "posted_on": "February 19, 2026 05:12 PM",
-      "attachments": [],
       "canceled": false
     }
   ]

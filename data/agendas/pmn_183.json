@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-06-08T12:33:25.293526+00:00",
+  "scraped_at": "2026-06-15T13:59:43.679000+00:00",
   "notices": [
+    {
+      "notice_id": "1087445",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087445.html",
+      "title": "Planning Commission Agenda - Canceled",
+      "event_date": "June 17, 2026 06:30 PM",
+      "event_date_iso": "2026-06-17T18:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA - CANCELED\r\n________________________________________\r\n\r\nRegular Session - Canceled\r\nJune 17, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n\r\nPlanning Commission Members \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\nNotice is hereby given that the American Fork City Planning Commission regular session on June 17, 2026, has been canceled. \r\n\r\nDated this 9th day of June 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
+      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "June 09, 2026 10:48 AM",
+      "attachments": [
+        {
+          "file_name": "06.17.2026 Planning Commission Agenda - Canceled.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445823.pdf",
+          "date_added": "2026/06/09 10:48 AM",
+          "file_id": "1445823"
+        }
+      ],
+      "canceled": true
+    },
     {
       "notice_id": "1082813",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082813.html",
@@ -299,54 +324,6 @@
           "url": "https://www.utah.gov/pmn/files/1394297.pdf",
           "date_added": "2026/02/19 04:35 PM",
           "file_id": "1394297"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1057025",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1057025.html",
-      "title": "Planning Commission Public Notice, Amended Agenda and Amended Packet",
-      "event_date": "February 18, 2026 06:30 PM",
-      "event_date_iso": "2026-02-18T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARINGS\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on February 18, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity are invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic Hearing Notice - Adoption and Amendment of Design Standards and Public Improvement Specifications. \r\n\r\n \tNotice is hereby given that the American Fork City Planning Commission will hold a public hearing to consider the proposed amendment and adoption of Design Standards and Public Improvement Specifications applicable to development within American Fork City. The proposed Design Standards and Public Improvement Specifications establish engineering, infrastructure, and public improvement requirements for development activity within the City. The proposal includes removing existing engineering standards from the Municipal Code and adopting the new Design Standards and Public Improvement Specifications by reference. The proposed standards are intended to align City requirements with applicable Utah APWA Standard Specifications and Plans while establishing uniform City-specific design criteria. The Planning Commission will receive public comment and make a recommendation to the City Council.\r\n\r\n-\tNotice of public hearings and public meetings to consider general plan modifications.\r\n\r\no\tPublic hearing, review, and recommendation on an application for a Land Use Map Amendment, known as Jasper Lot Land Use Map Amendment, located at 570 E Main Street, American Fork City. The Land Use Map Amendment will be on approximately 0.26 acres and is in the Residential High Density Land Use Designation and will change to the General Commercial Land Use Designation.\r\n\r\n \tThe applicant has applied for a Land Use Map Amendment. The project looks to allow the potential for commercial operations with a future zone change; this is done with the intention of a plumbing business on the property.\r\n\r\nPlease Note:\r\nThis notice is being provided in accordance with the requirements of the American Fork Municipal Code, and the Utah State Code for Public Noticing as your rights as a property owner may be affected by the changes to the Design Standards and Public Improvement Specifications. To review changes, please review the draft documents at the American Fork Agenda Center in the Planning Commission Packet, available at www.AmericanFork.gov\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov in the Agenda Center, or available by contacting the City Recorder at 801.763.3000.\r\n\r\n\r\nAMERICAN FORK CITY\r\nAMENDED PLANNING COMMISSION AGENDA\r\n________________________________________\r\nRegular Session\r\nFebruary 18, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________\r\nPlanning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission will meet in regular session on February 18, 2026, at the American Fork City Hall, 31 North Church Street commencing at 6:30 PM. The agenda shall be as follows:\r\n\r\n1.\tRegular Session\r\na.\tPledge of Allegiance\r\nb.\tRoll Call\r\n\r\n2.\tPublic Comments\r\na.\tUp to a 20-minute public comment period to receive public comments. Each speaker is limited to two minutes.\r\n\r\n3.\tCommon Consent Agenda (Common Consent is that class of Commission action that requires no further discussion or which is routine in nature. All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\na.\tApproval of the February 4, 2026, Planning Commission minutes\r\n\r\n4.\tPublic Hearings (Public Hearings is that class of Commission action that requires further discussion on General Plan changes, Zone changes, and Code Text Amendments that alter the land use characteristics of American Fork City. Public Hearing items will have the chance for the public to speak upon.)\r\na.\tPublic hearing, review, and recommendation on an application for a Land Use Map Amendment, known as Jasper Lot Land Use Map Amendment, located at 570 E Main Street, American Fork City. The Land Use Map Amendment is for 0.26 acres in the Residential High Density Land Use Designation and is proposed to change to the General Commercial Land Use Designation.  \r\nb.\tPublic hearing, review, and recommendation for the proposed amendment and adoption of Design Standards and Public Improvement Specifications applicable to development within American Fork City. The proposed Design Standards and Public Improvement Specifications establish engineering, infrastructure, and public improvement requirements for development activity within the City. The proposal includes removing existing engineering standards from the Municipal Code and adopting the new Design Standards and Public Improvement Specifications by reference. The proposed standards are intended to align City requirements with applicable Utah APWA Standard Specifications and Plans while establishing uniform City-specific design criteria. The Planning Commission will receive public comment and make a recommendation to the City Council.\r\n\r\n\r\n5.\tAction Items (Action Items is that class of Commission action that requires further discussion on Site Plans and proposed zoning designation for annexing areas. The Planning Commission will have authority to approve Site Plans for final action and provide recommendations for the zone of annexing property.)\r\na.\tReview and action on a request for consideration of an additional extension for a previously approved Commercial Site Plan, known as Surg LLC Office Building, located at approximately 1141 E 50 N, American Fork City. The Commercial Site Plan will be on approximately 0.60 acres and will be in the Professional Office (PO-1) Zone.  \r\n\r\n6.\tOther Business\r\na.\tUpcoming Projects\r\n\r\n7.\tAdjournment\r\n\r\nDated this 11th day of February 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "February 04, 2026 07:45 AM",
-      "attachments": [
-        {
-          "file_name": "2.18.2026 APPROVED PC Meeting Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1407873.pdf",
-          "date_added": "2026/03/19 04:59 PM",
-          "file_id": "1407873"
-        },
-        {
-          "file_name": "2026.02.18 - PC Public Notice Letter.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1386467.pdf",
-          "date_added": "2026/02/04 07:44 AM",
-          "file_id": "1386467"
-        },
-        {
-          "file_name": "2026.02.18 Amended Planning Commission Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1392723.pdf",
-          "date_added": "2026/02/17 04:28 PM",
-          "file_id": "1392723"
-        },
-        {
-          "file_name": "2026.02.18 Amended Planning Commission Agenda and Amended Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1392725.pdf",
-          "date_added": "2026/02/17 04:31 PM",
-          "file_id": "1392725"
         }
       ],
       "canceled": false

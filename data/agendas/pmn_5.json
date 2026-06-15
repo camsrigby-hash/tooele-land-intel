@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-06-08T12:34:01.524660+00:00",
+  "scraped_at": "2026-06-15T14:00:19.828815+00:00",
   "notices": [
     {
       "notice_id": "1085785",
@@ -47,6 +47,26 @@
       "canceled": false
     },
     {
+      "notice_id": "1088485",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088485.html",
+      "title": "Spanish Fork City Council and Redevelopment Agency & Local Building Authority",
+      "event_date": "June 16, 2026 06:00 PM",
+      "event_date_iso": "2026-06-16T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "Tuesday, June 16, 2026\r\nSpanish Fork City Council, Local Building Authority, and Redevelopment Agency Meeting\r\n\r\nCITY COUNCIL AGENDA\r\nPUBLIC NOTICE is hereby given that the City Council, Local Building Authority, and Redevelopment Agency of Spanish Fork, Utah, will hold a public meeting on June 16, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Code Enforcement\r\nB. Diligent - Council Agenda Software Training\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\nC. Recognitions\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. SPANISH FORK 101\r\nA. Spring Clean-up and Green Waste Vouchers\r\n\r\n8. CONSENT ITEMS\r\nA. Minutes of City Council for Spanish Fork City - 06-02-2026\r\nB. Real Estate Purchase Offer/Agreement - Mills Property Disposition\r\nC. Franchise Agreement for Forged Fiber\r\n\r\n9. PUBLIC HEARING\r\nA. Resolution Approving Fiscal Year 2026 Revision 2 Budget\r\nB. Ordinance Approving Updates to the Construction Standards\r\nC. Ordinance for a Title 15 Update - Amendment to Flood Damage Prevention\r\nD. Ordinance to Approve the Arrowhead Commercial Zone Change\r\n\r\n10. NEW BUSINESS\r\nA. Resolution Approving Fiscal Year 2027 Budget\r\nB. Contract Approval for Code 4 Labs\r\nC. CM/GC Agreement with the Barber Company for the New Fairground Arena/Stall Barn Project\r\n\r\n11. ADJOURN TO THE REDEVELOPMENT AGENCY (RDA)\r\n\r\n12. RDA CONSENT\r\nA. RDA Minutes of City Council for Spanish Fork City - 06-02-2026\r\n\r\n13. RDA NEW BUSINESS\r\nA. RDA Resolution Approving Fiscal Year 2027 Budget\r\n\r\n14. ADJOURN TO LOCAL BUILDING AUTHORITY\r\n\r\n15. LBA CONSENT\r\nA. LBA Meeting Minutes 06-02-2026\r\n\r\n16. LBA PUBLIC HEARING\r\nA. LBA Resolution Approving Fiscal Year 2026 Revision 1 Budget\r\n\r\n17. LBA NEW BUSINESS\r\nA. LBA Resolution Approving Fiscal Year 2027 Budget\r\n\r\n18. RECONVENE BACK TO CITY COUNCIL\r\n19. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n20. ADJOURNMENT",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "June 11, 2026 05:19 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1086471",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086471.html",
       "title": "Spanish Fork City Council  NOTICE OF THE FISCAL YEAR 2026 BUDGET REVISION 2 PUBLIC HEARING",
@@ -80,43 +100,6 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "June 02, 2026 12:36 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083411",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083411.html",
-      "title": "Spanish Fork City Council Notice to Spanish Fork City Utility Customers 2027",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE TO SPANISH FORK CITY UTILITY CUSTOMERS\r\n\r\nState law requires that the City provide an annual disclosure on funds transferred from a utility enterprise fund to any other fund. The City has budgeted the following transfers. \r\n\r\nThe City of Spanish Fork has budgeted for the transfer from each utility fund to the general fund as a dividend to Spanish Fork taxpayers. This dividend is the result of the rate payers' investment in the City's utility infrastructure. These funds are used each year to help cover costs of important city services like police, fire, library, senior center, parks and recreation, and other city functions. The utility transfer helps keep property taxes low in Spanish Fork. If City utility services were provided by private utility vendors, these dividends would instead be paid to the private investor-owners. Because Spanish Fork residents are the investor-owners, these dividends are used to offset what otherwise would be a significant increase in property tax rates. These transfers are of funds which cannot be defined as a reasonable allocation of costs between funds. These amounts will not be repaid. \r\n\r\nThe amounts of the transfers are as follows:\tDollar Amount          \t% of Expenditures \r\nFrom the Power Fund to the General Fund\t$ 1,310,000\t  3.3 % From the Water Fund to the General Fund \t$ 352,000\t\t2.6 % \r\nFrom the Sewer Fund to the General Fund\t$ 152,000\t0.9 %\r\nFrom the Solid Waste Fund to the General Fund \t$ 50,000 \t 1.3 % \r\nFrom the Broadband Fund to the General Fund \t$ 633,171 \t  5.7 % \r\n\r\nSpanish Fork City also has a debt obligation that the Power Fund is helping make payments on. The funds are to pay for the Justice Center (Police/Court Building). This transfer is for funds which cannot be defined as a reasonable allocation of costs between funds. These amounts will not be repaid. \r\n\r\nThe amount of this transfer is as follows:        \tDollar Amount\t % of Expenditures \r\nFrom the Power Fund to the Debt Service Fund \t$ 679,503 \t1.7 %\r\n\r\nA public hearing will be held on Tuesday, June 2, 2026 at 6 p.m. at the City Council Chambers, located at 80 South Main Street, Spanish Fork, Utah. The public hearing will be to discuss the proposed dividend transfers in the Fiscal Year 2027 Budget. The fiscal year begins July 1, 2026 and ends June 30, 2027. \r\n\r\nThank you for your support and involvement as a utility customer of Spanish Fork.",
-      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Tara Silver",
-      "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "May 26, 2026 08:35 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083409",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083409.html",
-      "title": "Spanish Fork City Council Notice of the Fiscal Year 2027 Budget Public Hearing",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "NOTICE OF THE FISCAL YEAR 2027 BUDGET PUBLIC HEARING  \r\nA Public Hearing for the Spanish Fork City Fiscal Year 2027 Budget will be held before the Spanish Fork City Council on June 2nd, 2026 at 6:00 P.M. This hearing is to receive public comment for the following items:\r\n 1) The proposed Budget for Fiscal Year 2027\r\nRevenues, expenditures, and transfers for all funds;\r\nDonations in the form of cash and fee waivers;\r\nAll fees and utility rates schedule; \r\nThis will be held in the Spanish Fork City Council Chambers at 6 pm located at 80 S Main Street, Spanish Fork, Utah. All interested residents are invited to attend.\r\nIf you need special accommodation to participate in the meeting please contact the City Manager's office, 801-804-4530.\r\nThis was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 05-26-2026",
-      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Tara Silver",
-      "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "May 26, 2026 08:32 AM",
       "attachments": [],
       "canceled": false
     },
@@ -167,6 +150,43 @@
           "file_id": "1444359"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1083409",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083409.html",
+      "title": "Spanish Fork City Council Notice of the Fiscal Year 2027 Budget Public Hearing",
+      "event_date": "June 2, 2026 06:00 PM",
+      "event_date_iso": "2026-06-02T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF THE FISCAL YEAR 2027 BUDGET PUBLIC HEARING  \r\nA Public Hearing for the Spanish Fork City Fiscal Year 2027 Budget will be held before the Spanish Fork City Council on June 2nd, 2026 at 6:00 P.M. This hearing is to receive public comment for the following items:\r\n 1) The proposed Budget for Fiscal Year 2027\r\nRevenues, expenditures, and transfers for all funds;\r\nDonations in the form of cash and fee waivers;\r\nAll fees and utility rates schedule; \r\nThis will be held in the Spanish Fork City Council Chambers at 6 pm located at 80 S Main Street, Spanish Fork, Utah. All interested residents are invited to attend.\r\nIf you need special accommodation to participate in the meeting please contact the City Manager's office, 801-804-4530.\r\nThis was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 05-26-2026",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "May 26, 2026 08:32 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1083411",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083411.html",
+      "title": "Spanish Fork City Council Notice to Spanish Fork City Utility Customers 2027",
+      "event_date": "June 2, 2026 06:00 PM",
+      "event_date_iso": "2026-06-02T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE TO SPANISH FORK CITY UTILITY CUSTOMERS\r\n\r\nState law requires that the City provide an annual disclosure on funds transferred from a utility enterprise fund to any other fund. The City has budgeted the following transfers. \r\n\r\nThe City of Spanish Fork has budgeted for the transfer from each utility fund to the general fund as a dividend to Spanish Fork taxpayers. This dividend is the result of the rate payers' investment in the City's utility infrastructure. These funds are used each year to help cover costs of important city services like police, fire, library, senior center, parks and recreation, and other city functions. The utility transfer helps keep property taxes low in Spanish Fork. If City utility services were provided by private utility vendors, these dividends would instead be paid to the private investor-owners. Because Spanish Fork residents are the investor-owners, these dividends are used to offset what otherwise would be a significant increase in property tax rates. These transfers are of funds which cannot be defined as a reasonable allocation of costs between funds. These amounts will not be repaid. \r\n\r\nThe amounts of the transfers are as follows:\tDollar Amount          \t% of Expenditures \r\nFrom the Power Fund to the General Fund\t$ 1,310,000\t  3.3 % From the Water Fund to the General Fund \t$ 352,000\t\t2.6 % \r\nFrom the Sewer Fund to the General Fund\t$ 152,000\t0.9 %\r\nFrom the Solid Waste Fund to the General Fund \t$ 50,000 \t 1.3 % \r\nFrom the Broadband Fund to the General Fund \t$ 633,171 \t  5.7 % \r\n\r\nSpanish Fork City also has a debt obligation that the Power Fund is helping make payments on. The funds are to pay for the Justice Center (Police/Court Building). This transfer is for funds which cannot be defined as a reasonable allocation of costs between funds. These amounts will not be repaid. \r\n\r\nThe amount of this transfer is as follows:        \tDollar Amount\t % of Expenditures \r\nFrom the Power Fund to the Debt Service Fund \t$ 679,503 \t1.7 %\r\n\r\nA public hearing will be held on Tuesday, June 2, 2026 at 6 p.m. at the City Council Chambers, located at 80 South Main Street, Spanish Fork, Utah. The public hearing will be to discuss the proposed dividend transfers in the Fiscal Year 2027 Budget. The fiscal year begins July 1, 2026 and ends June 30, 2027. \r\n\r\nThank you for your support and involvement as a utility customer of Spanish Fork.",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "May 26, 2026 08:35 AM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -302,61 +322,6 @@
           "url": "https://www.utah.gov/pmn/files/1430177.pdf",
           "date_added": "2026/05/08 11:21 AM",
           "file_id": "1430177"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1073721",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073721.html",
-      "title": "Spanish Fork City Council",
-      "event_date": "April 21, 2026 06:00 PM",
-      "event_date_iso": "2026-04-21T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Tuesday, April 21, 2026\r\nSpanish Fork City Council Meeting\r\n\r\nCITY COUNCIL AGENDA\r\nPUBLIC NOTICE is hereby given that the City Council of Spanish Fork, Utah, will hold a public meeting on April 21, 2026 in the Council Chambers, located on the second floor of Library Hall, 80 South Main Street.\r\n\r\n-A Work Session Meeting will begin at 4:30 pm in the Explorer Room.\r\n-City Council Meeting will begin at 6:00 pm in the Council Chambers.\r\n\r\nNotice is hereby given that:\r\n-In the event of an absence of a quorum, agenda items will be continued to the next regularly scheduled meeting.\r\n-By motion of the Spanish Fork City Council, pursuant to Title 52, Chapter 4 of the Utah Code, the City Council may vote to hold a closed meeting for any of the purposes identified in that Chapter.\r\n- Electronic Participation: Members of the City Council and City Staff may participate by phone, zoom, or other electronic means.\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Council Meetings located at 80 South Main Street, Utah 84660. If you need special accommodation to participate in the meeting, please contact the City Manager's Office at 801-804-4530\r\n\r\n1. 4:30 pm WORK MEETING - No formal actions are taken in a work session.\r\nA. Budget\r\nB. Self-generation Power Projects\r\n\r\n2. 6:00pm CITY COUNCIL MEETING\r\n3. CALL TO ORDER, PLEDGE, OPENING CEREMONY, RECOGNITIONS\r\nA. Prayer & Motivational Message\r\nB. Pledge, led by invitation\r\n\r\n4. PUBLIC COMMENTS: In order to be considerate of everyone attending the meeting and to more closely follow the published agenda times, public comment will be limited to three minutes per person - A spokesperson who has been asked by a group to summarize their concerns will be allowed five minutes to speak - Comments which cannot be made within these limits should be submitted in writing. The Mayor or Council may restrict the comments beyond these guidelines.\r\n\r\n5. COUNCIL COMMENTS\r\n\r\n6. STAFF REPORTS\r\n\r\n7. SPANISH FORK 101\r\nA. Water Outlook and Conservation Report & Highlights\r\n\r\n8. CONSENT ITEMS\r\nA. Minutes of City Council for Spanish Fork City - 04-07-2026\r\nB. 80 S 100 W Real Estate Purchase Agreement\r\nC. ~ 1300 S Main Real Estate Purchase Agreement\r\nD. Spanish Fork Airport Taxiway Bravo Phase 2 Contract Award\r\n\r\n9. PUBLIC HEARING\r\nA. Ordinance to Approve a Title 15 Amendment for Religious Structures\r\nB. Ordinance Hales Two-lot Zone Change\r\nC. Resolution authorizing creation of the Stockman Flats Public Infrastructure Districts (PID)\r\nD. Ordinance to Approve the Andy Ridge Zone Change\r\n\r\n10. NEW BUSINESS\r\nA. Dennis McGraw Fence Height Approval Request\r\n\r\n11. DISCUSSION\r\nA. Transportation Utility Fee\r\nB. Project Signage Plans\r\n\r\n12. ADJOURN TO CLOSED MEETING If Needed-The Spanish Fork City Council may temporarily recess the regular meeting and convene in a closed session to discuss (a) discussion of the character, professional competence, or physical or mental health of an individual (b) strategy sessions to discuss collective bargaining, (c) strategy sessions to discuss pending or reasonably imminent litigation, (d) strategy sessions to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state, (e) strategy sessions to discuss the sale of real property, including any form of a water right or water shares, (f) discussion regarding deployment of security personnel, devices, or systems, (g) investigative proceedings regarding allegations of criminal misconduct as provided in Utah Code § 52-4-205.\r\nA. Closed Meeting\r\n13. ADJOURNMENT",
-      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Tara Silver",
-      "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "April 16, 2026 04:36 PM",
-      "attachments": [
-        {
-          "file_name": "Adopted City Council Draft Minutes April 7, 2026 (1).pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1422339.pdf",
-          "date_added": "2026/04/22 10:17 AM",
-          "file_id": "1422339"
-        },
-        {
-          "file_name": "ORD Template Public Notice Website.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422337.pdf",
-          "date_added": "2026/04/22 10:17 AM",
-          "file_id": "1422337"
-        },
-        {
-          "file_name": "PRESENTATION CC Work Session 4-21-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422341.pdf",
-          "date_added": "2026/04/22 10:17 AM",
-          "file_id": "1422341"
-        },
-        {
-          "file_name": "PRESENTATION Utah HB425 City Road Funding (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422343.pdf",
-          "date_added": "2026/04/22 10:17 AM",
-          "file_id": "1422343"
-        },
-        {
-          "file_name": "PRESENTATION.citycouncil.4-21-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422345.pdf",
-          "date_added": "2026/04/22 10:19 AM",
-          "file_id": "1422345"
         }
       ],
       "canceled": false

@@ -4,8 +4,62 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-06-08T12:29:50.279875+00:00",
+  "scraped_at": "2026-06-15T13:56:10.695320+00:00",
   "notices": [
+    {
+      "notice_id": "1087341",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087341.html",
+      "title": "Erda City Council Meeting",
+      "event_date": "June 11, 2026 07:00 PM",
+      "event_date_iso": "2026-06-11T19:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, June 11, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/uke-ijxe-xdh\r\nOr dial:  (US) +1 224-475-1428  PIN:  380 176 012 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 5-28-26\r\nTreasurer Report\r\nSheriff's Report\r\nNTFD Report and Wildfire agreement\r\nConsideration of Ordinance 26-08 Adopting the 2026-2027 Budget and Certified Tax Rate\r\nConsideration of Resolution 26-08 A Resolution Providing for Year-End Amendments to the 2025-2026 Fiscal Year Budget\r\nOpen Public Hearing\r\nClose Public Hearing\r\nDiscussion and review of East Disconnect Application, tentative decision,  and direction to City Attorney.\r\nDiscussion and review of West Disconnect Application, tentative decision,  and direction to City Attorney.\r\nPresentation from UC3 Representative Sarah Davenport-Smith\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\nFOLLOW UP ITEMS:\r\n\r\n1-Renewal of Interlocal agreement with Tooele County -Sheldon and Clyde\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "June 08, 2026 06:47 PM",
+      "attachments": [
+        {
+          "file_name": "May 26 Financial Report (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445641.pdf",
+          "date_added": "2026/06/08 06:45 PM",
+          "file_id": "1445641"
+        },
+        {
+          "file_name": "Copy of Resolution 26-08 Year-end Budget Amendment  FY 2026.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445643.pdf",
+          "date_added": "2026/06/08 06:46 PM",
+          "file_id": "1445643"
+        },
+        {
+          "file_name": "FY 2026 ADMENDED FINAL BUDGET (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445645.pdf",
+          "date_added": "2026/06/08 06:46 PM",
+          "file_id": "1445645"
+        },
+        {
+          "file_name": "Copy of Ordinance 26-08 Adopting budget and Certified Tax Rate 7-1-2026 to 6-30-2027.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445647.pdf",
+          "date_added": "2026/06/08 06:46 PM",
+          "file_id": "1445647"
+        },
+        {
+          "file_name": "UC3 2026 Intro Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1445649.pdf",
+          "date_added": "2026/06/08 06:47 PM",
+          "file_id": "1445649"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1086409",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086409.html",
@@ -339,6 +393,24 @@
       "canceled": true
     },
     {
+      "notice_id": "1068039",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068039.html",
+      "title": "Erda City Council Meeting  **DATE CHANGE**",
+      "event_date": "March 27, 2026 07:00 PM",
+      "event_date_iso": "2026-03-27T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "UPDATE\r\n***NOTICE OF DATE CHANGE***\r\nTo accommodate the conflict in schedule at the Erda City Fire Station on the regularly scheduled City Council Meeting time, the City Council has chosen to meet on the FRIDAY March 27th, 2026 at 7pm.",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "March 21, 2026 12:20 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1068537",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068537.html",
       "title": "Erda City Council Meeting",
@@ -394,56 +466,6 @@
           "url": "https://www.utah.gov/pmn/files/1409699.pdf",
           "date_added": "2026/03/24 07:07 PM",
           "file_id": "1409699"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1068039",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068039.html",
-      "title": "Erda City Council Meeting  **DATE CHANGE**",
-      "event_date": "March 27, 2026 07:00 PM",
-      "event_date_iso": "2026-03-27T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "UPDATE\r\n***NOTICE OF DATE CHANGE***\r\nTo accommodate the conflict in schedule at the Erda City Fire Station on the regularly scheduled City Council Meeting time, the City Council has chosen to meet on the FRIDAY March 27th, 2026 at 7pm.",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "March 21, 2026 12:20 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1069171",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069171.html",
-      "title": "Erda City Council Emergency Meeting",
-      "event_date": "March 27, 2026 06:30 PM",
-      "event_date_iso": "2026-03-27T18:30:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda City Council will hold an emergency meeting on Friday March 27th, 2026 at 6:30 PM hold a closed session pursuant to Utah Code §52-4-205(1) for a strategy session to discuss imminent litigation requiring immediate council direction. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nMotion and Vote to Enter Closed Session (reason: imminent litigation requiring immediate council direction)\r\nConduct Closed Session\r\nAdjournment \r\n\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).\r\n**Format and Verbiage to be used when going into a closed session\r\n'I move that we temporarily recess the Council meeting to go into a closed meeting for a strategy session to discuss pending or reasonably imminent litigation.'\r\n \r\nThe motion needs a second and a roll call vote.\r\n \r\nThe Chair then makes this statement:   'The motion passes and the Council will go into closed meeting for a strategy session to discuss pending or reasonably imminent litigation that will be held in this room.'\r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Larry Kimpel at 435-354-9216",
-      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "March 27, 2026 03:12 PM",
-      "attachments": [
-        {
-          "file_name": "3-27-26 Audio of Emergency City Council Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1411397.mp3",
-          "date_added": "2026/03/28 11:48 AM",
-          "file_id": "1411397"
-        },
-        {
-          "file_name": "3-27-2026 Emergency Meeting Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1411277.pdf",
-          "date_added": "2026/03/27 03:10 PM",
-          "file_id": "1411277"
         }
       ],
       "canceled": false

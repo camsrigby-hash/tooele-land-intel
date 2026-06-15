@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "1032",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1032.html",
-  "scraped_at": "2026-06-08T12:32:02.834466+00:00",
+  "scraped_at": "2026-06-15T13:58:24.709093+00:00",
   "notices": [
+    {
+      "notice_id": "1088529",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088529.html",
+      "title": "Notice of Meeting Cancellation",
+      "event_date": "June 23, 2026 06:30 PM",
+      "event_date_iso": "2026-06-23T18:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF MEETING CANCELLATION\r\n\r\nThe regularly scheduled South Jordan City Planning Commission meeting for June 23, 2026 has been cancelled.\r\n\r\nThe next regularly scheduled meeting will be Tuesday, July 14, 2026 at 6:30 p.m.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "June 12, 2026 08:04 AM",
+      "attachments": [
+        {
+          "file_name": "06-23-2026 NOTICE OF MEETING CANCELLATION.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1447963.pdf",
+          "date_added": "2026/06/12 08:04 AM",
+          "file_id": "1447963"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1084671",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084671.html",
@@ -287,33 +312,6 @@
           "url": "https://www.utah.gov/pmn/files/1424977.pdf",
           "date_added": "2026/04/29 09:12 AM",
           "file_id": "1424977"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1067391",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1067391.html",
-      "title": "Notice of Meeting Cancellation",
-      "event_date": "March 24, 2026 06:30 PM",
-      "event_date_iso": "2026-03-24T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF MEETING CANCELLATION\r\n\r\n\r\nThe regularly scheduled South Jordan City Planning Commission meeting for March 24, 2026 has been cancelled.\r\n\r\nThe next regularly scheduled meeting will be Tuesday, April 14, 2026 at 6:30 PM.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "March 19, 2026 08:06 AM",
-      "attachments": [
-        {
-          "file_name": "03-24-26 Notice of Meeting Cancellation.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1407167.pdf",
-          "date_added": "2026/03/19 08:04 AM",
-          "file_id": "1407167"
         }
       ],
       "canceled": false
