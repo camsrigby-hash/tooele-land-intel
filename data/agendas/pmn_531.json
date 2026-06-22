@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-06-15T14:00:07.900087+00:00",
+  "scraped_at": "2026-06-22T13:39:38.887880+00:00",
   "notices": [
+    {
+      "notice_id": "1089445",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1089445.html",
+      "title": "Planning Commission Cancellation Notice 6.17.26 Meeting",
+      "event_date": "June 17, 2026 07:00 PM",
+      "event_date_iso": "2026-06-17T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CANCELATION OF REGULAR MEETING\r\nOF THE VINEYARD PLANNING COMMISSION,\r\nWednesday, June 17, 2026, 7:00 p.m.\r\n\r\n\r\nCANCELATION NOTICE\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Planning Commission's regularly scheduled meeting for June 17, 2026, has been canceled. \r\nThe next scheduled meeting is on July 15, 2026.\r\n\r\n\r\nThe foregoing CANCELATION notice was posted on the Utah Public Notice Website and Vineyard Website, posted at the Vineyard City Offices and City Hall, and delivered electronically to city staff and each member of the Planning Commission.\r\n\r\n\r\nCANCELLATION NOTICING COMPLETED ON: June 15, 2026\r\n\r\nNOTICED BY:   /s/ Anthony Fletcher\r\n                          Anthony Fletcher, Long Range Planner",
+      "meeting_location": "125 S. Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "June 16, 2026 10:41 AM",
+      "attachments": [
+        {
+          "file_name": "Planning Commission Cancellation Notice 06.17.2026.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1449591.pdf",
+          "date_added": "2026/06/16 10:41 AM",
+          "file_id": "1449591"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1085007",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085007.html",
@@ -234,31 +260,6 @@
           "url": "https://www.utah.gov/pmn/files/1377641.pdf",
           "date_added": "2026/01/15 11:26 AM",
           "file_id": "1377641"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1048525",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1048525.html",
-      "title": "Planning Commission Meeting",
-      "event_date": "January 7, 2026 06:00 PM",
-      "event_date_iso": "2026-01-07T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "NOTICE OF A REGULAR\r\nPLANNING COMMISSION MEETING\r\nJanuary 7, 2026, at 6:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard Planning Commission will hold a regularly scheduled Planning Commission meeting on Wednesday, January 7, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\n\r\n\r\n[IGNORE_INDENT]\r\n1.\tCALL TO ORDER/INVOCATION/INSPIRATIONAL THOUGHT/PLEDGE OF ALLEGIANCE\r\n\r\n2.\tPRESENTATIONS/RECOGNITIONS/AWARDS/PROCLAMATIONS\r\n\r\n3.\tPUBLIC COMMENTS PC\r\n \tTime dedicated for public comment. Comments will be limited to three (3) minutes. No actions may be taken by the Planning Commission due to the need for proper public noticing.\r\n\r\n4.\tCONSENT ITEMS\r\n\r\n5.\tBUSINESS ITEMS\r\n\r\n \t5.1.\tChair and Vice-Chair Re-election\r\n \t \tThe Commission will nominate and then elect the standing Chair and Vice-Chair positions for the 2026 calendar year.\r\n\r\n \t5.2.\tGreenline Block 4 Site Plan Amendment\r\n \t \tBronson Tatton with Flagborough is Requesting Approval of a Site Plan Amendment for The Greenline Block 4 - Retail Village\r\n\r\n6.\tWORK SESSION\r\n\r\n\tNo work items were submitted.\r\n\r\n7.\tSTAFF AND COMMISSION REPORTS\r\n\r\n8.\tADJOURNMENT\r\n\r\n\r\nThe next regularly scheduled meeting is on January 21st, 2026\r\n\r\nThe public is invited to participate in all Planning Commission meetings. In compliance with the Americans with Disabilities Act, individuals needing special accommodations during this public meeting should notify Vineyard's Planning team, at least 24 hours prior to the meeting by calling (801) 226-1929 or email at planning@vineyardutah.gov.\r\n\r\nThe foregoing notice and agenda were posted on the Utah Public Notice Website and Vineyard Website, posted at Vineyard City Hall, and delivered electronically to city staff and each member of the Planning Commission. \r\n\r\nAGENDA NOTICING COMPLETED ON:\t\r\nDecember 31st, 2025\r\n\r\n\r\nCERTIFIED (NOTICED) BY:\t\r\n\r\n/s/. Madison Reed\r\n\tMadison Reed, Planning Technician",
-      "meeting_location": "125 S Main St Vineyard , UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "December 31, 2025 10:41 AM",
-      "attachments": [
-        {
-          "file_name": "1.7.2026 Planning Commission Meeting Agenda.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1371171.pdf",
-          "date_added": "2025/12/31 10:41 AM",
-          "file_id": "1371171"
         }
       ],
       "canceled": false

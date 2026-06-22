@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-06-15T13:58:00.686408+00:00",
+  "scraped_at": "2026-06-22T13:37:36.837181+00:00",
   "notices": [
     {
       "notice_id": "1088095",
@@ -54,6 +54,39 @@
           "url": "https://www.utah.gov/pmn/files/1446155.pdf",
           "date_added": "2026/06/09 04:00 PM",
           "file_id": "1446155"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1090045",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1090045.html",
+      "title": "Planning Commission Public Meeting",
+      "event_date": "June 23, 2026 05:30 PM",
+      "event_date_iso": "2026-06-23T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN \r\nPLANNING COMMISSION MEETING \r\nJUNE 23, 2026, 5:30 PM \r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS \r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005 \r\n5:30 PM - PLANNING COMMISSION WORK SESSION \r\n1. \r\nDISCUSSION ITEMS \r\n1.A. TRAINING - Market Value and Zoning Affect Developers \r\n1.B. AGENDA REVIEW \r\n6:30 PM PLANNING COMMISSION POLICY SESSION \r\n2. \r\n3. \r\n4. \r\n5. \r\n6. \r\n7. \r\nCALL TO ORDER \r\nPLEDGE OF ALLEGIANCE \r\nDECLARATION OF CONFLICTS OF INTEREST \r\nMINUTES \r\n5.A. June 9, 2026 Planning Commission Minutes \r\nSTATUS REPORT \r\nACTION AND ADVISORY ITEMS \r\n7.A. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nAmending the General Plan Future Land Use Map for Annexation Policy Plan. \r\nBACKGROUND: (Presented by Community Development Director, Brandon Larsen) \r\nEagle Mountain City is proposing an updated annexation policy plan. The plan identifies \r\nseven (7) areas of unincorporated Utah County that Eagle Mountain City would \r\npotentially consider for annexation. The document contains a map of these areas in \r\nrelation to the current city boundaries. A series of criteria and considerations are \r\nincluded in the document to facilitate analysis and decision-making for annexation \r\nproposals. \r\n7.B. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nApproving the Triumph Master Plan & Development Agreement Amendment. \r\nBACKGROUND: (Presented by Senior Planner, Robert Hobbs) A request by Scot \r\nHazard for [a second] Master Development Agreement and Plan Amendment approval \r\npertaining to Triumph Subdivision in order to allow for the creation of four (4) affordable \r\nhousing 'pods' within the development. The proposed pods range from 2.8 - 4.5 acres \r\nin size and are intended to have higher residential densities than the balance of the \r\nproject. Triumph Subdivision is located in Section 19, T6S, R1W, on the east and west \r\nsides of N. Lake Mountain Road south of E. Pole Canyon Blvd. (County Assessor \r\nParcel/Serial # 59:019:0031) in Eagle Mountain City; application identified as the: \r\n'Triumph Master Development Agreement Amendment'.  \r\n7.C. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nAmending the Eagle Mountain Municipal Code 17.75.052 Accessory Recreation \r\nBuildings. \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) A proposed code amendment \r\nthat establishes special use standards for recreation buildings that are an accessory \r\nuse to religious or cultural meeting halls. \r\n7.D. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nAmending the Eagle Mountain Municipal Code 17.10.030, 17.80.120, and 17.160 \r\nSeasonal and Political Signs. \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) This proposed code \r\namendment provides definitions for park strips and political signs, updates standards \r\nand practices for political signs, and updates standards for temporary and seasonal use \r\nsigns. \r\n7.E. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah \r\nAmending the Eagle Mountain Municipal Code 16.20, 16.25, and 17.100 Cost Estimate. \r\nBACKGROUND: (Presented by Community Development Director, Brandon Larsen) \r\nConsideration of an amendment to Eagle Mountain Municipal Code Chapters 16.20, \r\n16.25, and 17.100, Application Requirements, Cost Estimates. \r\n8. \r\n9. \r\nDISCUSSION ITEMS \r\nAGENDA REVIEW \r\n10. NEXT SCHEDULED MEETING \r\n11. ADJOURNMENT \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS. \r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable \r\naccommodations for participation in all Public Meetings and Work Sessions. Please call the City \r\nRecorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be \r\nheld telephonically to allow a member of the public body to participate. This agenda is subject to \r\nchange with a minimum 24-hour notice.",
+      "meeting_location": "1650 E. Stagecoach Run CN136001 - Eagle Mountain City, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "June 17, 2026 04:13 PM",
+      "attachments": [
+        {
+          "file_name": "6.23.26 PC Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1450913.pdf",
+          "date_added": "2026/06/17 04:13 PM",
+          "file_id": "1450913"
+        },
+        {
+          "file_name": "6.23.26 PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1450915.pdf",
+          "date_added": "2026/06/17 04:13 PM",
+          "file_id": "1450915"
         }
       ],
       "canceled": false
@@ -271,32 +304,6 @@
           "url": "https://www.utah.gov/pmn/files/1429469.pdf",
           "date_added": "2026/05/07 12:13 PM",
           "file_id": "1429469"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1073331",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073331.html",
-      "title": "PCPH Spring Run Plaza MDA, EMMC 16.15, EMMC 17.10.030 and 17.25.040",
-      "event_date": "April 28, 2026 06:30 PM",
-      "event_date_iso": "2026-04-28T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on April 28, 2026, at 6:30\r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005. The Planning \r\nCommission will receive public comments concerning the following items:\r\n\r\nSpring Run Plaza Master Development Agreement: The City has negotiated a master \r\ndevelopment agreement with Spring Run Parkway Partners II, LP and RCA65, LLC regarding \r\na commercial development located on Spring Run Parkway across the street from \r\nWalmart. The master development agreement implements the master development plan \r\napproved on December 2, 2025. The property is being developed in accordance with the \r\nCommercial Community zone. The agreement provides for some exceptions to the zoning \r\nrequirements and governs infrastructure improvements that are necessary to support the \r\ndevelopment. EMC Point of Contact: Marcus Draper, mdraper@eaglemountain.org.\r\n\r\nEagle Mountain Municipal Code Amendments: \r\n\r\nEMMC 16.15: An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain \r\nMunicipal Code Chapter 16.15 Concept Plans. EMC Point of Contact: Brandon Larsen, \r\nblarsen@eaglemountain.gov\r\n\r\nEMMC 17.10.030 and 17.25.040: A proposal to add a definition for 'Wildland Urban \r\nInterface (WUI) Boundary Lot' and amend the Residential Development Standards table to \r\nestablish rear setback requirements for parcels adjacent to the WUI boundary. EMC Staff \r\nPoint of Contact: Elizabeth Fewkes, efewkes@eaglemountain.gov.\r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611. \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov.\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "April 15, 2026 02:47 PM",
-      "attachments": [
-        {
-          "file_name": "4.28.2026 PCPH Spring Run MDA, EMMC 16.15, EMMC 17.10.030 and 17.25.040.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1418957.pdf",
-          "date_added": "2026/04/15 02:56 PM",
-          "file_id": "1418957"
         }
       ],
       "canceled": false

@@ -4,7 +4,7 @@
   "public_body": "Grantsville City Council",
   "body_id": "1840",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1840.html",
-  "scraped_at": "2026-06-15T13:55:46.519298+00:00",
+  "scraped_at": "2026-06-22T13:35:29.604238+00:00",
   "notices": [
     {
       "notice_id": "1088127",
@@ -36,6 +36,47 @@
           "url": "https://www.utah.gov/pmn/files/1447065.pdf",
           "date_added": "2026/06/10 07:07 PM",
           "file_id": "1447065"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1089503",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1089503.html",
+      "title": "Grantsville City Council Regular Meeting and Public Hearing AMENDED",
+      "event_date": "June 17, 2026 07:00 PM",
+      "event_date_iso": "2026-06-17T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, June 17, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm. \r\n\r\nAMENDED AGENDA 6/16/2026 3:55 P.M.\r\n\r\nThe agenda is as follows: \r\n\r\nROLL CALL \r\n\r\nAGENDA: \r\n\r\n1.\tPublic Comment\r\n2.\tSummary Action Items\r\n     a.\tApproval of Minutes from the June 3, 2026 City Council Regular Meeting\r\n     b.\tApproval of bills\r\n3.\tRecognition of the Rodeo Committee\r\n4.\tDiscussion and Council direction on Battle of the Broncs during the Honey Harvest Festival\r\n5.\tPresentation from the Division of Water Resources regarding a waterwise landscape incentive program, and Council direction\r\n6.\tCouncil Appeal Decision: Consideration of Resolution 2026-38 approving a driveway deviation for the property located at 48 McMichael Avenue\r\n7.\tConsideration of Resolution 2026-39 approving a proposed amendment to the Kenneth Fawson Subdivision and approving the commercial final plat application for Holiday Oil, located at approximately 794 E Main Street in the CG Zoning District\r\n8.\tConsideration of Resolution 2026-44 approving the Master Development Agreement for the Willow Fields Subdivision located approximately at Old Lincoln Highway and Champion Drive\r\n9.\tPublic Hearing Item: Consideration of Resolution 2026-45 Approving the Fiscal Year 2026 Year-End budget amendments and adopting the Fiscal Year 2026 Year End Budget\r\n10.\tPublic Hearing Item: Consideration of Resolution 2026-46 approving and adopting the Fiscal Year 2027 compensation schedule for Grantsville City department heads and elected officials\r\n11.\tPresentation of the Property Tax Impact Schedule\r\n12.\tPublic Hearing Item: Consideration of Resolution 2026-48 approving and adopting the Fiscal Year 2027 interim budget and acknowledging the Fiscal Year 2027 Property Tax Impact Schedule\r\n13.\tConsideration of Resolution 2026-49 approving the 2026 update to the Grantsville City Transportation Master Plan\r\n14.\tConsideration of Resolution 2026-50 approving the pick-up of member contributions for Tier 2 public safety and firefighter contributory retirement system and authorizing the related employer election form\r\n15.\tConsideration of an authorization to execute a Memorandum of Understanding with the Tooele Technical College\r\n16.\tConsideration of Resolution 2026-43 approving the Utah Wildfire Resources Memorandum of Understanding between the Utah Division of Forestry, Fire and State Lands and the Grantsville Volunteer Fire Department\r\n17.\tCouncil Reports\r\n18.\tAdjourn\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "June 16, 2026 12:13 PM",
+      "attachments": [
+        {
+          "file_name": "06.17.2026 City Council Agenda AMENDED.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1450067.pdf",
+          "date_added": "2026/06/16 04:32 PM",
+          "file_id": "1450067"
+        },
+        {
+          "file_name": "06.17.2026 Meeting Materials v2.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1450069.pdf",
+          "date_added": "2026/06/16 04:33 PM",
+          "file_id": "1450069"
+        },
+        {
+          "file_name": "Property Tax Impact Schedule 06.09.2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1450071.pdf",
+          "date_added": "2026/06/16 04:33 PM",
+          "file_id": "1450071"
         }
       ],
       "canceled": false
@@ -111,6 +152,81 @@
           "url": "https://www.utah.gov/pmn/files/1447061.pdf",
           "date_added": "2026/06/10 07:03 PM",
           "file_id": "1447061"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1084941",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084941.html",
+      "title": "Grantsville City Council Regular Meeting and Public Hearings",
+      "event_date": "June 3, 2026 07:00 PM",
+      "event_date_iso": "2026-06-03T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, June 3, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm. \r\n\r\nThe agenda is as follows: \r\n\r\nROLL CALL \r\n\r\nAGENDA: \r\n1.\tPublic Comment\r\n2.\tSummary Action Items\r\n     a.\tApproval of Minutes from the May 18, 2026 City Council Regular Meeting\r\n     b.\tApproval of bills\r\n3.\tUpdate from the victim advocate\r\n4.\tConsideration of Resolution 2026-40 authorizing the addition of a solar energy component to the Wastewater Treatment Plant capital project and authorizing the use of bond proceeds for solar development\r\n5.\tPublic Hearing Item: Consideration of Ordinance 2026-22 approving a General Plan Amendment for parcels 01-065-0-0074 and 01-065-0-0014, located approximately near Mack Canyon Road and SR-138, amending the future land use map from Mixed-Use Density, High Single-Family Density Residential, and Low Density Residential to Medium Density Residential for the Mack Canyon Subdivision\r\n6.\tPublic Hearing Item: Consideration of Ordinance 2026-23 approving a rezone of parcels 01-065-0-0074 and 01-065-0-0014 from R-1-21 (Single Family Residential, 21,000 square foot minimum lot size) to R-1-12 (Single Family Residential, 12,000 square foot minimum lot size) for the Mack Canyon Subdivision, located approximately near Mack Canyon Road and SR-138\r\n7.\tPublic Hearing Item: Consideration of Ordinance 2026-24 approving a Master Development Agreement for the Mack Canyon Subdivision, located approximately near Mack Canyon Road and SR-138\r\n8.\tPublic Hearing Item: Consideration of Ordinance 2026-25 amending Section 4.5 of the Grantsville Land Use Management Code regarding lot standards and street frontage; amending the applicability of the lot proportion requirement\r\n9.\tPublic Hearing Item: Consideration of Resolution 2026-37 declaring intent to consider an increase in property tax revenue above the certified tax rate for fiscal year 2027; publishing a property tax impact disclosure; adopting the Fiscal Year 2027 tentative budget to serve on an interim basis; and establishing the date, time, and place of the Truth in Taxation public hearing\r\n10.\tPresentation of the Property Tax Impact Schedule\r\n11.\tPresentation of the annual Fraud Risk Assessment\r\n12.\tDiscussion of proper usage of city property in regard to political signage\r\n13.\tClosed Session - (Imminent Litigation, Real Estate Negotiations, Personnel)\r\n14.\tAdjourn\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder \r\n\r\n\r\nPublished and posted 5/29/2026",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "May 29, 2026 06:16 PM",
+      "attachments": [
+        {
+          "file_name": "Property Tax Impact Schedule 05.21.2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1441135.pdf",
+          "date_added": "2026/05/29 06:16 PM",
+          "file_id": "1441135"
+        },
+        {
+          "file_name": "06.03.2026 Packet v3.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1443181.pdf",
+          "date_added": "2026/06/03 04:02 PM",
+          "file_id": "1443181"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1083293",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083293.html",
+      "title": "Notice of Public Hearing - FY27 Tentative Budget",
+      "event_date": "June 3, 2026 07:00 PM",
+      "event_date_iso": "2026-06-03T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "GRANTSVILLE CITY\r\nNOTICE OF PUBLIC HEARING\r\nFISCAL YEAR 2027 TENTATIVE BUDGET\r\n\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the Grantsville City Council will hold a Public Hearing on Wednesday, June 3, 2026, at 7:00 p.m. for the purpose of receiving public input regarding the proposed Fiscal Year 2027 Tentative Budget and the adoption of the tentative budget on an interim basis pending final budget adoption. \r\n\r\nThe Grantsville City Council will also consider a Resolution declaring the City's intent to consider an increase in property tax revenue above the certified tax rate for Fiscal Year 2027 and establishing the date, time, and place of the future Truth in Taxation public hearing required by Utah Code Section 59-2-919.\r\n\r\nThe public hearing will be held in person at Grantsville City Hall, located at 429 E. Main Street, Grantsville, Utah, 84029, and electronically via Zoom.\r\n\r\nPublic comments are welcome and may be provided in person during the meeting, or electronically using the following information:\r\n\r\nMeeting URL: https://us02web.zoom.us/j/4358843411\r\nDial-In: 1-253-215-8782\r\nMeeting ID: 435 884 3411\r\n\r\nWritten comments may also be submitted to the City Recorder, Alicia Fairbourne, at afairbourne@grantsvilleut.gov. All written comments will be distributed to the City Council and entered into the public record. To ensure consideration, written comments must be received no later than 12:00 p.m. (noon) on the day of the meeting.\r\n\r\nCopies of the proposed tentative budget, proposed resolution, and Property Tax Impact Schedule may be reviewed during regular business hours at Grantsville City Hall or online at: https://www.grantsvilleut.gov/transparency/public_notices.php#outer-18sub-382, or on the Utah Public Notice website at https://www.utah.gov/pmn/sitemap/publicbody/1840.html. \r\n\r\n\r\nDATED this 22nd day of May, 2026.\r\nAlicia Fairbourne\r\nGrantsville City Recorder",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "May 22, 2026 04:14 PM",
+      "attachments": [
+        {
+          "file_name": "06.03.2026 Public Hearing Notice Tentative Budget Adoption (posting).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438187.pdf",
+          "date_added": "2026/05/22 04:12 PM",
+          "file_id": "1438187"
+        },
+        {
+          "file_name": "FY2027 Interim Budget - 05.21.2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438189.pdf",
+          "date_added": "2026/05/22 04:13 PM",
+          "file_id": "1438189"
+        },
+        {
+          "file_name": "Property Tax Impact Schedule 05.21.2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1438191.pdf",
+          "date_added": "2026/05/22 04:14 PM",
+          "file_id": "1438191"
         }
       ],
       "canceled": false
@@ -193,81 +309,6 @@
           "url": "https://www.utah.gov/pmn/files/1438177.pdf",
           "date_added": "2026/05/22 04:05 PM",
           "file_id": "1438177"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083293",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083293.html",
-      "title": "Notice of Public Hearing - FY27 Tentative Budget",
-      "event_date": "June 3, 2026 07:00 PM",
-      "event_date_iso": "2026-06-03T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "GRANTSVILLE CITY\r\nNOTICE OF PUBLIC HEARING\r\nFISCAL YEAR 2027 TENTATIVE BUDGET\r\n\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the Grantsville City Council will hold a Public Hearing on Wednesday, June 3, 2026, at 7:00 p.m. for the purpose of receiving public input regarding the proposed Fiscal Year 2027 Tentative Budget and the adoption of the tentative budget on an interim basis pending final budget adoption. \r\n\r\nThe Grantsville City Council will also consider a Resolution declaring the City's intent to consider an increase in property tax revenue above the certified tax rate for Fiscal Year 2027 and establishing the date, time, and place of the future Truth in Taxation public hearing required by Utah Code Section 59-2-919.\r\n\r\nThe public hearing will be held in person at Grantsville City Hall, located at 429 E. Main Street, Grantsville, Utah, 84029, and electronically via Zoom.\r\n\r\nPublic comments are welcome and may be provided in person during the meeting, or electronically using the following information:\r\n\r\nMeeting URL: https://us02web.zoom.us/j/4358843411\r\nDial-In: 1-253-215-8782\r\nMeeting ID: 435 884 3411\r\n\r\nWritten comments may also be submitted to the City Recorder, Alicia Fairbourne, at afairbourne@grantsvilleut.gov. All written comments will be distributed to the City Council and entered into the public record. To ensure consideration, written comments must be received no later than 12:00 p.m. (noon) on the day of the meeting.\r\n\r\nCopies of the proposed tentative budget, proposed resolution, and Property Tax Impact Schedule may be reviewed during regular business hours at Grantsville City Hall or online at: https://www.grantsvilleut.gov/transparency/public_notices.php#outer-18sub-382, or on the Utah Public Notice website at https://www.utah.gov/pmn/sitemap/publicbody/1840.html. \r\n\r\n\r\nDATED this 22nd day of May, 2026.\r\nAlicia Fairbourne\r\nGrantsville City Recorder",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "May 22, 2026 04:14 PM",
-      "attachments": [
-        {
-          "file_name": "06.03.2026 Public Hearing Notice Tentative Budget Adoption (posting).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1438187.pdf",
-          "date_added": "2026/05/22 04:12 PM",
-          "file_id": "1438187"
-        },
-        {
-          "file_name": "FY2027 Interim Budget - 05.21.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1438189.pdf",
-          "date_added": "2026/05/22 04:13 PM",
-          "file_id": "1438189"
-        },
-        {
-          "file_name": "Property Tax Impact Schedule 05.21.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1438191.pdf",
-          "date_added": "2026/05/22 04:14 PM",
-          "file_id": "1438191"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1084941",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084941.html",
-      "title": "Grantsville City Council Regular Meeting and Public Hearings",
-      "event_date": "June 3, 2026 07:00 PM",
-      "event_date_iso": "2026-06-03T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, June 3, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm. \r\n\r\nThe agenda is as follows: \r\n\r\nROLL CALL \r\n\r\nAGENDA: \r\n1.\tPublic Comment\r\n2.\tSummary Action Items\r\n     a.\tApproval of Minutes from the May 18, 2026 City Council Regular Meeting\r\n     b.\tApproval of bills\r\n3.\tUpdate from the victim advocate\r\n4.\tConsideration of Resolution 2026-40 authorizing the addition of a solar energy component to the Wastewater Treatment Plant capital project and authorizing the use of bond proceeds for solar development\r\n5.\tPublic Hearing Item: Consideration of Ordinance 2026-22 approving a General Plan Amendment for parcels 01-065-0-0074 and 01-065-0-0014, located approximately near Mack Canyon Road and SR-138, amending the future land use map from Mixed-Use Density, High Single-Family Density Residential, and Low Density Residential to Medium Density Residential for the Mack Canyon Subdivision\r\n6.\tPublic Hearing Item: Consideration of Ordinance 2026-23 approving a rezone of parcels 01-065-0-0074 and 01-065-0-0014 from R-1-21 (Single Family Residential, 21,000 square foot minimum lot size) to R-1-12 (Single Family Residential, 12,000 square foot minimum lot size) for the Mack Canyon Subdivision, located approximately near Mack Canyon Road and SR-138\r\n7.\tPublic Hearing Item: Consideration of Ordinance 2026-24 approving a Master Development Agreement for the Mack Canyon Subdivision, located approximately near Mack Canyon Road and SR-138\r\n8.\tPublic Hearing Item: Consideration of Ordinance 2026-25 amending Section 4.5 of the Grantsville Land Use Management Code regarding lot standards and street frontage; amending the applicability of the lot proportion requirement\r\n9.\tPublic Hearing Item: Consideration of Resolution 2026-37 declaring intent to consider an increase in property tax revenue above the certified tax rate for fiscal year 2027; publishing a property tax impact disclosure; adopting the Fiscal Year 2027 tentative budget to serve on an interim basis; and establishing the date, time, and place of the Truth in Taxation public hearing\r\n10.\tPresentation of the Property Tax Impact Schedule\r\n11.\tPresentation of the annual Fraud Risk Assessment\r\n12.\tDiscussion of proper usage of city property in regard to political signage\r\n13.\tClosed Session - (Imminent Litigation, Real Estate Negotiations, Personnel)\r\n14.\tAdjourn\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder \r\n\r\n\r\nPublished and posted 5/29/2026",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "May 29, 2026 06:16 PM",
-      "attachments": [
-        {
-          "file_name": "Property Tax Impact Schedule 05.21.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1441135.pdf",
-          "date_added": "2026/05/29 06:16 PM",
-          "file_id": "1441135"
-        },
-        {
-          "file_name": "06.03.2026 Packet v3.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1443181.pdf",
-          "date_added": "2026/06/03 04:02 PM",
-          "file_id": "1443181"
         }
       ],
       "canceled": false
@@ -356,66 +397,6 @@
           "url": "https://www.utah.gov/pmn/files/1430699.pdf",
           "date_added": "2026/05/08 05:25 PM",
           "file_id": "1430699"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1079311",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079311.html",
-      "title": "Notice of Ordinance Adoption",
-      "event_date": "May 8, 2026 08:00 PM",
-      "event_date_iso": "2026-05-08T20:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "NOTICE OF ORDINANCE ADOPTION\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the Grantsville City Council adopted the following ordinances:\r\n\r\nOrdinance 2026-13, adopted on March 4, 2026, approves the rezoning of property located at approximately 519 W Main Street from A-10 (Agricultural) to C-S (Shopping Commercial District) to allow for commercial uses consistent with the City's General Plan and zoning objectives.\r\n\r\nOrdinance 2026-14, adopted on March 4, 2026, establishes an annual stipend program for members of the Grantsville City Fire Department, including eligibility requirements, participation standards, and administrative procedures intended to support firefighter retention, accountability, and operational readiness.\r\n\r\nOrdinance 2026-16, adopted on April 15, 2026, adopts an updated Grantsville City Annexation Policy Plan establishing a 20-year framework for future annexations, municipal service planning, infrastructure coordination, and growth management within identified expansion areas.\r\n\r\nOrdinance 2026-17, adopted on March 25, 2026, amends Chapter 2 of the Grantsville City Land Use and Management Code to update and clarify land use definitions, terminology, and development standards within the City Code.\r\n\r\nOrdinance 2026-18, adopted on May 6, 2026, amends Chapters 4, 6, 7, 8, 9, 14, 15, 16, 20, and 21 of the Grantsville City Land Use and Management Code to revise development standards, conditional use procedures, landscaping regulations, driveway requirements, home occupation standards, and related land use regulations intended to improve administration and clarity of the City Code.\r\n\r\nComplete copies of the adopted ordinances are available for review at the Grantsville City Recorder's Office during regular business hours and online through the City's website at https://grantsville.municipalcodeonline.com/book?type=orddoc#name=2026 and the Utah Public Notice Website at https://www.utah.gov/pmn/sitemap/publicbody/1840.html.\r\n\r\n\r\nAlicia Fairbourne\r\nGrantsville City Recorder\r\n\r\nPublished and posted in accordance with UCA § 10-3-711.",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "May 08, 2026 07:45 PM",
-      "attachments": [
-        {
-          "file_name": "ORDINANCE_2026-13 Rezone at 519 W Main.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430739.pdf",
-          "date_added": "2026/05/08 07:43 PM",
-          "file_id": "1430739"
-        },
-        {
-          "file_name": "ORDINANCE_2026-14 Fire Dept. Stipend.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430741.pdf",
-          "date_added": "2026/05/08 07:43 PM",
-          "file_id": "1430741"
-        },
-        {
-          "file_name": "Ordinance_2026-16 ANNEXATION POLICY PLAN UPDATE.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430743.pdf",
-          "date_added": "2026/05/08 07:44 PM",
-          "file_id": "1430743"
-        },
-        {
-          "file_name": "ORDINANCE_2026-17 GLUMDC Chapter 2 Amendments.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430745.pdf",
-          "date_added": "2026/05/08 07:44 PM",
-          "file_id": "1430745"
-        },
-        {
-          "file_name": "ORDINANCE_2026-18 GCLUMC 4, 6, 7, 8, 9, 14, 15, 16, 20, 21 Amendments.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430747.pdf",
-          "date_added": "2026/05/08 07:44 PM",
-          "file_id": "1430747"
-        },
-        {
-          "file_name": "Ord 13, 14, 16, 17, 18.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430749.pdf",
-          "date_added": "2026/05/08 07:45 PM",
-          "file_id": "1430749"
         }
       ],
       "canceled": false

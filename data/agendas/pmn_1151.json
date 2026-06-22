@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-06-15T13:58:48.910580+00:00",
+  "scraped_at": "2026-06-22T13:38:23.024334+00:00",
   "notices": [
     {
       "notice_id": "1087023",
@@ -21,6 +21,13 @@
       "contact_email": "anhansen@herriman.gov",
       "posted_on": "June 08, 2026 08:42 AM",
       "attachments": [
+        {
+          "file_name": "2026_06_09 V2026-080 Appeal Authority Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1451173.pdf",
+          "date_added": "2026/06/18 08:53 AM",
+          "file_id": "1451173"
+        },
         {
           "file_name": "2026_06_09 V2026-080 Appeal Authority Agenda.pdf",
           "category": "Public Information Handout",

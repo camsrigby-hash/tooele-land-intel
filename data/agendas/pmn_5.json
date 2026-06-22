@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-06-15T14:00:19.828815+00:00",
+  "scraped_at": "2026-06-22T13:39:50.532954+00:00",
   "notices": [
     {
       "notice_id": "1085785",
@@ -63,7 +63,50 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "June 11, 2026 05:19 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "06 Adopted City Council Minutes 06-02-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1451235.pdf",
+          "date_added": "2026/06/18 09:38 AM",
+          "file_id": "1451235"
+        },
+        {
+          "file_name": "presentation.cc.6-16-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1451237.pdf",
+          "date_added": "2026/06/18 09:38 AM",
+          "file_id": "1451237"
+        },
+        {
+          "file_name": "ORD Summary Public Notice Website.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1451239.pdf",
+          "date_added": "2026/06/18 09:38 AM",
+          "file_id": "1451239"
+        },
+        {
+          "file_name": "PRESENTATION Code Enforcement Review.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1451241.pdf",
+          "date_added": "2026/06/18 09:39 AM",
+          "file_id": "1451241"
+        },
+        {
+          "file_name": "PRESENTATION FY 2026 Rev 2 Budget Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1451243.pdf",
+          "date_added": "2026/06/18 09:39 AM",
+          "file_id": "1451243"
+        },
+        {
+          "file_name": "PRESENTATION Spring_Fall CleanUp 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1451245.pdf",
+          "date_added": "2026/06/18 09:39 AM",
+          "file_id": "1451245"
+        }
+      ],
       "canceled": false
     },
     {
