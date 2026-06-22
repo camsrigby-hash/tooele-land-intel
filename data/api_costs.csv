@@ -95,3 +95,5 @@ timestamp,script,model,input_tokens,output_tokens,cost_usd,items
 2026-06-19,correlate_signals,claude-haiku-4-5-20251001,3,1682,225,0.002807
 2026-06-20,correlate_signals,claude-haiku-4-5-20251001,2,798,130,0.001448
 2026-06-21,correlate_signals,claude-haiku-4-5-20251001,1,545,63,0.00086
+2026-06-22T14:26:20.442461+00:00,split_agenda_items,claude-haiku-4-5-20251001,287970,81728,0.69661,316
+2026-06-22T14:26:58.452110+00:00,weekly_digest,claude-opus-4-7,15983,2003,0.38997,137
