@@ -1,8 +1,8 @@
 {
   "workflow_name": "extract-parcels",
-  "ran_at": "2026-06-15T15:11:10.343684+00:00",
+  "ran_at": "2026-06-22T14:40:44.253779+00:00",
   "status": "success",
-  "duration_ms": 247553,
-  "items_processed": 47,
-  "notes": "142 Haiku calls, 47/142 resolved"
+  "duration_ms": 253021,
+  "items_processed": 36,
+  "notes": "139 Haiku calls, 36/139 resolved"
 }
