@@ -1,6 +1,6 @@
 {
   "workflow_name": "geocode",
-  "ran_at": "2026-06-22T14:34:46Z",
+  "ran_at": "2026-06-29T13:08:52Z",
   "status": "success",
   "items_processed": null,
   "notes": "geocode_items.py 4-strategy pass"
