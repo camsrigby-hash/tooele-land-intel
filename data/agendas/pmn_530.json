@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-06-22T13:39:27.253315+00:00",
+  "scraped_at": "2026-06-29T12:37:29.497606+00:00",
   "notices": [
     {
       "notice_id": "1090475",
@@ -27,6 +27,13 @@
           "url": "https://www.utah.gov/pmn/files/1451879.pdf",
           "date_added": "2026/06/18 05:26 PM",
           "file_id": "1451879"
+        },
+        {
+          "file_name": "FY 27 Budget 06.23.2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1453255.pdf",
+          "date_added": "2026/06/23 09:36 AM",
+          "file_id": "1453255"
         }
       ],
       "canceled": false

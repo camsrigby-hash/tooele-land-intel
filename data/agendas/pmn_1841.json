@@ -4,8 +4,70 @@
   "public_body": "Grantsville City Planning Commission",
   "body_id": "1841",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1841.html",
-  "scraped_at": "2026-06-22T13:35:41.237760+00:00",
+  "scraped_at": "2026-06-29T12:33:34.305773+00:00",
   "notices": [
+    {
+      "notice_id": "1091743",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091743.html",
+      "title": "Planning Commission Regular Meeting July 7, 2026",
+      "event_date": "July 7, 2026 07:00 PM",
+      "event_date_iso": "2026-07-07T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, July 7, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nAGENDA\r\n1.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of a proposed Final Plat for the West Bench Subdivision, located at 169 North Taylor Road, in the R-1-21 Zone.\r\n2.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of a request for a Plat Extension Approval for the Wells Crossing Phase 7 Subdivision.\r\n3.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of a propose Master Developemnet Agreement for Falcons Landing Subdivision located approximately on Booth Street and Wild Rose Drive.\r\n4.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of a proposed Planned Unit Development (PUD) for the Alington Subdivision on Parcels 01-059-0-0040 and 01-059-0-0039, located in the Mixed Use (MU) Zone, approximately at 948 East and SR-138.\r\n5.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of a proposed Master Development Agreement for the Alington Subdivision on Parcels 01-059-0-0040 and 01-059-0-0039, located in the Mixed Use (MU) Zone, approximately at 948 East and SR-138.\r\n6.\tApproval of the minutes from the July 7, 2026 Planning Commission Regular Meeting.\r\n7.\tReport from City Staff.\r\n8.\tOpen Forum for Planning Commissioners.\r\n9.\tReport from City Council.\r\n10.\tAdjourn. \r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411\r\nBy Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411",
+      "meeting_location": "429 E Main Street Grantsville , UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shelby Moore",
+      "contact_email": "smoore@grantsvilleut.gov",
+      "posted_on": "June 25, 2026 02:49 PM",
+      "attachments": [
+        {
+          "file_name": "Public Notice - Alington MDA.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454651.pdf",
+          "date_added": "2026/06/25 02:48 PM",
+          "file_id": "1454651"
+        },
+        {
+          "file_name": "Public Notice - Alington PUD.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454653.pdf",
+          "date_added": "2026/06/25 02:48 PM",
+          "file_id": "1454653"
+        },
+        {
+          "file_name": "Public Notice - Falcon Landing MDA.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454655.pdf",
+          "date_added": "2026/06/25 02:48 PM",
+          "file_id": "1454655"
+        },
+        {
+          "file_name": "Public Notice - Wells Crossing Plat Extension.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454657.pdf",
+          "date_added": "2026/06/25 02:48 PM",
+          "file_id": "1454657"
+        },
+        {
+          "file_name": "Public Notice - West Bench.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454659.pdf",
+          "date_added": "2026/06/25 02:49 PM",
+          "file_id": "1454659"
+        },
+        {
+          "file_name": "2026.07.07 - Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454661.pdf",
+          "date_added": "2026/06/25 02:49 PM",
+          "file_id": "1454661"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1086735",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086735.html",
@@ -641,82 +703,6 @@
           "url": "https://www.utah.gov/pmn/files/1403239.pdf",
           "date_added": "2026/03/11 09:53 AM",
           "file_id": "1403239"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1061015",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1061015.html",
-      "title": "Planning Commission Regular Meeting March 3, 2026",
-      "event_date": "March 3, 2026 07:00 PM",
-      "event_date_iso": "2026-03-03T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, March 3, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nAGENDA\r\n1.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of a proposed rezone of Parcel 01-066-0-0030 from A-10 (Agricultural) to the Shopping Commercial District (C-S), located at approximately 519 W Main Street.\r\n2.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of proposed amendments to the Grantsville City Land Use and Management Code, Chapters 2, 4, 6, 7, 8, 9, 14, 15, 16, 20, and 21.\r\n3.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of the proposed Grantsville City Annexation Policy Plan.\r\n4.\tApproval of minutes from the February 17, 2026 Planning Commission Regular Meeting.\r\n5.\tReport from City Staff.\r\n6.\tOpen Forum for Planning Commissioners.\r\n7.\tReport from City Council.\r\n8.\tAdjourn. \r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411\r\nBy Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411",
-      "meeting_location": "429 E Main Street Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shelby Moore",
-      "contact_email": "smoore@grantsvilleut.gov",
-      "posted_on": "February 19, 2026 05:10 PM",
-      "attachments": [
-        {
-          "file_name": "2026.03.04 - Planning Commission Regular Meeting - Audio.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1399763.mp3",
-          "date_added": "2026/03/04 10:08 AM",
-          "file_id": "1399763"
-        },
-        {
-          "file_name": "2026.03.03 - PC Regular Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1406637.pdf",
-          "date_added": "2026/03/18 09:04 AM",
-          "file_id": "1406637"
-        },
-        {
-          "file_name": "PC Agenda 3-3-26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1394343.pdf",
-          "date_added": "2026/02/19 05:09 PM",
-          "file_id": "1394343"
-        },
-        {
-          "file_name": "Public Notice - Amendment to Ch. 2,4,6,7,8,9,14,15,16,20, and 21.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1394345.pdf",
-          "date_added": "2026/02/19 05:10 PM",
-          "file_id": "1394345"
-        },
-        {
-          "file_name": "Public Notice - Annexation Policy Plan.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1394347.pdf",
-          "date_added": "2026/02/19 05:10 PM",
-          "file_id": "1394347"
-        },
-        {
-          "file_name": "Public Notice - Ross Rezone.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1394349.pdf",
-          "date_added": "2026/02/19 05:10 PM",
-          "file_id": "1394349"
-        },
-        {
-          "file_name": "Combined Planning Commission Packet - 03-03-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1398091.pdf",
-          "date_added": "2026/02/27 01:44 PM",
-          "file_id": "1398091"
-        },
-        {
-          "file_name": "Combined Planning Commission Packet - 03-03-2026 Updated.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1399125.pdf",
-          "date_added": "2026/03/03 10:35 AM",
-          "file_id": "1399125"
         }
       ],
       "canceled": false

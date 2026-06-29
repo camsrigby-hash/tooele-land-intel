@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-06-22T13:39:04.019486+00:00",
+  "scraped_at": "2026-06-29T12:37:05.711932+00:00",
   "notices": [
     {
       "notice_id": "1090673",
@@ -202,6 +202,13 @@
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "May 21, 2026 01:34 PM",
       "attachments": [
+        {
+          "file_name": "05.26.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1454229.pdf",
+          "date_added": "2026/06/24 05:42 PM",
+          "file_id": "1454229"
+        },
         {
           "file_name": "05.26.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",

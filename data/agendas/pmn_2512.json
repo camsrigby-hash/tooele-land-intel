@@ -4,26 +4,8 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-06-22T13:36:39.293726+00:00",
+  "scraped_at": "2026-06-29T12:34:34.158375+00:00",
   "notices": [
-    {
-      "notice_id": "1082329",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082329.html",
-      "title": "Lehi City Notice of Public Hearing FY 2026 Budget Amendment",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING\r\n\r\n FY2026 BUDGET AMENDMENT\r\n \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding an amendment to the Lehi City FY2026 Budget.\r\n\r\nDated this 20th day of May, 2026.",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 20, 2026 09:27 AM",
-      "attachments": [],
-      "canceled": false
-    },
     {
       "notice_id": "1085509",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085509.html",
@@ -75,6 +57,24 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 20, 2026 09:29 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082329",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082329.html",
+      "title": "Lehi City Notice of Public Hearing FY 2026 Budget Amendment",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING\r\n\r\n FY2026 BUDGET AMENDMENT\r\n \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding an amendment to the Lehi City FY2026 Budget.\r\n\r\nDated this 20th day of May, 2026.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 20, 2026 09:27 AM",
       "attachments": [],
       "canceled": false
     },

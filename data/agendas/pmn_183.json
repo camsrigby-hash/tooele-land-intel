@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-06-22T13:39:15.662455+00:00",
+  "scraped_at": "2026-06-29T12:37:17.573641+00:00",
   "notices": [
+    {
+      "notice_id": "1091707",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091707.html",
+      "title": "Planning Commission Public Notice and Agenda",
+      "event_date": "July 8, 2026 06:30 PM",
+      "event_date_iso": "2026-07-08T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS\r\n\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on July 8, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Floodplain Management, of the American Fork City Municipal Code. Amending Section 15.16, the Code Text Amendment plans to amend the code related to Floodplain Management. \r\n\r\n \tDescription: The proposed amendment seeks to amend the municipal code to ensure compliance with updated and revised FEMA maps and regulations. \r\n\r\no\tPublic hearing on a proposed Code Text Amendment, known as Easements, of the American Fork City Municipal Code. Amending Section 15.01.110, the Code Text Amendment plans to clarify the required conveyance documents for easements.\r\n\r\n \tDescription: The amendment establishes what document type must be used to convey easements, requiring conveyance on a plat when a plat is required, and a graphical exhibit tied to the Utah County Surveyor's monument system when a plat is not required.\r\n\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as AF014-Natural Gas Regulator Station, of the American Fork City Municipal Code. Amending Section 17.4.601 PF Public Facilities Zone, the Code Text Amendment proposes Natural Gas Regulator Stations as a Conditional Use within the zone.\r\n\r\n \tDescription: The Code Text Amendment looks to permit Natural Gas Regulator Stations within the PF Zone as a Conditional Use due to increase growth within American Fork City.\r\n\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as 'N' Definitions, of the American Fork City Municipal Code. Amending Section 17.12.214, the Code Text Amendment plans to provide a definition to Natural Gas Regulator Stations.\r\n\r\n \tDescription: As Natural Gas Regulator Stations are not found within the definitions of the City's Code, the City proposes to create a definition to prevent ambiguity about what Natural Gas Regulator Station is.\r\n\r\n\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.\r\n\r\nDated this 24th day of June 2026",
+      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "June 25, 2026 01:51 PM",
+      "attachments": [
+        {
+          "file_name": "2026.07.08 - PC Public Notice and Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454585.pdf",
+          "date_added": "2026/06/25 01:51 PM",
+          "file_id": "1454585"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1087445",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087445.html",
@@ -300,33 +327,6 @@
         }
       ],
       "canceled": true
-    },
-    {
-      "notice_id": "1060999",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1060999.html",
-      "title": "Development Review Committee Public Notice",
-      "event_date": "March 2, 2026 09:00 AM",
-      "event_date_iso": "2026-03-02T09:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Development Review Committee will hold a Public Hearing on March 2, 2026, in the Public Works building, located at 275 East 200 North, commencing at 9:00 AM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n \tNotice of public hearings on an amended plat for Walton Lot Amended Final Plat\r\n\r\no\tReview and action on an application for an Amended Final Plat, known as Walton Lot, located at approximately 794 W 1000 N Circle, American Fork City. The Amended Final Plat will be for approximately 2.38 acres and is in the R1-12000 and RA-1 Zone. \r\n\r\n \tThe applicant is applying for an Amended Final Plat to allow for the building of a single-family home on one of the lots. This application will help clean up a prior subdivision and ensure that all lots meet the requirements of the underlying zone.\r\n\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
-      "meeting_location": "275 East 200 North American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "February 19, 2026 04:36 PM",
-      "attachments": [
-        {
-          "file_name": "2026.03.02 - DRC Public Notice Letter.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1394297.pdf",
-          "date_added": "2026/02/19 04:35 PM",
-          "file_id": "1394297"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

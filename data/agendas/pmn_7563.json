@@ -4,8 +4,54 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-06-22T13:36:04.403047+00:00",
+  "scraped_at": "2026-06-29T12:33:58.512155+00:00",
   "notices": [
+    {
+      "notice_id": "1091045",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091045.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "June 23, 2026 07:00 PM",
+      "event_date_iso": "2026-06-23T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday,June 23rd, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info: https://meet.google.com/chb-sksv-qqb\r\nOr dial:  (US) +1 208-820-4769  PIN:  417 885 311 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 4-28-26 and 5-26-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Conditional Use Permit 2026-76 Ashley Morrill owner of 'The Ugly Duckling Baking & Co' The Ugly Duckling Baking & Co. is a small, home-based food operation run under Utah's home consumption and Homemade Food Act.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nConsideration of Conditional Use Permit 2026-102 Tynley Bean is seeking to have small group art lessons up to 8 people at a time.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "June 22, 2026 06:14 PM",
+      "attachments": [
+        {
+          "file_name": "Planning Commission Meeting - 2026_06_23 18_57 MDT - Recording.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1453955.mp3",
+          "date_added": "2026/06/24 12:34 PM",
+          "file_id": "1453955"
+        },
+        {
+          "file_name": "6-23-26 Planning Commission Agenda (1).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1453161.docx",
+          "date_added": "2026/06/22 06:14 PM",
+          "file_id": "1453161"
+        },
+        {
+          "file_name": "CUP Staff Report MacBean Art Studio 3866 Rose Springs (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1453163.pdf",
+          "date_added": "2026/06/22 06:14 PM",
+          "file_id": "1453163"
+        },
+        {
+          "file_name": "CUP staff report Ugly Duckling farm stand 3986 N 570 W (2).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1453165.pdf",
+          "date_added": "2026/06/22 06:14 PM",
+          "file_id": "1453165"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1086245",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086245.html",
@@ -108,6 +154,13 @@
           "url": "https://www.utah.gov/pmn/files/1425595.mp3",
           "date_added": "2026/04/30 08:06 AM",
           "file_id": "1425595"
+        },
+        {
+          "file_name": "4-28-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1454623.pdf",
+          "date_added": "2026/06/25 02:21 PM",
+          "file_id": "1454623"
         },
         {
           "file_name": "Copper Cove Master Development Agreement (1).pdf",
@@ -305,23 +358,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1057383",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1057383.html",
-      "title": "**CANCELED*** Erda Planning Commission Meeting",
-      "event_date": "February 10, 2026 07:00 PM",
-      "event_date_iso": "2026-02-10T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED***** Notice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday February 10th, 2026 has been canceled. The Planning Commission will hold their next regularly scheduled meeting on Tuesday February 24th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
-      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "February 05, 2026 10:46 AM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }

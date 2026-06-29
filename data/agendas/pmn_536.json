@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-06-22T13:37:36.837181+00:00",
+  "scraped_at": "2026-06-29T12:35:33.710232+00:00",
   "notices": [
     {
       "notice_id": "1088095",
@@ -159,6 +159,13 @@
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "June 04, 2026 01:55 PM",
       "attachments": [
+        {
+          "file_name": "6.9.2026 PC Meeting Minutes - signed.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1454103.pdf",
+          "date_added": "2026/06/24 03:04 PM",
+          "file_id": "1454103"
+        },
         {
           "file_name": "6.9.26 PC Agenda.pdf",
           "category": "Public Information Handout",

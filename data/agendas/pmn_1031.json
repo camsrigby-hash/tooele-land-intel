@@ -4,8 +4,33 @@
   "public_body": "City Council",
   "body_id": "1031",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
-  "scraped_at": "2026-06-22T13:37:48.432014+00:00",
+  "scraped_at": "2026-06-29T12:35:45.745295+00:00",
   "notices": [
+    {
+      "notice_id": "1091703",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091703.html",
+      "title": "NOTICE OF CITY OF SOUTH JORDAN CITY COUNCIL MEETING CANCELLATION",
+      "event_date": "July 7, 2026 04:30 PM",
+      "event_date_iso": "2026-07-07T16:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF CITY OF SOUTH JORDAN CITY COUNCIL MEETING CANCELLATION\r\n\r\nNOTICE IS HEREBY GIVEN, the City Council Study Meeting and City Council Meeting scheduled for July 7, 2026 has been CANCELED.\r\n\r\nThe next City Council meetings are scheduled for July 21, 2026.\r\n\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation\r\nwithin the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice\r\nWebsite http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted June 25, 2026.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "June 25, 2026 01:38 PM",
+      "attachments": [
+        {
+          "file_name": "CITY COUNCIL MEETING(S)_CANCELED MEETING NOTICE.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454579.pdf",
+          "date_added": "2026/06/25 01:37 PM",
+          "file_id": "1454579"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1088907",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088907.html",
@@ -122,34 +147,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1082979",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082979.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "June 2, 2026 06:30 PM",
-      "event_date_iso": "2026-06-02T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the South Jordan City Council will hold a public hearing on Tuesday, June 2, 2026 at 6:30 p.m., to receive comment regarding the proposed compensation increases for specific City Officers. \r\nThe hearing will be held in the City Council Chambers at South Jordan City Hall, 1600 West Towne Center Drive and also electronically via Zoom.us phone and video conferencing. Citizens of South Jordan City are invited to offer oral comments and questions during the hearing regarding the Budget. Written statements may be submitted prior to the hearing date to the Recorder's Office. Information regarding the increases will be available beginning May 22, 2026, between the hours of 8:00 am and 5:00 pm, Monday through Thursday, and 8:00 am to 12:00 pm on Friday at the Recorder's Office, 1600 West Towne Center Drive and online at www.sjc.utah.gov. \r\n\r\nAll those who desire to attend the meeting electronically, please visit www.sjc.utah.gov/241/City-Council for further instructions.",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "May 22, 2026 07:03 AM",
-      "attachments": [
-        {
-          "file_name": "Compensation Increases Public Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1437629.pdf",
-          "date_added": "2026/05/22 07:03 AM",
-          "file_id": "1437629"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1082981",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082981.html",
       "title": "Notice of Public Hearing",
@@ -178,6 +175,34 @@
       "canceled": false
     },
     {
+      "notice_id": "1082979",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082979.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "June 2, 2026 06:30 PM",
+      "event_date_iso": "2026-06-02T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "CITY OF SOUTH JORDAN\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the South Jordan City Council will hold a public hearing on Tuesday, June 2, 2026 at 6:30 p.m., to receive comment regarding the proposed compensation increases for specific City Officers. \r\nThe hearing will be held in the City Council Chambers at South Jordan City Hall, 1600 West Towne Center Drive and also electronically via Zoom.us phone and video conferencing. Citizens of South Jordan City are invited to offer oral comments and questions during the hearing regarding the Budget. Written statements may be submitted prior to the hearing date to the Recorder's Office. Information regarding the increases will be available beginning May 22, 2026, between the hours of 8:00 am and 5:00 pm, Monday through Thursday, and 8:00 am to 12:00 pm on Friday at the Recorder's Office, 1600 West Towne Center Drive and online at www.sjc.utah.gov. \r\n\r\nAll those who desire to attend the meeting electronically, please visit www.sjc.utah.gov/241/City-Council for further instructions.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "May 22, 2026 07:03 AM",
+      "attachments": [
+        {
+          "file_name": "Compensation Increases Public Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1437629.pdf",
+          "date_added": "2026/05/22 07:03 AM",
+          "file_id": "1437629"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1082983",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082983.html",
       "title": "Notice of Public Hearing",
@@ -200,31 +225,6 @@
           "url": "https://www.utah.gov/pmn/files/1437633.pdf",
           "date_added": "2026/05/22 07:09 AM",
           "file_id": "1437633"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087165",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087165.html",
-      "title": "City of South Jordan Notice of Ordinance Adoption",
-      "event_date": "June 2, 2026 06:30 PM",
-      "event_date_iso": "2026-06-02T18:30:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/index.html, South Jordan City Website  https://sjc.utah.gov/241/City-Council and at City Hall, 1600 W. Towne Center Drive, South Jordan, UT 84095 \r\n\r\nCity of South Jordan Notice of Ordinance Adoption - Ordinance 2026-15 and Ordinance 2026-18. \r\n\r\nORDINANCE 2026-15, AMENDING SECTION 16.04.320 OF THE CITY CODE REGARDING WATER SHARE EXACTIONS. APPROVED 06-02-2026 BY 5-0 VOTE.\r\n\r\nORDINANCE 2026-18, FIXING THE COMPENSATION FOR THE SOUTH JORDAN STATUTORY OFFICERS. APPROVED 06-02-2026 BY 5-0 VOTE.\r\n\r\nThe complete ordinance is on file at the South Jordan City Recorder's Office and attached to this notice. Published this 8th day of June, 2026. \r\n\r\n \r\nAnna Crookston, South Jordan City Recorder.",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Recorder South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "June 08, 2026 01:09 PM",
-      "attachments": [
-        {
-          "file_name": "Ordinance 2026-15 & Ordinance 2026-18 UPN Publication_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1445365.pdf",
-          "date_added": "2026/06/08 01:08 PM",
-          "file_id": "1445365"
         }
       ],
       "canceled": false
@@ -272,26 +272,26 @@
       "canceled": false
     },
     {
-      "notice_id": "1085269",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085269.html",
-      "title": "Notice of Potential Quorum",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
+      "notice_id": "1087165",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087165.html",
+      "title": "City of South Jordan Notice of Ordinance Adoption",
+      "event_date": "June 2, 2026 06:30 PM",
+      "event_date_iso": "2026-06-02T18:30:00",
       "notice_types": [
         "Notice"
       ],
-      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members\r\nmay Attend the Following Event:\r\n\r\nCity of South Jordan Summerfest Events \r\nJune 2 - June 6, 2026\r\n\r\nFull Event & Location Schedule: https://sjc.utah.gov/199/SoJo-Summerfest \r\n\r\n\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\n\r\n\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov . \r\nDated and posted 1st Day of June, 2026.",
-      "meeting_location": "11000 S. Redwood Road Full Location Schedule: https://sjc.utah.gov/199/SoJo-Summerfest South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "Posted on June 8, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/index.html, South Jordan City Website  https://sjc.utah.gov/241/City-Council and at City Hall, 1600 W. Towne Center Drive, South Jordan, UT 84095 \r\n\r\nCity of South Jordan Notice of Ordinance Adoption - Ordinance 2026-15 and Ordinance 2026-18. \r\n\r\nORDINANCE 2026-15, AMENDING SECTION 16.04.320 OF THE CITY CODE REGARDING WATER SHARE EXACTIONS. APPROVED 06-02-2026 BY 5-0 VOTE.\r\n\r\nORDINANCE 2026-18, FIXING THE COMPENSATION FOR THE SOUTH JORDAN STATUTORY OFFICERS. APPROVED 06-02-2026 BY 5-0 VOTE.\r\n\r\nThe complete ordinance is on file at the South Jordan City Recorder's Office and attached to this notice. Published this 8th day of June, 2026. \r\n\r\n \r\nAnna Crookston, South Jordan City Recorder.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Recorder South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
       "contact_name": "Anna Crookston",
       "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "June 01, 2026 05:15 PM",
+      "posted_on": "June 08, 2026 01:09 PM",
       "attachments": [
         {
-          "file_name": "06-06-2025 UPN Potential Quorum Notice - Summerfest 2026.pdf",
+          "file_name": "Ordinance 2026-15 & Ordinance 2026-18 UPN Publication_FINAL.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1441703.pdf",
-          "date_added": "2026/06/01 05:15 PM",
-          "file_id": "1441703"
+          "url": "https://www.utah.gov/pmn/files/1445365.pdf",
+          "date_added": "2026/06/08 01:08 PM",
+          "file_id": "1445365"
         }
       ],
       "canceled": false

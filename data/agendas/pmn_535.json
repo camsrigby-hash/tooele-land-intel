@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-06-22T13:37:25.344549+00:00",
+  "scraped_at": "2026-06-29T12:35:21.754008+00:00",
   "notices": [
     {
       "notice_id": "1090693",
@@ -28,6 +28,56 @@
           "url": "https://www.utah.gov/pmn/files/1452385.pdf",
           "date_added": "2026/06/19 03:47 PM",
           "file_id": "1452385"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1091877",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091877.html",
+      "title": "Public Hearing",
+      "event_date": "July 7, 2026 07:00 PM",
+      "event_date_iso": "2026-07-07T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\n\r\nThe Eagle Mountain City Council will hold public hearings on July 7, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nAmendments to Eagle Mountain Municipal Code: \r\n\r\n-\tEMMC Chapter 17:64: Eagle Mountain City is proposing the creation of an overlay zone known as the Alternative Energy Overlay Zone (AEOZ) which would allow for the development of a variety of types of power generation facilities at approved locations. The AEOZ is not being proposed at this time to be applied to any property and would generally be contemplated for use on request. The AEOZ contains a number of requirements and restrictions regarding power generation facility development including demonstration of approval from state and federal entities as applicable. EMC Staff Point of Contact: Evan Berrett, eberrett@eaglemountain.gov.\r\n\r\n-\tEMMC 17.10.030, 17.25.030, and 17.44:  A proposal to add definitions, amend the Residential Development Standards table, and enact EMMC 17.44 to establish a Senior Housing Overlay Zone and the associated standards. EMC Staff Points of Contact: Elizabeth Fewkes, efewkes@eaglemountain.gov; and Kiara Polee, kpolee@eaglemountain.gov. \r\n\r\n-\tEMMC 17.10.030, 17.80.120, and 17.80.160 - Seasonal and Political Signs: This proposed code amendment provides definitions for park strips and political signs, updates standards and practices for political signs, and updates standards for temporary and seasonal use signs. EMC Point of Contact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov.\r\n\r\n-\tEMMC 17.75.052 - Accessory Recreation Buildings: This proposed code amendment establishes special use standards for recreation buildings that are an accessory use to religious or cultural meeting halls. EMC Point of Contact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 26th day of June, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly\r\nCity Recorder",
+      "meeting_location": "1650 E. Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "June 26, 2026 11:25 AM",
+      "attachments": [
+        {
+          "file_name": "CCPH 07.07.2026 - EMMC 17.64, EMMC, 17.10, 17.25 17.44, EMMC 17.10, 17.80, EMMC 17.75.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1455017.pdf",
+          "date_added": "2026/06/26 11:25 AM",
+          "file_id": "1455017"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1091137",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091137.html",
+      "title": "Public Hearing",
+      "event_date": "July 7, 2026 07:00 PM",
+      "event_date_iso": "2026-07-07T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\nThe Eagle Mountain City Council will hold public hearings on July 7, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005. The City Council will receive public comments concerning the following items:\r\n\r\nAnnexation Policy Plan: Eagle Mountain City is proposing an updated annexation policy plan. The plan identifies seven (7) areas of unincorporated Utah County that Eagle Mountain City would potentially consider for annexation. The document contains a map of these areas in relation to the current city boundaries. A series of criteria and considerations are included in the document to facilitate analysis and decision-making for annexation proposals. EMC Point of Contact: Community Development Director, Brandon Larsen: blarsen@eaglemountain.gov.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611. Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
+      "meeting_location": "1650 E. Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "June 23, 2026 11:23 AM",
+      "attachments": [
+        {
+          "file_name": "PCPH 07.07.2026 Annexation Policy.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1453415.pdf",
+          "date_added": "2026/06/23 11:22 AM",
+          "file_id": "1453415"
         }
       ],
       "canceled": false
@@ -109,26 +159,34 @@
       "canceled": false
     },
     {
-      "notice_id": "1081649",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081649.html",
+      "notice_id": "1082269",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082269.html",
       "title": "Public Hearing",
       "event_date": "June 2, 2026 07:00 PM",
       "event_date_iso": "2026-06-02T19:00:00",
       "notice_types": [
-        "Hearing"
+        "Notice",
+        "Meeting"
       ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on Tuesday, June 2, 2026 at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nLand Disposal Application - Casey Hansen \r\n\r\nIn accordance with EMMC 3.30, the Eagle Mountain City Council may hold a public hearing to consider the Land Disposal Application from Casey Hansen to dispose of approximately 0.01 acres of real public property, identified as a portion of Utah County Parcel No 45:326:0109. This parcel is designated as 'Significant Real Property'.\r\n\r\nEMC Staff Point of Contact: City Recorder Lacie A. Messerly lmesserly@ealgemountain.gov \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAll interested parties are invited to attend and provide comment. Written comments may also be submitted prior to the hearing to the City Recorder at recorder@eaglemountain.gov. or online using the Public Comment Form. Materials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on June 2, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\n\r\nAnnexation Policy Plan:\r\n\r\n-\tAnnexation Policy Plan: Eagle Mountain City is proposing an updated annexation policy plan. The plan identifies seven (7) areas of unincorporated Utah County that Eagle Mountain City would potentially consider for annexation. The document contains a map of these areas in relation to the current city boundaries. A series of criteria and considerations are included in the document to facilitate analysis and decision-making for annexation proposals. Community Development Director: blarsen@eaglemountian.gov\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
+      "meeting_location": "1060 E Stagecoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
       "contact_name": "Lacie Messerly",
       "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 18, 2026 12:52 PM",
+      "posted_on": "May 19, 2026 06:53 PM",
       "attachments": [
         {
-          "file_name": "CCPH 06.02.2026 - Disposal of Public Property - Hansen, Casey.pdf",
+          "file_name": "CCPH 06.02.2026 - Annexation Policy Plan.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1435041.pdf",
-          "date_added": "2026/05/18 12:52 PM",
-          "file_id": "1435041"
+          "url": "https://www.utah.gov/pmn/files/1436141.pdf",
+          "date_added": "2026/05/19 06:52 PM",
+          "file_id": "1436141"
+        },
+        {
+          "file_name": "CCPH 06.02.2026 - Annexation Policy Plan - Canceled.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1436883.pdf",
+          "date_added": "2026/05/21 08:33 AM",
+          "file_id": "1436883"
         }
       ],
       "canceled": false
@@ -160,34 +218,26 @@
       "canceled": false
     },
     {
-      "notice_id": "1082269",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082269.html",
+      "notice_id": "1081649",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081649.html",
       "title": "Public Hearing",
       "event_date": "June 2, 2026 07:00 PM",
       "event_date_iso": "2026-06-02T19:00:00",
       "notice_types": [
-        "Notice",
-        "Meeting"
+        "Hearing"
       ],
-      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on June 2, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\n\r\nAnnexation Policy Plan:\r\n\r\n-\tAnnexation Policy Plan: Eagle Mountain City is proposing an updated annexation policy plan. The plan identifies seven (7) areas of unincorporated Utah County that Eagle Mountain City would potentially consider for annexation. The document contains a map of these areas in relation to the current city boundaries. A series of criteria and considerations are included in the document to facilitate analysis and decision-making for annexation proposals. Community Development Director: blarsen@eaglemountian.gov\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1060 E Stagecoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on Tuesday, June 2, 2026 at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nLand Disposal Application - Casey Hansen \r\n\r\nIn accordance with EMMC 3.30, the Eagle Mountain City Council may hold a public hearing to consider the Land Disposal Application from Casey Hansen to dispose of approximately 0.01 acres of real public property, identified as a portion of Utah County Parcel No 45:326:0109. This parcel is designated as 'Significant Real Property'.\r\n\r\nEMC Staff Point of Contact: City Recorder Lacie A. Messerly lmesserly@ealgemountain.gov \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAll interested parties are invited to attend and provide comment. Written comments may also be submitted prior to the hearing to the City Recorder at recorder@eaglemountain.gov. or online using the Public Comment Form. Materials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
       "contact_name": "Lacie Messerly",
       "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 19, 2026 06:53 PM",
+      "posted_on": "May 18, 2026 12:52 PM",
       "attachments": [
         {
-          "file_name": "CCPH 06.02.2026 - Annexation Policy Plan.pdf",
+          "file_name": "CCPH 06.02.2026 - Disposal of Public Property - Hansen, Casey.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1436141.pdf",
-          "date_added": "2026/05/19 06:52 PM",
-          "file_id": "1436141"
-        },
-        {
-          "file_name": "CCPH 06.02.2026 - Annexation Policy Plan - Canceled.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1436883.pdf",
-          "date_added": "2026/05/21 08:33 AM",
-          "file_id": "1436883"
+          "url": "https://www.utah.gov/pmn/files/1435041.pdf",
+          "date_added": "2026/05/18 12:52 PM",
+          "file_id": "1435041"
         }
       ],
       "canceled": false
@@ -227,63 +277,6 @@
           "url": "https://www.utah.gov/pmn/files/1441017.pdf",
           "date_added": "2026/05/29 02:45 PM",
           "file_id": "1441017"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083205",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083205.html",
-      "title": "Public Meeting",
-      "event_date": "May 26, 2026 03:00 PM",
-      "event_date_iso": "2026-05-26T15:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL MEETING \r\nMAY 26, 2026, 3:00 PM \r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS \r\n1650 E STAGECOACH RUN, EAGLE MOUNTAIN, UT 84005\r\n\r\n3:00 PM BUDGET WORK SESSION - CITY COUNCIL CHAMBERS\r\nA. INFORMATION/STATEMENT - The Mayor intends to state that the tentative budget includes a proposed property tax increase for public safety.\r\n1. CALL TO ORDER\r\n2. DISCUSSION OF PROPOSED BUDGET\r\n2.A. INFORMATION - Property Tax Impact Schedule The City Council will hold a public hearing regarding the proposed property tax increase on August 6, 2026 at 6:00 p.m. Members of the public will have an opportunity to appear and be heard regarding the proposed tax increase. For more information please go to:\r\nhttps://eaglemountain.gov/truth-in-taxation-property-tax/.\r\n2.B. BUDGET DISCUSSION ITEM\r\nThe purpose of this Budget Work Meeting is for the City Council to review, discuss, and ask questions about the tentative budget. The tentative budget can be found online:\r\nhttps://city-eagle-mountain-ut-cleardoc.cleargov.com/22130/845077/d.  It includes a proposed property tax increase to support public safety. The Truth in Taxation public hearing is scheduled for Thursday, August 6, 2026, at 6:00PM. The final budget for fiscal year 2026-2027 will be adopted on August 18, 2026. An Interim Budget will be adopted on June 16, 2026, and be in effect for the period beginning on July 1, 2026, and ending after August 18, 2026, upon the City Council's adoption of the final budget. A Public Hearing to accept public comment on the Interim Budget will be held at 7:00PM on Tuesday, June 16, 2026.\r\n3.ADJOURNMENT\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.\r\nCERTIFICATE OF POSTING The undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 22 day of May, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website\r\nwww.eaglemountain.gov, posted to the Utah State public notice website\r\nhttp://www.utah.gov/pmn/index.html. Lacie A. Messerly City Recorder",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 22, 2026 01:48 PM",
-      "attachments": [
-        {
-          "file_name": "05.26.2026 - Budget Work Session Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1437997.pdf",
-          "date_added": "2026/05/22 01:47 PM",
-          "file_id": "1437997"
-        },
-        {
-          "file_name": "05.26.2026 - Budget Work Session Minutes - APPROVED.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1442617.pdf",
-          "date_added": "2026/06/02 09:14 PM",
-          "file_id": "1442617"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1080087",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1080087.html",
-      "title": "Public Meeting",
-      "event_date": "May 20, 2026 06:30 PM",
-      "event_date_iso": "2026-05-20T18:30:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN \r\n Library Advisory Board MEETING\r\n \r\n May 20th, 2026, 6:30 p.m.\r\n Eagle Mountain City Library \r\n 1650 East Stagecoach Run, Eagle Mountain, Utah 84005\r\n\r\n1.\tCall to Order \r\n-\tRoll Call\r\n2.\tPublic Comment\r\n3.\tLibrarian Report\r\n-\tStats\r\n-\tDiscussion and approval of Use of Library Cameras Policy\r\n-\tDiscussion and approval of amendment to the Collection Development Policy- regarding AI \r\n-\tDiscussion and approval of updated Library Board Bylaws\r\n-\tOther \r\n4.\tMember reports\r\n5.\tAdjournment\r\n\r\nCERTIFICATE OF POSTING\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 13 day of May, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html, \r\n\r\nLacie Messerly, City Recorder",
-      "meeting_location": "1650 E StageCoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 12, 2026 02:02 PM",
-      "attachments": [
-        {
-          "file_name": "5.20.26 Library Board Agenda.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1431849.pdf",
-          "date_added": "2026/05/12 02:02 PM",
-          "file_id": "1431849"
         }
       ],
       "canceled": false
