@@ -4,8 +4,33 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-06-29T12:37:29.497606+00:00",
+  "scraped_at": "2026-07-06T12:09:18.943377+00:00",
   "notices": [
+    {
+      "notice_id": "1092729",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092729.html",
+      "title": "City Council Meeting",
+      "event_date": "July 7, 2026 04:00 PM",
+      "event_date_iso": "2026-07-07T16:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR\r\nCITY COUNCIL WORK MEETING\r\nJuly 7, 2026, at 4:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council Work Meeting on Tuesday, July 7, 2026, at 4:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n\r\n3.\tPUBLIC COMMENTS (3 Mins)\r\n \t'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tCONSENT ITEMS\r\n\r\n \t4.1.\tApproval of the June 23, 2026, City Council Meeting Minutes\r\n\r\n5.\tWORK SESSION\r\n\r\n \t5.1.\tDiscuss 400 South Road Construction (Naseem Ghandour)\r\n\r\n \t5.2.\tDiscuss Motorized Bikes, Scooters, and Other Means of Transportation (Deputy Chief Holden Rockwell)\r\n\r\n        5.3  Discuss Resolution 2026-31 - Insignificant Land Resolution (Council Member Ezra Nair)\r\n\r\n6.\tCOMMUNICATION ITEMS\r\n\r\n\r\n7.\tADJOURNMENT",
+      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "July 01, 2026 02:29 PM",
+      "attachments": [
+        {
+          "file_name": "RES 2026-31 Insignificant Land Resolution Policy(1).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1456739.docx",
+          "date_added": "2026/07/01 03:09 PM",
+          "file_id": "1456739"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1090475",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1090475.html",
@@ -55,6 +80,13 @@
       "posted_on": "June 08, 2026 04:05 PM",
       "attachments": [
         {
+          "file_name": "6.9.26 RDA APPROVED Minutes w signatures.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1456251.pdf",
+          "date_added": "2026/06/30 03:09 PM",
+          "file_id": "1456251"
+        },
+        {
           "file_name": "6.9.26 RDA Packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1445617.pdf",
@@ -80,6 +112,13 @@
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "June 04, 2026 02:41 PM",
       "attachments": [
+        {
+          "file_name": "6.9.26 APPROVED CC Minutes.docx",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1455639.docx",
+          "date_added": "2026/06/29 12:04 PM",
+          "file_id": "1455639"
+        },
         {
           "file_name": "6.9.26CC Agenda Packet.pdf",
           "category": "Public Information Handout",
@@ -252,31 +291,6 @@
           "url": "https://www.utah.gov/pmn/files/1427467.pdf",
           "date_added": "2026/05/04 04:06 PM",
           "file_id": "1427467"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072523",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072523.html",
-      "title": "Public Hearing for the Consolidated Fee Schedule",
-      "event_date": "April 28, 2026 06:00 PM",
-      "event_date_iso": "2026-04-28T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "PUBLIC NOTICE OF PUBLIC HEARING\r\nVINEYARD CITY COUNCIL\r\n\r\nNotice is hereby given that the Vineyard City Council will hold a Public Hearing on Tuesday, April 28, 2026, at 6:00 p.m., at Vineyard City Hall, 125 South Main Street, Vineyard, Utah.\r\n\r\nThe purpose of the Public Hearing is to receive public comment regarding proposed amendments to the Vineyard City Consolidated Fee Schedule, including updates and modifications to fees associated with:\r\n-\tParks and Recreation programs and services\r\n-\tVineyard Days events and activities\r\n-\tLibrary services\r\n\r\nAll interested persons are invited to attend the hearing and provide comment. Written comments may also be submitted to the City Recorder prior to the meeting at robinr@vineyardutah.gov\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing special accommodations (including auxiliary communicative aids and services) should notify the City Recorder at least three (3) business days prior to the hearing. 801-226-1929\r\n\r\nI, the undersigned City Recorder for Vineyard, Utah, hereby certify that the foregoing Public Notice as posted at the Vineyard City Office, on the Vineyard City website, and on the Utah Public Notice Website.\r\n\r\nPublished this 13 day of April 2026.\r\nRobin Bond, Vineyard City Recorder",
-      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "April 13, 2026 11:40 AM",
-      "attachments": [
-        {
-          "file_name": "Public Hearing Materials (2).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422347.pdf",
-          "date_added": "2026/04/22 10:20 AM",
-          "file_id": "1422347"
         }
       ],
       "canceled": false

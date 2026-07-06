@@ -4,8 +4,34 @@
   "public_body": "Grantsville City Council",
   "body_id": "1840",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1840.html",
-  "scraped_at": "2026-06-29T12:33:22.441389+00:00",
+  "scraped_at": "2026-07-06T12:05:11.683877+00:00",
   "notices": [
+    {
+      "notice_id": "1092355",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092355.html",
+      "title": "Notice of Meeting Cancellation",
+      "event_date": "July 1, 2926 07:00 PM",
+      "event_date_iso": "2926-07-01T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "PUBLIC NOTICE OF CITY COUNCIL MEETING CANCELLATION\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the Regular Meeting of the Grantsville City Council that was to be held on Wednesday, July 1, 2026 has been cancelled.\r\n\r\nThe next regularly scheduled meeting will be held on July 15, 2026 at 7:00 PM at Grantsville City Hall, located at 429 E. Main St., Grantsville City, UT as well as electronically via Zoom.\r\n\r\nAlicia Fairbourne\r\nGrantsville City Recorder\r\nPublished and posted 6/29/2026\r\nIn accordance with the Utah Open and Public Meetings Act",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "June 29, 2026 07:41 PM",
+      "attachments": [
+        {
+          "file_name": "PUBLIC NOTICE OF CITY COUNCIL MEETING CANCELLATION.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1455917.pdf",
+          "date_added": "2026/06/29 07:41 PM",
+          "file_id": "1455917"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1088127",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088127.html",
@@ -174,6 +200,13 @@
       "posted_on": "May 29, 2026 06:16 PM",
       "attachments": [
         {
+          "file_name": "06.03.2026 City Council Regular Meeting Minutes APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1456621.pdf",
+          "date_added": "2026/07/01 12:33 PM",
+          "file_id": "1456621"
+        },
+        {
           "file_name": "Property Tax Impact Schedule 05.21.2026.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1441135.pdf",
@@ -331,11 +364,11 @@
       "posted_on": "May 15, 2026 07:12 PM",
       "attachments": [
         {
-          "file_name": "05.18.2026 City Council Meeting Minutes DRAFT.pdf",
+          "file_name": "05.18.2026 City Council Meeting Minutes FINAL.pdf",
           "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1439049.pdf",
-          "date_added": "2026/05/26 05:02 PM",
-          "file_id": "1439049"
+          "url": "https://www.utah.gov/pmn/files/1456625.pdf",
+          "date_added": "2026/07/01 12:34 PM",
+          "file_id": "1456625"
         },
         {
           "file_name": "05.18.2026 City Council Meeting Agenda.pdf",
@@ -357,46 +390,6 @@
           "url": "https://www.utah.gov/pmn/files/1434574.pdf",
           "date_added": "2026/05/15 07:12 PM",
           "file_id": "1434574"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1079295",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079295.html",
-      "title": "Grantsville City Council Special Work Meeting",
-      "event_date": "May 11, 2026 06:00 PM",
-      "event_date_iso": "2026-05-11T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Special Work Meeting on Monday, May 11, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 6:00 pm. \r\n\r\nThe agenda is as follows: \r\n\r\nROLL CALL \r\n\r\nAGENDA: \r\n1.\tDiscussion of the Memorandum of Understanding with the Tooele County School District\r\n2.\tPresentation and discussion of the FY27 budget (this is a discussion item only. No public comment or action will be taken.)\r\n     a.\tPresentation of the proposed property tax impact schedule\r\n3.\tAdjournment\r\n\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "May 08, 2026 05:24 PM",
-      "attachments": [
-        {
-          "file_name": "05.11.2026 City Council Work Session Minutes FINAL.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1439051.pdf",
-          "date_added": "2026/05/26 05:04 PM",
-          "file_id": "1439051"
-        },
-        {
-          "file_name": "05.11.2026 City Council Special Work Meeting Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430697.pdf",
-          "date_added": "2026/05/08 05:24 PM",
-          "file_id": "1430697"
-        },
-        {
-          "file_name": "Property Tax Impact Schedule 05.06.2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430699.pdf",
-          "date_added": "2026/05/08 05:25 PM",
-          "file_id": "1430699"
         }
       ],
       "canceled": false

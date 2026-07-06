@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-06-29T12:36:42.088746+00:00",
+  "scraped_at": "2026-07-06T12:08:31.590279+00:00",
   "notices": [
     {
       "notice_id": "1091691",
@@ -80,6 +80,39 @@
           "url": "https://www.utah.gov/pmn/files/1454559.pdf",
           "date_added": "2026/06/25 01:13 PM",
           "file_id": "1454559"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1093063",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093063.html",
+      "title": "City Council Agenda",
+      "event_date": "July 7, 2026 05:30 PM",
+      "event_date_iso": "2026-07-07T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, July 7, 2026, 5:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\nCouncil Chambers\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nDiscussion: River to Range Trail - Design Workshop\r\n\r\nDiscussion: Solid Waste - John and Scott\r\n\r\nReport: Major Roads CIP Update - Scott\r\n\r\nReport: Parks CIP Update - Rhett\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n4.\tConsent Items\r\n\r\n4.a Approve the June 2, 2026 and June 9, 2026 City Council Meeting Minutes\r\n\r\n4.b Approve Resolution #26-34\r\n\r\nA resolution of the Draper City Council acting as the governing body of the Traverse Ridge Special Service District certifying a tax rate for the 2027 taxable year. Staff: John Vuyk.\r\n \r\n5.\tItems for Council Consideration\r\n\r\n5.a Public Hearing: Ordinance #1726\r\n\r\nAn ordinance of Draper City amending the text of Titles 9 and 17 of the Draper City Municipal Code related to corner lots. Staff report by Todd Taylor.\r\n\r\n5.b Public Hearing: Ordinance #1727\r\n\r\nAn ordinance of Draper City adopting text amendments to Section 9-31-040 of Draper City Municipal Code regarding standards for the creation of Detached Accessory Dwelling Units. Staff report by Todd Draper.\r\n\r\n5.c Public Hearing: Ordinances #1728, #1729, and #1730\r\n\r\nOrdinances of Draper City amending the Official Land Use Map of Draper City, the Official Zoning Map of Draper City, and approving a Development Agreement for approximately 1.95 acres located at approximately 762 W. 12300 S. Known as the Kuwahara Nursery Land Use Map and Zoning Map Amendments and the Kuwahara Nursery Development Agreement. Staff Report by Todd Draper.\r\n\r\n5.d Action Item: Resolution #26-35\r\n\r\nA resolution approving an agreement with Ace Recycling and Disposal Inc. for residential solid waste and recyclable material collection services on public streets in Draper City. Staff: Scott Cooley.\r\n\r\n6.\tAdjourn\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held July 7, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nPosted this 2nd day of July, 2026.\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 02, 2026 02:20 PM",
+      "attachments": [
+        {
+          "file_name": "2026-07-07 CityCouncil_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1457261.pdf",
+          "date_added": "2026/07/02 02:20 PM",
+          "file_id": "1457261"
+        },
+        {
+          "file_name": "2026-07-07 CityCouncil_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1457263.pdf",
+          "date_added": "2026/07/02 02:20 PM",
+          "file_id": "1457263"
         }
       ],
       "canceled": false
@@ -231,31 +264,6 @@
           "url": "https://www.utah.gov/pmn/files/1446795.pdf",
           "date_added": "2026/06/10 02:52 PM",
           "file_id": "1446795"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087977",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087977.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1719, amending a Master Area Plan per the Land Use and Development Code of the Draper City Municipal Code regarding the Veranda West Master Area Plan",
-      "event_date": "June 10, 2026 02:50 PM",
-      "event_date_iso": "2026-06-10T14:50:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 10, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1719\r\n\r\nOn June 9, 2026, the Draper City Council Adopted Ordinance #1719 amending a Master Area Plan per the Land Use and Development Code of the Draper City Municipal Code regarding the Veranda West Master Area Plan. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 10th day of June, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 10, 2026 02:51 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1719.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446789.pdf",
-          "date_added": "2026/06/10 02:50 PM",
-          "file_id": "1446789"
         }
       ],
       "canceled": false

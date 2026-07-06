@@ -4,8 +4,41 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-06-29T12:38:01.940080+00:00",
+  "scraped_at": "2026-07-06T12:09:51.185491+00:00",
   "notices": [
+    {
+      "notice_id": "1092333",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092333.html",
+      "title": "Spanish Fork City - Planning Commission",
+      "event_date": "July 1, 2026 07:30 PM",
+      "event_date_iso": "2026-07-01T19:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "SF Logo\r\nWednesday, July 1, 2026\r\nPlanning Commission\r\nPlanning Commission Agenda\r\nPUBLIC NOTICE is hereby given that the Planning Commission of Spanish Fork, Utah, will hold a work session commencing at 5:30 p.m. During the work session, the Planning Commission will tour various sites throughout the city. The scheduled Planning Commission Meeting will commence at 7:30 p.m. on July 1, 2026 in the City Council Chambers at Library Hall, on the second floor, 80 South Main Street, Spanish Fork, Utah.\r\nPlanning Commissioners\r\n\r\nTodd Mitchell\r\nShauna Warnick\r\nMichelle Carroll\r\nMichael Clayson\r\nPaul Dayton\r\nDave Woodhouse\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Planning Commission Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If you need special accommodation to participate in the meeting, please contact the Community Development Office at 801-804-4580.\r\n1. 5:30pm WORK SESSION - No formal actions are taken in a work session.\r\n2. 7:30 Agenda Items\r\n3. Minutes\r\nA. June 3, 2026.\r\n4. Preliminary Plat\r\nA. NICOLSON INDUSTRIAL PARK. This proposal involves approval of a Preliminary Plat for a three-lot industrial subdivision located at 999 West 3800 North.\r\nB. VERK 1 SUBSTATION. This proposal involves the approval of a Preliminary Plat for the development of a substation located at 1730 West 3400 North.\r\n5. Adjourn\r\nEnd",
+      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Kasey Woodard",
+      "contact_email": "kwoodard@spanishfork.org",
+      "posted_on": "June 29, 2026 05:01 PM",
+      "attachments": [
+        {
+          "file_name": "BoardDocs® LT.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1455883.pdf",
+          "date_added": "2026/06/29 05:01 PM",
+          "file_id": "1455883"
+        },
+        {
+          "file_name": "agenda.pc.7-1-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1456919.pdf",
+          "date_added": "2026/07/02 08:29 AM",
+          "file_id": "1456919"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1084041",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084041.html",

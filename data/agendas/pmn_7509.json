@@ -4,7 +4,7 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-06-29T12:33:46.686829+00:00",
+  "scraped_at": "2026-07-06T12:05:35.654938+00:00",
   "notices": [
     {
       "notice_id": "1091049",
@@ -21,6 +21,13 @@
       "contact_email": "sbirch@erda.gov",
       "posted_on": "June 22, 2026 08:35 PM",
       "attachments": [
+        {
+          "file_name": "5-28-26 Audio of City Council Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1455755.mp3",
+          "date_added": "2026/06/29 02:02 PM",
+          "file_id": "1455755"
+        },
         {
           "file_name": "6-25-26 Agenda for City Council (1).docx",
           "category": "Public Information Handout",
@@ -146,38 +153,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1081585",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081585.html",
-      "title": "Notice of Public Hearing on Adoption of Annual Budget 2026-2027",
-      "event_date": "May 28, 2026 07:00 PM",
-      "event_date_iso": "2026-05-28T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "ERDA\r\nNotice of Public Hearing Regarding Adoption of Erda City Fiscal Year 2026-2027 Budget \r\n\r\n\r\n\tNotice is hereby given by Erda City a municipal corporation of the state of Utah, located in Tooele County, of a public meeting to adopt Erda's Fiscal Year 2024-2025 Budget on Thursday May 28th, 2026 beginning at 7:00 p.m.  at the Erda City Offices next to the Fire Station on 2163 W Erda Way, Erda UT, 84074. The geographic area that will be affected by the City's Budget is the entire area of Erda.  Further information regarding the Erda City Annual Budget Fiscal Year 2026-2027 and a copy may be obtained from the City Recorder at the address and telephone number set forth below. Pursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Craig Smith at 435-830-2802.\r\n\r\nErda\r\n2163 W. Erda Way\r\nErda UT, 84074\r\n435-243-5577\r\njpoole@erda.gov",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "May 18, 2026 11:01 AM",
-      "attachments": [
-        {
-          "file_name": "FY 2027 BUDGET V1.1.xls",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1434931.xls",
-          "date_added": "2026/05/18 10:59 AM",
-          "file_id": "1434931"
-        },
-        {
-          "file_name": "Notice of Annual Budget Adoption (2025-2026).docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1434933.pdf",
-          "date_added": "2026/05/18 11:01 AM",
-          "file_id": "1434933"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1083489",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083489.html",
       "title": "Erda City Council Meeting",
@@ -234,6 +209,38 @@
           "url": "https://www.utah.gov/pmn/files/1438493.pdf",
           "date_added": "2026/05/26 10:01 AM",
           "file_id": "1438493"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1081585",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081585.html",
+      "title": "Notice of Public Hearing on Adoption of Annual Budget 2026-2027",
+      "event_date": "May 28, 2026 07:00 PM",
+      "event_date_iso": "2026-05-28T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "ERDA\r\nNotice of Public Hearing Regarding Adoption of Erda City Fiscal Year 2026-2027 Budget \r\n\r\n\r\n\tNotice is hereby given by Erda City a municipal corporation of the state of Utah, located in Tooele County, of a public meeting to adopt Erda's Fiscal Year 2024-2025 Budget on Thursday May 28th, 2026 beginning at 7:00 p.m.  at the Erda City Offices next to the Fire Station on 2163 W Erda Way, Erda UT, 84074. The geographic area that will be affected by the City's Budget is the entire area of Erda.  Further information regarding the Erda City Annual Budget Fiscal Year 2026-2027 and a copy may be obtained from the City Recorder at the address and telephone number set forth below. Pursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Craig Smith at 435-830-2802.\r\n\r\nErda\r\n2163 W. Erda Way\r\nErda UT, 84074\r\n435-243-5577\r\njpoole@erda.gov",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "May 18, 2026 11:01 AM",
+      "attachments": [
+        {
+          "file_name": "FY 2027 BUDGET V1.1.xls",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434931.xls",
+          "date_added": "2026/05/18 10:59 AM",
+          "file_id": "1434931"
+        },
+        {
+          "file_name": "Notice of Annual Budget Adoption (2025-2026).docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1434933.pdf",
+          "date_added": "2026/05/18 11:01 AM",
+          "file_id": "1434933"
         }
       ],
       "canceled": false

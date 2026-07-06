@@ -4,12 +4,12 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-06-29T12:37:17.573641+00:00",
+  "scraped_at": "2026-07-06T12:09:07.046149+00:00",
   "notices": [
     {
       "notice_id": "1091707",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091707.html",
-      "title": "Planning Commission Public Notice and Agenda",
+      "title": "Planning Commission Public Notice, Agenda and Packet",
       "event_date": "July 8, 2026 06:30 PM",
       "event_date_iso": "2026-07-08T18:30:00",
       "notice_types": [
@@ -29,6 +29,13 @@
           "url": "https://www.utah.gov/pmn/files/1454585.pdf",
           "date_added": "2026/06/25 01:51 PM",
           "file_id": "1454585"
+        },
+        {
+          "file_name": "2026.07.08 Planning Commission Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1456793.pdf",
+          "date_added": "2026/07/01 04:01 PM",
+          "file_id": "1456793"
         }
       ],
       "canceled": false
