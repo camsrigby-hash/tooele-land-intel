@@ -4,8 +4,40 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-07-06T12:05:35.654938+00:00",
+  "scraped_at": "2026-07-13T11:01:16.347704+00:00",
   "notices": [
+    {
+      "notice_id": "1093601",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093601.html",
+      "title": "Erda City Council Meeting",
+      "event_date": "July 9, 2026 07:00 PM",
+      "event_date_iso": "2026-07-09T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, July 9, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/zas-aheq-itv\r\nOr dial:  (US) +1 260-233-2131  PIN:  839 738 650 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 6-25-26\r\nTreasurer Report\r\nSheriff's Report\r\nNTFD Report\r\nConsideration of Echo Plat 5 Park Plan Approval\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\nFOLLOW UP ITEMS:\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "July 06, 2026 06:13 PM",
+      "attachments": [
+        {
+          "file_name": "7-09-26 Audio of City Council Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1460139.mp3",
+          "date_added": "2026/07/10 08:47 AM",
+          "file_id": "1460139"
+        },
+        {
+          "file_name": "Oquirrh Point plat 5 park plan staff report Council 07092026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1458059.pdf",
+          "date_added": "2026/07/06 06:12 PM",
+          "file_id": "1458059"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1091049",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091049.html",
@@ -27,6 +59,13 @@
           "url": "https://www.utah.gov/pmn/files/1455755.mp3",
           "date_added": "2026/06/29 02:02 PM",
           "file_id": "1455755"
+        },
+        {
+          "file_name": "6-25-26 Signed Meeting Minutes City Council.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1460151.pdf",
+          "date_added": "2026/07/10 08:49 AM",
+          "file_id": "1460151"
         },
         {
           "file_name": "6-25-26 Agenda for City Council (1).docx",
@@ -95,6 +134,13 @@
           "url": "https://www.utah.gov/pmn/files/1449569.mp3",
           "date_added": "2026/06/16 10:10 AM",
           "file_id": "1449569"
+        },
+        {
+          "file_name": "6-11-26 Signed Meeting Minutes City Council.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1460141.pdf",
+          "date_added": "2026/07/10 08:48 AM",
+          "file_id": "1460141"
         },
         {
           "file_name": "May 26 Financial Report (1).pdf",
@@ -472,66 +518,6 @@
       "posted_on": "April 06, 2026 07:01 PM",
       "attachments": [],
       "canceled": true
-    },
-    {
-      "notice_id": "1068537",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068537.html",
-      "title": "Erda City Council Meeting",
-      "event_date": "March 27, 2026 07:00 PM",
-      "event_date_iso": "2026-03-27T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Friday March 27, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/rvk-qiyq-gmx\r\nOr dial:  (US) +1 929-999-4326  PIN:  975 758 998 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 3-12-26\r\nConsideration of Resolution 26-05 Supporting America 250 Utah and Recognizing and approving the Erda Utah250 Community Committee\r\nConsideration of Ordinance 26-03 An Ordinance directing that City of Erda be removed as a party to the lawsuit. \r\nConsideration of Letter of Support for the Utah Nuclear Lifecycle Innovation Campus (NLIC)\r\nBoys Home in Bronzewood Cir\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "March 24, 2026 07:07 PM",
-      "attachments": [
-        {
-          "file_name": "3-27-26 Audio of City Council Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1411399.mp3",
-          "date_added": "2026/03/28 11:51 AM",
-          "file_id": "1411399"
-        },
-        {
-          "file_name": "3-27-26 Signed Meeting Minutes City Council.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1424771.pdf",
-          "date_added": "2026/04/28 02:18 PM",
-          "file_id": "1424771"
-        },
-        {
-          "file_name": "3-27-26 Agenda for City Council.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409693.pdf",
-          "date_added": "2026/03/24 07:05 PM",
-          "file_id": "1409693"
-        },
-        {
-          "file_name": "Draft Erda - Letter of Support.docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409695.pdf",
-          "date_added": "2026/03/24 07:06 PM",
-          "file_id": "1409695"
-        },
-        {
-          "file_name": "Resolution 26-05 America 250.docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409697.docx",
-          "date_added": "2026/03/24 07:06 PM",
-          "file_id": "1409697"
-        },
-        {
-          "file_name": "Ordinance  Directing  Erda be removed as a party.docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1409699.pdf",
-          "date_added": "2026/03/24 07:07 PM",
-          "file_id": "1409699"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

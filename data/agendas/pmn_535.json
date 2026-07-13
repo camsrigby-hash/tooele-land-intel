@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-07-06T12:07:12.028326+00:00",
+  "scraped_at": "2026-07-13T11:02:53.625519+00:00",
   "notices": [
     {
       "notice_id": "1090693",
@@ -28,6 +28,32 @@
           "url": "https://www.utah.gov/pmn/files/1452385.pdf",
           "date_added": "2026/06/19 03:47 PM",
           "file_id": "1452385"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1094589",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094589.html",
+      "title": "Public Hearing",
+      "event_date": "July 21, 2026 07:00 PM",
+      "event_date_iso": "2026-07-21T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on July 21, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nMaster Development Plan and Agreement Amendment:\r\n\r\n-\tTriumph Master Development Plan and Agreement Amendment:  A request by Scot Hazard for a Master Development Agreement and Plan Amendment approval pertaining to Triumph Subdivision to allow for the creation of four (4) affordable housing 'pods' within that development. The proposed pods range from 2.8 - 4.5 acres in size and are intended to have higher residential densities than the balance of the project. The Triumph Subdivision is located in Section 19, T6S, R1W, on the east and west sides of N. Lake Mountain Road south of E. Pole Canyon Blvd. (County Assessor Parcel/Serial # 59:019:0031) in Eagle Mountain City; application set identified as the: 'Triumph Master Development Amendment.' \r\nEMC Point of Contact: Senior Planner, Robert Hobbs: rhobbs@eaglemountian.gov.\r\n\r\nAmendments to Eagle Mountain Municipal Code: \r\n\r\n-\tEMMC Chapter 16.20, 16.25 and 17.100 - Cost Estimate Code Amendment: Consideration of an amendment to Eagle Mountain Municipal Code Chapters 16.20, 16.25, and 17.100,  Application Requirements, and  Cost Estimates. \r\nEMC Staff Point of Contact: Community Development Director, Brandon Larsen: blarsen@eaglemountain.gov.\r\n\r\n-\tEMMC Chapter 8.115 - Noise Code Amendment:  A proposal to modify the hours of restriction for privately owned golf courses in compliance with Senate Bill 202 from the 2026 legislative session. \r\nEMC Point of Contact: Planner Mickie Mills: mmills@eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 10th day of July, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly, City Recorder",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "July 10, 2026 08:40 AM",
+      "attachments": [
+        {
+          "file_name": "CCPH 07.21.2026 - Triumph Master Development Plan and Agreement Amedment, EMMC Chapters 16.20, 16.25, 17.100, and 8.15.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1460137.pdf",
+          "date_added": "2026/07/10 08:40 AM",
+          "file_id": "1460137"
         }
       ],
       "canceled": false
@@ -179,32 +205,13 @@
           "url": "https://www.utah.gov/pmn/files/1447799.pdf",
           "date_added": "2026/06/11 04:21 PM",
           "file_id": "1447799"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082697",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082697.html",
-      "title": "Public Hearing",
-      "event_date": "June 2, 2026 07:00 PM",
-      "event_date_iso": "2026-06-02T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on June 2, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nHorizon Master Development Plan:\r\n \r\n-\tRequest by Caden Hazard for Master Development Plan and for Preliminary Plat Approval for 110 single-family detached residential lots with open space all on/for approximately 109 acres of property located in Section 30, T5S, R1W, on the north side of Pony Express Parkway and Lone Tree Parkway (County Accessor Parcels/Serial # 58:040:0378) addressed as 2434 E. Pony Express Parkway in Eagle Mountain City; application set identified as the: 'Horizon' project. EMC Point of Contact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov \r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1650 E StageCoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 21, 2026 10:44 AM",
-      "attachments": [
+        },
         {
-          "file_name": "CCPH 06.02.2026 - Horizon Master Development Plan.pdf",
+          "file_name": "06.16.2026 CC Minutes APPROVED.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1437023.pdf",
-          "date_added": "2026/05/21 10:43 AM",
-          "file_id": "1437023"
+          "url": "https://www.utah.gov/pmn/files/1458573.pdf",
+          "date_added": "2026/07/07 08:50 PM",
+          "file_id": "1458573"
         }
       ],
       "canceled": false
@@ -243,26 +250,27 @@
       "canceled": false
     },
     {
-      "notice_id": "1081649",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1081649.html",
+      "notice_id": "1082697",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082697.html",
       "title": "Public Hearing",
       "event_date": "June 2, 2026 07:00 PM",
       "event_date_iso": "2026-06-02T19:00:00",
       "notice_types": [
-        "Hearing"
+        "Notice",
+        "Meeting"
       ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on Tuesday, June 2, 2026 at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nLand Disposal Application - Casey Hansen \r\n\r\nIn accordance with EMMC 3.30, the Eagle Mountain City Council may hold a public hearing to consider the Land Disposal Application from Casey Hansen to dispose of approximately 0.01 acres of real public property, identified as a portion of Utah County Parcel No 45:326:0109. This parcel is designated as 'Significant Real Property'.\r\n\r\nEMC Staff Point of Contact: City Recorder Lacie A. Messerly lmesserly@ealgemountain.gov \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAll interested parties are invited to attend and provide comment. Written comments may also be submitted prior to the hearing to the City Recorder at recorder@eaglemountain.gov. or online using the Public Comment Form. Materials for public hearing items may be viewed within three days of the meeting on the City website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on June 2, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nHorizon Master Development Plan:\r\n \r\n-\tRequest by Caden Hazard for Master Development Plan and for Preliminary Plat Approval for 110 single-family detached residential lots with open space all on/for approximately 109 acres of property located in Section 30, T5S, R1W, on the north side of Pony Express Parkway and Lone Tree Parkway (County Accessor Parcels/Serial # 58:040:0378) addressed as 2434 E. Pony Express Parkway in Eagle Mountain City; application set identified as the: 'Horizon' project. EMC Point of Contact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov \r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain , UT 84005 Show in Apple Maps Show in Google Maps",
       "contact_name": "Lacie Messerly",
       "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "May 18, 2026 12:52 PM",
+      "posted_on": "May 21, 2026 10:44 AM",
       "attachments": [
         {
-          "file_name": "CCPH 06.02.2026 - Disposal of Public Property - Hansen, Casey.pdf",
+          "file_name": "CCPH 06.02.2026 - Horizon Master Development Plan.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1435041.pdf",
-          "date_added": "2026/05/18 12:52 PM",
-          "file_id": "1435041"
+          "url": "https://www.utah.gov/pmn/files/1437023.pdf",
+          "date_added": "2026/05/21 10:43 AM",
+          "file_id": "1437023"
         }
       ],
       "canceled": false

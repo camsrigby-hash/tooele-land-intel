@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-07-06T12:06:47.523135+00:00",
+  "scraped_at": "2026-07-13T11:02:29.371013+00:00",
   "notices": [
     {
       "notice_id": "1092879",
@@ -52,6 +52,23 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "June 25, 2026 10:07 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1094121",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094121.html",
+      "title": "Notice of Ordinances",
+      "event_date": "July 7, 2026 12:06 PM",
+      "event_date_iso": "2026-07-07T12:06:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of July 7, 2026, passed and adopted the following Ordinances:\r\n\r\n-\tOrdinance 26-29 (07-07-26) Adopting Amendments to Title 3 of the Saratoga Springs City Code\r\n-\tOrdinance 26-30 (07-07-26) Adopting Amendments to the City of Saratoga Springs Planning Commission Bylaws & Rules of Procedure\r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 08, 2026 12:06 PM",
       "attachments": [],
       "canceled": false
     },
@@ -134,6 +151,24 @@
           "file_id": "1445279"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082945",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082945.html",
+      "title": "City Council Public Hearing - Interim Budget for FY 26-27",
+      "event_date": "June 2, 2026 06:00 PM",
+      "event_date_iso": "2026-06-02T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Notice of Public Hearing\r\n\r\n\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs Interim Budget for Fiscal Year 2026-2027. The interim budget includes a property tax rate increase for Fiscal Year 2026-2027 as an option if the tax rate increase is approved. The interim budget will be in effect from July 1, 2026, to August 11, 2026, the date when the Final Budget for Fiscal Year 2026-2027 is adopted. The Final Budget will officially adopt the property tax rate increase if approved by the City Council after a public hearing.\r\n\r\nThe public hearing on the interim budget will be held on Tuesday, June 2, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located 1307 N. Commerce Drive Suite 200, Saratoga Springs, Utah. \r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov and directed to the Finance Dept. 801-766-9793.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 21, 2026 05:21 PM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -223,41 +258,6 @@
           "file_id": "1441875"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082945",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082945.html",
-      "title": "City Council Public Hearing - Interim Budget for FY 26-27",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\n\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs Interim Budget for Fiscal Year 2026-2027. The interim budget includes a property tax rate increase for Fiscal Year 2026-2027 as an option if the tax rate increase is approved. The interim budget will be in effect from July 1, 2026, to August 11, 2026, the date when the Final Budget for Fiscal Year 2026-2027 is adopted. The Final Budget will officially adopt the property tax rate increase if approved by the City Council after a public hearing.\r\n\r\nThe public hearing on the interim budget will be held on Tuesday, June 2, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located 1307 N. Commerce Drive Suite 200, Saratoga Springs, Utah. \r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov and directed to the Finance Dept. 801-766-9793.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 05:21 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082421",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082421.html",
-      "title": "Notice of Ordinance",
-      "event_date": "May 20, 2026 11:11 AM",
-      "event_date_iso": "2026-05-20T11:11:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of May 19, 2026, passed and adopted the following Ordinances:\r\n\r\n-\tOrdinance 26-22 (05-19-26) Adopting Amendments to the Building Code and Fire Code of City of Saratoga Springs.\r\n-\tOrdinance 26-23 (05-19-26) Adopting Amendments to the City of Saratoga Springs Land Development Code.\r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 20, 2026 11:11 AM",
-      "attachments": [],
       "canceled": false
     }
   ]

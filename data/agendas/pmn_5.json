@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-07-06T12:09:42.691707+00:00",
+  "scraped_at": "2026-07-13T11:05:30.137550+00:00",
   "notices": [
     {
       "notice_id": "1093185",
@@ -23,7 +23,57 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "July 02, 2026 04:35 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "06 Adopted City Council Minutes 06-16-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1459271.pdf",
+          "date_added": "2026/07/09 08:25 AM",
+          "file_id": "1459271"
+        },
+        {
+          "file_name": "PRESENTATION Public Works -Work Session.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459273.pdf",
+          "date_added": "2026/07/09 08:26 AM",
+          "file_id": "1459273"
+        },
+        {
+          "file_name": "PRESENTATION SF 101.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459275.pdf",
+          "date_added": "2026/07/09 08:26 AM",
+          "file_id": "1459275"
+        },
+        {
+          "file_name": "SFPD Victim Services Brochure-ENGLISH-FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459277.pdf",
+          "date_added": "2026/07/09 08:26 AM",
+          "file_id": "1459277"
+        },
+        {
+          "file_name": "SFPD Victim Services Brochure-SPANISH-FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459279.pdf",
+          "date_added": "2026/07/09 08:26 AM",
+          "file_id": "1459279"
+        },
+        {
+          "file_name": "presentation.citycouncil.7-7-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459281.pdf",
+          "date_added": "2026/07/09 08:27 AM",
+          "file_id": "1459281"
+        },
+        {
+          "file_name": "UT CO YouthTeen Resources Brochure ENGLISH.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459283.pdf",
+          "date_added": "2026/07/09 08:27 AM",
+          "file_id": "1459283"
+        }
+      ],
       "canceled": false
     },
     {

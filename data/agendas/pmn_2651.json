@@ -4,8 +4,25 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-07-06T12:06:35.313137+00:00",
+  "scraped_at": "2026-07-13T11:02:17.218898+00:00",
   "notices": [
+    {
+      "notice_id": "1094047",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094047.html",
+      "title": "Planning Commission Agenda",
+      "event_date": "July 9, 2026 07:00 PM",
+      "event_date_iso": "2026-07-09T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nJuly 9, 2026\r\n\r\n7:00 PM - Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tConsent Agenda\r\n\r\n2.1. Approval of the minutes from the June 4, 2026 meeting\r\n\r\n2.2. Approval of the minutes from the June 11, 2026 meeting\r\n\r\n3.\tRegular Agenda\r\n\r\n3.1. Consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 3700 North Morning Vista Road and requesting an exception for greater height and sign area. (Tabled from 6/11/26 meeting)\r\n\r\n\r\n3.2. Public hearing and consideration of Andrew Ward's request for approval of an exception for an 8-foot fence located at 1337 S 1880 W.\r\n\r\n\r\n3.3. Public hearing and consideration of JDH Development's request for approval of Vivian Estates Phase 5A preliminary subdivision including 2 single family lots located at 2070 North 600 East in the RA-1 Zone.\r\n\r\n\r\n3.4. Public hearing and consideration of JDH Development's request for approval of the Vivian Estates 5B preliminary subdivision including 10 single family lots located at approximately 600 East and 300 East.\r\n\r\n\r\n3.5. Public hearing and consideration of Kevin and Sarah Gordon's request for approval of the Lehi Childcare Facility Site Plan located at 808 North 2300 W and requesting exceptions for buffering standards and building footprint size.\r\n\r\n\r\n3.6. Public hearing and recommendation of Symphony Home's request for review of the Fox Trail Subdivision Concept Plan, now requesting nine lots and a development agreement, located at 2850 West 1500 North.\r\n\r\n\r\n3.7. Public hearing and recommendation of Gardner-Plumb Group's request for review of an amendment to the Gardner Plumb Development Agreement, requesting to transfer 124 equivalent residential units from the northern portion of the development agreement to the southern.\r\n\r\n\r\n3.8. Public hearing and recommendation of Lehi City's request for review of a comprehensive Development Code Amendment to Chapter 23, Signs updating requirements and simplifying the text.\r\n\r\n\r\n3.9. Public hearing and recommendation of Lehi City's request for review of an amendment to the Lehi City Design Standards and Public Improvement Specifications Manual adding Section 3.08- Temporary Construction Site Safety Measures for commercial and residential construction projects.\r\n\r\n\r\n3.10.Public hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 11 Development Application requirements, updating requirements for site plans, infrastructure site plans, preliminary and final subdivisions. \r\n\r\n3.11.Public hearing and recommendation of Lehi City's request for review of updates to the Lehi Storm Water Management Plan 2026.\r\n\r\n\r\n\r\n3.12.Public hearing and recommendation of Lehi City's request for review of an amendment to Chapter 38 updating requirements for the Mixed-Use Zone.\r\n\r\n\r\n4.\tCity Business\r\n\r\n5.\tAdjournment\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "July 08, 2026 10:02 AM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1091639",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091639.html",
@@ -90,7 +107,15 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 27, 2026 09:58 AM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "05.28.26 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1458739.pdf",
+          "date_added": "2026/07/08 10:06 AM",
+          "file_id": "1458739"
+        }
+      ],
       "canceled": false
     },
     {
@@ -107,7 +132,15 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 13, 2026 10:00 AM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "05.14.26 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1458731.pdf",
+          "date_added": "2026/07/08 10:05 AM",
+          "file_id": "1458731"
+        }
+      ],
       "canceled": false
     },
     {
@@ -143,7 +176,15 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 06, 2026 10:06 AM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "05.07.26 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1458743.pdf",
+          "date_added": "2026/07/08 10:08 AM",
+          "file_id": "1458743"
+        }
+      ],
       "canceled": false
     },
     {
@@ -161,24 +202,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "April 09, 2026 11:14 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1074945",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074945.html",
-      "title": "Planning Commission Agenda",
-      "event_date": "April 23, 2026 07:00 PM",
-      "event_date_iso": "2026-04-23T19:00:00",
-      "notice_types": [
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nApril 23, 2026\r\n\r\n7:00 PM - New Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tConsent Agenda\r\n\r\n2.1. Approval of minutes from the March 12, 2026 meeting.\r\n\r\n2.2.Approval of minutes from the March 26, 2026 meeting.\r\n\r\n3.\tRegular Agenda\r\n\r\n3.1. Public hearing and consideration of Golden West Advertising's request for conditional use approval for a pylon sign for Smith's located at 3808 West Hardman Way. (Tabled from the March 12th meeting)\r\n\r\n\r\n3.2.\r\nPublic hearing and consideration of Dan Beavers' request for approval of the LifeTime Fitness Site Plan exception to the 40% maximum EIFS/Stucco requirement located at 240 East Traverse Terrace Drive. (Tabled from the March 26th meeting) WITHDRAWN\r\n\r\n3.3. Public hearing and consideration of Holden Rockwell's request for approval of a conditional use for the Skull Valley Plat B Flag Lot located at 208 East 200 South\r\n\r\n\r\n3.4. Public hearing and consideration of Perry Homes' request for approval of the Bull River\r\n \r\nRoad Preliminary subdivision including 3 single family lots located at 425 West Bull River Road in the R-1-10 zone.\r\n\r\n\r\n3.5. Public hearing and recommendation of Perry Commercial's request for review of a concept for an amendment to the Traverse Mountain Area Plan, moving units out of West Canyon and adding them to locations near Timpanogos Highway.\r\n\r\n\r\n3.6. Public hearing and recommendation of Mike Greene's request for review of the Greene Zone Change on 1.57 acres located at 2001 West 1500 North, changing the zoning from A-1 to R-1-22.\r\n\r\n\r\n3.7. Public hearing and consideration of Jeffrey White's request for approval of a conditional use for the conversion of an existing accessory building into a detached ADU located at 1420 North 4200 West.\r\n\r\n\r\n3.8. Public hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 14-lot residential development located at 1250 West 800 North, including density in lieu for connectivity.\r\n\r\n\r\n3.9. Public hearing and consideration of James DeSpain's request for approval of an exception for a second portion of his yard to have an 8-foot fence located at 295 West 400 South.\r\n\r\n\r\n3.10.Public hearing and recommendation of Jacob Hansen's request for review of an amendment to the Hansen Tennis Facility Development Agreement, allowing for signage as part of the project.\r\n\r\n\r\n4.\tCity Business\r\n\r\n5.\tAdjournment\r\n \r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 22, 2026 10:02 AM",
       "attachments": [],
       "canceled": false
     }

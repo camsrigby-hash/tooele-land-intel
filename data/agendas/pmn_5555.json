@@ -4,8 +4,111 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-07-06T12:08:31.590279+00:00",
+  "scraped_at": "2026-07-13T11:04:18.121143+00:00",
   "notices": [
+    {
+      "notice_id": "1094743",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094743.html",
+      "title": "Notice of Public Hearing: City Initiated Short-Term Rentals Text Amendment Request",
+      "event_date": "July 21, 2026 07:00 PM",
+      "event_date_iso": "2026-07-21T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 10, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: City Initiated Short-Term Rentals Text Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request. The purpose of the request is to amend the text of portions of Draper City Municipal Code (DCMC) Titles 6 and 9 to require short-term rentals be licensed and permitted and to add associated standards.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 21, 2026 at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Taylor at (801) 576-6510 or todd.taylor@draperutah.gov. \r\n\r\nDated this 10th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 10, 2026 02:07 PM",
+      "attachments": [
+        {
+          "file_name": "CC 7.21 City Initiated Short-Term Rentals Text Amendment Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1460437.pdf",
+          "date_added": "2026/07/10 02:05 PM",
+          "file_id": "1460437"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1094685",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094685.html",
+      "title": "Notice of Public Hearing: Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests",
+      "event_date": "July 21, 2026 07:00 PM",
+      "event_date_iso": "2026-07-21T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 10, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed requests. The property is located at approximately 273 E. 13800 S. The purposes of the requests are to change the Land Use Map from the Commercial Office/Service designation to the Regional Commercial designation and the Zoning Map from the RA1 (Residential, Agricultural) zone to the CR (Regional Commercial) zone.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 21, 2026, at 7:00 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov.  \r\n\r\nDated this 10th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 10, 2026 11:59 AM",
+      "attachments": [
+        {
+          "file_name": "CC 7.21 Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1460347.pdf",
+          "date_added": "2026/07/10 11:59 AM",
+          "file_id": "1460347"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1094683",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094683.html",
+      "title": "Notice of Public Hearing: Adamo Zoning Map Amendment Request",
+      "event_date": "July 21, 2026 07:00 PM",
+      "event_date_iso": "2026-07-21T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 10, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Adamo Zoning Map Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request. The property is located at approximately 265 E. 13275 S. The purpose of the request is to change the zoning designation from RA1 (Residential agricultural, 40,000 ft2 min. lot size) to RA2 (Residential agricultural, 20,000 ft2 min. lot size)\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 21, 2026, at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker, MCMP at (801) 576-6522 or nick.whittaker@draperutah.gov. \r\n\r\nDated this 10th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 10, 2026 11:58 AM",
+      "attachments": [
+        {
+          "file_name": "CC 7.21 Adamo Zoning Map Amendment Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1460471.pdf",
+          "date_added": "2026/07/10 02:36 PM",
+          "file_id": "1460471"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1094459",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094459.html",
+      "title": "Notice of Ordinance Adoption: Ordinance #1726, amending the text of Titles 9 and 7 of the Draper Municipal Code related to corner lots",
+      "event_date": "July 9, 2026 02:12 PM",
+      "event_date_iso": "2026-07-09T14:12:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on July 9, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1726\r\n\r\nOn July 7, 2026, the Draper City Council Adopted Ordinance #1726 amending the text of Titles 9 and 7 of the Draper Municipal Code related to corner lots. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 9th day of July, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 09, 2026 02:13 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1726.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459785.pdf",
+          "date_added": "2026/07/09 02:13 PM",
+          "file_id": "1459785"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1091691",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091691.html",
@@ -28,32 +131,6 @@
           "url": "https://www.utah.gov/pmn/files/1454565.pdf",
           "date_added": "2026/06/25 01:15 PM",
           "file_id": "1454565"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1091687",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091687.html",
-      "title": "Notice of Public Hearing: Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests",
-      "event_date": "July 7, 2026 07:00 PM",
-      "event_date_iso": "2026-07-07T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on June 26, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request. The property is located at approximately 762 W. 12300 S. The purposes of the requests are to change the Land Use Map from the Commercial Office/Service designation to the Residential High-Density designation, the Zoning Map from the CO1 (Professional Office) zone to the RM2 (Multiple-Family Residential) zone, and for approval of a Development Agreement to allow for the construction of 21 detached Single-Family Dwellings on the property. \r\n\r\nThe hearing will be held at Draper City Hall in the City Council, on July 7, 2026 at 7:00 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov.  \r\n\r\nDated this 25th Day of June, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 25, 2026 01:14 PM",
-      "attachments": [
-        {
-          "file_name": "CC 7.7 Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1454563.pdf",
-          "date_added": "2026/06/25 01:14 PM",
-          "file_id": "1454563"
         }
       ],
       "canceled": false
@@ -85,6 +162,32 @@
       "canceled": false
     },
     {
+      "notice_id": "1091687",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091687.html",
+      "title": "Notice of Public Hearing: Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests",
+      "event_date": "July 7, 2026 07:00 PM",
+      "event_date_iso": "2026-07-07T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on June 26, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request. The property is located at approximately 762 W. 12300 S. The purposes of the requests are to change the Land Use Map from the Commercial Office/Service designation to the Residential High-Density designation, the Zoning Map from the CO1 (Professional Office) zone to the RM2 (Multiple-Family Residential) zone, and for approval of a Development Agreement to allow for the construction of 21 detached Single-Family Dwellings on the property. \r\n\r\nThe hearing will be held at Draper City Hall in the City Council, on July 7, 2026 at 7:00 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov.  \r\n\r\nDated this 25th Day of June, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "June 25, 2026 01:14 PM",
+      "attachments": [
+        {
+          "file_name": "CC 7.7 Kuwahara Nursery Land Use Map Amendment, Zoning Map Amendment, and Development Agreement Requests.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1454563.pdf",
+          "date_added": "2026/06/25 01:14 PM",
+          "file_id": "1454563"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1093063",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093063.html",
       "title": "City Council Agenda",
@@ -110,9 +213,65 @@
         {
           "file_name": "2026-07-07 CityCouncil_Packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1457263.pdf",
-          "date_added": "2026/07/02 02:20 PM",
-          "file_id": "1457263"
+          "url": "https://www.utah.gov/pmn/files/1457631.pdf",
+          "date_added": "2026/07/06 08:57 AM",
+          "file_id": "1457631"
+        },
+        {
+          "file_name": "2026-07-07_CityCouncil_Recap.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1458893.pdf",
+          "date_added": "2026/07/08 11:39 AM",
+          "file_id": "1458893"
+        },
+        {
+          "file_name": "5.a Corner Lots TA_CC.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459039.pdf",
+          "date_added": "2026/07/08 02:54 PM",
+          "file_id": "1459039"
+        },
+        {
+          "file_name": "5.b Rohr D-ADU Text Amendment PPT- CC.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459041.pdf",
+          "date_added": "2026/07/08 02:54 PM",
+          "file_id": "1459041"
+        },
+        {
+          "file_name": "5.c Kuwahara Nursery DA, LUMA, ZMA -PPT - CC.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459043.pdf",
+          "date_added": "2026/07/08 02:54 PM",
+          "file_id": "1459043"
+        },
+        {
+          "file_name": "Existing and proposed fees for solid waste.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459045.pdf",
+          "date_added": "2026/07/08 02:56 PM",
+          "file_id": "1459045"
+        },
+        {
+          "file_name": "Major Roads Projects CIP Update 07-07-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459047.pdf",
+          "date_added": "2026/07/08 02:56 PM",
+          "file_id": "1459047"
+        },
+        {
+          "file_name": "Parks & Trails CIP Update 07-07-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459049.pdf",
+          "date_added": "2026/07/08 02:56 PM",
+          "file_id": "1459049"
+        },
+        {
+          "file_name": "R2R Draper River to Range_City Council Presentation_260706.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1459051.pdf",
+          "date_added": "2026/07/08 02:57 PM",
+          "file_id": "1459051"
         }
       ],
       "canceled": false
@@ -164,106 +323,6 @@
           "url": "https://www.utah.gov/pmn/files/1446809.pdf",
           "date_added": "2026/06/10 03:00 PM",
           "file_id": "1446809"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087993",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087993.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1724, City Initiated Draper-Highland Boundary Adjustment #2 LUMA, amending the Official Land Use Map of Draper City by adding to the map approximately 0.31 acres of property, 16377 South Suncrest Dr",
-      "event_date": "June 10, 2026 02:57 PM",
-      "event_date_iso": "2026-06-10T14:57:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 10, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1724\r\n\r\nOn June 9, 2026, the Draper City Council Adopted Ordinance #1724 amending the Official Land Use Map of Draper City by adding to the map approximately 0.31 acres of property located at approximately 16377 South Suncrest Drive within Draper City, otherwise known as the City Initiated Draper-Highland Boundary Adjustment #2 Land Use Map Amendment. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 10th day of June, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 10, 2026 02:58 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1724.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446805.pdf",
-          "date_added": "2026/06/10 02:58 PM",
-          "file_id": "1446805"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087987",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087987.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1723, adopting Updated Water Rates for Culinary Water Customers serviced by Draper City",
-      "event_date": "June 10, 2026 02:54 PM",
-      "event_date_iso": "2026-06-10T14:54:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 10, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1723\r\n\r\nOn June 9, 2026, the Draper City Council Adopted Ordinance #1723 adopting Updated Water Rates for Culinary Water Customers serviced by Draper City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 10th day of June, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 10, 2026 02:55 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1723.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446801.pdf",
-          "date_added": "2026/06/10 02:55 PM",
-          "file_id": "1446801"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087983",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087983.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1722, amending the Compensation Schedule for Draper Citys Statutory Officers for Fiscal Year 2026-2027",
-      "event_date": "June 10, 2026 02:52 PM",
-      "event_date_iso": "2026-06-10T14:52:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 10, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1722\r\n\r\nOn June 9, 2026, the Draper City Council Adopted Ordinance #1722 amending the Compensation Schedule for Draper City's Statutory Officers for Fiscal Year 2026-2027. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 10th day of June, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 10, 2026 02:53 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1722.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446797.pdf",
-          "date_added": "2026/06/10 02:53 PM",
-          "file_id": "1446797"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087981",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087981.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1720, amending the text of the Land Use and Development Code of the Draper City Municipal Code Section 9-14-110, Exhibit 9-14-1, regarding the Veranda West Master Area Plan TSD Sub-Zone Designation Map",
-      "event_date": "June 10, 2026 02:51 PM",
-      "event_date_iso": "2026-06-10T14:51:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on June 10, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1720\r\n\r\nOn June 9, 2026, the Draper City Council Adopted Ordinance #1720 amending the text of the Land Use and Development Code of the Draper City Municipal Code Section 9-14-110, Exhibit 9-14-1, regarding the Veranda West Master Area Plan TSD Sub-Zone Designation Map. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 10th day of June, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "June 10, 2026 02:52 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1720.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446795.pdf",
-          "date_added": "2026/06/10 02:52 PM",
-          "file_id": "1446795"
         }
       ],
       "canceled": false
