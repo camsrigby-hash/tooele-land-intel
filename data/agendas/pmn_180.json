@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-07-13T11:04:42.147706+00:00",
+  "scraped_at": "2026-07-20T10:55:18.532795+00:00",
   "notices": [
     {
       "notice_id": "1094573",
@@ -22,11 +22,11 @@
       "posted_on": "July 09, 2026 07:20 PM",
       "attachments": [
         {
-          "file_name": "07.14.26 CC Agenda and packet.pdf",
+          "file_name": "07.14.26 CC Agenda and corrected packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460087.pdf",
-          "date_added": "2026/07/09 07:20 PM",
-          "file_id": "1460087"
+          "url": "https://www.utah.gov/pmn/files/1461159.pdf",
+          "date_added": "2026/07/13 04:24 PM",
+          "file_id": "1461159"
         }
       ],
       "canceled": false
@@ -90,6 +90,13 @@
       "posted_on": "June 12, 2026 04:00 PM",
       "attachments": [
         {
+          "file_name": "06.16.26 SS Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1463149.pdf",
+          "date_added": "2026/07/16 06:16 PM",
+          "file_id": "1463149"
+        },
+        {
           "file_name": "06.16.26 SS Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1448595.pdf",
@@ -122,6 +129,13 @@
       "posted_on": "June 12, 2026 03:58 PM",
       "attachments": [
         {
+          "file_name": "06.16.26 WS Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1463147.pdf",
+          "date_added": "2026/07/16 06:16 PM",
+          "file_id": "1463147"
+        },
+        {
           "file_name": "06.16.26 WS Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1448589.pdf",
@@ -129,24 +143,6 @@
           "file_id": "1448589"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1085035",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085035.html",
-      "title": "06.09.26 Public Hearing - FY2027 Municipal Officers compensation",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the American Fork City FY 2027 (July 1, 2026, to June 30, 2027) Executive Municipal Officers Compensation Increases. \r\nAll interested people are invited to attend.\r\nDated the 1st day of June 2026",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 01, 2026 09:35 AM",
-      "attachments": [],
       "canceled": false
     },
     {
@@ -168,20 +164,20 @@
       "canceled": false
     },
     {
-      "notice_id": "1085039",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085039.html",
-      "title": "06.09.26 Public Hearing - PUE Vacation",
+      "notice_id": "1085035",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085035.html",
+      "title": "06.09.26 Public Hearing - FY2027 Municipal Officers compensation",
       "event_date": "June 9, 2026 07:00 PM",
       "event_date_iso": "2026-06-09T19:00:00",
       "notice_types": [
         "Notice",
         "Hearing"
       ],
-      "agenda_text": "PUBLIC HEARING -\tVACATION OF PORTION OF A PUBLIC UTILITY EASEMENT\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 N. Church Street. The City Council will receive public comments regarding the following:\r\n-\tA proposed vacation of a portion of a public utility easement at 1032 East 1060 North. The portion of the public utility easement to be vacated is 5 feet along the rear property line, reducing the rear easement from 10 feet to 5 feet. The portion to be vacated is as shown on the map below. Action is scheduled for the regular session where the City Council will act on the proposed PUE vacation.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCopies of the proposed vacation are available at the City Administrative Offices, 51 E. Main Street.  All interested people are invited to attend and make comments.\r\nPosted this 28 day of May 2026.\r\n  \r\nTerilyn Lurker, City Recorder",
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the American Fork City FY 2027 (July 1, 2026, to June 30, 2027) Executive Municipal Officers Compensation Increases. \r\nAll interested people are invited to attend.\r\nDated the 1st day of June 2026",
       "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 01, 2026 09:36 AM",
+      "posted_on": "June 01, 2026 09:35 AM",
       "attachments": [],
       "canceled": false
     },
@@ -202,6 +198,13 @@
       "posted_on": "June 05, 2026 02:51 PM",
       "attachments": [
         {
+          "file_name": "06.09.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1463145.pdf",
+          "date_added": "2026/07/16 06:15 PM",
+          "file_id": "1463145"
+        },
+        {
           "file_name": "06.09.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1444751.pdf",
@@ -209,6 +212,24 @@
           "file_id": "1444751"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1085039",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085039.html",
+      "title": "06.09.26 Public Hearing - PUE Vacation",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC HEARING -\tVACATION OF PORTION OF A PUBLIC UTILITY EASEMENT\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 N. Church Street. The City Council will receive public comments regarding the following:\r\n-\tA proposed vacation of a portion of a public utility easement at 1032 East 1060 North. The portion of the public utility easement to be vacated is 5 feet along the rear property line, reducing the rear easement from 10 feet to 5 feet. The portion to be vacated is as shown on the map below. Action is scheduled for the regular session where the City Council will act on the proposed PUE vacation.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCopies of the proposed vacation are available at the City Administrative Offices, 51 E. Main Street.  All interested people are invited to attend and make comments.\r\nPosted this 28 day of May 2026.\r\n  \r\nTerilyn Lurker, City Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "June 01, 2026 09:36 AM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -225,7 +246,15 @@
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "May 28, 2026 05:56 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "06.02.26 WS Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1462113.pdf",
+          "date_added": "2026/07/15 11:28 AM",
+          "file_id": "1462113"
+        }
+      ],
       "canceled": false
     }
   ]

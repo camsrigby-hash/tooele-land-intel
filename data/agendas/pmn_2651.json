@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-07-13T11:02:17.218898+00:00",
+  "scraped_at": "2026-07-20T10:52:53.402315+00:00",
   "notices": [
     {
       "notice_id": "1094047",
@@ -119,6 +119,24 @@
       "canceled": false
     },
     {
+      "notice_id": "1076755",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076755.html",
+      "title": "Public Hearings Notice",
+      "event_date": "May 14, 2026 07:00 PM",
+      "event_date_iso": "2026-05-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 14, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in lieu for connectivity. \r\n\r\nPublic hearing and consideration of Michael Southwick's request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West. \r\n\r\nPublic hearing and consideration of Gardner's request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 1940 North 3600 West.  \r\n\r\nPublic hearing and consideration of Grow Development's request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "April 30, 2026 09:44 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1080311",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1080311.html",
       "title": "Planning Commission Agenda",
@@ -141,24 +159,6 @@
           "file_id": "1458731"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1076755",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076755.html",
-      "title": "Public Hearings Notice",
-      "event_date": "May 14, 2026 07:00 PM",
-      "event_date_iso": "2026-05-14T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 14, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in lieu for connectivity. \r\n\r\nPublic hearing and consideration of Michael Southwick's request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West. \r\n\r\nPublic hearing and consideration of Gardner's request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 1940 North 3600 West.  \r\n\r\nPublic hearing and consideration of Grow Development's request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 30, 2026 09:44 AM",
-      "attachments": [],
       "canceled": false
     },
     {

@@ -4,12 +4,12 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-07-13T11:01:28.531401+00:00",
+  "scraped_at": "2026-07-20T10:52:05.243152+00:00",
   "notices": [
     {
       "notice_id": "1093923",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093923.html",
-      "title": "Erda City Planning Commission Meeting",
+      "title": "**CANCELED*** Erda City Planning Commission Meeting",
       "event_date": "July 14, 2026 07:00 PM",
       "event_date_iso": "2026-07-14T19:00:00",
       "notice_types": [
@@ -17,21 +17,13 @@
         "Meeting",
         "Hearing"
       ],
-      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, July 14, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info   https://meet.google.com/sgm-qcjj-stw\r\nOr dial:  (US) +1 954-514-9677  PIN:  779 348 405 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 6-23-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Skywalk Community Structure Plan for parcels:01-435-0-0004, 01-435-0-0011, 01-435-0-0003, 01-435-0-0009, 01-435-0-0010\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "agenda_text": "NOTICE OF MEETING CANCELLATION\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the regular meeting of the Erda City Planning Commission, previously scheduled for:\r\n\r\nDate: July 14, 2026\r\nTime: 7:00 PM\r\nLocation: 2163 W. Erda Way, Erda, UT Erda City Offices/Fire Station\r\n\r\nhas been CANCELLED.\r\n\r\nThe meeting has been canceled because the only agenda item scheduled for consideration has been postponed. No Planning Commission business will be conducted.\r\n\r\nThis notice is posted in accordance with the Utah Open and Public Meetings Act.",
       "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": null,
       "contact_email": null,
       "posted_on": "July 07, 2026 06:17 PM",
-      "attachments": [
-        {
-          "file_name": "Skywalk CSP staff report.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1458545.pdf",
-          "date_added": "2026/07/07 06:16 PM",
-          "file_id": "1458545"
-        }
-      ],
-      "canceled": false
+      "attachments": [],
+      "canceled": true
     },
     {
       "notice_id": "1091045",

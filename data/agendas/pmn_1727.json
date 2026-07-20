@@ -4,8 +4,65 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-07-13T11:02:29.371013+00:00",
+  "scraped_at": "2026-07-20T10:53:05.412590+00:00",
   "notices": [
+    {
+      "notice_id": "1096399",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096399.html",
+      "title": "City Council Meeting",
+      "event_date": "July 21, 2026 06:00 PM",
+      "event_date_iso": "2026-07-21T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL MEETING AGENDA CITY OF SARATOGA SPRINGS\r\nTuesday, July 21, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPresentation: Oath of Office for new Police Officers: Forrest Crawford, Kevin Froylan, Estaban Gutierrez-Rivera, Jason Albrecht.\r\n5.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tOther: Point of the Mountain Chamber Report.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tUpdate to the Personnel Policies and Procedures Manual. Ordinance 26-32 (07-21-26).\r\n2.\tApproval of Minutes: July 7, 2026.\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tDevelopment Agreement amendment for Saratoga View Assisted Living Center, located at 1429 N. Utah Cottage Drive. Adam Lambert as applicant. Ordinance 26-33 (07-21-26).\r\n2.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.14 for phased non-residential site plans. City initiated, Citywide. Ordinance 26-31 (07-21-26).\r\n3.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, chapter 19.19 Open Space, for minimum required amenities. Citywide, City initiated.  Ordinance 26-34 (07-21-26).\r\n4.\tProgram for the Inspection and Maintenance of Sidewalks. Resolution R25-43 (07-21-25).\r\n5.\tCouncil Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken.\r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 17, 2026 02:36 PM",
+      "attachments": [
+        {
+          "file_name": "2026-07-21 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1463733.pdf",
+          "date_added": "2026/07/17 02:35 PM",
+          "file_id": "1463733"
+        },
+        {
+          "file_name": "2026-07-21 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1463735.pdf",
+          "date_added": "2026/07/17 02:36 PM",
+          "file_id": "1463735"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1095843",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095843.html",
+      "title": "City Council Workshop",
+      "event_date": "July 17, 2026 08:00 AM",
+      "event_date_iso": "2026-07-17T08:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "CITY OF SARATOGA SPRINGS CITY COUNCIL WORKSHOP AGENDA\r\nJuly 17, 2026 - 8:00 am\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\n\r\n\r\nWORKSHOP DISCUSSIONS - Council Members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken.\r\n\r\n1.\tWelcome \r\n2.\tFire Station Construction Update \r\n3.\tCouncil Goals\r\n4.\tVision for the City\r\n5.\tRAP tax projects\r\n\r\n\tBreak for Lunch (20 min)\r\n\r\n6.\tAdministration and Staff Updates\r\n7.\tCouncil Comments: Council Members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken\r\n8.\tClosed Session - Possible motion to enter into closed session for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems\r\n\r\nAdjournment",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 15, 2026 06:19 PM",
+      "attachments": [
+        {
+          "file_name": "2026-07-17 cc agenda workshop.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1462435.pdf",
+          "date_added": "2026/07/15 06:19 PM",
+          "file_id": "1462435"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1092879",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092879.html",
@@ -154,60 +211,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1082945",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082945.html",
-      "title": "City Council Public Hearing - Interim Budget for FY 26-27",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\n\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs Interim Budget for Fiscal Year 2026-2027. The interim budget includes a property tax rate increase for Fiscal Year 2026-2027 as an option if the tax rate increase is approved. The interim budget will be in effect from July 1, 2026, to August 11, 2026, the date when the Final Budget for Fiscal Year 2026-2027 is adopted. The Final Budget will officially adopt the property tax rate increase if approved by the City Council after a public hearing.\r\n\r\nThe public hearing on the interim budget will be held on Tuesday, June 2, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located 1307 N. Commerce Drive Suite 200, Saratoga Springs, Utah. \r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov and directed to the Finance Dept. 801-766-9793.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 05:21 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082645",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082645.html",
-      "title": "City Council Public Hearing - Public Hearing on Budget Amendment FY 25-26",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on Budget Amendments for the Fiscal Year 2025-2026 Budget.\r\n\r\nThe public hearing will be held during City Council meeting on Tuesday, June 2, 2026, at 6:00 p.m. in the City of Saratoga Springs Council Chambers located at 319 South Saratoga Road, Saratoga Springs, Utah. \r\n\r\nQuestions may be directed to the City Finance Dept. 801-766-9793.\r\nPublic Comments may be submitted to comments@saratogasprings-ut.gov",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 08:32 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082909",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082909.html",
-      "title": "City Council Public Hearing - Notice of compensation Schedule public hearing",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs compensation schedule for municipal appointed, statutory, and elected officers, as well as municipal executive officers as defined in Utah Code § 10-3-818(2), for Fiscal Year 2026-2027.\r\n\r\nThe public hearing on the compensation schedule will be held on Tuesday, June 2, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located 1307 N. Commerce Drive Suite 200, Saratoga Springs, Utah. \r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov  and directed to the Finance Dept. 801-766-9793.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 04:41 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1084489",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084489.html",
       "title": "City Council Meeting",
@@ -258,6 +261,24 @@
           "file_id": "1441875"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1082645",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082645.html",
+      "title": "City Council Public Hearing - Public Hearing on Budget Amendment FY 25-26",
+      "event_date": "June 2, 2026 06:00 PM",
+      "event_date_iso": "2026-06-02T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on Budget Amendments for the Fiscal Year 2025-2026 Budget.\r\n\r\nThe public hearing will be held during City Council meeting on Tuesday, June 2, 2026, at 6:00 p.m. in the City of Saratoga Springs Council Chambers located at 319 South Saratoga Road, Saratoga Springs, Utah. \r\n\r\nQuestions may be directed to the City Finance Dept. 801-766-9793.\r\nPublic Comments may be submitted to comments@saratogasprings-ut.gov",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "May 21, 2026 08:32 AM",
+      "attachments": [],
       "canceled": false
     }
   ]

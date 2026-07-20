@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-07-13T11:03:05.893857+00:00",
+  "scraped_at": "2026-07-20T10:53:41.731726+00:00",
   "notices": [
+    {
+      "notice_id": "1095765",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095765.html",
+      "title": "07.28.2026 PCPH Notice",
+      "event_date": "July 28, 2026 06:30 PM",
+      "event_date_iso": "2026-07-28T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on July 28, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\n\r\nTransportation Master Plan and Impact Fee Facilities Plan (IFFP) Update: The hearing is \r\nfor adoption of an update to the Transportation Master Plan and Impact Fee Facilities Plan \r\n(IFFP) The City's Transportation Master Plan is intended to identify the needed \r\ntransportation infrastructure needed to provide adequate service for the City's residents \r\nand businesses. This comprehensive transportation plan that must be developed and \r\nregularly maintained to combat the potential congestion caused by projected growth. This \r\nplan must incorporate the goals of the city of Eagle Mountain regarding the transportation \r\nsystems within our jurisdiction and those regional facilities maintained by UDOT, UTA, Utah \r\nCounty, and neighboring communities. EMC Point of Contact: Assistant City Engineer, David \r\nSalazar: dsalazar@eaglemountain.gov. \r\n\r\nPinnacles Master Development Plan/Master Development Agreement Zone Change: A \r\nrequest by Andy Flamm for Master Development Plan and Agreement Amendment (with an \r\nassociated Rezone and Future Land Use Map Amendment) to change the identification and \r\nzoning of two parcels of land (County Assessor Acct./Serial #s 59:034:0192 & 59:034:0193) \r\n6.04 acres and 5.24 acres respectively, from Commercial Neighborhood to Agriculture and \r\nthe future land use setting/category from Neighborhood Residential 1 to Ag. EMC Point of \r\nContact: Senior Planner, Robert Hobbs, rhobbs@eaglemountain.gov. \r\n\r\nPole Canyon Lot Split PLGA-26-9: A proposed lot split for 2333 N O St., Utah County \r\nParcel Number 59:055:0011, that will create two lots of approximately ten acres each. \r\nEMC Point of Contact: Planner, Mickie Mills: mmills@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC 17.60.120.C - Barbed Wire Fencing: A proposed amendment to Eagle Mountain \r\nCode section 17.60.120.C to allow barbed wire fencing in the RTI Overlay Zone and clarify \r\nthat chain link fencing, where allowed, shall not be topped with barbed wire. EMC Point of \r\nContact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 17.25.040A - Residential Standards Table: proposed amendment to Eagle \r\nMountain Code Section 17.25.040, Residential Standards Table, to acknowledge existing \r\nlots smaller than 4,500 square feet that are rezoned to the RC Zone as legally \r\nnonconforming; likewise, for existing building setbacks that are smaller than the minimum \r\nsetbacks otherwise required in the RC Zone. EMC Point of Contact: Senior Planner, Robert \r\nHobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 17.100.040 - Master Site Plans: A proposed amendment to Eagle Mountain Code \r\nSection 17.100.040 (Master Site Plans) to clarify when a master site plan or standard site \r\nplan is required, establish the applicable review process, require a separate plat application \r\nfor land proposed to be subdivided within a site plan, and require approval of a master site \r\nplan before approval of a plat for land proposed to be subdivided within that plan's area. \r\nEMC Point of Contact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 16.20.040 - Preliminary Plats: Regarding street names on preliminary plats. EMC \r\nPoint of Contact: Senior Planner, David Stroud: dstroud@eaglemountain.gov. \r\n\r\nEMMC 16.25.040 - Final Plats: Regarding street names and City maintained property on \r\nfinal plats. EMC Point of Contact: Senior Planner, David Stroud: \r\ndstroud@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on \r\nthe city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, \r\nEagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to \r\n5:30 PM. If you need special accommodation to participate in the meeting, please call the \r\nCity Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at \r\nwww.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "July 15, 2026 03:24 PM",
+      "attachments": [
+        {
+          "file_name": "07.28.2026 PCPH Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1462331.pdf",
+          "date_added": "2026/07/15 03:24 PM",
+          "file_id": "1462331"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1092995",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092995.html",
@@ -66,32 +92,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1088095",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088095.html",
-      "title": "PCPH Triumph Master DA, Cost Estimate, Seasonal and Political Signs, and Accessory Recreation Buildings",
-      "event_date": "June 23, 2026 06:30 PM",
-      "event_date_iso": "2026-06-23T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on June 23, 2026, at 6:30 p.m., \r\nor as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, located at \r\n1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning Commission will receive public \r\ncomments concerning the following items: \r\n\r\nTriumph Master Development Agreement Amendment: A request by Scot Hazard for Master \r\nDevelopment Agreement Amendment approval pertaining to Triumph Subdivision in order to allow \r\nfor the creation of four (4) affordable housing 'pods' within the development. The proposed pods \r\nrange from 2.8 - 4.5 acres in size and are intended to have higher residential densities than the \r\nbalance of the project. Triumph Subdivision is located in Section 19, T6S, R1W, on the east and west \r\nsides of N. Lake Mountain Road south of E. Pole Canyon Blvd. (County Assessor Parcel/Serial # \r\n59:019:0031) in Eagle Mountain City; application set identified as the: 'Triumph Master Development \r\nAgreement Amendment'. EMC Point of Contact: Senior Planner, Robert Hobbs: \r\nrhobbs@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC Chapter 16.20, 16.25, and 17.100 - Cost Estimate Code Amendment: Consideration of an \r\namendment to Eagle Mountain Municipal Code Chapters 16.20, 16.25, and 17.100, Application \r\nRequirements, Cost Estimates. EMC Point of Contact: Community Development Director, Brandon \r\nLarsen: blarsen@eaglemountain.gov.   \r\n\r\nEMMC 17.10.030, 17.80.120, and 17.80.160 - Seasonal and Political Signs: This proposed code \r\namendment provides definitions for park strips and political signs, updates standards and practices \r\nfor political signs, and updates standards for temporary and seasonal use signs. EMC Point of \r\nContact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov. \r\n\r\nEMMC 17.75.052 - Accessory Recreation Buildings: This proposed code amendment establishes \r\nspecial use standards for recreation buildings that are an accessory use to religious or cultural \r\nmeeting halls. EMC Point of Contact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS. \r\n\r\nPublished June 10, 2026",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "June 10, 2026 05:29 PM",
-      "attachments": [
-        {
-          "file_name": "06.23.2026 PCPH Truimph Master DA, Cost Estimate, Seasonal and Political Signs, and Accessory Recreation Buildings.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1447009.pdf",
-          "date_added": "2026/06/10 05:29 PM",
-          "file_id": "1447009"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1087667",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087667.html",
       "title": "PCPH Annexation Policy Plan Notice",
@@ -113,6 +113,32 @@
           "url": "https://www.utah.gov/pmn/files/1446155.pdf",
           "date_added": "2026/06/09 04:00 PM",
           "file_id": "1446155"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1088095",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088095.html",
+      "title": "PCPH Triumph Master DA, Cost Estimate, Seasonal and Political Signs, and Accessory Recreation Buildings",
+      "event_date": "June 23, 2026 06:30 PM",
+      "event_date_iso": "2026-06-23T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on June 23, 2026, at 6:30 p.m., \r\nor as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, located at \r\n1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning Commission will receive public \r\ncomments concerning the following items: \r\n\r\nTriumph Master Development Agreement Amendment: A request by Scot Hazard for Master \r\nDevelopment Agreement Amendment approval pertaining to Triumph Subdivision in order to allow \r\nfor the creation of four (4) affordable housing 'pods' within the development. The proposed pods \r\nrange from 2.8 - 4.5 acres in size and are intended to have higher residential densities than the \r\nbalance of the project. Triumph Subdivision is located in Section 19, T6S, R1W, on the east and west \r\nsides of N. Lake Mountain Road south of E. Pole Canyon Blvd. (County Assessor Parcel/Serial # \r\n59:019:0031) in Eagle Mountain City; application set identified as the: 'Triumph Master Development \r\nAgreement Amendment'. EMC Point of Contact: Senior Planner, Robert Hobbs: \r\nrhobbs@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC Chapter 16.20, 16.25, and 17.100 - Cost Estimate Code Amendment: Consideration of an \r\namendment to Eagle Mountain Municipal Code Chapters 16.20, 16.25, and 17.100, Application \r\nRequirements, Cost Estimates. EMC Point of Contact: Community Development Director, Brandon \r\nLarsen: blarsen@eaglemountain.gov.   \r\n\r\nEMMC 17.10.030, 17.80.120, and 17.80.160 - Seasonal and Political Signs: This proposed code \r\namendment provides definitions for park strips and political signs, updates standards and practices \r\nfor political signs, and updates standards for temporary and seasonal use signs. EMC Point of \r\nContact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov. \r\n\r\nEMMC 17.75.052 - Accessory Recreation Buildings: This proposed code amendment establishes \r\nspecial use standards for recreation buildings that are an accessory use to religious or cultural \r\nmeeting halls. EMC Point of Contact: Planner, Steven Lehmitz: slehmitz@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS. \r\n\r\nPublished June 10, 2026",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "June 10, 2026 05:29 PM",
+      "attachments": [
+        {
+          "file_name": "06.23.2026 PCPH Truimph Master DA, Cost Estimate, Seasonal and Political Signs, and Accessory Recreation Buildings.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1447009.pdf",
+          "date_added": "2026/06/10 05:29 PM",
+          "file_id": "1447009"
         }
       ],
       "canceled": false
@@ -151,32 +177,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1084211",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084211.html",
-      "title": "PCPH Eagle Quest MDA, Consolidated Fee Schedule Amendment, Senior Housing Overlay Zone",
-      "event_date": "June 9, 2026 06:30 PM",
-      "event_date_iso": "2026-06-09T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on June 9, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\nSecond Amendment to the Master Development Agreement for Eagle Quest East: Planning \r\nCommission recommendation on a proposed second amendment to the Eagle Quest East \r\n\r\nMaster Development Agreement that would extend the initial benchmarks of development and \r\nthe overall expiration of the Agreement. The project is located on Parcel No. 59:006:0053, which \r\nis just north of the Sunset Flats development. EMC Point of Contact: Steven Lehmitz, \r\nslehmitz@eaglemountain.gov. \r\n\r\nConsolidated Fee Schedule Amendment: Planning Commission review and recommendation \r\nof a proposed amendment to the City's Consolidated Fee Schedule Section 13 Building \r\nDepartment Fees, 10.7 Other Subdivision Development Fees and Appendix B Building Valuation \r\nTable.  EMC Point of Contact: Brandon Larsen, blarsen@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nSenior Housing Overlay Zone/EMMC 17.10.030, 17.25.030, and 17.55: A proposal to add \r\ndefinitions, amend the Residential Development Standards table, and enact EMMC 17.55 to \r\nestablish a Senior Housing Overlay Zone and the associated standards. EMC Staff Points of Contact: \r\nElizabeth Fewkes, efewkes@eaglemountain.gov; and Kiara Polee, kpolee@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "May 28, 2026 11:54 AM",
-      "attachments": [
-        {
-          "file_name": "06.09.2026 PCPH Eagle Quest MDA, Consolidated Fee Schedule Amendment, Senior Housing Overlay Zone .pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1439975.pdf",
-          "date_added": "2026/05/28 11:53 AM",
-          "file_id": "1439975"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1082967",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082967.html",
       "title": "PCPH Annexation Policy Plan for Affected Entities",
@@ -198,6 +198,32 @@
           "url": "https://www.utah.gov/pmn/files/1437593.pdf",
           "date_added": "2026/05/21 07:14 PM",
           "file_id": "1437593"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1084211",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084211.html",
+      "title": "PCPH Eagle Quest MDA, Consolidated Fee Schedule Amendment, Senior Housing Overlay Zone",
+      "event_date": "June 9, 2026 06:30 PM",
+      "event_date_iso": "2026-06-09T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on June 9, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\nSecond Amendment to the Master Development Agreement for Eagle Quest East: Planning \r\nCommission recommendation on a proposed second amendment to the Eagle Quest East \r\n\r\nMaster Development Agreement that would extend the initial benchmarks of development and \r\nthe overall expiration of the Agreement. The project is located on Parcel No. 59:006:0053, which \r\nis just north of the Sunset Flats development. EMC Point of Contact: Steven Lehmitz, \r\nslehmitz@eaglemountain.gov. \r\n\r\nConsolidated Fee Schedule Amendment: Planning Commission review and recommendation \r\nof a proposed amendment to the City's Consolidated Fee Schedule Section 13 Building \r\nDepartment Fees, 10.7 Other Subdivision Development Fees and Appendix B Building Valuation \r\nTable.  EMC Point of Contact: Brandon Larsen, blarsen@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nSenior Housing Overlay Zone/EMMC 17.10.030, 17.25.030, and 17.55: A proposal to add \r\ndefinitions, amend the Residential Development Standards table, and enact EMMC 17.55 to \r\nestablish a Senior Housing Overlay Zone and the associated standards. EMC Staff Points of Contact: \r\nElizabeth Fewkes, efewkes@eaglemountain.gov; and Kiara Polee, kpolee@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "May 28, 2026 11:54 AM",
+      "attachments": [
+        {
+          "file_name": "06.09.2026 PCPH Eagle Quest MDA, Consolidated Fee Schedule Amendment, Senior Housing Overlay Zone .pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1439975.pdf",
+          "date_added": "2026/05/28 11:53 AM",
+          "file_id": "1439975"
         }
       ],
       "canceled": false
@@ -264,46 +290,6 @@
           "url": "https://www.utah.gov/pmn/files/1436807.pdf",
           "date_added": "2026/05/20 06:01 PM",
           "file_id": "1436807"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082575",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082575.html",
-      "title": "Planning Commission Public Meeting",
-      "event_date": "May 26, 2026 05:30 PM",
-      "event_date_iso": "2026-05-26T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nMAY 26, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tTRAINING - Impact Fees\r\n\r\n\t1.B.\tAGENDA REVIEW\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tMay 12, 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tVARIANCE - Pony Express Business Park\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
-      "meeting_location": "1650 E. Stagecoach Run CN136001 - Eagle Mountain City, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "May 20, 2026 04:31 PM",
-      "attachments": [
-        {
-          "file_name": "5.26.2026 PC Approved Meeting Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1446353.pdf",
-          "date_added": "2026/06/10 08:49 AM",
-          "file_id": "1446353"
-        },
-        {
-          "file_name": "5.26.26 PC Agenda.docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1436737.docx",
-          "date_added": "2026/05/20 04:30 PM",
-          "file_id": "1436737"
-        },
-        {
-          "file_name": "5.26.26 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1436739.pdf",
-          "date_added": "2026/05/20 04:30 PM",
-          "file_id": "1436739"
         }
       ],
       "canceled": false

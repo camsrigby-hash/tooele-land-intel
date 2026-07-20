@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-07-13T11:03:54.051376+00:00",
+  "scraped_at": "2026-07-20T10:54:30.756163+00:00",
   "notices": [
     {
       "notice_id": "1094451",
@@ -130,6 +130,13 @@
           "url": "https://www.utah.gov/pmn/files/1444343.MP3",
           "date_added": "2026/06/05 07:52 AM",
           "file_id": "1444343"
+        },
+        {
+          "file_name": "2026_06_03 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1462475.pdf",
+          "date_added": "2026/07/16 08:06 AM",
+          "file_id": "1462475"
         },
         {
           "file_name": "2026_06_03 PC Packet.pdf",
