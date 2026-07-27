@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-07-20T10:55:30.512641+00:00",
+  "scraped_at": "2026-07-27T11:24:15.972294+00:00",
   "notices": [
+    {
+      "notice_id": "1097205",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097205.html",
+      "title": "Planning Commission Agenda",
+      "event_date": "August 5, 2026 06:30 PM",
+      "event_date_iso": "2026-08-05T18:30:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA\r\n________________________________________\r\n\r\nRegular Session\r\nAugust 5, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n\r\nPlanning Commission Members\r\n\r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham\r\nNotice is hereby given that the American Fork City Planning Commission will meet in regular session on August 5, 2026, at the American Fork City Hall, 31 North Church Street commencing at 6:30 PM. The agenda shall be as follows:\r\n\r\n1.\tRegular Session\r\na.\tPledge of Allegiance\r\nb.\tRoll Call\r\n2.\tPublic Comments\r\na.\tUp to a 20-minute public comment period to receive public comments. Each speaker is limited to two minutes.\r\n\r\n3.\tCommon Consent Agenda (Common Consent is that class of Commission action that requires no further discussion or which is routine in nature. All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda).\r\na.\tApproval of the July 8, 2026, Planning Commission minutes\r\n\r\n4.\tAction Items (Action Items is that class of Commission action that requires further discussion on Site Plans and proposed zoning designation for annexing areas. The Planning Commission will have authority to approve Site Plans for final action and provide recommendations for the zone of annexing property.)\r\na.\tReview and action on a proposed Request for Consideration for a project known as Lone Automotive located at 105 S 700 E Unit E. The applicants for this project request to operate an Auto Dealership in the GC-1 General Commercial Zoning.    \r\n\r\n5.\tOther Business\r\na.\tUpcoming Projects\r\n\r\n6.\tAdjournment\r\n\r\nDated this 21st day of July 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
+      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "July 22, 2026 01:50 PM",
+      "attachments": [
+        {
+          "file_name": "2026.08.05_Planning Commission Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1465335.pdf",
+          "date_added": "2026/07/22 01:50 PM",
+          "file_id": "1465335"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1091707",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091707.html",
@@ -308,32 +333,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1061929",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1061929.html",
-      "title": "Planning Commission Agenda - Meeting Canceled",
-      "event_date": "March 4, 2026 06:30 PM",
-      "event_date_iso": "2026-03-04T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CANCELED - AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA\r\n________________________________________\r\nRegular Session - CANCELED\r\nMarch 04, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________Planning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission regular session on March 4, 2026, has been canceled. \r\n\r\nDated this 24th day of February 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "February 24, 2026 02:30 PM",
-      "attachments": [
-        {
-          "file_name": "2026.03.04 - Planning Commission Agenda - Canceled.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1396237.pdf",
-          "date_added": "2026/02/24 02:30 PM",
-          "file_id": "1396237"
-        }
-      ],
-      "canceled": true
     }
   ]
 }

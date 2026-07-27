@@ -4,8 +4,49 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-07-20T10:51:53.271842+00:00",
+  "scraped_at": "2026-07-27T11:20:41.590372+00:00",
   "notices": [
+    {
+      "notice_id": "1096777",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096777.html",
+      "title": "Notice of Public Hearing on Request to Disconnect from Erda City",
+      "event_date": "August 13, 2026 07:00 PM",
+      "event_date_iso": "2026-08-13T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY\r\nPROPOSED DISCONNECTION PETITION\r\nNOTICE IS HEREBY GIVEN as required by Utah Code Ann. §10-2-501 that the Erda City Council will hold a public hearing to consider a petition for the disconnection of certain real property (Parcel # 01-441-0-0001) from the corporate limits of Erda City.\r\nThe public hearing will be held on August 13, 2026, at 7:00 p.m., at the Erda City Offices/Fire Station, 2163 W. Erda Way, Erda, UT, 84074.\r\nIn the public hearing, any person may speak and submit documents regarding the disconnection proposal.\r\nWritten comments/documents may be submitted to:\r\nJennifer Poole, Erda City Recorder\r\njpoole@erda.gov\r\n(435) 243-5577\r\nA copy of the disconnection petition is available for public inspection during regular business hours at the Erda City Fire Station, 2163 W Erda Way, Erda, Utah 84074 and on the Erda City Website at erda.gov \r\nDATED this 20th day of July, 2026.\r\n/s/ Jennifer Poole\r\nErda City Recorder",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "July 20, 2026 02:12 PM",
+      "attachments": [
+        {
+          "file_name": "Parcel 01-441-0-0001_Petition for Disconnection from Erda (4).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1464401.pdf",
+          "date_added": "2026/07/20 02:11 PM",
+          "file_id": "1464401"
+        },
+        {
+          "file_name": "Parcel # 01-441-0-0001 Disconnect Legal Notice  (2).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1464403.docx",
+          "date_added": "2026/07/20 02:12 PM",
+          "file_id": "1464403"
+        },
+        {
+          "file_name": "Parcel 01-441-0-0001_Petition for Disconnection Exhibit A.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1464405.pdf",
+          "date_added": "2026/07/20 02:12 PM",
+          "file_id": "1464405"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1093601",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093601.html",
@@ -501,23 +542,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1070977",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1070977.html",
-      "title": "**CANCELED*** Erda City Council Meeting",
-      "event_date": "April 9, 2026 07:00 PM",
-      "event_date_iso": "2026-04-09T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED*****\r\n\r\nNotice is hereby given that the Erda City Council's Scheduled Meeting on Thursday April 9th, 2026 has been canceled. The City Council will hold their next regularly scheduled meeting on Thursday April 23rd 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "April 06, 2026 07:01 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }

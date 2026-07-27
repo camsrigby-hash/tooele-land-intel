@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-07-20T10:55:54.624415+00:00",
+  "scraped_at": "2026-07-27T11:24:38.348131+00:00",
   "notices": [
     {
       "notice_id": "1089445",
@@ -235,31 +235,6 @@
           "url": "https://www.utah.gov/pmn/files/1384411.pdf",
           "date_added": "2026/01/29 03:56 PM",
           "file_id": "1384411"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1052447",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1052447.html",
-      "title": "Planning Commission Meeting Cancelation",
-      "event_date": "January 21, 2026 06:00 PM",
-      "event_date_iso": "2026-01-21T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CANCELATION OF REGULAR MEETING\r\nOF THE VINEYARD PLANNING COMMISSION,\r\nWednesday, January 21, 2026, 6:00 p.m.\r\nCANCELATION NOTICE\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Planning Commission's regularly scheduled meeting for January 21, 2026, has been canceled. \r\n \r\nThe foregoing CANCELATION notice was posted on the Utah Public Notice Website and Vineyard Website, posted at the Vineyard City Offices and City Hall, and delivered electronically to city staff and each member of the Planning Commission.\r\n\r\n\r\nCANCELATION NOTICING COMPLETED ON: January 15, 2026.\r\n\r\nNOTICED BY:   /s/ Madison Reed\r\n                          Madison Reed, Planning Technician",
-      "meeting_location": "125 S Main St Vineyard , UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "January 15, 2026 11:26 AM",
-      "attachments": [
-        {
-          "file_name": "1.21.2026 Planning Commission Meeting Cancelation.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1377641.pdf",
-          "date_added": "2026/01/15 11:26 AM",
-          "file_id": "1377641"
         }
       ],
       "canceled": false

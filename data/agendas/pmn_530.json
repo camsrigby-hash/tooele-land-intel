@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-07-20T10:55:42.494133+00:00",
+  "scraped_at": "2026-07-27T11:24:27.772238+00:00",
   "notices": [
     {
       "notice_id": "1094817",
@@ -90,28 +90,34 @@
       "canceled": false
     },
     {
-      "notice_id": "1083079",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083079.html",
-      "title": "Public Hearing Notice - Holdaway Fields Development Agreement Amendment",
+      "notice_id": "1087283",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087283.html",
+      "title": "Redevelopment Agency Board Meeting",
       "event_date": "June 9, 2026 06:00 PM",
       "event_date_iso": "2026-06-09T18:00:00",
       "notice_types": [
         "Notice",
-        "Meeting",
-        "Hearing"
+        "Meeting"
       ],
-      "agenda_text": "May 20, 2026\r\n\r\nAttention: \t\tPublic Hearing Notice\r\n\r\nContact Person: \tAnthony Fletcher, Long Range Planner\r\n707 E Mill Road\r\nSuite 202\r\nVineyard, UT 84059\r\n(801) 226-1929\r\n\r\nNOTICE is hereby given regarding public hearing(s) before the City Council on June 9th, 2026, at 6 pm or as soon thereafter as possible in the council chambers at 125 S. Main Street, Vineyard, Utah 84059.\r\n\r\nHoldaway Fields Development Agreement Amendment\r\n\r\nThe developer of Holdaway Fields has submitted a proposed amendment to the existing Development Agreement. The intent of this amendment is to align the agreement more closely with their current build strategy and implementation schedule. The proposal introduces the phasing plan, park dedication timing, and other amenities. Lot frontage standards. \r\n\r\nStaff reviewed the proposed amendment requests and recommends that the impact fee; including clear language that delineates city impact fees and  pass through fees for all buildings in the development be assessed and calculated at the time of building permit application, which is standard practice for cities. Impact fees should not be locked in or tied in at the time of executing the amended development agreement for any building as this will create negative fiscal impacts on other Vineyard residents and future infrastructure funding.\r\n\r\nPublic comments, questions, and requests for copies of materials are encouraged to be emailed to Anthony Fletcher at anthony@vineyardutah.gov prior to the meeting.\r\n\r\nI, the undersigned, hereby certify that the foregoing Public Hearing Notice was posted at the Vineyard City Offices, the Vineyard City website, posted on the Utah Public Notice website, and delivered to surrounding entities.\r\n\r\n\r\n/s/ Anthony Fletcher, Long Range Planner",
-      "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "Page 1 of 2; June 9, 2026, Redevelopment Agency Board Agenda\r\nNOTICE OF A REDEVELOPMENT AGENCY BOARD MEETING\r\nJune 9, 2026, at 6:00 PM\r\n________________\r\nPUBLIC NOTICE is hereby given that the Vineyard Redevelopment Agency Board will hold a regularly scheduled Redevelopment Agency Board meeting on Tuesday, June 9, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n1. CALL TO ORDER\r\n\r\n2. PRESENTATIONS, RECOGNITIONS, AWARDS, AND PROCLAMATIONS\r\n     2.1. Report from the RDA subcommittee regarding interviews with applicants for RDA Advisor positions.\r\n\r\n3. CONSENT ITEMS\r\n     3.1. Approval of the April 28, 2026, RDA Meeting Minutes\r\n     3.2. Approval of the May 12, 2026, RDA Meeting Minutes\r\n\r\n4. BUSINESS ITEMS\r\n     4.1. Approve the appointment of Kim Cornelius to serve as an RDA Advisor.\r\n     4.2. Approve the appointment of Keith Vincent to serve as an RDA Advisor\r\n     4.3. Approve the appointment of Jared Tamez to serve as an RDA Advisor.\r\n\r\n5. CLOSED SESSION\r\nThe Vineyard Redevelopment Agency Board, pursuant to Utah Code 52-4-205, may vote to go into a closed session for the purpose of personnel, real property, or litigation.\r\n\r\n6. ADJOURNMENT",
+      "meeting_location": "125 S. Main St 125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
       "contact_name": "Robin Bond",
       "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "May 22, 2026 10:36 AM",
+      "posted_on": "June 08, 2026 04:05 PM",
       "attachments": [
         {
-          "file_name": "6.9.26 Public Notice - Holdaway Fields DA Amendment 5.21.2026.docx",
+          "file_name": "6.9.26 RDA APPROVED Minutes w signatures.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1456251.pdf",
+          "date_added": "2026/06/30 03:09 PM",
+          "file_id": "1456251"
+        },
+        {
+          "file_name": "6.9.26 RDA Packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1438061.docx",
-          "date_added": "2026/05/22 02:31 PM",
-          "file_id": "1438061"
+          "url": "https://www.utah.gov/pmn/files/1445617.pdf",
+          "date_added": "2026/06/08 05:09 PM",
+          "file_id": "1445617"
         }
       ],
       "canceled": false
@@ -150,34 +156,28 @@
       "canceled": false
     },
     {
-      "notice_id": "1087283",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087283.html",
-      "title": "Redevelopment Agency Board Meeting",
+      "notice_id": "1083079",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083079.html",
+      "title": "Public Hearing Notice - Holdaway Fields Development Agreement Amendment",
       "event_date": "June 9, 2026 06:00 PM",
       "event_date_iso": "2026-06-09T18:00:00",
       "notice_types": [
         "Notice",
-        "Meeting"
+        "Meeting",
+        "Hearing"
       ],
-      "agenda_text": "Page 1 of 2; June 9, 2026, Redevelopment Agency Board Agenda\r\nNOTICE OF A REDEVELOPMENT AGENCY BOARD MEETING\r\nJune 9, 2026, at 6:00 PM\r\n________________\r\nPUBLIC NOTICE is hereby given that the Vineyard Redevelopment Agency Board will hold a regularly scheduled Redevelopment Agency Board meeting on Tuesday, June 9, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n1. CALL TO ORDER\r\n\r\n2. PRESENTATIONS, RECOGNITIONS, AWARDS, AND PROCLAMATIONS\r\n     2.1. Report from the RDA subcommittee regarding interviews with applicants for RDA Advisor positions.\r\n\r\n3. CONSENT ITEMS\r\n     3.1. Approval of the April 28, 2026, RDA Meeting Minutes\r\n     3.2. Approval of the May 12, 2026, RDA Meeting Minutes\r\n\r\n4. BUSINESS ITEMS\r\n     4.1. Approve the appointment of Kim Cornelius to serve as an RDA Advisor.\r\n     4.2. Approve the appointment of Keith Vincent to serve as an RDA Advisor\r\n     4.3. Approve the appointment of Jared Tamez to serve as an RDA Advisor.\r\n\r\n5. CLOSED SESSION\r\nThe Vineyard Redevelopment Agency Board, pursuant to Utah Code 52-4-205, may vote to go into a closed session for the purpose of personnel, real property, or litigation.\r\n\r\n6. ADJOURNMENT",
-      "meeting_location": "125 S. Main St 125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "May 20, 2026\r\n\r\nAttention: \t\tPublic Hearing Notice\r\n\r\nContact Person: \tAnthony Fletcher, Long Range Planner\r\n707 E Mill Road\r\nSuite 202\r\nVineyard, UT 84059\r\n(801) 226-1929\r\n\r\nNOTICE is hereby given regarding public hearing(s) before the City Council on June 9th, 2026, at 6 pm or as soon thereafter as possible in the council chambers at 125 S. Main Street, Vineyard, Utah 84059.\r\n\r\nHoldaway Fields Development Agreement Amendment\r\n\r\nThe developer of Holdaway Fields has submitted a proposed amendment to the existing Development Agreement. The intent of this amendment is to align the agreement more closely with their current build strategy and implementation schedule. The proposal introduces the phasing plan, park dedication timing, and other amenities. Lot frontage standards. \r\n\r\nStaff reviewed the proposed amendment requests and recommends that the impact fee; including clear language that delineates city impact fees and  pass through fees for all buildings in the development be assessed and calculated at the time of building permit application, which is standard practice for cities. Impact fees should not be locked in or tied in at the time of executing the amended development agreement for any building as this will create negative fiscal impacts on other Vineyard residents and future infrastructure funding.\r\n\r\nPublic comments, questions, and requests for copies of materials are encouraged to be emailed to Anthony Fletcher at anthony@vineyardutah.gov prior to the meeting.\r\n\r\nI, the undersigned, hereby certify that the foregoing Public Hearing Notice was posted at the Vineyard City Offices, the Vineyard City website, posted on the Utah Public Notice website, and delivered to surrounding entities.\r\n\r\n\r\n/s/ Anthony Fletcher, Long Range Planner",
+      "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
       "contact_name": "Robin Bond",
       "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "June 08, 2026 04:05 PM",
+      "posted_on": "May 22, 2026 10:36 AM",
       "attachments": [
         {
-          "file_name": "6.9.26 RDA APPROVED Minutes w signatures.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1456251.pdf",
-          "date_added": "2026/06/30 03:09 PM",
-          "file_id": "1456251"
-        },
-        {
-          "file_name": "6.9.26 RDA Packet.pdf",
+          "file_name": "6.9.26 Public Notice - Holdaway Fields DA Amendment 5.21.2026.docx",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1445617.pdf",
-          "date_added": "2026/06/08 05:09 PM",
-          "file_id": "1445617"
+          "url": "https://www.utah.gov/pmn/files/1438061.docx",
+          "date_added": "2026/05/22 02:31 PM",
+          "file_id": "1438061"
         }
       ],
       "canceled": false
@@ -240,6 +240,23 @@
       "canceled": false
     },
     {
+      "notice_id": "1077157",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077157.html",
+      "title": "NOTICE OF PUBLIC HEARING FOR TENTATIVE FISCAL YEAR 2026-2027 BUDGET",
+      "event_date": "May 12, 2026 06:00 PM",
+      "event_date_iso": "2026-05-12T18:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "VINEYARD CITY COUNCIL\r\nVINEYARD RDA BOARD\r\nNOTICE OF PUBLIC HEARING FOR TENATIVE FISCAL YEAR 2026-2027 BUDGET\r\n\r\nNotice is hereby given that the Vineyard Redevelopment Agency (RDA) will hold a public hearing on Tuesday, May 12, 2026, starting at 6:00 PM in the City Council Chambers at 125 South Main Street, Vineyard, Utah, to hear public comment regarding the RDA Tentative Fiscal Year 2026-2027 Budget. \r\n\r\nVineyard City Council will hold a public hearing on Tuesday, May 12, 2026, starting at 6:00 PM or as soon thereafter as possible, following the Redevelopment Agency Board Meeting, in the City Council Chambers at 125 South Main Street, Vineyard, Utah, to hear public comment regarding the Tentative Fiscal Year 2026-2027 Budget. \r\n\r\nAny person who has an interest in these matters may attend and be heard during the public hearings. Written comments and requests for copies of materials can be emailed to robinr@vineyardutah.gov prior to the meeting. The related budget documents can be found on our website at www.vineyardutah.gov/government/budget.php#outer-366\r\n\r\nRobin Bond\r\nVineyard City Recorder",
+      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "May 01, 2026 10:29 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1078885",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078885.html",
       "title": "City Council Meeting",
@@ -270,23 +287,6 @@
           "file_id": "1431473"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1077157",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077157.html",
-      "title": "NOTICE OF PUBLIC HEARING FOR TENTATIVE FISCAL YEAR 2026-2027 BUDGET",
-      "event_date": "May 12, 2026 06:00 PM",
-      "event_date_iso": "2026-05-12T18:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "VINEYARD CITY COUNCIL\r\nVINEYARD RDA BOARD\r\nNOTICE OF PUBLIC HEARING FOR TENATIVE FISCAL YEAR 2026-2027 BUDGET\r\n\r\nNotice is hereby given that the Vineyard Redevelopment Agency (RDA) will hold a public hearing on Tuesday, May 12, 2026, starting at 6:00 PM in the City Council Chambers at 125 South Main Street, Vineyard, Utah, to hear public comment regarding the RDA Tentative Fiscal Year 2026-2027 Budget. \r\n\r\nVineyard City Council will hold a public hearing on Tuesday, May 12, 2026, starting at 6:00 PM or as soon thereafter as possible, following the Redevelopment Agency Board Meeting, in the City Council Chambers at 125 South Main Street, Vineyard, Utah, to hear public comment regarding the Tentative Fiscal Year 2026-2027 Budget. \r\n\r\nAny person who has an interest in these matters may attend and be heard during the public hearings. Written comments and requests for copies of materials can be emailed to robinr@vineyardutah.gov prior to the meeting. The related budget documents can be found on our website at www.vineyardutah.gov/government/budget.php#outer-366\r\n\r\nRobin Bond\r\nVineyard City Recorder",
-      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "May 01, 2026 10:29 AM",
-      "attachments": [],
       "canceled": false
     }
   ]
