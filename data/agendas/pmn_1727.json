@@ -4,8 +4,75 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-07-27T11:21:53.239786+00:00",
+  "scraped_at": "2026-08-03T11:23:13.656294+00:00",
   "notices": [
+    {
+      "notice_id": "1098077",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098077.html",
+      "title": "City Council Meeting - Special Truth in Taxation Public Hearing",
+      "event_date": "August 11, 2026 06:00 PM",
+      "event_date_iso": "2026-08-11T18:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "AGENDA - Truth in Taxation Public Hearing Meeting \r\nCity Council\r\nCITY OF SARATOGA SPRINGS\r\nTuesday, August 11, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers - 319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nTRUTH IN TAXATION SESSION\r\n\r\nWELCOME AND CALL TO ORDER \r\n1.\tRoll Call. \r\n2.\tMoment of Reflection.\r\n3.\tPledge of Allegiance. \r\n\r\nPUBLIC HEARINGS AND RELATED ACTIONS \r\n\tThe Council will accept public comment and may approve the following items:\r\n\r\n1.\tPublic Hearing on the Proposed Tax Increase for the City of Saratoga Springs.\r\na.\tPresentation of Proposed Tax Increase.\r\n-\tThe City of Saratoga Springs is proposing a 50.03% property tax increase for an additional $3,100,000 in revenue that would be generated each year by the proposed increase in the certified tax rate; for the purpose of funding public safety with the intended use of adding additional Fire and Police services.\r\nb.\tPublic Comment. Limit of 3 minutes per speaker, unused time may not be given to another. \r\n\r\n2.\tConsideration of Resolution R26-44 (08-11-26) adopting the certified tax rate for the general revenue fund for fiscal year 2026-2027.\r\n\r\n3.\tPublic Hearing for the City of Saratoga Springs' Final Fiscal Year 2026-2027 Budget.\r\na.\tPresentation on the FY 2026-27 Final Budget.\r\nb.\tPublic Comments. Limit of 3 minutes per speaker, unused time may not be given to another.\r\n\r\n4.\tConsideration of Ordinance 26-35 (08-11-26) adopting a Final Budget for FY 2026-2027, including a property tax rate increase, compensation schedule for elected and statutory officers, and compensation increase for defined municipal officers. \r\n\r\nADJOURNMENT\r\n\r\n\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the City of Saratoga Springs by visiting www.saratogasprings-ut.gov/propertytax. Instructions for virtual participation in the public hearing will be available at www.saratogasprings-ut.gov/propertytax no later than 24 hours before the public hearing is scheduled to begin.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 28, 2026 06:03 PM",
+      "attachments": [
+        {
+          "file_name": "2026-08-11 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466987.pdf",
+          "date_added": "2026/07/28 05:58 PM",
+          "file_id": "1466987"
+        },
+        {
+          "file_name": "2026 T-in-T Ad - Utah Co Combined-Proof.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466989.pdf",
+          "date_added": "2026/07/28 06:00 PM",
+          "file_id": "1466989"
+        },
+        {
+          "file_name": "2026-08-11 NOTICE OF PROPOSED TAX INCREASE 26-27.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466991.pdf",
+          "date_added": "2026/07/28 06:00 PM",
+          "file_id": "1466991"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1098073",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098073.html",
+      "title": "Notice of Public Hearing for Final Budget FY 26-27",
+      "event_date": "August 11, 2026 06:00 PM",
+      "event_date_iso": "2026-08-11T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "Notice of Public Hearing\r\n\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs Final Budget for Fiscal Year 2026-2027.\r\n\r\nThis hearing will be held during the Special City Council meeting on Tuesday, August 11, 2026, beginning at 6:00 p.m. in the City Council Chambers of the City offices; located at 319 So. Saratoga Road, Saratoga Springs, Utah. \r\n\r\nPublic hearing comments may be submitted to comments@saratogasprings-ut.gov.\r\nQuestions and comments may be directed to the Finance Dept. 801-766-9793.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 28, 2026 05:50 PM",
+      "attachments": [
+        {
+          "file_name": "2026-08-11 PH CC Final Budget FY 2026-2027 (post 7-28-26).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466983.pdf",
+          "date_added": "2026/07/28 05:50 PM",
+          "file_id": "1466983"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1096809",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096809.html",
@@ -30,6 +97,56 @@
           "file_id": "1464445"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1098155",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098155.html",
+      "title": "City Council Meeting",
+      "event_date": "August 4, 2026 06:00 PM",
+      "event_date_iso": "2026-08-04T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AGENDA - City Council Meeting           \r\nCITY OF SARATOGA SPRINGS\r\nTuesday, August 4, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tDepartment Reports: Police, Fire/EMS\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tApproval of Minutes: July 17, 2026 & July 21, 2026.\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tSaratoga Springs Commercial Plat G Lot 710 Site Plan, located at 383 West Crossroads Boulevard. Thomas Lehnardt, Westlake Partners Phase G, LLC as applicant.\r\n2.\tSaratoga Springs Commercial Plat G Lot 711 Site Plan, located at 369 West Crossroads Boulevard. Thomas Lehnardt, Westlake Partners Phase G, LLC as applicant.\r\n3.\tSite Plan for Jacob Ranch Marketplace Lot 10, located at 1805 S. Redwood Road. Forrest Gaskill as applicant.\r\n4.\tMajor Site Plan Amendment for Avative Fiber Shelter UCCU Site Plan, located at 1364 N. Commerce Drive. Weston Remund as applicant.\r\n5.\tCouncil Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken. \r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 29, 2026 11:13 AM",
+      "attachments": [
+        {
+          "file_name": "2026-08-04 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1467213.pdf",
+          "date_added": "2026/07/29 11:11 AM",
+          "file_id": "1467213"
+        },
+        {
+          "file_name": "2026-08-04 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1467215.pdf",
+          "date_added": "2026/07/29 11:12 AM",
+          "file_id": "1467215"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1098219",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098219.html",
+      "title": "City Council Interlocal Workshop",
+      "event_date": "July 30, 2026 02:41 PM",
+      "event_date_iso": "2026-07-30T14:41:00",
+      "notice_types": [
+        "Meeting",
+        "Bond"
+      ],
+      "agenda_text": "INTERLOCAL WORKSHOP MEETING \r\n\r\nThursday July 30, 6:00 p.m.\r\nEagle Mountain City Council Chambers\r\n1650 E Stagecoach Run, Eagle Mountain, Ut 84005\r\n\r\n\r\n\r\n6:00 PM SPECIAL SESSION - INTERLOCAL TRANSPORTATION MEETING\r\n\r\n1.\tWELCOME BY EAGLE MOUNTAIN CITY MANAGER BEN REEVES\r\n\r\n2.\tTRANSPORTATION PROJECTS\r\n\r\na.\tLake Mountain Corridor (UDOT facility formally known as Mid Valley Road).\r\nb.\tSilverlake Pkwy to Bonneville Drive.\r\n\r\n3.\tOTHER CONNECTIONS (TIME PERMITTING)\r\n\r\na.\tPony Express Pkwy Widening to 7 lanes to Mountain View Corridor.\r\nb.\tInverness Ln. to Talus Ridge Dr. Connection.\r\nc.\tWild Blossom Boulevard.\r\nd.\tWagstaff Way East Alignment.\r\n \r\n4.\tOTHER GENERAL QUESTIONS AND DISCUSSION (TIME PERMITTING)\r\n\r\n5.\t ADJOURNMENT",
+      "meeting_location": "1650 E Stagecoach Run, Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 29, 2026 02:42 PM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -159,119 +276,6 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "July 08, 2026 12:06 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1089893",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1089893.html",
-      "title": "Notice of Adoption of Ordinances",
-      "event_date": "June 16, 2026 08:00 PM",
-      "event_date_iso": "2026-06-16T20:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of June 16, 2026, passed and adopted the following Ordinances:\r\n\r\n-\tOrdinance 26-27 (06-16-26) Adopting an Interim Budget for Fiscal Year 2026-2027, including a proposed property tax rate increase, compensation schedule for elected and statutory officers.\r\n-\tOrdinance 26-28 (06-16-26) Amending the Development Agreement for the North Cove Development.\r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.\r\n\r\n\r\n\r\nThis notice has been posted on:\r\nThe Utah Public Notice Website,\r\nThe City of Saratoga Springs Website, and\r\nThe City of Saratoga Springs administration building notice board.\r\n\r\n\r\n\r\nDated: June 17, 2026\r\n/s/ Nicolette Fike, City Recorder",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "June 17, 2026 11:55 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1088511",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088511.html",
-      "title": "City Council Meeting",
-      "event_date": "June 16, 2026 06:00 PM",
-      "event_date_iso": "2026-06-16T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA - Amended\r\nCITY OF SARATOGA SPRINGS\r\n\t\t\t\t\r\nTuesday, June 16, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPresentation: Recognition of outgoing Planning Commissioner Colton Miles.\r\n5.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tOther: Civic Events - Report on Splash.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tAppointing Whitney Child to the Library Advisory Board. Resolution R26-32 (06-16-26).\r\n2.\tAppointing Jim Miller to the North Point Solid Waste Special Service District Control Board. Resolution R26-33 (06-16-26).\r\n3.\tAward of Contract to Kilgore Contracting for the Providence Dr. Rehabilitation Project. Resolution R26-34 (06-16-26).\r\n4.\tApproval of Minutes: June 2, 2026\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tDevelopment Agreement Major Amendment for the North Cove development. Located 1967 E. Pony Express Parkway, Jen Hall and Chris Haertel - GH Enterprise LLC as applicant. Ordinance 26-28 (06-16-26).\r\n2.\tReimbursement Agreement for Rider's Station with BlackSpire Capital Group, LLC. Resolution R26-35 (06-16-26).\r\n3.\tPresentation from a budget officer or executive officer of a proposed property tax impact schedule as a separate document from other budget documents.\r\n4.\tAdoption of an Interim Budget, including a proposed property tax rate increase for Fiscal Year 2026-2027, and compensation schedule for appointed and elected municipal officers, which will be in effect from July 1, 2026, until the date before September 1, 2026, on which the City will adopt a final budget, subject to the requirements of Utah Code Subsection 59-2-919. Ordinance 26-27 (06-16-26). \r\n5.\tConsideration of Resolution R26-36 (06-16-26) authorizing the City of Saratoga Springs to participate in the employer pick up of public safety and firefighter employee retirement contributions.\r\n6.\tFiscal Year 2026-2027 Certified Tax Rate; Resolution R26-37 (6-16-26).\r\n\r\nWORK SESSION\r\n\tThe Council will discuss (without public comment) with no action taken on the following items:\r\n\r\n1.\tLive Steamers - Shay Park\r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCERTIFICATE OF POSTING \r\n\r\nI hereby certify that the foregoing notice and agenda was posted at the Saratoga Springs City Hall and on the City's website (www.saratogasprings-ut.gov), delivered to each member of the Saratoga Springs City Council; and posted on the Utah State Public Notice website (www.pmn.utah.gov). \r\n\r\n\r\nPublished and posted on June 15, 2026\r\n/s/Nicolette Fike, City Recorder",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "June 11, 2026 05:56 PM",
-      "attachments": [
-        {
-          "file_name": "2026-06-16 cc audio.m4a",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1453675.m4a",
-          "date_added": "2026/06/23 05:50 PM",
-          "file_id": "1453675"
-        },
-        {
-          "file_name": "2026-06-16 cc approved minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1465291.pdf",
-          "date_added": "2026/07/22 12:23 PM",
-          "file_id": "1465291"
-        },
-        {
-          "file_name": "2026-06-16 cc agenda amd.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1449535.pdf",
-          "date_added": "2026/06/16 09:33 AM",
-          "file_id": "1449535"
-        },
-        {
-          "file_name": "2026-06-16 cc packet updated.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1450633.pdf",
-          "date_added": "2026/06/17 12:56 PM",
-          "file_id": "1450633"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087137",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087137.html",
-      "title": "City Council Workshop",
-      "event_date": "June 9, 2026 04:00 PM",
-      "event_date_iso": "2026-06-09T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AGENDA - City Council Workshop          \r\nCITY OF SARATOGA SPRINGS\r\nJune 9, 2026 - 4:00 p.m.\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nWORKSHOP MEETING\r\n\r\n\r\n1.\tWelcome\r\n2.\tDiscussion on Interim Budget\r\n\r\nAdjournment",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "June 08, 2026 12:22 PM",
-      "attachments": [
-        {
-          "file_name": "2026-06-09 cc approved minutes WS.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1464941.pdf",
-          "date_added": "2026/07/21 03:01 PM",
-          "file_id": "1464941"
-        },
-        {
-          "file_name": "2026-06-09 cc agenda workshop.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1445279.pdf",
-          "date_added": "2026/06/08 12:20 PM",
-          "file_id": "1445279"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082909",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082909.html",
-      "title": "City Council Public Hearing - Notice of compensation Schedule public hearing",
-      "event_date": "June 2, 2026 06:00 PM",
-      "event_date_iso": "2026-06-02T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on the City of Saratoga Springs compensation schedule for municipal appointed, statutory, and elected officers, as well as municipal executive officers as defined in Utah Code § 10-3-818(2), for Fiscal Year 2026-2027.\r\n\r\nThe public hearing on the compensation schedule will be held on Tuesday, June 2, 2026 at 6:00 p.m. in the Council Chambers at the City of Saratoga Springs City Offices located 1307 N. Commerce Drive Suite 200, Saratoga Springs, Utah. \r\n\r\nComments and questions may be submitted to comments@saratogasprings-ut.gov  and directed to the Finance Dept. 801-766-9793.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 04:41 PM",
       "attachments": [],
       "canceled": false
     }
