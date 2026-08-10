@@ -4,7 +4,7 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-08-03T11:22:04.355427+00:00",
+  "scraped_at": "2026-08-10T09:19:45.838649+00:00",
   "notices": [
     {
       "notice_id": "1096777",
@@ -333,6 +333,61 @@
       "canceled": false
     },
     {
+      "notice_id": "1075207",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075207.html",
+      "title": "Notice of Public Hearing on Requests to Disconnect from Erda City",
+      "event_date": "May 14, 2026 07:00 PM",
+      "event_date_iso": "2026-05-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY PROPOSED DISCONNECTION PETITIONS\r\nNOTICE IS HEREBY GIVEN as required by Utah Code Ann. §10-2-501 that the Erda City Council will hold a public hearing to consider two separate petitions for the disconnection of certain real property from the corporate limits of Erda City.\r\nThe public hearing will be held on May 14, 2026, at 7:00 p.m., at the Deseret Peak Complex, 2930 Hwy 112, Tooele, UT, 84074.\r\nIn the public hearing, any person may speak and submit documents regarding the disconnection proposal.\r\nWritten comments/documents may be submitted to: Jennifer Poole, Erda City Recorder jpoole@erda.gov (435) 243-5577\r\nA copy of the disconnection petition is available for public inspection during regular business hours at the Erda City Fire Station, 2163 W Erda Way, Erda, Utah 84074 and on the Erda City Website at erda.gov\r\nDATED this 20th day of April, 2026.\r\n/s/ Jennifer Poole Erda City Recorder\r\nPUBLISH: __________, 2026",
+      "meeting_location": "2930 Hwy 112 Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "April 23, 2026 08:13 AM",
+      "attachments": [
+        {
+          "file_name": "West and EastDisconnect Legal Notice (Brems changes 4-20-2026).docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422801.pdf",
+          "date_added": "2026/04/23 08:10 AM",
+          "file_id": "1422801"
+        },
+        {
+          "file_name": "East Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422803.pdf",
+          "date_added": "2026/04/23 08:11 AM",
+          "file_id": "1422803"
+        },
+        {
+          "file_name": "West Request (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422805.pdf",
+          "date_added": "2026/04/23 08:11 AM",
+          "file_id": "1422805"
+        },
+        {
+          "file_name": "Exhibit A  West Disconnect (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422807.pdf",
+          "date_added": "2026/04/23 08:12 AM",
+          "file_id": "1422807"
+        },
+        {
+          "file_name": "Exhibit A East Disconnect (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1422809.pdf",
+          "date_added": "2026/04/23 08:12 AM",
+          "file_id": "1422809"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1079709",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079709.html",
       "title": "Erda City Council Meeting",
@@ -438,61 +493,6 @@
           "url": "https://www.utah.gov/pmn/files/1431335.pdf",
           "date_added": "2026/05/11 03:18 PM",
           "file_id": "1431335"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1075207",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1075207.html",
-      "title": "Notice of Public Hearing on Requests to Disconnect from Erda City",
-      "event_date": "May 14, 2026 07:00 PM",
-      "event_date_iso": "2026-05-14T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY PROPOSED DISCONNECTION PETITIONS\r\nNOTICE IS HEREBY GIVEN as required by Utah Code Ann. §10-2-501 that the Erda City Council will hold a public hearing to consider two separate petitions for the disconnection of certain real property from the corporate limits of Erda City.\r\nThe public hearing will be held on May 14, 2026, at 7:00 p.m., at the Deseret Peak Complex, 2930 Hwy 112, Tooele, UT, 84074.\r\nIn the public hearing, any person may speak and submit documents regarding the disconnection proposal.\r\nWritten comments/documents may be submitted to: Jennifer Poole, Erda City Recorder jpoole@erda.gov (435) 243-5577\r\nA copy of the disconnection petition is available for public inspection during regular business hours at the Erda City Fire Station, 2163 W Erda Way, Erda, Utah 84074 and on the Erda City Website at erda.gov\r\nDATED this 20th day of April, 2026.\r\n/s/ Jennifer Poole Erda City Recorder\r\nPUBLISH: __________, 2026",
-      "meeting_location": "2930 Hwy 112 Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "April 23, 2026 08:13 AM",
-      "attachments": [
-        {
-          "file_name": "West and EastDisconnect Legal Notice (Brems changes 4-20-2026).docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422801.pdf",
-          "date_added": "2026/04/23 08:10 AM",
-          "file_id": "1422801"
-        },
-        {
-          "file_name": "East Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422803.pdf",
-          "date_added": "2026/04/23 08:11 AM",
-          "file_id": "1422803"
-        },
-        {
-          "file_name": "West Request (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422805.pdf",
-          "date_added": "2026/04/23 08:11 AM",
-          "file_id": "1422805"
-        },
-        {
-          "file_name": "Exhibit A  West Disconnect (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422807.pdf",
-          "date_added": "2026/04/23 08:12 AM",
-          "file_id": "1422807"
-        },
-        {
-          "file_name": "Exhibit A East Disconnect (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422809.pdf",
-          "date_added": "2026/04/23 08:12 AM",
-          "file_id": "1422809"
         }
       ],
       "canceled": false

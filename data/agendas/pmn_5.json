@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-08-03T11:26:07.649366+00:00",
+  "scraped_at": "2026-08-10T09:23:50.916548+00:00",
   "notices": [
     {
       "notice_id": "1098557",
@@ -21,7 +21,50 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "July 30, 2026 05:22 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "07 Adopted City Council Minutes 07-07-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1471209.pdf",
+          "date_added": "2026/08/06 04:47 PM",
+          "file_id": "1471209"
+        },
+        {
+          "file_name": "ORD Summary Public Notice Website.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471211.pdf",
+          "date_added": "2026/08/06 04:48 PM",
+          "file_id": "1471211"
+        },
+        {
+          "file_name": "PRESENTATION CD & PW.citycouncil.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471213.pdf",
+          "date_added": "2026/08/06 04:48 PM",
+          "file_id": "1471213"
+        },
+        {
+          "file_name": "PRESENTATION COUNCIL MEETING_Spanish Fork City Reconnaissance Level Survey - City Council.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471215.pdf",
+          "date_added": "2026/08/06 04:48 PM",
+          "file_id": "1471215"
+        },
+        {
+          "file_name": "PRESENTATION Spanish Fork Sustainability Briefing 08-04-26 (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471217.pdf",
+          "date_added": "2026/08/06 04:48 PM",
+          "file_id": "1471217"
+        },
+        {
+          "file_name": "PRESENTATION WORKSESSION_Spanish Fork City Reconnaissance Level Survey - City Council.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471219.pdf",
+          "date_added": "2026/08/06 04:49 PM",
+          "file_id": "1471219"
+        }
+      ],
       "canceled": false
     },
     {
@@ -48,6 +91,13 @@
           "url": "https://www.utah.gov/pmn/files/1459271.pdf",
           "date_added": "2026/07/09 08:25 AM",
           "file_id": "1459271"
+        },
+        {
+          "file_name": "07 Adopted City Council Minutes 07-07-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1471227.pdf",
+          "date_added": "2026/08/06 04:52 PM",
+          "file_id": "1471227"
         },
         {
           "file_name": "PRESENTATION Public Works -Work Session.pdf",

@@ -4,8 +4,41 @@
   "public_body": "Planning Commission",
   "body_id": "383",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/383.html",
-  "scraped_at": "2026-08-03T11:25:09.653780+00:00",
+  "scraped_at": "2026-08-10T09:22:53.794522+00:00",
   "notices": [
+    {
+      "notice_id": "1100362",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100362.html",
+      "title": "Planning Commission Agenda",
+      "event_date": "August 13, 2026 06:30 PM",
+      "event_date_iso": "2026-08-13T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "PLANNING COMMISSION AGENDA\r\n\r\nThursday, August 13, 2026, 6:30 PM\r\n\r\n1020 East Pioneer Road\r\n\r\nDraper, UT 84020\r\n\r\nCouncil Chambers\r\n\r\n6:30 PM BUSINESS MEETING\r\n\r\n1.\tItems for Commission Consideration\r\n\r\n1.a Action Item: Approve Planning Commission Meeting Minutes for July 9, 2026 (Administrative Action)\r\n\r\nApproval of Planning Commission Meeting Minutes for July 9, 2026\r\n\r\n1.b Public Hearing: Lamb Hair Salon Home Occupation Conditional Use Permit Request (Administrative Action)\r\n\r\nOn the request of Greg & Sabrina Lamb, representing Lamb Hair Salon, a Home Occupation Conditional Use Permit request on approximately 0.50 acres, located at 249 E. 13560 S. Known as application 2026-0154-USE. Staff Contact: Nick Whittaker, (801) 576-6522, nick.whittaker@draperutah.gov.\r\n\r\n1.c Public Hearing: Kimballs Station Site Plan and Preliminary Subdivision Plat Requests (Administrative Actions)\r\n\r\nOn the request of Spencer Llewelyn, representing Edge Homes, a Site Plan Amendment and Preliminary Subdivision Plat for 7.126 acres of property located approximately at 600 E Kimballs Ln. The property is zoned RM2 (Multi-family Residential). Known as applications 2025-0263-SP and 2025-0262-SUB. Staff contact: Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.\r\n\r\n2.\tOther Business\r\n\r\n2.a Coordination between City Staff and Planning Commission (as needed).\r\n\r\n3.\tAdjournment\r\n \r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper Planning Commission meeting to be held August 13, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\n\r\n\r\nNicole Smedley, CMC, City Recorder, Draper City, State of Utah",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lori Stout",
+      "contact_email": "lori.stout@draperutah.gov",
+      "posted_on": "August 07, 2026 01:59 PM",
+      "attachments": [
+        {
+          "file_name": "PC Agenda 081326.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471722.pdf",
+          "date_added": "2026/08/07 01:58 PM",
+          "file_id": "1471722"
+        },
+        {
+          "file_name": "PC Agenda Packet 081326.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1471724.pdf",
+          "date_added": "2026/08/07 01:59 PM",
+          "file_id": "1471724"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098621",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098621.html",
@@ -59,6 +92,84 @@
       "canceled": false
     },
     {
+      "notice_id": "1095993",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095993.html",
+      "title": "Notice of Public Hearing: City Initiated Town Center Residential Zoning Text Amendment Request",
+      "event_date": "July 30, 2026 06:30 PM",
+      "event_date_iso": "2026-07-30T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 16, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: City Initiated Town Center Residential Zoning Text Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The purpose of the request is to amend the text of portions of Chapter 9-11 of the Draper City Municipal Code (DCMC) to permit at least one (1) residential unit on smaller properties in the Town Center zone.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 30, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Taylor at (801) 576-6510 or todd.taylor@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lori Stout",
+      "contact_email": "lori.stout@draperutah.gov",
+      "posted_on": "July 16, 2026 02:02 PM",
+      "attachments": [
+        {
+          "file_name": "PC 7.30 City Initiated Town Center Residential Zoning Text Amendment Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1462877.pdf",
+          "date_added": "2026/07/16 02:02 PM",
+          "file_id": "1462877"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1095989",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095989.html",
+      "title": "Notice of Public Hearing: Bakehouse Cottage Home Occupation Conditional Use Permit Request",
+      "event_date": "July 30, 2026 06:30 PM",
+      "event_date_iso": "2026-07-30T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 16, 2026 on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Bakehouse Cottage Home Occupation Conditional Use Permit Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 478 W. Sandberg Ln. The purpose of the request is to allow for a home cottage business that produces baked goods.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 30, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker at (801) 576-6522 orNick.Whittaker@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lori Stout",
+      "contact_email": "lori.stout@draperutah.gov",
+      "posted_on": "July 16, 2026 01:59 PM",
+      "attachments": [
+        {
+          "file_name": "PC 7.30 Bakehouse Cottage Home Occupation Conditional Use Permit Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1462865.pdf",
+          "date_added": "2026/07/16 01:59 PM",
+          "file_id": "1462865"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1095991",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095991.html",
+      "title": "Notice of Public Hearing: Hidden Canyon Estates Phase 5 Amended Plat Request",
+      "event_date": "July 30, 2026 06:30 PM",
+      "event_date_iso": "2026-07-30T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on July 16, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC MEETING: Hidden Canyon Estates Phase 5 Amended Plat Request\r\n\r\nNotice is hereby given that Draper City will hold a public meeting before the Planning Commission to consider the above listed request. The properties are located at approximately 2463, 2477, and 2483 E Springtime Road. The purpose of the request is to approve an Amended Subdivision Plat to amend the boundaries of the private slope easement and two (2) lots.   \r\n\r\nThe meeting will be held at Draper City Hall in the City Council Chambers, on July 30, 2026, at 6:30 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Taylor at (801) 576-6510 or todd.taylor@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lori Stout",
+      "contact_email": "lori.stout@draperutah.gov",
+      "posted_on": "July 16, 2026 02:01 PM",
+      "attachments": [
+        {
+          "file_name": "PC 7.30 Hidden Canyon Estates Phase 5 Amended Plat Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1462867.pdf",
+          "date_added": "2026/07/16 02:01 PM",
+          "file_id": "1462867"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1097557",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097557.html",
       "title": "Planning Commission Agenda",
@@ -92,79 +203,27 @@
       "canceled": false
     },
     {
-      "notice_id": "1095993",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095993.html",
-      "title": "Notice of Public Hearing: City Initiated Town Center Residential Zoning Text Amendment Request",
-      "event_date": "July 30, 2026 06:30 PM",
-      "event_date_iso": "2026-07-30T18:30:00",
+      "notice_id": "1091653",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091653.html",
+      "title": "Notice of Public Hearing: Boatright Fence Conditional Use Permit Request",
+      "event_date": "July 9, 2026 06:30 PM",
+      "event_date_iso": "2026-07-09T18:30:00",
       "notice_types": [
         "Notice",
         "Hearing"
       ],
-      "agenda_text": "Posted on July 16, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: City Initiated Town Center Residential Zoning Text Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The purpose of the request is to amend the text of portions of Chapter 9-11 of the Draper City Municipal Code (DCMC) to permit at least one (1) residential unit on smaller properties in the Town Center zone.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 30, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Taylor at (801) 576-6510 or todd.taylor@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "agenda_text": "Posted on June 25, 2026 on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Boatright Fence Conditional Use Permit Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 12474 S RAWLINS LN. The purpose of the request is to allow for a fence in the front yard area that is taller than four-feet (4').\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 9, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker at (801) 576-6522 or Nick.Whittaker@draperutah.gov  \r\n\r\nDated this 25th Day of June, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
       "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
       "contact_name": "Lori Stout",
       "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "July 16, 2026 02:02 PM",
+      "posted_on": "June 25, 2026 11:37 AM",
       "attachments": [
         {
-          "file_name": "PC 7.30 City Initiated Town Center Residential Zoning Text Amendment Request.pdf",
+          "file_name": "PC 7.9 Boatright Fence Conditional Use Permit Request.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1462877.pdf",
-          "date_added": "2026/07/16 02:02 PM",
-          "file_id": "1462877"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1095991",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095991.html",
-      "title": "Notice of Public Hearing: Hidden Canyon Estates Phase 5 Amended Plat Request",
-      "event_date": "July 30, 2026 06:30 PM",
-      "event_date_iso": "2026-07-30T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on July 16, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC MEETING: Hidden Canyon Estates Phase 5 Amended Plat Request\r\n\r\nNotice is hereby given that Draper City will hold a public meeting before the Planning Commission to consider the above listed request. The properties are located at approximately 2463, 2477, and 2483 E Springtime Road. The purpose of the request is to approve an Amended Subdivision Plat to amend the boundaries of the private slope easement and two (2) lots.   \r\n\r\nThe meeting will be held at Draper City Hall in the City Council Chambers, on July 30, 2026, at 6:30 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Taylor at (801) 576-6510 or todd.taylor@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lori Stout",
-      "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "July 16, 2026 02:01 PM",
-      "attachments": [
-        {
-          "file_name": "PC 7.30 Hidden Canyon Estates Phase 5 Amended Plat Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1462867.pdf",
-          "date_added": "2026/07/16 02:01 PM",
-          "file_id": "1462867"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1095989",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095989.html",
-      "title": "Notice of Public Hearing: Bakehouse Cottage Home Occupation Conditional Use Permit Request",
-      "event_date": "July 30, 2026 06:30 PM",
-      "event_date_iso": "2026-07-30T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on July 16, 2026 on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Bakehouse Cottage Home Occupation Conditional Use Permit Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 478 W. Sandberg Ln. The purpose of the request is to allow for a home cottage business that produces baked goods.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 30, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker at (801) 576-6522 orNick.Whittaker@draperutah.gov. \r\n\r\nDated this 16th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lori Stout",
-      "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "July 16, 2026 01:59 PM",
-      "attachments": [
-        {
-          "file_name": "PC 7.30 Bakehouse Cottage Home Occupation Conditional Use Permit Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1462865.pdf",
-          "date_added": "2026/07/16 01:59 PM",
-          "file_id": "1462865"
+          "url": "https://www.utah.gov/pmn/files/1454499.pdf",
+          "date_added": "2026/06/25 11:36 AM",
+          "file_id": "1454499"
         }
       ],
       "canceled": false
@@ -224,58 +283,6 @@
           "url": "https://www.utah.gov/pmn/files/1454495.pdf",
           "date_added": "2026/06/25 11:34 AM",
           "file_id": "1454495"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1091653",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091653.html",
-      "title": "Notice of Public Hearing: Boatright Fence Conditional Use Permit Request",
-      "event_date": "July 9, 2026 06:30 PM",
-      "event_date_iso": "2026-07-09T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on June 25, 2026 on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Boatright Fence Conditional Use Permit Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 12474 S RAWLINS LN. The purpose of the request is to allow for a fence in the front yard area that is taller than four-feet (4').\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 9, 2026 at 6:30 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker at (801) 576-6522 or Nick.Whittaker@draperutah.gov  \r\n\r\nDated this 25th Day of June, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lori Stout",
-      "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "June 25, 2026 11:37 AM",
-      "attachments": [
-        {
-          "file_name": "PC 7.9 Boatright Fence Conditional Use Permit Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1454499.pdf",
-          "date_added": "2026/06/25 11:36 AM",
-          "file_id": "1454499"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1091657",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091657.html",
-      "title": "Notice of Public Hearing: Vista 11 South Subdivision Plat Amendment Request",
-      "event_date": "July 9, 2026 06:30 PM",
-      "event_date_iso": "2026-07-09T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on June 25, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC MEETING: Vista 11 South Subdivision Plat Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public meeting before the Planning Commission to consider the above listed request.  The property is located at approximately 13657 S. 600 West.  The purpose of the request is to create three new commercial lots within an existing commercial subdivision.\r\n\r\nThe meeting will be held at Draper City Hall in the City Council Chambers on July 9, 2026, at 6:30 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Maryann Pickering at (801) 576-6391 or maryann.pickering@draperutah.gov.\r\n\r\nDated this 25th Day of June, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lori Stout",
-      "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "June 25, 2026 11:40 AM",
-      "attachments": [
-        {
-          "file_name": "PC 7.9 Vista 11 South Subdivision Plat Amendment Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1454505.pdf",
-          "date_added": "2026/06/25 11:39 AM",
-          "file_id": "1454505"
         }
       ],
       "canceled": false

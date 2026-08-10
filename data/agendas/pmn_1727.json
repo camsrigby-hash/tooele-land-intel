@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-08-03T11:23:13.656294+00:00",
+  "scraped_at": "2026-08-10T09:20:56.036167+00:00",
   "notices": [
     {
       "notice_id": "1098077",
@@ -23,13 +23,6 @@
       "posted_on": "July 28, 2026 06:03 PM",
       "attachments": [
         {
-          "file_name": "2026-08-11 cc agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466987.pdf",
-          "date_added": "2026/07/28 05:58 PM",
-          "file_id": "1466987"
-        },
-        {
           "file_name": "2026 T-in-T Ad - Utah Co Combined-Proof.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1466989.pdf",
@@ -42,6 +35,27 @@
           "url": "https://www.utah.gov/pmn/files/1466991.pdf",
           "date_added": "2026/07/28 06:00 PM",
           "file_id": "1466991"
+        },
+        {
+          "file_name": "Property Tax Impact Schedule.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1469337.pdf",
+          "date_added": "2026/08/04 07:57 AM",
+          "file_id": "1469337"
+        },
+        {
+          "file_name": "2026-08-11 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1470563.pdf",
+          "date_added": "2026/08/05 03:44 PM",
+          "file_id": "1470563"
+        },
+        {
+          "file_name": "2026-08-11 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1470565.pdf",
+          "date_added": "2026/08/05 03:45 PM",
+          "file_id": "1470565"
         }
       ],
       "canceled": false
@@ -165,6 +179,13 @@
       "posted_on": "July 17, 2026 02:36 PM",
       "attachments": [
         {
+          "file_name": "2026-07-21 cc approved minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1470501.pdf",
+          "date_added": "2026/08/05 02:13 PM",
+          "file_id": "1470501"
+        },
+        {
           "file_name": "2026-07-21 cc agenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1464383.pdf",
@@ -196,6 +217,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "July 15, 2026 06:19 PM",
       "attachments": [
+        {
+          "file_name": "2026-07-17 cc approved minutes WS.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1470497.pdf",
+          "date_added": "2026/08/05 02:13 PM",
+          "file_id": "1470497"
+        },
         {
           "file_name": "2026-07-17 cc agenda workshop.pdf",
           "category": "Public Information Handout",

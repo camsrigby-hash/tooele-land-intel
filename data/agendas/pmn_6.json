@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-08-03T11:26:17.002430+00:00",
+  "scraped_at": "2026-08-10T09:23:59.274889+00:00",
   "notices": [
     {
       "notice_id": "1098235",
@@ -252,40 +252,6 @@
           "url": "https://www.utah.gov/pmn/files/1400445.pdf",
           "date_added": "2026/03/05 10:41 AM",
           "file_id": "1400445"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1056677",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1056677.html",
-      "title": "Spanish Fork City - Planning Commission",
-      "event_date": "February 4, 2026 06:00 PM",
-      "event_date_iso": "2026-02-04T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "SF Logo\r\nWednesday, February 4, 2026\r\nPlanning Commission\r\nPlanning Commission Agenda\r\nPUBLIC NOTICE is hereby given that the Planning Commission of Spanish Fork, Utah, will hold a meeting in the City Council Chambers at Library Hall, on the second floor, 80 South Main Street, Spanish Fork, Utah, with a work session commencing at 5:15 p.m., and the Planning Commission Meeting commencing at 6:00 p.m. on February 4, 2026.\r\nPlanning Commissioners\r\n\r\nTodd Mitchell\r\nShauna Warnick\r\nMichelle Carroll\r\nMichael Clayson\r\nPaul Dayton\r\nDave Woodhouse\r\n\r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Planning Commission Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If you need special accommodation to participate in the meeting, please contact the Community Development Office at 801-804-4580.\r\n1. 5:15pm WORK SESSION - No formal actions are taken in a work session.\r\nA. Planning Commission Work Program Discussion.\r\n2. 6:00 Agenda Items\r\n3. Conditional Use Permit (Public Hearing)\r\nA. CHICKEN PROCESSING FACILITY. This proposal involves a request for a Conditional Use Permit to allow for a chicken processing facility to operate at approximately 3500 North 1150 West.\r\n4. Zone Change (Public Hearing)\r\nA. LET THEM GROW MONTESSORI PRESCHOOL ENHANCEMENT OVERLAY. This proposal involves a Zone Change to apply the Development Enhancement Overlay to accommodate a preschool at 75 West 300 North.\r\n5. Title 15 Amendments (Public Hearing)\r\nA. TITLE 15 OLD DOMINION. This proposal would amend the City's fencing requirements.\r\nB. TITLE 15 TEMPORARY STORAGE YARD. This proposal would amend the city's fencing requirements for outdoor storage.\r\n6. General Plan Amendments (Public Hearing)\r\nA. GENERAL PLAN UPDATE. This proposal involves an updated Land Use Element of the General Plan.\r\nB. GENERAL PLAN UPDATE. This proposal involves amending the Growth Management Boundary Map.\r\n7. Adjourn\r\nEnd",
-      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Kasey Woodard",
-      "contact_email": "kwoodard@spanishfork.org",
-      "posted_on": "February 02, 2026 05:33 PM",
-      "attachments": [
-        {
-          "file_name": "BoardDocs® LT.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1385599.pdf",
-          "date_added": "2026/02/02 05:33 PM",
-          "file_id": "1385599"
-        },
-        {
-          "file_name": "agenda.pc.2-4-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1389131.pdf",
-          "date_added": "2026/02/10 08:39 AM",
-          "file_id": "1389131"
         }
       ],
       "canceled": false

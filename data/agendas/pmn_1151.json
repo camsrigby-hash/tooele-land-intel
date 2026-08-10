@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-08-03T11:24:34.946674+00:00",
+  "scraped_at": "2026-08-10T09:22:18.575739+00:00",
   "notices": [
     {
       "notice_id": "1098495",
@@ -84,6 +84,13 @@
           "url": "https://www.utah.gov/pmn/files/1456949.MP3",
           "date_added": "2026/07/02 09:16 AM",
           "file_id": "1456949"
+        },
+        {
+          "file_name": "2026_07_01 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1470657.pdf",
+          "date_added": "2026/08/05 09:05 PM",
+          "file_id": "1470657"
         },
         {
           "file_name": "2026_07_01 PC Packet.pdf",
@@ -358,26 +365,26 @@
       "canceled": false
     },
     {
-      "notice_id": "1064165",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064165.html",
-      "title": "Planning Commission Meeting",
+      "notice_id": "1064159",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1064159.html",
+      "title": "Planning Commision Meeting",
       "event_date": "March 18, 2026 07:00 PM",
       "event_date_iso": "2026-03-18T19:00:00",
       "notice_types": [
         "Notice"
       ],
-      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda items:\r\n\r\n-\tReview and consider approval of a preliminary subdivision plat for POD 17 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 205 residential dwelling units at approximately 15590 S Mountain View Corridor Highway in the R-20-43 Multi-family Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)35.79\r\nCity File No: S2025-143",
+      "agenda_text": "PUBLIC HEARING NOTICE\r\nPlanning Commission Meeting\r\nMarch 18, 2026 - 7:00 pm\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Planning Commission shall assemble for a\r\nPublic Hearing in the City Council Chambers, located at\r\n\r\n5355 W HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n\r\nInformation on the following agenda items is available at the Herriman City Planning Department at the above address. Public comments, questions, and concerns may be mailed to the above address or emailed to planning@herriman.gov\r\n\r\nThe Planning Commission will review the following agenda item:\r\n\r\n-\tReview and consider preliminary approval of a subdivision plat for POD 7 in the South Hills Amended & Restated Master Planned Development Agreement (ARMDA) containing 108 residential dwelling units at approximately at 15590 S Mountain View Corridor in the R-2-10 Multifamily Residential Zone. (Public Hearing)\r\nApplicant: Leif Smith, Wasatch Commercial (property owner)\r\nAcres: (+/-)19.9\r\nCity File No: S2025-145",
       "meeting_location": "5355 West Herriman Main Street Herriman City, UT 84096 Show in Apple Maps Show in Google Maps",
       "contact_name": "Angela Hansen",
       "contact_email": "anhansen@herriman.gov",
-      "posted_on": "March 05, 2026 04:32 PM",
+      "posted_on": "March 05, 2026 04:28 PM",
       "attachments": [
         {
           "file_name": "Public Notice 03182026.pdf",
           "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1400877.pdf",
-          "date_added": "2026/03/05 04:32 PM",
-          "file_id": "1400877"
+          "url": "https://www.utah.gov/pmn/files/1400871.pdf",
+          "date_added": "2026/03/05 04:30 PM",
+          "file_id": "1400871"
         }
       ],
       "canceled": false
