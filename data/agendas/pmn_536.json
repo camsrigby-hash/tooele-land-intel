@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-08-10T09:21:31.257771+00:00",
+  "scraped_at": "2026-08-17T08:44:15.517117+00:00",
   "notices": [
+    {
+      "notice_id": "1101871",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101871.html",
+      "title": "PCPH 8.25.2026 Retaining Walls, Gateway, Spring Run Plaza Preliminary Plat Lot 1 and 2",
+      "event_date": "August 25, 2026 06:30 PM",
+      "event_date_iso": "2026-08-25T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on August 25, 2026, at \r\n6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\nGateway Park Plat 3 - Preliminary Plat: Planning Commission review of the proposed \r\n\r\nGateway Park Plat 3 Preliminary Plat, intended for industrial and business park development. \r\nThe project is located on Parcel Nos. 58:033:0384, 58:033:0413, and part of 58.033:0386. \r\nThe general location of the project is north of Cory B Wride Memorial Highway and west of \r\nMt Airey Drive. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nSpring Run Plaza Lot 1: Planning Commission review of a proposed multi-tenant \r\ncommercial building site plan on Lot 1 of the Spring Run Plaza development. The property is \r\ngenerally located on the northeast corner of Spring Run Parkway and Cory B Wride Memorial \r\nHighway, east of Walmart. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nSpring Run Plaza Lot 2: Planning Commission review of a proposed multi-tenant \r\ncommercial building site plan on Lot 2 of the Spring Run Plaza development. The property is \r\ngenerally located on the northeast corner of Spring Run Parkway and Cory B Wride Memorial \r\nHighway, east of Walmart. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC 17.60.130 - Retaining Wall Construction Standards Code Amendment: \r\nConsideration of an amendment to Eagle Mountain Municipal Code Chapter 17.60.130. This \r\namendment adds detailed design requirements for retaining walls, and includes \r\nclarification on building permit requirements, field inspections, and allowable retaining wall \r\nlocations. EMC Staff Point of Contact: City Engineer, Vince Hogge: vhogge@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the \r\ncity website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle \r\nMountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If \r\nyou need special accommodation to participate in the meeting, please call the City \r\nRecorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at \r\nwww.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "August 13, 2026 06:11 PM",
+      "attachments": [
+        {
+          "file_name": "PCPH 8.25.2026 Retaining Walls, Gateway, Spring Run Prelilm Plat 1 and 2.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1474757.pdf",
+          "date_added": "2026/08/13 06:10 PM",
+          "file_id": "1474757"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098383",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098383.html",
@@ -107,6 +133,13 @@
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "July 22, 2026 04:13 PM",
       "attachments": [
+        {
+          "file_name": "07.28.2026 Approved PC Meeting Minutes - signed.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1474353.pdf",
+          "date_added": "2026/08/13 12:51 PM",
+          "file_id": "1474353"
+        },
         {
           "file_name": "7.28.26 PC Agenda.pdf",
           "category": "Public Information Handout",
@@ -278,32 +311,6 @@
           "url": "https://www.utah.gov/pmn/files/1450915.pdf",
           "date_added": "2026/06/17 04:13 PM",
           "file_id": "1450915"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1082967",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082967.html",
-      "title": "PCPH Annexation Policy Plan for Affected Entities",
-      "event_date": "June 9, 2026 06:30 PM",
-      "event_date_iso": "2026-06-09T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold a hearing for affected entities on June 9, \r\n2026, at 6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City \r\nCouncil Chambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The \r\nPlanning Commission will receive comments concerning the following item: \r\nAnnexation Policy Plan: Eagle Mountain City is proposing an updated annexation \r\npolicy plan and is seeking feedback from affected entities, as defined in §10-2-801 of \r\nthe Utah Code Annotated - including special districts or special service districts \r\nwhose boundary includes any part of an area proposed for annexation; a school \r\ndistrict whose boundary includes any part of an area proposed for annexation, if the \r\nboundary is proposed to be adjusted as a result of the annexation; and a municipality \r\nwhose boundaries are within 1/2 mile of an area proposed for annexation. This is a \r\npublic meeting in which the City is seeking feedback from affected entities at this \r\npoint of the proposed annexation policy plan update process. Affected entities will \r\nalso have ten (10) additional days, after the public meeting, to submit written \r\nfeedback to the Planning Commission for consideration. EMC Point of Contact: \r\nCommunity Development Director, Brandon Larsen: blarsen@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\nAFFECTED ENTITIES ARE INVITED TO PARTICIPATE IN THIS MEETING.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "May 21, 2026 07:14 PM",
-      "attachments": [
-        {
-          "file_name": "PCPH 6.9.2026 Annexation Policy Plan Affected Entities Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1437593.pdf",
-          "date_added": "2026/05/21 07:14 PM",
-          "file_id": "1437593"
         }
       ],
       "canceled": false

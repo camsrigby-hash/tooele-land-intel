@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-08-10T09:20:09.420094+00:00",
+  "scraped_at": "2026-08-17T08:42:52.009351+00:00",
   "notices": [
     {
       "notice_id": "1097741",
@@ -146,21 +146,21 @@
         },
         {
           "file_name": "CC Agenda.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1460843.pdf",
           "date_added": "2026/07/13 10:34 AM",
           "file_id": "1460843"
         },
         {
           "file_name": "07.15.2026_CCPacket.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1460845.pdf",
           "date_added": "2026/07/13 10:34 AM",
           "file_id": "1460845"
         },
         {
           "file_name": "07.15.2026_CCMinutes.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1471610.pdf",
           "date_added": "2026/08/07 12:02 PM",
           "file_id": "1471610"
@@ -193,21 +193,21 @@
         },
         {
           "file_name": "07.15.2026_WKAgenda_Amended.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1460927.pdf",
           "date_added": "2026/07/13 11:58 AM",
           "file_id": "1460927"
         },
         {
           "file_name": "07.15.2026_WKPacket_Amended.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1460929.pdf",
           "date_added": "2026/07/13 11:58 AM",
           "file_id": "1460929"
         },
         {
           "file_name": "07.15.2026_WKMinutes.pdf",
-          "category": "Public Information Handout",
+          "category": "Meeting Minutes",
           "url": "https://www.utah.gov/pmn/files/1471612.pdf",
           "date_added": "2026/08/07 12:03 PM",
           "file_id": "1471612"

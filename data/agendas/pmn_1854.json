@@ -4,8 +4,50 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-08-10T09:21:07.726460+00:00",
+  "scraped_at": "2026-08-17T08:43:51.642452+00:00",
   "notices": [
+    {
+      "notice_id": "1102169",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102169.html",
+      "title": "Public Hearings for Planning Commission",
+      "event_date": "August 27, 2026 06:00 PM",
+      "event_date_iso": "2026-08-27T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Notice of Public Hearing for Planning Commission\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on August 27, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAndover Rezone from Agricultural to R1-9 (Residential Single Family, 9,000), located at approximately northeast of Clark Drive and Pony Express Parkway. Scott Carson as applicant.\r\n2.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.20 - Internal Accessory Dwelling Units (IADUs). The proposed amendment establishes regulations for detached accessory dwelling units (DADUs), in accordance with recent changes to Utah State Code. Citywide. City-Initiated.\r\n3.\tAmendment to Title 18, Building and Construction Code, Chapter 18.02 - Flood Damage Prevention. The proposed amendment would update the City's floodplain development requirements, including increasing the required elevation of structures above the floodplain and providing a permitting process and flowchart for projects involving Letters of Map Revision (LOMR) and hydraulic analyses. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "August 14, 2026 03:15 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1101077",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101077.html",
+      "title": "Planning Commission Meeting Annexation Policy Plan Notice",
+      "event_date": "August 27, 2026 06:00 PM",
+      "event_date_iso": "2026-08-27T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC MEETING\r\n\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will hold a Public Meeting to allow affected entities to examine and provide input on a proposed Amendment to the City's Annexation Policy Plan and Expansion Area Map.\r\n\r\nThe public meeting will occur on Thursday August 27, 2026 at 6:00 p.m. in the Saratoga Springs City Offices, City Council Chambers, 319 So. Saratoga Road, Saratoga Springs, Utah 84045.\r\n\r\nQuestions or Comments regarding this proposed amendment may be directed to the Planning Dept. 801-766-9793.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "August 11, 2026 01:09 PM",
+      "attachments": [
+        {
+          "file_name": "2026-08-27 Annexation Policy Plan Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1472825.pdf",
+          "date_added": "2026/08/11 01:09 PM",
+          "file_id": "1472825"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1100093",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100093.html",
@@ -56,6 +98,23 @@
       "canceled": false
     },
     {
+      "notice_id": "1095979",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095979.html",
+      "title": "Notice of Public Hearing for Planning Commission",
+      "event_date": "July 30, 2026 06:00 PM",
+      "event_date_iso": "2026-07-30T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Notice of Public Hearing for Planning Commission\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on July 30, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.13 - Development Review Processes. The proposed amendment updates regulations related to new or unlisted business uses, in accordance with recent changes to the Utah State Code. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 16, 2026 01:25 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1097521",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097521.html",
       "title": "Planning Commission Meeting",
@@ -71,6 +130,13 @@
       "posted_on": "July 23, 2026 03:17 PM",
       "attachments": [
         {
+          "file_name": "2026-07-30 pc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1475259.pdf",
+          "date_added": "2026/08/14 02:00 PM",
+          "file_id": "1475259"
+        },
+        {
           "file_name": "2026-07-30 PC Agenda updated.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1467349.pdf",
@@ -85,23 +151,6 @@
           "file_id": "1467501"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1095979",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095979.html",
-      "title": "Notice of Public Hearing for Planning Commission",
-      "event_date": "July 30, 2026 06:00 PM",
-      "event_date_iso": "2026-07-30T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Public Hearing for Planning Commission\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on July 30, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.13 - Development Review Processes. The proposed amendment updates regulations related to new or unlisted business uses, in accordance with recent changes to the Utah State Code. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "July 16, 2026 01:25 PM",
-      "attachments": [],
       "canceled": false
     },
     {
@@ -161,23 +210,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1088599",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088599.html",
-      "title": "Public Hearings for Planning Commission",
-      "event_date": "June 25, 2026 06:00 PM",
-      "event_date_iso": "2026-06-25T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on June 25, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.12 - Subdivisions, and Chapter 19.14 - Site Plan Review. The proposed amendments would update the subdivision process and approval procedures, and add regulations for phased non-residential developments. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "June 12, 2026 10:18 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1090441",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1090441.html",
       "title": "Planning Commission Meeting",
@@ -217,68 +249,20 @@
       "canceled": false
     },
     {
-      "notice_id": "1086329",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086329.html",
-      "title": "Planning Commission Meeting - Canceled",
-      "event_date": "June 11, 2026 06:00 PM",
-      "event_date_iso": "2026-06-11T18:00:00",
+      "notice_id": "1088599",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088599.html",
+      "title": "Public Hearings for Planning Commission",
+      "event_date": "June 25, 2026 06:00 PM",
+      "event_date_iso": "2026-06-25T18:00:00",
       "notice_types": [
-        "Notice",
-        "Meeting"
+        "Notice"
       ],
-      "agenda_text": "PLANNING COMMISSION MEETING\r\n\r\nCITY OF SARATOGA SPRINGS\r\n\r\nThursday, June 11, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 S. Saratoga Road, Saratoga Springs, UT 84045\r\n\r\n\r\nThe City of Saratoga Springs Planning Commission Meeting scheduled for Thursday, June 11, 2026 has been canceled due to lack of business.\r\n\r\nThe next Planning Commission Meeting is scheduled for Thursday, June 25, 2026 at 6:00 p.m. at the Saratoga Springs City Offices, City Council Chambers: 319 S. Saratoga Road, Saratoga Springs, Utah.",
+      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on June 25, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.12 - Subdivisions, and Chapter 19.14 - Site Plan Review. The proposed amendments would update the subdivision process and approval procedures, and add regulations for phased non-residential developments. Citywide. City-Initiated.\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
       "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "June 04, 2026 02:10 PM",
-      "attachments": [
-        {
-          "file_name": "2026-06-11 PC Agenda - meeting canceled.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1443915.pdf",
-          "date_added": "2026/06/04 02:09 PM",
-          "file_id": "1443915"
-        }
-      ],
-      "canceled": true
-    },
-    {
-      "notice_id": "1082847",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082847.html",
-      "title": "Planning Commission Meeting",
-      "event_date": "May 28, 2026 06:00 PM",
-      "event_date_iso": "2026-05-28T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "PLANNING COMMISSION AGENDA \r\nCITY OF SARATOGA SPRINGS\r\nThursday, May 28, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 S. Saratoga Road, Saratoga Springs, UT 84045\r\n\r\n\r\nCALL TO ORDER\r\n\r\n1.\tPledge of Allegiance.\r\n2.\tRoll Call\r\n3.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nBUSINESS ITEMS\r\nThe Commission will discuss (without public comment) and may either make a recommendation to the City Council, or approve the following items as needed:\r\n\r\n1.\tSite Plan for Westport Business Park Lot 5, located at 2056 N. Stagecoach Drive. Larry Lindstrom and Mark Johnson as applicants. Senior Planner Kendal Black.\r\n2.\tApproval of Minutes: May 14th, 2026.\r\n\r\nREPORTS\r\n\r\n1.\tCommissioner's Comments.\r\n2.\tDirector's Report.\r\n\r\nCLOSED SESSION\r\n\r\n\tPossible motion to enter into closed session for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "May 21, 2026 02:36 PM",
-      "attachments": [
-        {
-          "file_name": "2026-05-28 pc minutes approved.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1455101.pdf",
-          "date_added": "2026/06/26 01:14 PM",
-          "file_id": "1455101"
-        },
-        {
-          "file_name": "2026-05-28 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1437265.pdf",
-          "date_added": "2026/05/21 02:36 PM",
-          "file_id": "1437265"
-        },
-        {
-          "file_name": "2026-05-28 PC Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1455099.pdf",
-          "date_added": "2026/06/26 01:13 PM",
-          "file_id": "1455099"
-        }
-      ],
+      "posted_on": "June 12, 2026 10:18 AM",
+      "attachments": [],
       "canceled": false
     }
   ]

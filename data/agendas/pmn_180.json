@@ -4,8 +4,50 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-08-10T09:23:05.393572+00:00",
+  "scraped_at": "2026-08-17T08:45:51.370609+00:00",
   "notices": [
+    {
+      "notice_id": "1101853",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101853.html",
+      "title": "08.18.26 City Council work session agenda",
+      "event_date": "August 18, 2026 04:00 PM",
+      "event_date_iso": "2026-08-18T16:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nAUGUST 18, 2026\r\n\t\tWORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a work session on Tuesday, August 18, 2026, at City Hall, located at 31 N. Church Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nWORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tDiscussion by Matt Dugdale on bonding.\r\n2.\tPresentation on the programs and services offered at the Fitness Center.\r\n3.\tDiscussion on amendments to the city code regarding external accessory dwelling units.\r\n4.\tAdjourn. \r\n\r\nDated the 13th day of August 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 13, 2026 05:12 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1100657",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100657.html",
+      "title": "08.11.26 Public Hearing - Truth in Taxation",
+      "event_date": "August 11, 2026 07:00 PM",
+      "event_date_iso": "2026-08-11T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nAUGUST 11, 2026\r\nPUBLIC HEARING \r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing on Tuesday, August 11, 2026, in City Hall, located at 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nPUBLIC HEARING\r\nThe City Council will receive public comments for the purpose of hearing comments regarding the proposed tax increase. See attached Truth in Taxation Notice.\r\n\r\nAll interested people are invited to attend the meeting. Interested parties may also participate virtually via our Teams Link. Teams room opens at 6:50 pm, Hearing starts at 7 pm\r\nURL: https://teams.microsoft.com/meet/287079955089408?p=WaumdSR1zRmyWBMaWk\r\n\r\nInterested parties can also view the public hearing on the city's YouTube channel. (This is for view only).\r\n\r\nDated the 1 day of August 2026.\r\n\r\nTerilyn Lurker\r\nCity Recorder\r\n\r\n.\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 10, 2026 10:11 AM",
+      "attachments": [
+        {
+          "file_name": "NOTICE OF PROPOSED TAX INCREASE - VIRTUAL PARTICIPATION INFO.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1472089.pdf",
+          "date_added": "2026/08/10 10:11 AM",
+          "file_id": "1472089"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098483",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098483.html",
@@ -200,42 +242,6 @@
           "file_id": "1448589"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1085039",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085039.html",
-      "title": "06.09.26 Public Hearing - PUE Vacation",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC HEARING -\tVACATION OF PORTION OF A PUBLIC UTILITY EASEMENT\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 N. Church Street. The City Council will receive public comments regarding the following:\r\n-\tA proposed vacation of a portion of a public utility easement at 1032 East 1060 North. The portion of the public utility easement to be vacated is 5 feet along the rear property line, reducing the rear easement from 10 feet to 5 feet. The portion to be vacated is as shown on the map below. Action is scheduled for the regular session where the City Council will act on the proposed PUE vacation.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCopies of the proposed vacation are available at the City Administrative Offices, 51 E. Main Street.  All interested people are invited to attend and make comments.\r\nPosted this 28 day of May 2026.\r\n  \r\nTerilyn Lurker, City Recorder",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 01, 2026 09:36 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1084385",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084385.html",
-      "title": "06.09.26 Public Hearing - FYE2027 City Budget",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the American Fork City FY 2027 Budget (July 1, 2026, to June 30, 2027). \r\n\r\nThe fiscal year ending June 30, 2027, tentative budget includes a proposed property tax rate increase. The Property Tax Impact Schedule and the Tentative Budget can be found at www.americanfork.gov/finance.\r\n\r\nAll interested people are invited to attend.\r\n\r\nDated this 27th day of May, 2026",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "May 28, 2026 04:20 PM",
-      "attachments": [],
       "canceled": false
     },
     {

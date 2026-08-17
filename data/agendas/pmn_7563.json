@@ -4,8 +4,40 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-08-10T09:19:57.665321+00:00",
+  "scraped_at": "2026-08-17T08:42:39.894550+00:00",
   "notices": [
+    {
+      "notice_id": "1100667",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100667.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "August 11, 2026 07:00 PM",
+      "event_date_iso": "2026-08-11T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday,August 11th, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info:  Google Meet joining info:   https://meet.google.com/sbi-jixa-gac\r\n\r\nOr dial:  (US) +1 337-339-9927  PIN:  181 732 824 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 6-23-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Conditional Use Permit for Parcel # 08-049-0-0001 address 4125 Palmer Rd, for Allred Minor Subdivision private road.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "August 10, 2026 10:40 AM",
+      "attachments": [
+        {
+          "file_name": "Allred minor sub private road CUP staff report (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1472121.pdf",
+          "date_added": "2026/08/10 10:40 AM",
+          "file_id": "1472121"
+        },
+        {
+          "file_name": "8-11-26 Planning Commission Agenda.docx.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1472123.pdf",
+          "date_added": "2026/08/10 10:40 AM",
+          "file_id": "1472123"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1097749",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097749.html",
@@ -284,45 +316,6 @@
       "posted_on": "March 21, 2026 12:12 PM",
       "attachments": [],
       "canceled": true
-    },
-    {
-      "notice_id": "1065005",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1065005.html",
-      "title": "Erda City Planning Commission Meeting",
-      "event_date": "March 10, 2026 07:00 PM",
-      "event_date_iso": "2026-03-10T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, March 10, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info: https://meet.google.com/vwj-mjux-ewx\r\nOr dial:  (US) +1 470-250-1736  PIN:  914 219 694 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 2-24-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of CUP 2026-25 Applicant: Cindy Toone, Address: 3944 Spiral Springs Rd, Applicant seeking a CUP to operate a Cottage Business.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Russell Brimley at either rbrimley@erda.gov or 801-326-9498",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "March 09, 2026 07:12 PM",
-      "attachments": [
-        {
-          "file_name": "3-10-26 Audio of Planning Commission Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1404874.mp3",
-          "date_added": "2026/03/13 10:46 AM",
-          "file_id": "1404874"
-        },
-        {
-          "file_name": "3-10-26 Signed Meeting Minutes Planning Commission.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1424775.pdf",
-          "date_added": "2026/04/28 02:21 PM",
-          "file_id": "1424775"
-        },
-        {
-          "file_name": "CUP Staff Report 3944 Spiral Springs Reenew Retreat (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1402425.pdf",
-          "date_added": "2026/03/09 07:11 PM",
-          "file_id": "1402425"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

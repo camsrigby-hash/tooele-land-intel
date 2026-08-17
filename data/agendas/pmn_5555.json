@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-08-10T09:22:41.992507+00:00",
+  "scraped_at": "2026-08-17T08:45:27.537579+00:00",
   "notices": [
     {
       "notice_id": "1100541",
@@ -60,6 +60,39 @@
       "canceled": false
     },
     {
+      "notice_id": "1102177",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102177.html",
+      "title": "City Council Agenda",
+      "event_date": "August 18, 2026 05:30 PM",
+      "event_date_iso": "2026-08-18T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\n\r\nTuesday, August 18, 2026, 5:30 PM\r\n\r\n1020 E. Pioneer Rd.\r\n\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\n\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nReport: Great Salt Lake Preservation Efforts - Jordan Valley Water Conservancy District and the Great Salt Lake Commissioners Office\r\n\r\nDiscussion: Community Reinvestment Agency Overview - Mike\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tOaths of Office - Draper City Youth Council\r\n\r\n4.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments that cannot be made within these limits should be submitted in writing to the city recorder at recorder@draperutah.gov prior to noon the day of the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n5.\tConsent Items\r\n\r\n5.a Approve the minutes of the August 4, 2026 City Council Meeting\r\n\r\n6.\tItems for Council Consideration\r\n\r\n6.a Public Hearing: Ordinance # 1736\r\n\r\nAn ordinance of Draper City amending the text of Chapter 9-11 of the Draper City Municipal Code related to residential units in the Town Center. Known as the City Initiated Town Center Residential Zoning Text Amendment. Staff report by Todd Taylor.\r\n \r\n6.b Public Hearing: Resolution #26-39\r\n\r\nA resolution adopting the final Draper City Budget including compensation schedules and adopting the certified tax rate for the fiscal year 2026-2027. Staff report by John Vuyk.\r\n\r\n6.c Action Item: Ordinance #1734\r\n\r\nAn ordinance amending Title 3 of the Draper City Municipal Code governing the structure and procedures of the Planning Commission as Required by State Law. Staff report by Spencer DuShane.\r\n\r\n7.\tRecess to a Community Reinvestment Agency Meeting\r\n\r\n8.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held August 18, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nPosted this 14th day of August, 2026.\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "August 14, 2026 03:25 PM",
+      "attachments": [
+        {
+          "file_name": "2026-08-18 Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1475375.pdf",
+          "date_added": "2026/08/14 03:25 PM",
+          "file_id": "1475375"
+        },
+        {
+          "file_name": "2026-08-18 Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1475377.pdf",
+          "date_added": "2026/08/14 03:25 PM",
+          "file_id": "1475377"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1100302",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100302.html",
       "title": "City Council Agenda - Truth in Taxation Public Hearing",
@@ -82,6 +115,20 @@
           "url": "https://www.utah.gov/pmn/files/1471624.pdf",
           "date_added": "2026/08/07 12:08 PM",
           "file_id": "1471624"
+        },
+        {
+          "file_name": "FY2027 Truth in Taxation - SL County.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1474221.pdf",
+          "date_added": "2026/08/13 11:22 AM",
+          "file_id": "1474221"
+        },
+        {
+          "file_name": "FY2027 Truth in Taxation - UT County.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1474223.pdf",
+          "date_added": "2026/08/13 11:22 AM",
+          "file_id": "1474223"
         }
       ],
       "canceled": false
@@ -251,32 +298,6 @@
           "url": "https://www.utah.gov/pmn/files/1465363.pdf",
           "date_added": "2026/07/22 02:24 PM",
           "file_id": "1465363"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094685",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094685.html",
-      "title": "Notice of Public Hearing: Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests",
-      "event_date": "July 21, 2026 07:00 PM",
-      "event_date_iso": "2026-07-21T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on July 10, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed requests. The property is located at approximately 273 E. 13800 S. The purposes of the requests are to change the Land Use Map from the Commercial Office/Service designation to the Regional Commercial designation and the Zoning Map from the RA1 (Residential, Agricultural) zone to the CR (Regional Commercial) zone.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on July 21, 2026, at 7:00 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov.  \r\n\r\nDated this 10th Day of July, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "July 10, 2026 11:59 AM",
-      "attachments": [
-        {
-          "file_name": "CC 7.21 Solid Construction Land Use Map Amendment and Zoning Map Amendment Requests.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460347.pdf",
-          "date_added": "2026/07/10 11:59 AM",
-          "file_id": "1460347"
         }
       ],
       "canceled": false
