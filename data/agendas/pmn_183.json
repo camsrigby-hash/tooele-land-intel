@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-08-17T08:46:03.239562+00:00",
+  "scraped_at": "2026-08-24T08:50:26.067526+00:00",
   "notices": [
+    {
+      "notice_id": "1103269",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103269.html",
+      "title": "Planning Commission Public Notice",
+      "event_date": "September 2, 2026 06:30 PM",
+      "event_date_iso": "2026-09-02T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on September 2, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Park Strips and Trees, of the American Fork City Municipal Code. Amending Chapter 12.16, the Code Text Amendment plans to repeal the existing chapter 12.16 of the American Fork City Code and replace it with the new Chapter 12.16 to provide codification, repeal of conflicting provisions, severability, and an effective date for an updated park strips and trees ordinance.      \r\n\r\n \tDescription: Providing a new and rewritten Chapter 12.16 of the American Fork City Code to provide regulations regarding park strips and trees. This code will provide information regarding planting trees within park strips and repeal conflicting provisions of the City code. \r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
+      "meeting_location": "31 N Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "August 20, 2026 10:14 AM",
+      "attachments": [
+        {
+          "file_name": "2026.09.02_PC Public Notice Letter.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1477613.pdf",
+          "date_added": "2026/08/20 10:15 AM",
+          "file_id": "1477613"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098461",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098461.html",
@@ -316,31 +343,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1069503",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069503.html",
-      "title": "Planning Commission Agenda - Canceled",
-      "event_date": "April 8, 2026 06:31 PM",
-      "event_date_iso": "2026-04-08T18:31:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA - Canceled\r\n________________________________________\r\n\r\nRegular Session- Canceled \r\nApril 8, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________\r\nPlanning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission regular session on April 8, 2026, has been canceled. \r\n\r\nDated this 30th day of March 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "March 31, 2026 08:06 AM",
-      "attachments": [
-        {
-          "file_name": "04.08.2026 Planning Commission Agenda - Canceled.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1411977.pdf",
-          "date_added": "2026/03/31 08:05 AM",
-          "file_id": "1411977"
-        }
-      ],
-      "canceled": true
     }
   ]
 }

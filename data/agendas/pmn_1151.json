@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "1151",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1151.html",
-  "scraped_at": "2026-08-17T08:45:03.570878+00:00",
+  "scraped_at": "2026-08-24T08:49:26.449358+00:00",
   "notices": [
     {
       "notice_id": "1101649",
@@ -21,6 +21,20 @@
       "contact_email": "anhansen@herriman.gov",
       "posted_on": "August 13, 2026 10:19 AM",
       "attachments": [
+        {
+          "file_name": "2026_08_19 PCM.MP3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1477483.MP3",
+          "date_added": "2026/08/20 08:25 AM",
+          "file_id": "1477483"
+        },
+        {
+          "file_name": "2026_08_19 PCWM.MP3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1477485.MP3",
+          "date_added": "2026/08/20 08:25 AM",
+          "file_id": "1477485"
+        },
         {
           "file_name": "2026_08_19 Agenda Packet.pdf",
           "category": "Public Information Handout",
@@ -85,6 +99,13 @@
       "contact_email": "anhansen@herriman.gov",
       "posted_on": "July 09, 2026 01:46 PM",
       "attachments": [
+        {
+          "file_name": "2026_07_15 PC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1477475.pdf",
+          "date_added": "2026/08/20 07:40 AM",
+          "file_id": "1477475"
+        },
         {
           "file_name": "2026_07_15 PC Packet.pdf",
           "category": "Public Information Handout",

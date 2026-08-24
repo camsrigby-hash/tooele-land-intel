@@ -4,7 +4,7 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-08-17T08:42:39.894550+00:00",
+  "scraped_at": "2026-08-24T08:47:02.668332+00:00",
   "notices": [
     {
       "notice_id": "1100667",
@@ -21,6 +21,13 @@
       "contact_email": null,
       "posted_on": "August 10, 2026 10:40 AM",
       "attachments": [
+        {
+          "file_name": "8-11-26 Audio of Planning Commission Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1476087.mp3",
+          "date_added": "2026/08/17 08:11 PM",
+          "file_id": "1476087"
+        },
         {
           "file_name": "Allred minor sub private road CUP staff report (1).pdf",
           "category": "Public Information Handout",
@@ -95,6 +102,13 @@
           "url": "https://www.utah.gov/pmn/files/1453955.mp3",
           "date_added": "2026/06/24 12:34 PM",
           "file_id": "1453955"
+        },
+        {
+          "file_name": "6-23-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1478373.pdf",
+          "date_added": "2026/08/21 11:15 AM",
+          "file_id": "1478373"
         },
         {
           "file_name": "6-23-26 Planning Commission Agenda (1).docx",

@@ -4,8 +4,33 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-08-17T08:45:51.370609+00:00",
+  "scraped_at": "2026-08-24T08:50:13.902385+00:00",
   "notices": [
+    {
+      "notice_id": "1103557",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103557.html",
+      "title": "08.25.26 City Council agenda",
+      "event_date": "August 25, 2026 07:00 PM",
+      "event_date_iso": "2026-08-25T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nAUGUST 25, 2026\r\n\t\tMEETING AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a regular session on Tuesday, August 25, 2026, in City Hall, located at 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation by Council Member Taylor; roll call. \r\n2.\tTwenty-minute public comment period - limited to two minutes per person. \r\n3.\tCity Administrator's Report \r\n4.\tCouncil Reports \r\n5.\tMayor's Report \r\nCOMMON CONSENT AGENDA\r\n (Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the July 14, 2026, city council minutes. \r\n2.\tApproval of the July 28, 2026, city council minutes. \r\n3.\tApproval of the August 4, 2026, work session minutes. \r\n4.\tApproval of the August 11, 2026, public hearing minutes. \r\n5.\tApproval of a Reimbursement Agreement with Bridge Haven for Bridges at Fox Hollow Plat B. \r\n6.\tApproval of a Reimbursement Agreement with Deborah and Maurice Navarro for 247 East 700 North. \r\n7.\tRatification of city payments (July 22, 2026, to August 18, 2026) and approval of purchase requests over $50,000. \r\nACTION ITEMS\r\n1.\tReview and action on a resolution setting the 2026 Tax Rate for Fiscal Year Ending June 30, 2027.\r\n2.\tReview and action on a resolution adopting the fiscal year ending June 30, 2027, city budgets.\r\n3.\tReview and action on the CDBG Subrecipient Agreement for American Fork City Culinary Waterline Improvements - CDBG 11 King Street.\r\n4.\tReview and action on a pioneering agreement with AFEW1 LLC for system improvements association with the Edgewater and the Yard subdivisions. \r\n5.\tReview and action on approval to move forward with improvements at the American Fork City Cemetery.\r\n6.\tReview and action on approval of the real estate exchange agreement with NBFF Property LLC, Harbor View Development LLC, Rammell Prospective LLC, Russgan LLC, NPF Investments LLC and Walking the Wire LLC. for Lake Shore Drive.\r\n7.\tReview and action on a resolution approving the disposition of lost or mislaid property or seized property.\r\n8.\tReview and action on a resolution appointing Mayor Frost to the Utah Lake Authority Governing Board.\r\n9.\tConsideration and action on entering into a closed session to discuss (A) the sale, purchase, and/or lease of real property; (B) pending or reasonably imminent litigation; and (C) the professional character or competence of an individual(s) as described in Utah State Code 52-4-204 and 52-4-205. \r\n10.\tAdjournment. \r\n\r\nDated this 21st day of August 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.\r\n-\tPersons addressing the Council during public comment may submit written materials to the City Recorder. When practicable, the Recorder shall distribute copies to the Council or provide them electronically after the meeting. Submission of written materials does not require the Council to review, discuss, or respond to the materials during the meeting. The presiding officer may impose reasonable, content-neutral limitations regarding the format, number of copies, or method of submission to ensure the orderly conduct of the meeting.",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 21, 2026 10:19 AM",
+      "attachments": [
+        {
+          "file_name": "08.25.26 CC Agenda and packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1478261.pdf",
+          "date_added": "2026/08/21 10:18 AM",
+          "file_id": "1478261"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1101853",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101853.html",
@@ -242,24 +267,6 @@
           "file_id": "1448589"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1085035",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085035.html",
-      "title": "06.09.26 Public Hearing - FY2027 Municipal Officers compensation",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, June 9, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the American Fork City FY 2027 (July 1, 2026, to June 30, 2027) Executive Municipal Officers Compensation Increases. \r\nAll interested people are invited to attend.\r\nDated the 1st day of June 2026",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 01, 2026 09:35 AM",
-      "attachments": [],
       "canceled": false
     }
   ]

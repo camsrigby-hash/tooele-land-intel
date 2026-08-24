@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-08-17T08:43:39.709999+00:00",
+  "scraped_at": "2026-08-24T08:48:02.712939+00:00",
   "notices": [
     {
       "notice_id": "1102257",
@@ -23,11 +23,86 @@
       "posted_on": "August 14, 2026 05:59 PM",
       "attachments": [
         {
+          "file_name": "2026-08-18 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1476155.pdf",
+          "date_added": "2026/08/18 09:03 AM",
+          "file_id": "1476155"
+        },
+        {
           "file_name": "2026-08-18 cc packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1475495.pdf",
-          "date_added": "2026/08/14 05:59 PM",
-          "file_id": "1475495"
+          "url": "https://www.utah.gov/pmn/files/1476157.pdf",
+          "date_added": "2026/08/18 09:03 AM",
+          "file_id": "1476157"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1098077",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098077.html",
+      "title": "City Council Meeting - Special Truth in Taxation Public Hearing",
+      "event_date": "August 11, 2026 06:00 PM",
+      "event_date_iso": "2026-08-11T18:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "AGENDA - Truth in Taxation Public Hearing Meeting \r\nCity Council\r\nCITY OF SARATOGA SPRINGS\r\nTuesday, August 11, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers - 319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nTRUTH IN TAXATION SESSION\r\n\r\nWELCOME AND CALL TO ORDER \r\n1.\tRoll Call. \r\n2.\tMoment of Reflection.\r\n3.\tPledge of Allegiance. \r\n\r\nPUBLIC HEARINGS AND RELATED ACTIONS \r\n\tThe Council will accept public comment and may approve the following items:\r\n\r\n1.\tPublic Hearing on the Proposed Tax Increase for the City of Saratoga Springs.\r\na.\tPresentation of Proposed Tax Increase.\r\n-\tThe City of Saratoga Springs is proposing a 50.03% property tax increase for an additional $3,100,000 in revenue that would be generated each year by the proposed increase in the certified tax rate; for the purpose of funding public safety with the intended use of adding additional Fire and Police services.\r\nb.\tPublic Comment. Limit of 3 minutes per speaker, unused time may not be given to another. \r\n\r\n2.\tConsideration of Resolution R26-44 (08-11-26) adopting the certified tax rate for the general revenue fund for fiscal year 2026-2027.\r\n\r\n3.\tPublic Hearing for the City of Saratoga Springs' Final Fiscal Year 2026-2027 Budget.\r\na.\tPresentation on the FY 2026-27 Final Budget.\r\nb.\tPublic Comments. Limit of 3 minutes per speaker, unused time may not be given to another.\r\n\r\n4.\tConsideration of Ordinance 26-35 (08-11-26) adopting a Final Budget for FY 2026-2027, including a property tax rate increase, compensation schedule for elected and statutory officers, and compensation increase for defined municipal officers. \r\n\r\nADJOURNMENT\r\n\r\n\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the City of Saratoga Springs by visiting www.saratogasprings-ut.gov/propertytax. Instructions for virtual participation in the public hearing will be available at www.saratogasprings-ut.gov/propertytax no later than 24 hours before the public hearing is scheduled to begin.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "July 28, 2026 06:03 PM",
+      "attachments": [
+        {
+          "file_name": "2026-08-11 cc audio.MP3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1473425.MP3",
+          "date_added": "2026/08/12 11:44 AM",
+          "file_id": "1473425"
+        },
+        {
+          "file_name": "2026-08-11 cc approved minutes TnT.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1476845.pdf",
+          "date_added": "2026/08/19 09:45 AM",
+          "file_id": "1476845"
+        },
+        {
+          "file_name": "2026 T-in-T Ad - Utah Co Combined-Proof.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466989.pdf",
+          "date_added": "2026/07/28 06:00 PM",
+          "file_id": "1466989"
+        },
+        {
+          "file_name": "2026-08-11 NOTICE OF PROPOSED TAX INCREASE 26-27.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466991.pdf",
+          "date_added": "2026/07/28 06:00 PM",
+          "file_id": "1466991"
+        },
+        {
+          "file_name": "Property Tax Impact Schedule.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1469337.pdf",
+          "date_added": "2026/08/04 07:57 AM",
+          "file_id": "1469337"
+        },
+        {
+          "file_name": "2026-08-11 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1470563.pdf",
+          "date_added": "2026/08/05 03:44 PM",
+          "file_id": "1470563"
+        },
+        {
+          "file_name": "2026-08-11 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1470565.pdf",
+          "date_added": "2026/08/05 03:45 PM",
+          "file_id": "1470565"
         }
       ],
       "canceled": false
@@ -86,67 +161,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1098077",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098077.html",
-      "title": "City Council Meeting - Special Truth in Taxation Public Hearing",
-      "event_date": "August 11, 2026 06:00 PM",
-      "event_date_iso": "2026-08-11T18:00:00",
-      "notice_types": [
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "AGENDA - Truth in Taxation Public Hearing Meeting \r\nCity Council\r\nCITY OF SARATOGA SPRINGS\r\nTuesday, August 11, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers - 319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nTRUTH IN TAXATION SESSION\r\n\r\nWELCOME AND CALL TO ORDER \r\n1.\tRoll Call. \r\n2.\tMoment of Reflection.\r\n3.\tPledge of Allegiance. \r\n\r\nPUBLIC HEARINGS AND RELATED ACTIONS \r\n\tThe Council will accept public comment and may approve the following items:\r\n\r\n1.\tPublic Hearing on the Proposed Tax Increase for the City of Saratoga Springs.\r\na.\tPresentation of Proposed Tax Increase.\r\n-\tThe City of Saratoga Springs is proposing a 50.03% property tax increase for an additional $3,100,000 in revenue that would be generated each year by the proposed increase in the certified tax rate; for the purpose of funding public safety with the intended use of adding additional Fire and Police services.\r\nb.\tPublic Comment. Limit of 3 minutes per speaker, unused time may not be given to another. \r\n\r\n2.\tConsideration of Resolution R26-44 (08-11-26) adopting the certified tax rate for the general revenue fund for fiscal year 2026-2027.\r\n\r\n3.\tPublic Hearing for the City of Saratoga Springs' Final Fiscal Year 2026-2027 Budget.\r\na.\tPresentation on the FY 2026-27 Final Budget.\r\nb.\tPublic Comments. Limit of 3 minutes per speaker, unused time may not be given to another.\r\n\r\n4.\tConsideration of Ordinance 26-35 (08-11-26) adopting a Final Budget for FY 2026-2027, including a property tax rate increase, compensation schedule for elected and statutory officers, and compensation increase for defined municipal officers. \r\n\r\nADJOURNMENT\r\n\r\n\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the City of Saratoga Springs by visiting www.saratogasprings-ut.gov/propertytax. Instructions for virtual participation in the public hearing will be available at www.saratogasprings-ut.gov/propertytax no later than 24 hours before the public hearing is scheduled to begin.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "July 28, 2026 06:03 PM",
-      "attachments": [
-        {
-          "file_name": "2026-08-11 cc audio.MP3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1473425.MP3",
-          "date_added": "2026/08/12 11:44 AM",
-          "file_id": "1473425"
-        },
-        {
-          "file_name": "2026 T-in-T Ad - Utah Co Combined-Proof.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466989.pdf",
-          "date_added": "2026/07/28 06:00 PM",
-          "file_id": "1466989"
-        },
-        {
-          "file_name": "2026-08-11 NOTICE OF PROPOSED TAX INCREASE 26-27.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466991.pdf",
-          "date_added": "2026/07/28 06:00 PM",
-          "file_id": "1466991"
-        },
-        {
-          "file_name": "Property Tax Impact Schedule.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1469337.pdf",
-          "date_added": "2026/08/04 07:57 AM",
-          "file_id": "1469337"
-        },
-        {
-          "file_name": "2026-08-11 cc agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1470563.pdf",
-          "date_added": "2026/08/05 03:44 PM",
-          "file_id": "1470563"
-        },
-        {
-          "file_name": "2026-08-11 cc packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1470565.pdf",
-          "date_added": "2026/08/05 03:45 PM",
-          "file_id": "1470565"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1098155",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098155.html",
       "title": "City Council Meeting",
@@ -161,6 +175,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "July 29, 2026 11:13 AM",
       "attachments": [
+        {
+          "file_name": "2026-08-04 cc approved minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1477075.pdf",
+          "date_added": "2026/08/19 12:24 PM",
+          "file_id": "1477075"
+        },
         {
           "file_name": "2026-08-04 cc agenda.pdf",
           "category": "Public Information Handout",
@@ -193,7 +214,15 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "July 29, 2026 02:42 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "2026-07-30 cc approved minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1477093.pdf",
+          "date_added": "2026/08/19 12:47 PM",
+          "file_id": "1477093"
+        }
+      ],
       "canceled": false
     },
     {

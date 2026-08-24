@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-08-17T08:43:16.141532+00:00",
+  "scraped_at": "2026-08-24T08:47:38.656988+00:00",
   "notices": [
     {
       "notice_id": "1100095",
@@ -41,24 +41,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1095523",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095523.html",
-      "title": "Public Hearing Notice Impact Fee Enactment",
-      "event_date": "July 28, 2026 07:00 PM",
-      "event_date_iso": "2026-07-28T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "July 14, 2026\r\nLehi City\r\nPublic Hearing Notice\r\nImpact Fee Enactment\r\n\r\nNotice is hereby given that Lehi City intends to adopt an Impact Fee Enactment Ordinance, Impact Fee Facilities Plan and Impact Fee Analysis for the provision of public safety facilities within Lehi City. The Lehi City Council will hold a public hearing on Tuesday, July 28, 2026, at 7:00 p.m. at Lehi City Hall in the Council Chambers, 131 N 100 E, Lehi, Utah. The purpose of the public hearing is to receive input and consider approval and adoption of the Impact Fee Enactment Ordinance, Impact Fee Facilities Plan, and Impact Fee Analysis. All interested persons shall be given the opportunity to be heard. Written comments are welcome.\r\n\r\nCopies of the Impact Fee Enactment Ordinance, Impact Fee Facilities Plan, and Impact Fee Analysis are available for public review at the Lehi City Office or by contacting the City Recorder, twilson@lehi-ut.gov; 385-201-2269. In accordance with the Americans with Disabilities Act, the city will make reasonable accommodations to participants in the hearing. Requests for assistance can be made by calling 385-201-2269 at least 48 hours in advance of the hearing.",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "July 14, 2026 05:31 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1096943",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096943.html",
       "title": "Lehi City Notice of Public Hearing for Executive Officers Compensation",
@@ -73,6 +55,24 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "July 21, 2026 11:31 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1095523",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095523.html",
+      "title": "Public Hearing Notice Impact Fee Enactment",
+      "event_date": "July 28, 2026 07:00 PM",
+      "event_date_iso": "2026-07-28T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "July 14, 2026\r\nLehi City\r\nPublic Hearing Notice\r\nImpact Fee Enactment\r\n\r\nNotice is hereby given that Lehi City intends to adopt an Impact Fee Enactment Ordinance, Impact Fee Facilities Plan and Impact Fee Analysis for the provision of public safety facilities within Lehi City. The Lehi City Council will hold a public hearing on Tuesday, July 28, 2026, at 7:00 p.m. at Lehi City Hall in the Council Chambers, 131 N 100 E, Lehi, Utah. The purpose of the public hearing is to receive input and consider approval and adoption of the Impact Fee Enactment Ordinance, Impact Fee Facilities Plan, and Impact Fee Analysis. All interested persons shall be given the opportunity to be heard. Written comments are welcome.\r\n\r\nCopies of the Impact Fee Enactment Ordinance, Impact Fee Facilities Plan, and Impact Fee Analysis are available for public review at the Lehi City Office or by contacting the City Recorder, twilson@lehi-ut.gov; 385-201-2269. In accordance with the Americans with Disabilities Act, the city will make reasonable accommodations to participants in the hearing. Requests for assistance can be made by calling 385-201-2269 at least 48 hours in advance of the hearing.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "July 14, 2026 05:31 PM",
       "attachments": [],
       "canceled": false
     },
@@ -128,6 +128,24 @@
       "canceled": false
     },
     {
+      "notice_id": "1085509",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085509.html",
+      "title": "NOTICE OF PUBLIC HEARING FOR ELECTED OFFICERS COMPENSATION",
+      "event_date": "June 9, 2026 07:00 PM",
+      "event_date_iso": "2026-06-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding the FY 2027 compensation for Elected Officials.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "June 02, 2026 02:38 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1082333",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082333.html",
       "title": "Lehi City Notice of Public Hearing- Fee Schedule Amendment Power",
@@ -146,38 +164,20 @@
       "canceled": false
     },
     {
-      "notice_id": "1082329",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1082329.html",
-      "title": "Lehi City Notice of Public Hearing FY 2026 Budget Amendment",
+      "notice_id": "1085283",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085283.html",
+      "title": "Notice of Public Hearing for Executive Officers Compensation Increases",
       "event_date": "June 9, 2026 07:00 PM",
       "event_date_iso": "2026-06-09T19:00:00",
       "notice_types": [
         "Notice",
         "Hearing"
       ],
-      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING\r\n\r\n FY2026 BUDGET AMENDMENT\r\n \r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding an amendment to the Lehi City FY2026 Budget.\r\n\r\nDated this 20th day of May, 2026.",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 20, 2026 09:27 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1085509",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085509.html",
-      "title": "NOTICE OF PUBLIC HEARING FOR ELECTED OFFICERS COMPENSATION",
-      "event_date": "June 9, 2026 07:00 PM",
-      "event_date_iso": "2026-06-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding the FY 2027 compensation for Elected Officials.",
+      "agenda_text": "LEHI CITY PUBLIC NOTICE\r\n\r\nPUBLIC HEARING FOR EXECUTIVE OFFICERS \r\nCOMPENSATION INCREASES\r\n\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, June 9, 2026, which begins at 7:00 p.m. at the Lehi City Council Chambers located at 131 N 100 E, Lehi, Utah, for the purpose of receiving input regarding the FY2027 Executive Municipal Officers Compensation Increases. Public comments are invited.\r\n\r\n\r\nDated this 1st day of June, 2026.\r\n\r\nCITY OF LEHI, UTAH",
       "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "June 02, 2026 02:38 PM",
+      "posted_on": "June 01, 2026 05:30 PM",
       "attachments": [],
       "canceled": false
     }

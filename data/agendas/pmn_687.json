@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "687",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/687.html",
-  "scraped_at": "2026-08-17T08:43:04.047298+00:00",
+  "scraped_at": "2026-08-24T08:47:26.670270+00:00",
   "notices": [
     {
       "notice_id": "1102225",
@@ -77,6 +77,13 @@
       "contact_email": "shilob@tooelecity.gov",
       "posted_on": "August 10, 2026 09:35 AM",
       "attachments": [
+        {
+          "file_name": "08.12.2026 PC Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1476125.mp3",
+          "date_added": "2026/08/18 08:31 AM",
+          "file_id": "1476125"
+        },
         {
           "file_name": "081226PC_Agenda.pdf",
           "category": "Public Information Handout",
@@ -266,6 +273,13 @@
           "url": "https://www.utah.gov/pmn/files/1464117.pdf",
           "date_added": "2026/07/20 09:49 AM",
           "file_id": "1464117"
+        },
+        {
+          "file_name": "07.22.2026_PCMinutes.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1475723.pdf",
+          "date_added": "2026/08/17 11:57 AM",
+          "file_id": "1475723"
         }
       ],
       "canceled": false
