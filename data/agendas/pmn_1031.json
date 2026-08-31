@@ -4,8 +4,65 @@
   "public_body": "City Council",
   "body_id": "1031",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
-  "scraped_at": "2026-08-24T08:48:50.078850+00:00",
+  "scraped_at": "2026-08-31T15:54:39.490475+00:00",
   "notices": [
+    {
+      "notice_id": "1104641",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104641.html",
+      "title": "Notice of Meeting Cancelation - September 1, 2026 City Council Study Meeting and City Council Meeting",
+      "event_date": "September 1, 2026 04:30 PM",
+      "event_date_iso": "2026-09-01T16:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "CITY OF SOUTH JORDAN CITY COUNCIL STUDY MEETING\r\n\r\nNOTICE IS HEREBY GIVEN, the City Council Study Meeting scheduled for September 1, 2026, at 4:30 p.m. and the City Council Meeting for Sepetmber 1, 2026, at 6:30 p.m. has been CANCELED.\r\n\r\nThe next City Council Study Meeting and City Council Meeting is scheduled for September 15, 2026.\r\n\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted August 27, 2026.\r\n \r\nAnna Crookston, City Recorder\t\r\nCity of South Jordan, State of Utah",
+      "meeting_location": "1600 W. Towne Center Drive Contact: City Recorder, Anna Crookston South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "August 27, 2026 12:42 PM",
+      "attachments": [
+        {
+          "file_name": "CITY COUNCIL STUDY MEETING_CANCELED MEETING NOTICE.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480603.pdf",
+          "date_added": "2026/08/27 12:41 PM",
+          "file_id": "1480603"
+        },
+        {
+          "file_name": "CITY COUNCIL MEETING_CANCELED MEETING NOTICE.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480605.pdf",
+          "date_added": "2026/08/27 12:41 PM",
+          "file_id": "1480605"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1103915",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103915.html",
+      "title": "City of South Jordan Notice of Ordinance Adoption Ordinance 2026-21",
+      "event_date": "August 24, 2026 01:00 PM",
+      "event_date_iso": "2026-08-24T13:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on August 24, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/index.html, South Jordan City Website  https://sjc.utah.gov/241/City-Council and at City Hall, 1600 W. Towne Center Drive, South Jordan, UT 84095 \r\n\r\nCity of South Jordan Notice of Ordinance Adoption - Ordinance 2026-21. \r\n\r\nORDINANCE 2026-21, VACATING THE ROSARY WAY RIGHT-OF-WAY. APPROVED 08-18-2026 BY 5-0 VOTE.\r\n\r\nThe complete ordinance is on file at the South Jordan City Recorder's Office and attached to this notice. Published this 24th day of August, 2026. \r\n\r\n \r\nAnna Crookston, South Jordan City Recorder.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Recorder - Anna Crookston South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "August 24, 2026 12:29 PM",
+      "attachments": [
+        {
+          "file_name": "Ordinance 2026-21 UPN Publication_FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1479013.pdf",
+          "date_added": "2026/08/24 12:29 PM",
+          "file_id": "1479013"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1102007",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102007.html",
@@ -234,60 +291,6 @@
           "url": "https://www.utah.gov/pmn/files/1468295.pdf",
           "date_added": "2026/07/31 11:58 AM",
           "file_id": "1468295"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094641",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094641.html",
-      "title": "NOTICE OF INTENT TO AMEND AND UPDATE WATER IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)",
-      "event_date": "July 21, 2026 06:30 PM",
-      "event_date_iso": "2026-07-21T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF INTENT TO AMEND AND UPDATE WATER IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA) \r\n\r\nSouth Jordan City, located in Salt Lake County, Utah serving development within the City's current municipal boundaries, intends to amend and update its Impact Fee Facilities Plan (IFFP) and Impact Fee Analysis (IFA) related to water infrastructure in the following service area: Lark Meadows (AKA Shoreline) (Ordinance 2026-14) see service areas map below.\r\n\r\nNotice is hereby given of a Public Hearing at 6:30pm on Tuesday, July 21, 2026 at South Jordan City Council Chambers (1600 W Towne Center Dr. South Jordan, UT 84095).  The City invites the public to attend the hearing and provide any comments related to the referenced documents.  The draft documents are also available for review at both South Jordan libraries (South Jordan Library, 10673 S Redwood Rd and Daybreak Library, 11358 Grandville Ave) and on the City's website at https://ut-southjordan.civicplus.com/500/Public-Notices.",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "July 10, 2026 10:39 AM",
-      "attachments": [
-        {
-          "file_name": "Notice for updated IFFP and IFA for water and transportation (Lark Meadows)_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460241.pdf",
-          "date_added": "2026/07/10 10:39 AM",
-          "file_id": "1460241"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094663",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094663.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "July 21, 2026 06:30 PM",
-      "event_date_iso": "2026-07-21T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\n\r\nNotice is hereby given that the South Jordan City Council will hold an in-person meeting on Tuesday, July 21, 2026, beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n\r\n. Ordinance 2026-16, Amending Chapter 17.18.020: Allowed Uses, adding residential permitted uses to the BH-MU zone and amending Chapter 17.70.020: Zone Establishment, requiring a development agreement.\r\n\r\n\r\n. Ordinance 2026-17, Repealing exhibit A to ordinance 2010.04 regarding the BHMU Zone.\r\n\r\n\r\n. Resolution R2026-21, Authorizing the Mayor to sign the Second Amendment to the Development Agreement for the Development of the Kunkler Trust Property by the Boyer Company, LC.\r\n\r\n\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing. All those who desire to attend the meeting via Zoom, please visit https://ut-southjordan.civicplus.com/241/City-Council for further instructions on the day of the meeting. Ability to connect is dependent on an individual's internet connection, not the City.\r\n\r\n\r\nTo assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Ryan Loose at rloose@sjc.utah.gov by 12:00 p.m. on July 21, 2026. Attachments cannot exceed 10 Mb in size.\r\n\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.\r\n\r\n\r\nGreg Schindler, AICP\r\n\r\nCity Planner",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "July 10, 2026 11:24 AM",
-      "attachments": [
-        {
-          "file_name": "State Notice Website Combined Notice-City Council.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460281.pdf",
-          "date_added": "2026/07/10 11:24 AM",
-          "file_id": "1460281"
         }
       ],
       "canceled": false

@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-08-24T08:47:50.638308+00:00",
+  "scraped_at": "2026-08-31T15:53:42.266037+00:00",
   "notices": [
     {
       "notice_id": "1102397",
@@ -78,23 +78,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1084221",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084221.html",
-      "title": "Public Hearings Notice",
-      "event_date": "June 11, 2026 07:00 PM",
-      "event_date_iso": "2026-06-11T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 28, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.   \r\n\r\nPublic hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area. \r\n\r\nPublic hearing and consideration of Grow Development's request for approval of the Cortese Preliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone. \r\n\r\nPublic hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).   \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 28, 2026 12:16 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1087839",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087839.html",
       "title": "Planning Commission Agenda",
@@ -108,6 +91,23 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "June 10, 2026 10:08 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1084221",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084221.html",
+      "title": "Public Hearings Notice",
+      "event_date": "June 11, 2026 07:00 PM",
+      "event_date_iso": "2026-06-11T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 28, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.   \r\n\r\nPublic hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area. \r\n\r\nPublic hearing and consideration of Grow Development's request for approval of the Cortese Preliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone. \r\n\r\nPublic hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).   \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "May 28, 2026 12:16 PM",
       "attachments": [],
       "canceled": false
     },
@@ -155,6 +155,24 @@
       "canceled": false
     },
     {
+      "notice_id": "1076755",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076755.html",
+      "title": "Public Hearings Notice",
+      "event_date": "May 14, 2026 07:00 PM",
+      "event_date_iso": "2026-05-14T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 14, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in lieu for connectivity. \r\n\r\nPublic hearing and consideration of Michael Southwick's request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West. \r\n\r\nPublic hearing and consideration of Gardner's request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 1940 North 3600 West.  \r\n\r\nPublic hearing and consideration of Grow Development's request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "April 30, 2026 09:44 AM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1080311",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1080311.html",
       "title": "Planning Commission Agenda",
@@ -177,24 +195,6 @@
           "file_id": "1458731"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1076755",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1076755.html",
-      "title": "Public Hearings Notice",
-      "event_date": "May 14, 2026 07:00 PM",
-      "event_date_iso": "2026-05-14T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 14, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Symphony Development's request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West 800 North, including density in lieu for connectivity. \r\n\r\nPublic hearing and consideration of Michael Southwick's request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West. \r\n\r\nPublic hearing and consideration of Gardner's request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 1940 North 3600 West.  \r\n\r\nPublic hearing and consideration of Grow Development's request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "April 30, 2026 09:44 AM",
-      "attachments": [],
       "canceled": false
     }
   ]

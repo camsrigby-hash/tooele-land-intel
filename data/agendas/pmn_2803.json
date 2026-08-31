@@ -4,8 +4,35 @@
   "public_body": "City Council & Planning Commission",
   "body_id": "2803",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2803.html",
-  "scraped_at": "2026-08-24T08:49:38.265472+00:00",
+  "scraped_at": "2026-08-31T15:55:25.301187+00:00",
   "notices": [
+    {
+      "notice_id": "1104903",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104903.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "September 9, 2026 06:00 PM",
+      "event_date_iso": "2026-09-09T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Notice is hereby given that a public hearing will be held before the Bluffdale City Council on Wednesday, September 9, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on a request to amend the Zoning Map for approximately 2.01 acres at 14433 South 2200 West from R1 Residential to R2 Residential;\r\n\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include '2200 West Zoning' in the subject line of the email.\r\n3.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.",
+      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "August 28, 2026 10:32 AM",
+      "attachments": [
+        {
+          "file_name": "Guymon Zone Change CC Notice (Print 82 Mail 81).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481141.pdf",
+          "date_added": "2026/08/28 10:34 AM",
+          "file_id": "1481141"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1101441",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101441.html",
@@ -242,33 +269,6 @@
           "url": "https://www.utah.gov/pmn/files/1426069.pdf",
           "date_added": "2026/04/30 04:19 PM",
           "file_id": "1426069"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1065863",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1065863.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "March 25, 2026 06:00 PM",
-      "event_date_iso": "2026-03-25T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public meeting will be held before the Bluffdale City Council on Wednesday, March 25, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible, for the purpose of receiving public comment on a proposed Text Amendment to amend the Bringhurst Station Commercial Sub-Districts diagram to allow non-retail businesses in certain areas.\r\nBluffdale Industrial Park, LLC, Applicant, represented by Joshua F. Hunt, Esq. Caitlyn Tubbs, Staff Presenter. (Application 2026-06)\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Text Amendment' in the subject line of the email. Comments should be sent before 4:00 PM on March 25, 2026 to be provided to the City Council in advance of the meeting.\r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South\r\nBluffdale, UT 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
-      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "March 12, 2026 02:54 PM",
-      "attachments": [
-        {
-          "file_name": "Bluffdale Industrial (Bringhurst) Text Amendment_CC Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1404407.pdf",
-          "date_added": "2026/03/12 02:54 PM",
-          "file_id": "1404407"
         }
       ],
       "canceled": false

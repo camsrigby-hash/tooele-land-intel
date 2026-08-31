@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-08-24T08:51:08.346360+00:00",
+  "scraped_at": "2026-08-31T15:56:53.469040+00:00",
   "notices": [
+    {
+      "notice_id": "1104629",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104629.html",
+      "title": "Spanish Fork City - Planning Commission",
+      "event_date": "September 2, 2026 06:00 PM",
+      "event_date_iso": "2026-09-02T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Planning Commission Agenda\r\nWednesday, September 2, 2026\r\n\r\n80 S. Main Street in the Council Chambers at Library Hall\r\n\r\nPUBLIC NOTICE is hereby given that the Planning Commission of Spanish Fork, Utah, will hold a meeting in the City Council Chambers at Library Hall, on the second floor, 80 S. Main Street, Spanish Fork, Utah, with a work session commencing at 5:15 p.m., and the Planning Commission Meeting commencing at 6:00 p.m. on September 2, 2026.\r\n\r\n \r\nPlanning Commissioners:\r\n\r\nMichelle Carroll\r\n\r\nMichael Clayson\r\n\r\nPaul Dayton\r\n\r\nDave Woodhouse\r\n\r\nDarrin Mellor\r\n\r\nMegan Johnson\r\n\r\n \r\nSPANISH FORK CITY does not discriminate on the basis of race, color, national origin, sex, religion, age or disability in the employment or the provision of services. The public is invited to participate in all Spanish Fork City Planning Commission Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If you need special accommodation to participate in the meeting, please contact the Community Development Office at 801-804-4580.\r\n\r\n \r\n1. 5:15 pm WORK SESSION- No formal actions are taken in a work session\r\n \r\n2. 6: 00 pm Agenda Items\r\n \r\n3. ADOPTION OF MINUTES\r\n \r\n3.1 August 5, 2026\r\n \r\n4. Preliminary Plat\r\n \r\n4.1 Meadow Subdivision Plat A\r\nThis proposal involves approval of a Preliminary plat for six single-family residential lots located at 1450 North Meadow Lane.\r\n\r\n5. ZONE CHANGE (Public Hearing)\r\n \r\n5.1 Oak Village Zone Change\r\nThis proposal involves a request to change the zoning of multiple properties from R-R and R-1-12 to P-F, R-1-12 and R-1-9 with the Master Planned Development Overlay. The property is located at approximately 100 South Spanish Fork Parkway. \r\n\r\n6. PRELIMINARY PLAT (Public Hearing)\r\n \r\n6.1 Oak Village Subdivision\r\nThis proposal involves approval of a Preliminary Plat with the Master Planned Development Overlay for 110 single-family residential lots to be located at approximately 100 South Spanish Fork Parkway. \r\n\r\n7. ADJOURNMENT\r\n \r\nEnd",
+      "meeting_location": "80 s Main Street Spanish Fork , UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Kasey Woodard",
+      "contact_email": "kwoodard@spanishfork.org",
+      "posted_on": "August 27, 2026 11:58 AM",
+      "attachments": [
+        {
+          "file_name": "Planning Commission - Sep 02 2026 (2).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480585.pdf",
+          "date_added": "2026/08/27 11:58 AM",
+          "file_id": "1480585"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098235",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098235.html",

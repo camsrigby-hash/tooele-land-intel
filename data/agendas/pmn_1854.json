@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-08-24T08:48:14.547169+00:00",
+  "scraped_at": "2026-08-31T15:54:05.123981+00:00",
   "notices": [
     {
       "notice_id": "1103425",
@@ -95,6 +95,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "August 06, 2026 05:01 PM",
       "attachments": [
+        {
+          "file_name": "2026-08-13 pc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1481227.pdf",
+          "date_added": "2026/08/28 11:38 AM",
+          "file_id": "1481227"
+        },
         {
           "file_name": "2026-08-13 PC Agenda.pdf",
           "category": "Public Information Handout",

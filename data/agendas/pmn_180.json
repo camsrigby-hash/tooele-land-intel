@@ -4,8 +4,67 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-08-24T08:50:13.902385+00:00",
+  "scraped_at": "2026-08-31T15:55:59.559631+00:00",
   "notices": [
+    {
+      "notice_id": "1104279",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104279.html",
+      "title": "09.08.26 Public Hearing - Chipman/Stake Center Annexation",
+      "event_date": "September 8, 2026 07:00 PM",
+      "event_date_iso": "2026-09-08T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "Public Hearing Notice - Chipman/Stake Center Annexation\r\nNotice is hereby given that a petition for annexation was filed with American Fork City. The petition, which was accepted by the city council on July 28, 2026, covers approximately 24 acres consisting of property located at 510 South 100 West. The city recorder certified the petition, and the legislative body provided notice according to Utah Code 10-2-807. A 30-day period was allowed to give property owners and affected entities the opportunity to submit written protests.\r\nA public hearing will be held on Tuesday, September 8, 2026, at 7 p.m. at the American Fork City Hall (31 N. Church Street) to allow the public to comment on the Chipman/Stake Center Annexation. After the public hearing, American Fork City may choose to deny or grant the petition and annex the area described in the petition. \r\nThe complete annexation petition is available for inspection and copying at the American Fork City Recorder's office (51 E. Main Street, American Fork) or by emailing tlurker@americanfork.gov\r\nDated this 25th day of August.\r\n/s/ Terilyn Lurker, City Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 25, 2026 04:41 PM",
+      "attachments": [
+        {
+          "file_name": "7. Public Hearing Notice - Chipman Stake Center Annexation 09.08.261.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1479713.pdf",
+          "date_added": "2026/08/25 04:40 PM",
+          "file_id": "1479713"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1104277",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104277.html",
+      "title": "09.08.26 Public Hearing - Disposition of Real Property",
+      "event_date": "September 8, 2026 07:00 PM",
+      "event_date_iso": "2026-09-08T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, September 8, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the disposition of the following parcels:\r\nParcel Number 13:050:0262 containing 5.524 acres at approximately 700 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:066:0024 containing 0.940 acres at approximately 730 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:050:0263 containing 0.0247 acres at approximately 700 South 25 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 25th day of August 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 25, 2026 04:37 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1104657",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104657.html",
+      "title": "09.01.26 Work Session - canceled",
+      "event_date": "September 1, 2026 04:00 PM",
+      "event_date_iso": "2026-09-01T16:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Notice is hereby given that the American Fork City Council work session scheduled for Tuesday, September 1, 2026, in the City Administration Conference Room, located at 51 East Main, has been canceled.",
+      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 27, 2026 01:19 PM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1103557",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103557.html",
@@ -27,6 +86,13 @@
           "url": "https://www.utah.gov/pmn/files/1478261.pdf",
           "date_added": "2026/08/21 10:18 AM",
           "file_id": "1478261"
+        },
+        {
+          "file_name": "08.25.26 CC Agenda and CORRECTED packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1479305.pdf",
+          "date_added": "2026/08/24 06:07 PM",
+          "file_id": "1479305"
         }
       ],
       "canceled": false
@@ -64,6 +130,13 @@
       "posted_on": "August 10, 2026 10:11 AM",
       "attachments": [
         {
+          "file_name": "08.11.26 Truth in Taxation Public Hearing.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1481179.pdf",
+          "date_added": "2026/08/28 10:51 AM",
+          "file_id": "1481179"
+        },
+        {
           "file_name": "NOTICE OF PROPOSED TAX INCREASE - VIRTUAL PARTICIPATION INFO.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1472089.pdf",
@@ -87,6 +160,38 @@
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "July 30, 2026 03:24 PM",
+      "attachments": [
+        {
+          "file_name": "08.04.26 WS Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1480075.pdf",
+          "date_added": "2026/08/26 01:16 PM",
+          "file_id": "1480075"
+        },
+        {
+          "file_name": "08.04.26 WS Handout - Cemetery Expansion.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481177.pdf",
+          "date_added": "2026/08/28 10:49 AM",
+          "file_id": "1481177"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1104685",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104685.html",
+      "title": "Ordinance No. 2026-07-15",
+      "event_date": "July 28, 2026 07:00 PM",
+      "event_date_iso": "2026-07-28T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Notice of Ordinance Adoption\r\n\r\nNotice is hereby given that on July 28, 2026, the American Fork City Council adopted Ordinance No. 2026-07-15 which approved amending Chapter 15.16 titled 'Floodplain Management' in the American Fork City Code to ensure compliance with updated and revised FEMA regulations and maps. The ordinance is available for public inspection during normal business hours (Monday through Thursday 7 a.m. to 6 p.m.)\r\n\r\nDated this 28th day of August 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 27, 2026 02:19 PM",
       "attachments": [],
       "canceled": false
     },
@@ -105,6 +210,13 @@
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "July 22, 2026 04:53 PM",
       "attachments": [
+        {
+          "file_name": "07.28.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1480065.pdf",
+          "date_added": "2026/08/26 01:08 PM",
+          "file_id": "1480065"
+        },
         {
           "file_name": "07.28.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",
@@ -131,140 +243,18 @@
       "posted_on": "July 09, 2026 07:20 PM",
       "attachments": [
         {
+          "file_name": "07.14.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1481173.pdf",
+          "date_added": "2026/08/28 10:47 AM",
+          "file_id": "1481173"
+        },
+        {
           "file_name": "07.14.26 CC Agenda and corrected packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1461159.pdf",
           "date_added": "2026/07/13 04:24 PM",
           "file_id": "1461159"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1092769",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092769.html",
-      "title": "07.07.2026 City Council work session agenda",
-      "event_date": "July 7, 2026 04:00 PM",
-      "event_date_iso": "2026-07-07T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nJULY 7, 2026\r\n\t\tWORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a work session on Tuesday, July 7, 2026, in the City Administration Conference Room, located at 51 East Main Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nWORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tDiscussion on pressurized irrigation shareholder agreements.\r\n2.\tDiscussion on road cross section with bike lanes and trails.\r\n3.\tDiscussion on trees and park strips.\r\n4.\tAdjourn. \r\n\r\nDated the 1st day of July 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "51 E. Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "July 01, 2026 03:54 PM",
-      "attachments": [
-        {
-          "file_name": "07.07.26 WS Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1467091.pdf",
-          "date_added": "2026/07/29 09:06 AM",
-          "file_id": "1467091"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1090673",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1090673.html",
-      "title": "06.23.26 City Council Agenda",
-      "event_date": "June 23, 2026 07:00 PM",
-      "event_date_iso": "2026-06-23T19:00:00",
-      "notice_types": [
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nJUNE 23, 2026\r\n\t\tCITY COUNCIL AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nThe American Fork City Council will hold a public hearing in conjunction with the regular session on Tuesday, June 23, 2026, in the American Fork City Hall, 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nPUBLIC HEARING\r\n1.\tReceiving public comment regarding proposed pressurized irrigation rate schedule.\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation by Council Member John; roll call. \r\n2.\tTwenty-minute public comment period. Members of the public may address the Council for up to two minutes each. The Council will listen to all comments but will not discuss or respond to matters raised during the public comment period.\r\n3.\tCity Administrator's Report \r\n4.\tCouncil Reports \r\n5.\tMayor's Report \r\nCOMMON CONSENT AGENDA\r\n(Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the May 26, 2026, city council minutes. \r\n2.\tApproval of the June 2, 2026, work session minutes. \r\n3.\tApproval of the authorization to release the Improvements Durability Retainer of $151,471.54 for Edgewater North Roadway, located at 200 South 1100 West. \r\n4.\tRatification of city payments (June 3, 2026, to June 16, 2026) and approval of purchase requests over $50,000. \r\nACTION ITEMS\r\n1.\tReview and action on a resolution adopting the Interim American Fork City budget for fiscal year ending June 30, 2027.\r\n2.\tReview of the resolution adopting the Property Tax Impact Schedule.\r\n3.\tReview and action on approval of a resolution amending the culinary water rates.\r\n4.\tReview and action on approval of a resolution amending the pressurized irrigation rates.\r\n5.\tReview and action on approval of a resolution approving the 2026-2027 General Fee Schedule.\r\n6.\tReview and action on an ordinance approving a proposed Zone Change, known as American Fork Hotel, located at approximately 714 South 600 East. Consisting of 3.13 acres, the property proposes to change from the PI-1 Zone to the GC-2 Zone. \r\n7.\tReview and action on a resolution approving a proposed Land Use Map Amendment, known as Dixie Well (943 South 900 West), located at approximately 943 South 900 West. Consisting of 0.78 acres, the property proposes to change from the Residential Very-Low Density land use designation to the Institutional Lands, Schools and Public Facilities land use designation. \r\n8.\tReview and action on an ordinance approving a proposed Zone Change, known as Dixie Well (943 South 900 West), located at approximately 943 South 900 West. Consisting of 0.78 acres, the property proposes to change from the PR-3.0 Zone to the PF Zone. \r\n9.\tReview and action on a resolution approving a proposed Land Use Map Amendment, known as 13:059:0130 and 13:059:0131 - LUMA, located at approximately 375 South 860 East. Consisting of 1.96 acres, the property proposes to change from the Planned Community land use designation to the Design Commercial land use designation. \r\n10.\tReview and action on an ordinance approving a proposed Zone Change, known as 13:059:0130 and 13:059:0131 - Zone Change, located at approximately 375 South 860 East. Consisting of 1.96 acres, the property proposes to change from the PC and GC-2 Zones to the GC-1 Zone. \r\n11.\tReview and action on the award of the contract for the Dixie Well Drilling Project to Hydro Resources - Rock Mountain, Inc.\r\n12.\tReview and action on a resolution approving a cooperative agreement between American Fork City and Utah Department of Natural Resources Division of Wildlife Resources for funding to replace docks at the American Fork Boat Harbor.\r\n13.\tReview and action on approval of an agreement with the American Fork Chamber of Commerce for the management of the Steel Days celebration.\r\n14.\tAdjournment. \r\n\r\nDated this 19th day of June 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 19, 2026 02:43 PM",
-      "attachments": [
-        {
-          "file_name": "06.23.26 CC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1467455.pdf",
-          "date_added": "2026/07/29 05:24 PM",
-          "file_id": "1467455"
-        },
-        {
-          "file_name": "06.23.26 CC Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1452301.pdf",
-          "date_added": "2026/06/19 02:43 PM",
-          "file_id": "1452301"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1088897",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088897.html",
-      "title": "06.16.2026 City Council Special Session CORRECTED agenda",
-      "event_date": "June 16, 2026 06:00 PM",
-      "event_date_iso": "2026-06-16T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nJUNE 16, 2026\r\n\t\tSPECIAL SESSION AGENDA - *CORRECTED\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a special session on Tuesday, June 16, 2026, in the American Fork City Hall, located at 31 N. Church Street, commencing at 6:00 p.m. The agenda shall be as follows:\r\n\r\nSPECIAL SESSION\r\n1.\t*Review and action on a resolution regarding the PROPOSED Tax Rate and setting the Truth in Taxation Public hearing date for August 11, 2026.\r\n2.\tReview of the resolution adopting the Property Tax Impact Schedule.\r\n3.\tConsideration and action on entering into a closed session to discuss the professional character or competence of an individual(s) as described in Utah State Code 52-4-204 and 52-4-205. \r\n4.\tAdjournment.\r\n\r\nDated the 12th day of June 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 12, 2026 04:00 PM",
-      "attachments": [
-        {
-          "file_name": "06.16.26 SS Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1463149.pdf",
-          "date_added": "2026/07/16 06:16 PM",
-          "file_id": "1463149"
-        },
-        {
-          "file_name": "06.16.26 SS Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1448595.pdf",
-          "date_added": "2026/06/12 03:59 PM",
-          "file_id": "1448595"
-        },
-        {
-          "file_name": "06.16.26 SS CORRECTED Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1449519.pdf",
-          "date_added": "2026/06/16 09:25 AM",
-          "file_id": "1449519"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1088893",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1088893.html",
-      "title": "06.16.2026 City Council Work Session agenda",
-      "event_date": "June 16, 2026 04:00 PM",
-      "event_date_iso": "2026-06-16T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nJUNE 16, 2026\r\n\t\tWORK SESSION AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a special session, immediately followed by a work session on Tuesday, June 16, 2026, in the City Administration Conference Room, located at 51 East Main Street, commencing at 4:00 p.m. The agenda shall be as follows:\r\nWORK SESSION\r\nThe purpose of the City Work Sessions is to prepare the City Council for upcoming agenda items on future City Council Meetings. The Work Session is not an action item meeting. No one attending the meeting should rely on any discussion or any perceived consensus as action or authorization. These come only from the City Council Meeting.\r\n\r\n1.\tDiscussion on proposed amendments to the city's municipal code.\r\n2.\tDiscussion on pressurized irrigation water rates.\r\n3.\tDiscussion on culinary water rates.\r\n4.\tDiscussion on automatic annexations.\r\n5.\tAdjourn. \r\n\r\nDated the 12th day of June 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "June 12, 2026 03:58 PM",
-      "attachments": [
-        {
-          "file_name": "06.16.26 WS Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1463147.pdf",
-          "date_added": "2026/07/16 06:16 PM",
-          "file_id": "1463147"
-        },
-        {
-          "file_name": "06.16.26 WS Agenda and packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1448589.pdf",
-          "date_added": "2026/06/12 03:57 PM",
-          "file_id": "1448589"
         }
       ],
       "canceled": false

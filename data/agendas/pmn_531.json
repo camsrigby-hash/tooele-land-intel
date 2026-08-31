@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-08-24T08:50:47.609013+00:00",
+  "scraped_at": "2026-08-31T15:56:32.786335+00:00",
   "notices": [
+    {
+      "notice_id": "1105123",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105123.html",
+      "title": "Planning Commission Meeting",
+      "event_date": "September 2, 2026 07:00 PM",
+      "event_date_iso": "2026-09-02T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR PLANNING COMMISSION MEETING\r\nSeptember 2, 2026, at 7:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard Planning Commission will hold a regularly scheduled Planning Commission meeting on Wednesday, September 2, 2026, at 7:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tPRESENTATIONS, RECOGNITIONS, AWARDS, AND PROCLAMATIONS\r\n\r\n3.\tPUBLIC COMMENTS PC\r\nTime dedicated for public comment. Comments will be limited to three (3) minutes. No actions may be taken by the Planning Commission due to the need for proper public noticing. Public comments can be submitted ahead of time to planning@vineyardutah.gov.\r\n\r\n4.\tCONSENT ITEMS\r\n        4.1.\tNo Consent Items\r\n\r\n5.\tBUSINESS ITEMS\r\n        5.2.\tPublic Hearing - To Consider Ordinance 2026-11 for compliance to Senate Bill 284\r\n        5.3.\tPLAN26-0013 Conditional Use Permit - Family Entertainment (Coin-Operated Arcade Games)\r\n        5.4.\tPLAN25-0003 Site Plan Application - 1600 North Office Vineyard Propertiesof Utah\r\n\r\n6.\tWORK SESSION\r\n\r\n7.\tSTAFF AND COMMISSION REPORTS\r\n\r\n8.\tADJOURNMENT",
+      "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "August 29, 2026 02:52 PM",
+      "attachments": [
+        {
+          "file_name": "Planning Commission Agenda - September 2, 2026 Agenda Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481503.pdf",
+          "date_added": "2026/08/29 02:52 PM",
+          "file_id": "1481503"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1098575",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098575.html",

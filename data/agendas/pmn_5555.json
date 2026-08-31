@@ -4,8 +4,88 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-08-24T08:49:50.127100+00:00",
+  "scraped_at": "2026-08-31T15:55:36.767425+00:00",
   "notices": [
+    {
+      "notice_id": "1105037",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105037.html",
+      "title": "City Council Agenda",
+      "event_date": "September 1, 2026 06:30 PM",
+      "event_date_iso": "2026-09-01T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, September 1, 2026, 6:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\nAMENDED AGENDA - ADDING ITEM 4.E\r\n\r\n6:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\n        CLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\n        The Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\n        Council/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tPublic Comments\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person.                                                 Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n4.\tConsent Items\r\n\r\n        4.a  Approve the August 12, 2026 and August 18, 2026 City Council Meeting Minutes\r\n\r\n        4.b  Approve Resolution #26-40\r\n        A resolution reappointing Geneva Woodmansee as a member of the Draper City Parks, Trails, and Recreation Committee. Staff: Kellie Challburg.\r\n\r\n        4.c  Approve Resolution #26-41\r\n        A resolution appointing Laura Fidler as a regular member of the Draper City Planning Commission. Staff: Kellie Challburg.\r\n\r\n        4.d  Approve Resolution #26-42\r\n        A resolution appointing Drew Martinez as an alternate member of the Draper City Planning Commission. Staff: Kellie Challburg.\r\n\r\n       4.e  Approve Resolution #26-43\r\n       A resolution authorizing the Mayor to execute a Quit Claim Deed for certain real property located in the Suncrest Development. Staff report by Traci Gundersen.\r\n\r\n5.\tItems for Council Consideration\r\n \r\n        5.a Action Item: Approve Ordinance #1737\r\n        An ordinance of the Draper City Council amending Title 3, Chapter 4 of the Draper City Municipal Code regarding Government Records Access and Management. Staff report by Nicole Smedley.\r\n\r\n6.\tRecess to a Community Reinvestment Agency Meeting\r\n\r\n7.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held September 1, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nPosted this 28th day of August 2026. \r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "August 28, 2026 02:55 PM",
+      "attachments": [
+        {
+          "file_name": "2026-09-01 CityCouncil_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481337.pdf",
+          "date_added": "2026/08/28 02:55 PM",
+          "file_id": "1481337"
+        },
+        {
+          "file_name": "2026-09-01 CityCouncil_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481339.pdf",
+          "date_added": "2026/08/28 02:55 PM",
+          "file_id": "1481339"
+        },
+        {
+          "file_name": "2026-09-01 CityCouncil_AmendedAgenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481403.pdf",
+          "date_added": "2026/08/28 04:26 PM",
+          "file_id": "1481403"
+        },
+        {
+          "file_name": "2026-09-01 CityCouncil_Packet_Amended.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1481405.pdf",
+          "date_added": "2026/08/28 04:26 PM",
+          "file_id": "1481405"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1104411",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104411.html",
+      "title": "Tree Committee",
+      "event_date": "September 1, 2026 08:00 AM",
+      "event_date_iso": "2026-09-01T08:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "TREE COMMITTEE AGENDA\r\n\r\nTuesday, September 1, 2026, 8:00 AM\r\n1020 East Pioneer Road Draper, Utah 84020 \r\nAdministration Conference Room\r\n\r\n1.\tWelcome and Roll Call\r\n\r\n2.\tApproval of Previous Meeting Minutes 2.a Minutes from May 5, 2026\r\n\r\n3.\tWheadon Farm Park Donation\r\n\r\n4.\tTree Committee Duties\r\n\r\n4.a Plan for Inventory of Existing Trees\r\n\r\n4.b Plans for various public areas such as:\r\n\r\nEntrances to the city - city council has expressed desire to potentially enlist the Tree committee and allocate budget here\r\n\r\nCity parks -\r\n\r\n     potential planting project for splash pad\r\n     private citizen donor planting for Wheadon Park Main transportation corridors and others\r\n\r\nRecommend goals and policies to the city council regarding tree culture for Draper City\r\n\r\n\r\n4.c Policies for planting of trees for beautification, noise dampening, visual screening, weather protection, erosion control\r\n\r\n4.d Recommendations to city council on public relations matters, including, but not limited to Arbor Day, cleanup days, home beautification contests and other tree related city activities\r\n\r\n4.e Street Tree Guide\r\n \r\n4.f  Recommendations to city if desired:\r\n\r\nMake recommendations on arboricultural specifications and standards of practices for all trees and shrubbery on City property, and recommend standards and specifications for the work of any person or organization engaged in the business of working on trees within the city\r\n\r\nMake recommendations on the grounds immediately surrounding the trees and shrubbery on public property, as far as it is necessary to assure the proper growth, care and protection of said trees and shrubbery\r\n\r\nMake recommendations on the care and treatment of trees and shrubbery, including planting, maintenance, pruning, spraying and removal of trees and shrubbery on city property;\r\n\r\nMake recommendations on the identification, marking and preservation of historic or notable trees\r\n\r\n\r\n4.g Develop standards and specifications regarding the planting of trees for new developments, including site plans and subdivisions and make recommendations to the Planning Commission and City Council regarding the same\r\n\r\nCity planning to adopt the planting standards put forward by city engineering for park strips\r\n\r\n\r\n4.h Develop standards and specifications regarding the planting of trees on public property, including size, location and approved species and make recommendations for adoption in this code\r\n\r\n5.\tAdjournment\r\n \r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper Tree Committee meeting to be held September 1, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nNicole Smedley, CMC, City Recorder Draper City, State of Utah",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "August 26, 2026 12:51 PM",
+      "attachments": [
+        {
+          "file_name": "2026-09-01_TreeCommittee_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480043.pdf",
+          "date_added": "2026/08/26 12:51 PM",
+          "file_id": "1480043"
+        },
+        {
+          "file_name": "2026-09-01_TreeCommittee_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480045.pdf",
+          "date_added": "2026/08/26 12:51 PM",
+          "file_id": "1480045"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1103151",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103151.html",
@@ -185,6 +265,58 @@
       "canceled": false
     },
     {
+      "notice_id": "1096695",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096695.html",
+      "title": "NOTICE OF PROPOSED TAX INCREASE CITY OF DRAPER SALT LAKE COUNTY",
+      "event_date": "August 12, 2026 06:00 PM",
+      "event_date_iso": "2026-08-12T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nCITY OF DRAPER/SALT LAKE COUNTY\r\n\r\nThe CITY OF DRAPER is proposing to increase its property tax revenue.\r\n\r\nThe CITY OF DRAPER tax on a $941,000 residence would increase from $466.83 to $583.80, which is $116.97 per year.\r\n\r\nThe CITY OF DRAPER tax on a $941,000 business would increase from $848.78 to $1,061.45, which is $212.67 per year.\r\n\r\nIf the proposed budget is approved, CITY OF DRAPER would receive an additional $2,455,712 in property tax revenue per year as a result of the tax increase.  If the proposed budget is approved, CITY OF DRAPER would increase its property tax budgeted revenue by 25.12% above last year's property tax budgeted revenue excluding eligible new growth.  \r\n\r\nThe CITY OF DRAPER invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase.  You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPublic Hearing\r\n\r\nDate/Time: \t8/12/2026 6:00 P.M.\r\nLocation: \tDraper City Hall Council Chambers\r\n\t\t        1020 E. Pioneer Rd.\r\n\t\t        Draper, Utah 84020\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the CITY OF DRAPER at 801-576-6318 or visit: www.draperutah.gov/city-government/budgets-and-finances/property-tax/\r\n\r\nInstructions for virtual participation in the public hearing will be available at Zoom Meeting: https://us06web.zoom.us/j/89466424795?pwd=oubQN9yJKqIlVRl09t72osoTmbqzjm.1\r\nMeeting ID: 894 6642 4795, Passcode: 413389",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 20, 2026 11:21 AM",
+      "attachments": [
+        {
+          "file_name": "NOTICE OF PROPOSED TAX INCREASE_CITY OF DRAPER_SALT LAKE COUNTY.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1464237.pdf",
+          "date_added": "2026/07/20 11:20 AM",
+          "file_id": "1464237"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1096701",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096701.html",
+      "title": "NOTICE OF PROPOSED TAX INCREASE CITY OF DRAPER UTAH COUNTY",
+      "event_date": "August 12, 2026 06:00 PM",
+      "event_date_iso": "2026-08-12T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nCITY OF DRAPER/UTAH COUNTY\r\n\r\nThe CITY OF DRAPER is proposing to increase its property tax revenue.\r\n\r\nThe CITY OF DRAPER tax on a $838,000 residence would increase from $415.73 to $519.90, which is $104.17 per year.\r\n\r\nThe CITY OF DRAPER tax on a $838,000 business would increase from $755.88 to $945.26, which is $189.38 per year.\r\n\r\nIf the proposed budget is approved, CITY OF DRAPER would receive an additional $122,224 in property tax revenue per year as a result of the tax increase.  If the proposed budget is approved, CITY OF DRAPER would increase its property tax budgeted revenue by 22.55% above last year's property tax budgeted revenue excluding eligible new growth.  \r\n\r\nThe CITY OF DRAPER invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase.  You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPublic Hearing\r\n\r\nDate/Time: \t8/12/2026 6:00 P.M.\r\nLocation: \tDraper City Hall Council Chambers\r\n\t\t        1020 E. Pioneer Rd.\r\n\t\t        Draper, Utah 84020\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the CITY OF DRAPER at 801-576-6318 or visit: www.draperutah.gov/city-government/budgets-and-finances/property-tax/\r\n\r\nInstructions for virtual participation in the public hearing will be available at Zoom Meeting: https://us06web.zoom.us/j/89466424795?pwd=oubQN9yJKqIlVRl09t72osoTmbqzjm.1 \r\nMeeting ID: 894 6642 4795, Passcode: 413389",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "July 20, 2026 11:26 AM",
+      "attachments": [
+        {
+          "file_name": "NOTICE OF PROPOSED TAX INCREASE_CITY OF DRAPER_UTAH COUNTY.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1464243.pdf",
+          "date_added": "2026/07/20 11:24 AM",
+          "file_id": "1464243"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1100302",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100302.html",
       "title": "City Council Agenda - Truth in Taxation Public Hearing",
@@ -249,110 +381,6 @@
           "url": "https://www.utah.gov/pmn/files/1478601.pdf",
           "date_added": "2026/08/21 01:51 PM",
           "file_id": "1478601"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096701",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096701.html",
-      "title": "NOTICE OF PROPOSED TAX INCREASE CITY OF DRAPER UTAH COUNTY",
-      "event_date": "August 12, 2026 06:00 PM",
-      "event_date_iso": "2026-08-12T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nCITY OF DRAPER/UTAH COUNTY\r\n\r\nThe CITY OF DRAPER is proposing to increase its property tax revenue.\r\n\r\nThe CITY OF DRAPER tax on a $838,000 residence would increase from $415.73 to $519.90, which is $104.17 per year.\r\n\r\nThe CITY OF DRAPER tax on a $838,000 business would increase from $755.88 to $945.26, which is $189.38 per year.\r\n\r\nIf the proposed budget is approved, CITY OF DRAPER would receive an additional $122,224 in property tax revenue per year as a result of the tax increase.  If the proposed budget is approved, CITY OF DRAPER would increase its property tax budgeted revenue by 22.55% above last year's property tax budgeted revenue excluding eligible new growth.  \r\n\r\nThe CITY OF DRAPER invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase.  You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPublic Hearing\r\n\r\nDate/Time: \t8/12/2026 6:00 P.M.\r\nLocation: \tDraper City Hall Council Chambers\r\n\t\t        1020 E. Pioneer Rd.\r\n\t\t        Draper, Utah 84020\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the CITY OF DRAPER at 801-576-6318 or visit: www.draperutah.gov/city-government/budgets-and-finances/property-tax/\r\n\r\nInstructions for virtual participation in the public hearing will be available at Zoom Meeting: https://us06web.zoom.us/j/89466424795?pwd=oubQN9yJKqIlVRl09t72osoTmbqzjm.1 \r\nMeeting ID: 894 6642 4795, Passcode: 413389",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "July 20, 2026 11:26 AM",
-      "attachments": [
-        {
-          "file_name": "NOTICE OF PROPOSED TAX INCREASE_CITY OF DRAPER_UTAH COUNTY.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464243.pdf",
-          "date_added": "2026/07/20 11:24 AM",
-          "file_id": "1464243"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096695",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096695.html",
-      "title": "NOTICE OF PROPOSED TAX INCREASE CITY OF DRAPER SALT LAKE COUNTY",
-      "event_date": "August 12, 2026 06:00 PM",
-      "event_date_iso": "2026-08-12T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nCITY OF DRAPER/SALT LAKE COUNTY\r\n\r\nThe CITY OF DRAPER is proposing to increase its property tax revenue.\r\n\r\nThe CITY OF DRAPER tax on a $941,000 residence would increase from $466.83 to $583.80, which is $116.97 per year.\r\n\r\nThe CITY OF DRAPER tax on a $941,000 business would increase from $848.78 to $1,061.45, which is $212.67 per year.\r\n\r\nIf the proposed budget is approved, CITY OF DRAPER would receive an additional $2,455,712 in property tax revenue per year as a result of the tax increase.  If the proposed budget is approved, CITY OF DRAPER would increase its property tax budgeted revenue by 25.12% above last year's property tax budgeted revenue excluding eligible new growth.  \r\n\r\nThe CITY OF DRAPER invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase.  You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPublic Hearing\r\n\r\nDate/Time: \t8/12/2026 6:00 P.M.\r\nLocation: \tDraper City Hall Council Chambers\r\n\t\t        1020 E. Pioneer Rd.\r\n\t\t        Draper, Utah 84020\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the CITY OF DRAPER at 801-576-6318 or visit: www.draperutah.gov/city-government/budgets-and-finances/property-tax/\r\n\r\nInstructions for virtual participation in the public hearing will be available at Zoom Meeting: https://us06web.zoom.us/j/89466424795?pwd=oubQN9yJKqIlVRl09t72osoTmbqzjm.1\r\nMeeting ID: 894 6642 4795, Passcode: 413389",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "July 20, 2026 11:21 AM",
-      "attachments": [
-        {
-          "file_name": "NOTICE OF PROPOSED TAX INCREASE_CITY OF DRAPER_SALT LAKE COUNTY.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464237.pdf",
-          "date_added": "2026/07/20 11:20 AM",
-          "file_id": "1464237"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1099633",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1099633.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1721 amending the text of Titles 6 and 9 of the Draper City Municipal Code related to Short-Term Rentals",
-      "event_date": "August 5, 2026 11:59 AM",
-      "event_date_iso": "2026-08-05T11:59:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on August 5, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1721\r\n\r\nOn August 4, 2026, the Draper City Council Adopted Ordinance #1721 amending the text of Titles 6 and 9 of the Draper City Municipal Code related to Short-Term Rentals. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 5th day of August, 2026.\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 05, 2026 12:00 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1721.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1470409.pdf",
-          "date_added": "2026/08/05 12:00 PM",
-          "file_id": "1470409"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1097633",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097633.html",
-      "title": "NOTICE OF PUBLIC HEARING: 12430 S 700 East Zoning Map Amendment Request",
-      "event_date": "August 4, 2026 07:00 PM",
-      "event_date_iso": "2026-08-04T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on July 24, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: 12430 S 700 East Zoning Map Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request.  The property is located at approximately 12430 S. 700 East.  The purpose of the request is a rezone from RA1 (Residential Agricultural, 40,000 sq. ft. minimum) and RA2 (Residential Agricultural, 20,000 sq. ft. minimum) to R4 (Single Family Residential, 10,000 sq. ft. minimum).\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers on August 4, 2026, at 7:00 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall.\r\n\r\nTo request a copy of the public notice or for additional inquiries contact Maryann Pickering at (801) 576-6391 or maryann.pickering@draperutah.gov.\r\n\r\nAttest:  Nicole Smedley, CMC, City Recorder",
-      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "July 24, 2026 12:07 PM",
-      "attachments": [
-        {
-          "file_name": "CC 8.4 12430 S 700 E Zoning Map Amendment Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466085.pdf",
-          "date_added": "2026/07/24 12:06 PM",
-          "file_id": "1466085"
         }
       ],
       "canceled": false

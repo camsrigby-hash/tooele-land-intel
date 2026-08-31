@@ -4,8 +4,47 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-08-24T08:47:02.668332+00:00",
+  "scraped_at": "2026-08-31T15:52:56.284312+00:00",
   "notices": [
+    {
+      "notice_id": "1104057",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104057.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "August 25, 2026 07:00 PM",
+      "event_date_iso": "2026-08-25T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, August 25, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info:https://meet.google.com/tqf-tdff-drz\r\nOr dial:  (US) +1 318-373-3175  PIN:  902 912 189 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 8-11-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Oquirrh Point Amended Community Structure Plan\r\nConsideration of Oquirrh Point Amended Phase 1 Project Plan\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\n**All handouts associated with this meeting can be found on the city's website erda.gov under City Government**\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "August 24, 2026 05:26 PM",
+      "attachments": [
+        {
+          "file_name": "8-25-26 Audio of Planning Commission Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1480157.mp3",
+          "date_added": "2026/08/26 02:01 PM",
+          "file_id": "1480157"
+        },
+        {
+          "file_name": "Oquirrh point amended CSP staff report 082526.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1479277.pdf",
+          "date_added": "2026/08/24 05:23 PM",
+          "file_id": "1479277"
+        },
+        {
+          "file_name": "Oquirrh Point phase 1 project plan amended staff report 082526.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1479279.pdf",
+          "date_added": "2026/08/24 05:25 PM",
+          "file_id": "1479279"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1100667",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100667.html",
@@ -27,6 +66,13 @@
           "url": "https://www.utah.gov/pmn/files/1476087.mp3",
           "date_added": "2026/08/17 08:11 PM",
           "file_id": "1476087"
+        },
+        {
+          "file_name": "8-11-26 Signed Planning Commission Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1480135.pdf",
+          "date_added": "2026/08/26 01:53 PM",
+          "file_id": "1480135"
         },
         {
           "file_name": "Allred minor sub private road CUP staff report (1).pdf",
@@ -313,23 +359,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1068037",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1068037.html",
-      "title": "**CANCELED*** Erda Planning Commission Meeting",
-      "event_date": "March 24, 2026 07:00 PM",
-      "event_date_iso": "2026-03-24T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED*****Notice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday March 24th, 2026 has been canceled. The Planning Commission will hold their next regularly scheduled meeting on Tuesday April 14th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "March 21, 2026 12:12 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }

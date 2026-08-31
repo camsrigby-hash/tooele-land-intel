@@ -4,8 +4,40 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-08-24T08:48:02.712939+00:00",
+  "scraped_at": "2026-08-31T15:53:53.704150+00:00",
   "notices": [
+    {
+      "notice_id": "1104551",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104551.html",
+      "title": "City Council Meeting",
+      "event_date": "September 1, 2026 06:00 PM",
+      "event_date_iso": "2026-09-01T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AGENDA - City Council Meeting\r\n\r\nCITY OF SARATOGA SPRINGS\r\nTuesday, September 1, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\nPOLICY MEETING\r\nCALL TO ORDER\r\n1. Roll Call.\r\n2. Moment of Reflection.\r\n3. Pledge of Allegiance.\r\n4. Presentation: The Children's Center Utah.\r\n5. Public Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Please avoid repetitive comments. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total.\r\nREPORTS\r\n1. Mayor.\r\n2. City Council.\r\n3. Administration.\r\n4. Department Reports: Public Works/Engineering, Planning, Building, Code Enforcement, Economic Development.\r\nCONSENT ITEMS\r\nThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n1. Updates to City Code Title 18.02 - Flood Damage Prevention. Ordinance 26-38 (09-01-26).\r\n2. Change Order #14 for Drinking water Booster 8 at Pony Express Parkway/Mountain View Corridor with Condie Construction. Resolution R26-47 (09-01-26).\r\n3. Approval of Minutes: August 18, 2026.\r\nBUSINESS ITEMS\r\nThe Council will discuss (without public comment) and may approve the following items:\r\n1. Development Agreement Amendment for Spring Heights, located at 2433 N. Redwood Road, Marty Beaumont, St. John Properties as applicant. Ordinance 26-39 (09-01-26).\r\n2. Amendments for Wander Planned Community, Major Community Plan Amendment #6 and Major Village Plan 2 Amendment #3. Located at 50 N. Redwood Rd., Greg Flint as applicant. Ordinance 26-40 (09-01-26).\r\n3. Council Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken.\r\nCLOSED MEETING\r\nPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\nADJOURNMENT",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "August 27, 2026 08:41 AM",
+      "attachments": [
+        {
+          "file_name": "2026-09-01 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480407.pdf",
+          "date_added": "2026/08/27 08:40 AM",
+          "file_id": "1480407"
+        },
+        {
+          "file_name": "2026-09-01 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1480409.pdf",
+          "date_added": "2026/08/27 08:41 AM",
+          "file_id": "1480409"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1102257",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102257.html",
@@ -292,45 +324,6 @@
           "url": "https://www.utah.gov/pmn/files/1462435.pdf",
           "date_added": "2026/07/15 06:19 PM",
           "file_id": "1462435"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1092879",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092879.html",
-      "title": "City Council Meeting",
-      "event_date": "July 7, 2026 06:00 PM",
-      "event_date_iso": "2026-07-07T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA CITY OF SARATOGA SPRINGS\r\nTuesday, July 7, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tDepartment Reports: Library, Recreation, Public Relations/Community Outreach.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tAppointing Matthew Harris to the remainder of a term for Planning Commission. Resolution R26-38 (07-07-26).\r\n2.\tAmendments to the City Code, Title 3 - Administrative Code. Ordinance 26-29 (07-07-26).\r\n3.\tUpdate to the Planning Commission Bylaws & Rules of Procedure. Ordinance 26-30 (07-07-26).\r\n4.\tApproval of Minutes: June 9, 2026, and June 16, 2026.\r\n\r\nPUBLIC HEARINGS\r\n\tThe Council will accept public comment and may approve the following items:\r\n\r\n1.\tAmendment to the Fiscal Year 2026-2027 Interim Budget. Resolution R26-42 (07-07-26).\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tSite Plan for Jacob Ranch Marketplace Lot 7, located at 1873 S. Redwood Road. Forrest Gaskill as applicant. \r\n2.\tSite Plan for Jacob Ranch Marketplace Lot 8, located at 1853 S. Redwood Road. Forrest Gaskill as applicant. \r\n3.\tAward of Design Contract for Pond 8 Evans Lane Expansion project to Hansen, Allen, and Luce. Resolution R26-39 (07-07-26).\r\n4.\tAward of Design Contract for the Jacobs Ranch Well #9 project to Bowen, Collins & Associates. Resolution R26-40 (07-07-26).\r\n5.\tAward of Contract for Supplying and Installing an Automated Main Gate for Public Works to Avtec. Resolution R26-41 (07-07-26).\r\n6.\tCouncil Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken. \r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "July 02, 2026 09:14 AM",
-      "attachments": [
-        {
-          "file_name": "2026-07-07 cc approved minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1465365.pdf",
-          "date_added": "2026/07/22 02:24 PM",
-          "file_id": "1465365"
-        },
-        {
-          "file_name": "2026-07-07 cc agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1456943.pdf",
-          "date_added": "2026/07/02 09:10 AM",
-          "file_id": "1456943"
-        },
-        {
-          "file_name": "2026-07-07 cc packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1456973.pdf",
-          "date_added": "2026/07/02 09:43 AM",
-          "file_id": "1456973"
         }
       ],
       "canceled": false
