@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-08-31T15:54:27.968221+00:00",
+  "scraped_at": "2026-09-07T14:02:56.826296+00:00",
   "notices": [
     {
       "notice_id": "1104469",
@@ -28,6 +28,39 @@
           "url": "https://www.utah.gov/pmn/files/1480215.pdf",
           "date_added": "2026/08/26 02:52 PM",
           "file_id": "1480215"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1106171",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106171.html",
+      "title": "Planning Commission Public Meeting",
+      "event_date": "September 8, 2026 05:30 PM",
+      "event_date_iso": "2026-09-08T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nSEPTEMBER 8, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tTRAINING - Ethics\r\n\r\n\t1.B.\tDISCUSSION - Agenda Review\r\n\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tAugust 25, 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tPUBLIC HEARING / ACTION ITEM - An ordinance of Eagle Mountain City, Utah updating the Culinary Water Impact Fee Facility Plan (IFFP).\r\n\r\nBACKGROUND: (Presented by City Engineer, Vince Hogge) Consideration of an update to the Culinary Water IFFP. This update adds the Spring Run/Talons Cove area to the IFFP which adds improvements needed to the culinary water system to handle water demand from this area.  The IFFP also includes updated cost estimates adding the projects for the Spring Run/Talons Cove area and updating costs for future projects based on the rising costs of current construction projects.\r\n\r\n\t7.B.\tPUBLIC HEARING / ACTION ITEM - An ordinance of Eagle Mountain City, Utah updating the Wastewater Master Plan and the Wastewater Impact Fee Facility Plan (IFFP).\r\n\r\nBACKGROUND: (Presented by City Engineer, Vince Hogge) Consideration of an update to the Wastewater Master Plan and the Wastewater IFFP. This update adds the Spring Run/Talons Cove area to the Master Plan and IFFP which adds improvements needed to the wastewater system to handle sewer flows from this area.  The IFFP also includes updated cost estimates adding the projects for the Spring Run/Talons Cove area and updating costs for future projects based on the rising costs of current construction projects.\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n\t8.A.\t'Agricultural Rural Large-Lot Zone' / Alternatively, the 'Cedar Pass Ranch Historical Zone'\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
+      "meeting_location": "1650 E. Stagecoach Run CN136001 - Eagle Mountain City, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "September 03, 2026 01:56 PM",
+      "attachments": [
+        {
+          "file_name": "9.8.26 PC Agenda.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483813.docx",
+          "date_added": "2026/09/03 01:55 PM",
+          "file_id": "1483813"
+        },
+        {
+          "file_name": "9.8.26 PC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483815.pdf",
+          "date_added": "2026/09/03 01:56 PM",
+          "file_id": "1483815"
         }
       ],
       "canceled": false
@@ -285,32 +318,6 @@
           "url": "https://www.utah.gov/pmn/files/1459671.pdf",
           "date_added": "2026/07/09 11:34 AM",
           "file_id": "1459671"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1087667",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087667.html",
-      "title": "PCPH Annexation Policy Plan Notice",
-      "event_date": "June 23, 2026 06:30 PM",
-      "event_date_iso": "2026-06-23T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on June 23, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\n\r\nAnnexation Policy Plan: Eagle Mountain City is proposing an updated annexation \r\npolicy plan. The plan identifies seven (7) areas of unincorporated Utah County that \r\nEagle Mountain City would potentially consider for annexation. The document \r\ncontains a map of these areas in relation to the current city boundaries. A series of \r\ncriteria and considerations are included in the document to facilitate analysis and \r\ndecision-making for annexation proposals. EMC Point of Contact: Community \r\nDevelopment Director, Brandon Larsen: blarsen@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "June 09, 2026 04:00 PM",
-      "attachments": [
-        {
-          "file_name": "06.23.2026 PCPH Annexation Policy Plan Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1446155.pdf",
-          "date_added": "2026/06/09 04:00 PM",
-          "file_id": "1446155"
         }
       ],
       "canceled": false

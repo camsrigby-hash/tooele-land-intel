@@ -4,8 +4,86 @@
   "public_body": "City Council & Planning Commission",
   "body_id": "2803",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2803.html",
-  "scraped_at": "2026-08-31T15:55:25.301187+00:00",
+  "scraped_at": "2026-09-07T14:03:56.604595+00:00",
   "notices": [
+    {
+      "notice_id": "1106119",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106119.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "September 23, 2026 06:00 PM",
+      "event_date_iso": "2026-09-23T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the Bluffdale Planning Commission will hold a public hearing on Wednesday, September 16, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 PM or as soon thereafter as possible and the Bluffdale City Council will hold a public hearing on Wednesday September 23, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 PM or as soon thereafter as possible for the purpose of receiving public comment on a Transportation Master Plan amendment.\r\n\r\nIn addition to attendance at the Planning Commission and City Council meetings, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to planningmeetingcomment@bluffdale.gov and councilmeetingcomment@bluffdale.gov and include 'Transportation Master Plan Amendment' in the subject line of the email. Please send your email before 4:00 PM on Wednesday, September 16, 2026, to ensure delivery to the Planning Commission and before 4:00 PM on Wednesday, September 23, 2026, to ensure delivery to the Council.\r\n3.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Engineering Department\r\nc/o Addison Mitton, Assistant City Engineer\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Addison Mitton at amitton@bluffdale.com or 801-849-9427.\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for these meetings should contact Bluffdale City Hall at least 24 hours in advance of such meeting at (801)-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
+      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 03, 2026 12:16 PM",
+      "attachments": [
+        {
+          "file_name": "General Plan Amendment - Transportation Master Plan Update PC Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483719.pdf",
+          "date_added": "2026/09/03 12:16 PM",
+          "file_id": "1483719"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1106121",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106121.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "September 23, 2026 06:00 PM",
+      "event_date_iso": "2026-09-23T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the Bluffdale Planning Commission will hold a public hearing on Wednesday, September 16, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 PM or as soon thereafter as possible and the Bluffdale City Council will hold a public hearing on Wednesday September 23, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 PM or as soon thereafter as possible for the purpose of receiving public comment on updates to Roadway Standard Cross Sections.\r\n\r\nIn addition to attendance at the Planning Commission and City Council meetings, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to planningmeetingcomment@bluffdale.gov and councilmeetingcomment@bluffdale.gov and include 'Road Standards' in the subject line of the email. Please send your email before 4:00 PM on Wednesday, September 16, 2026, to ensure delivery to the Planning Commission and before 4:00 PM on Wednesday, September 23, 2026, to ensure delivery to the Council.\r\n3.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Engineering Department\r\nc/o Addison Mitton, Assistant City Engineer\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Addison Mitton at amitton@bluffdale.com or 801-849-9427.\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for these meetings should contact Bluffdale City Hall at least 24 hours in advance of such meeting at (801)-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
+      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 03, 2026 12:17 PM",
+      "attachments": [
+        {
+          "file_name": "Street Cross Section Updates PC Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483725.pdf",
+          "date_added": "2026/09/03 12:17 PM",
+          "file_id": "1483725"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1106211",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106211.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "September 23, 2026 06:00 PM",
+      "event_date_iso": "2026-09-23T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public hearing will be held before the Bluffdale City Planning Commission on Wednesday, September 16, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible and before the Bluffdale City Council on Wednesday, September 23, 2026, at Bluffdale City Hall, 2222 West 14400 South, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on the following:\r\n\r\n-\tA request to amend the General Plan Map for approximately 2.09 acres at 14553 South 3400 West (outlined in yellow) from Very Low Density Residential to Low Density Residential and to amend the Zoning Map for the same property from R1 Residential to R2 Residential;\r\n\r\n        \r\n\r\nIn addition to attendance at the Planning Commission and City Council meetings, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to planningmeetingcomment@bluffdale.gov for the Planning Commission and include 'Day Rezone' in the subject line of the email.\r\n3.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Day Rezone' in the subject line of the email.\r\n4.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801.254.2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
+      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 03, 2026 02:50 PM",
+      "attachments": [
+        {
+          "file_name": "Day GP and ZM Amendment PC CC Double Notice (73 Mail, 1 Post).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483867.pdf",
+          "date_added": "2026/09/03 02:49 PM",
+          "file_id": "1483867"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1104903",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104903.html",
@@ -188,87 +266,6 @@
           "url": "https://www.utah.gov/pmn/files/1455179.pdf",
           "date_added": "2026/06/26 02:38 PM",
           "file_id": "1455179"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1086063",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086063.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "June 24, 2026 06:00 PM",
-      "event_date_iso": "2026-06-24T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public hearing will be held before the Bluffdale City Council on Wednesday, June 24, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on the following:\r\n\r\n-\tA request to amend the General Plan Map for approximately 1.90 acres at 13942 South 2700 West (lined in yellow) from Very Low Density Residential to Commercial and to amend the Zoning Map for the same property from R-1-43 Residential to General Commercial;\r\n         \r\nGeneral Plan\t\t\t\t\tZoning Map\r\n\r\n-\tA request for a Development Agreement to develop four (4) flex retail buildings on approximately 3.914 acres at 13918 South 2700 West, 13942 South 2700 West, and 13937 South 2950 West (outlined in yellow), also reducing glazing and brick percentages and allowing construction sales and service, data centers, loan centers, general and limited manufacturing, printing services, storage facilities for machinery and equipment, temporary job trailers and offices, and wholesale and warehousing as permitted uses within the project. \r\n \r\n \r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate:\r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the Planning Commission and include '2950 Flex' in the subject line of the email.\r\n3.\tMailed written comments will also be accepted. Please mail to the following: \r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South \r\nBluffdale, Utah 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\n\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801.254.2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
-      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "June 04, 2026 08:54 AM",
-      "attachments": [
-        {
-          "file_name": "Bluffdale at 2950 Microflex CC Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1443417.pdf",
-          "date_added": "2026/06/04 08:54 AM",
-          "file_id": "1443417"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1078659",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1078659.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "May 27, 2026 06:00 PM",
-      "event_date_iso": "2026-05-27T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that a public meeting will be held before the Bluffdale City Council on Wednesday, May 27, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible, for the purpose of receiving public comment on a proposed Text Amendment to Chapter 3.40 of the Bluffdale City Code to update the City's regulations on seasonal fireworks sales and to Section 11.180.020 of the Bluffdale City Code to allow outdoor fireworks sales as an allowed temporary use.\r\nJoee Witter, Applicant. Caitlyn Tubbs, Staff Presenter. (Application 2026-16)\r\nIn addition to attendance at the City Council meeting, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Fireworks' in the subject line of the email. Comments should be sent before 4:00 PM on May 27, 2026 to be provided to the City Council in advance of the meeting.\r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\nc/o Caitlyn Tubbs, Planning Manager\r\n2222 West 14400 South\r\nBluffdale, UT 84065\r\n\r\nFor further information, please contact Caitlyn Tubbs at ctubbs@bluffdale.gov or 801-849-9466.\r\nIn compliance with the Americans with Disabilities Act, individuals needing assistance or other services for this meeting should contact Bluffdale City Hall at least 24 hours in advance of such meeting at 801-254-2200. TTY 7-1-1. The City website is located at www.bluffdale.gov.",
-      "meeting_location": "2222 West 14400 South Bluffdale, UT 84065 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "May 07, 2026 11:27 AM",
-      "attachments": [
-        {
-          "file_name": "Fireworks Sales Text Amendment_CC Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1429381.pdf",
-          "date_added": "2026/05/07 11:27 AM",
-          "file_id": "1429381"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1077009",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1077009.html",
-      "title": "Text Amendment for Sign EMC's",
-      "event_date": "May 13, 2026 06:00 PM",
-      "event_date_iso": "2026-05-13T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Notice is hereby given that a public meeting will be held before the Bluffdale City City Council on Wednesday, May 13, 2026, at Bluffdale City Hall, 2222 W 14400 S, which will begin at 6:00 p.m., or as soon thereafter as possible for the purpose of receiving public comment on a proposed Text Amendment to update the City Code as follows:\r\n-\tChapter 11.220.070.A - to add provisions for gas station electronic display signs. A new section will be added to allow electronic display signs for gas stations with a minimum display interval of three (3) seconds. \r\n-\tChapter 11.220.030 - to add a new definition for 'Gas Station Electronic Display Sign' to address this specific type of sign.\r\nYesco, Applicant.  Ellen Oakman, Staff Presenter (Application 2026-10).\r\n\r\nIn addition to attendance at the City Council, if you have any comments or concerns, there are several additional ways to participate: \r\n1.\tView meeting on the City's website at www.bluffdale.gov.\r\n2.\tEmail your comments to councilmeetingcomment@bluffdale.gov for the City Council and include 'Text Amendment' in the subject line of the email. \r\n3.\tMailed written comments will also be accepted. Please mail to the following:\r\nCity of Bluffdale Planning Department\r\n2222 West 14400 South\r\nBluffdale, UT 84065",
-      "meeting_location": "2222 W 14400 S Bluffdale, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "April 30, 2026 04:19 PM",
-      "attachments": [
-        {
-          "file_name": "EMC Sign Code - CC Notice - 5.13.26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1426069.pdf",
-          "date_added": "2026/04/30 04:19 PM",
-          "file_id": "1426069"
         }
       ],
       "canceled": false

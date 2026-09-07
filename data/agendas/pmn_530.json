@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-08-31T15:56:22.402976+00:00",
+  "scraped_at": "2026-09-07T14:04:56.209907+00:00",
   "notices": [
+    {
+      "notice_id": "1106709",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106709.html",
+      "title": "City Council Meeting",
+      "event_date": "September 8, 2026 06:00 PM",
+      "event_date_iso": "2026-09-08T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR CITY COUNCIL MEETING\r\nSeptember 8, 2026, at 6:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, September 8, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPUBLIC HEARING\r\n        3.1.\tPublic Hearing - Senate Bill 284/City Code Compliance\r\n\r\n4.\tPUBLIC COMMENTS (3 MINUTES)\r\n        'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n5.\tAPPOINTMENTS AND REMOVALS\r\n        5.1.\tAppoint Steffani Winder to the Vineyard Library Board\r\n\r\n6.\tPROCLAMATIONS\r\n        6.1.\tConstitution Week - September 17 through 23, 2026.\r\n\r\n7.\tWORK SESSION\r\n        7.1 Review of the First Amendment to the Holdaway Fields Development Agreement with Cadence Homes and Goodboro Homes (Developers)\r\n\r\n8.\tCONSENT ITEMS\r\n        8.1.\tApproval of the August 25, 2026, City Council Meeting Minutes\r\n\r\n9.\tBUSINESS ITEMS\r\n        9.1.\tDISCUSSION AND ACTION - 300 West Parking and Striping Plan\r\n\r\n10.\tCLOSED SESSION\r\n        The Mayor and City Council, pursuant to Utah Code 52-4-205, may vote to go into closed session for the purpose of real property, litigation, or personnel matters.\r\n\r\n11.\tADJOURNMENT",
+      "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "September 04, 2026 05:57 PM",
+      "attachments": [
+        {
+          "file_name": "9.8.26 CC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1484733.pdf",
+          "date_added": "2026/09/04 05:57 PM",
+          "file_id": "1484733"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1102951",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102951.html",
@@ -288,33 +314,6 @@
           "url": "https://www.utah.gov/pmn/files/1445617.pdf",
           "date_added": "2026/06/08 05:09 PM",
           "file_id": "1445617"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083079",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083079.html",
-      "title": "Public Hearing Notice - Holdaway Fields Development Agreement Amendment",
-      "event_date": "June 9, 2026 06:00 PM",
-      "event_date_iso": "2026-06-09T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "May 20, 2026\r\n\r\nAttention: \t\tPublic Hearing Notice\r\n\r\nContact Person: \tAnthony Fletcher, Long Range Planner\r\n707 E Mill Road\r\nSuite 202\r\nVineyard, UT 84059\r\n(801) 226-1929\r\n\r\nNOTICE is hereby given regarding public hearing(s) before the City Council on June 9th, 2026, at 6 pm or as soon thereafter as possible in the council chambers at 125 S. Main Street, Vineyard, Utah 84059.\r\n\r\nHoldaway Fields Development Agreement Amendment\r\n\r\nThe developer of Holdaway Fields has submitted a proposed amendment to the existing Development Agreement. The intent of this amendment is to align the agreement more closely with their current build strategy and implementation schedule. The proposal introduces the phasing plan, park dedication timing, and other amenities. Lot frontage standards. \r\n\r\nStaff reviewed the proposed amendment requests and recommends that the impact fee; including clear language that delineates city impact fees and  pass through fees for all buildings in the development be assessed and calculated at the time of building permit application, which is standard practice for cities. Impact fees should not be locked in or tied in at the time of executing the amended development agreement for any building as this will create negative fiscal impacts on other Vineyard residents and future infrastructure funding.\r\n\r\nPublic comments, questions, and requests for copies of materials are encouraged to be emailed to Anthony Fletcher at anthony@vineyardutah.gov prior to the meeting.\r\n\r\nI, the undersigned, hereby certify that the foregoing Public Hearing Notice was posted at the Vineyard City Offices, the Vineyard City website, posted on the Utah Public Notice website, and delivered to surrounding entities.\r\n\r\n\r\n/s/ Anthony Fletcher, Long Range Planner",
-      "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "May 22, 2026 10:36 AM",
-      "attachments": [
-        {
-          "file_name": "6.9.26 Public Notice - Holdaway Fields DA Amendment 5.21.2026.docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1438061.docx",
-          "date_added": "2026/05/22 02:31 PM",
-          "file_id": "1438061"
         }
       ],
       "canceled": false

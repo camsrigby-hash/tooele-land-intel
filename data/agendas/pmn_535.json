@@ -4,8 +4,59 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-08-31T15:54:16.532978+00:00",
+  "scraped_at": "2026-09-07T14:02:44.642507+00:00",
   "notices": [
+    {
+      "notice_id": "1106439",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106439.html",
+      "title": "Public Hearing",
+      "event_date": "September 15, 2026 07:00 PM",
+      "event_date_iso": "2026-09-15T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on September 15, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nBudget Amendment:\r\n\r\nAmendment #1 to the Fiscal Year 2026-2027 Budget: The proposed budget amendment includes changes to the General Fund, Capital Project Fund, Special Revenue Funds, and Enterprise Funds. EMC Point of Contact: Budget Manager, Terrence Dela Peña: tdelapena@eaglemountian.gov.\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 4th day of September, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly, City Recorder",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "September 04, 2026 09:46 AM",
+      "attachments": [
+        {
+          "file_name": "CCPH 09.15.2026 - Budget Amendment #1 FY 2027.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1484251.pdf",
+          "date_added": "2026/09/04 09:45 AM",
+          "file_id": "1484251"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1105739",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105739.html",
+      "title": "Notice of Interlocal Agreement",
+      "event_date": "September 2, 2026 09:00 AM",
+      "event_date_iso": "2026-09-02T09:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF INTERLOCAL AGREEMENT BETWEEN THE EAGLE MOUNTAIN REDEVELOPMENT AGENCY AND EAGLE MOUNTAIN CITY\r\n\r\nPursuant to Sections 11-13-219 and I 7C-5-205, Utah Code Annotated 1953, as amended, the Eagle Mountain Redevelopment Agency (the 'Agency') and Eagle Mountain City (the 'City'), are providing this notice with respect to the Interlocal Cooperation Agreement (the 'lnterlocal Agreement') entered into by and between the Agency and Eagle Mountain City, wherein the City has agreed to remit to the Agency annually a portion of the incremental sales tax increment (Tax Increment) generated within the Mid-Valley Community Reinvestment Project Area (the 'Project Area') for the purpose of providing funds to the Agency to carry out the Project Area Plan.\r\n\r\nThe Interlocal Agreements provides that the City will remit to the Agency annually a portion of the Project Area's Sales Tax Increment. The first payment of tax increment from the Taxing Entities to the Agency will occur at the Agency's written request to the City. A summary of the salient terms of the Interlocal Agreement are as follows:\r\n\r\nTaxing Entity\t           Agreement Duration\tPercent to Agency  \t     Cap\r\nCity\t                             Sales Tax - 20 Years\t    Sales Tax - 55%  \t$15,751,273\r\n\r\nA copy of the lnterlocal Agreement is and will be available for public inspection and copying at the Agency's offices located at 1650 Stagecoach Run, Eagle Mountain, Utah, during regular Agency hours, for a period of at least 30 days following the date of publication of this notice (the '30-Day Period'). During that 30-Day Period, any person in interest may contest the Interlocal Agreement or the procedures used to adopt it, if the Interlocal Agreement or the procedures fail to comply with any applicable statutory requirements. After the 30-Day Period, no person may contest the lnterlocal Agreement for any cause.",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "September 02, 2026 09:05 AM",
+      "attachments": [
+        {
+          "file_name": "Mid-Valley CRA - Interlocal Agreement Notice.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1482871.pdf",
+          "date_added": "2026/09/02 09:05 AM",
+          "file_id": "1482871"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1103483",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103483.html",
@@ -115,6 +166,13 @@
       "posted_on": "August 13, 2026 04:04 PM",
       "attachments": [
         {
+          "file_name": "08.18.2026 - CC Minutes - APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1482889.pdf",
+          "date_added": "2026/09/02 09:26 AM",
+          "file_id": "1482889"
+        },
+        {
           "file_name": "08.18.2026 - City Council Agenda.pdf",
           "category": "Other",
           "url": "https://www.utah.gov/pmn/files/1474645.pdf",
@@ -157,6 +215,32 @@
       "canceled": false
     },
     {
+      "notice_id": "1096939",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096939.html",
+      "title": "Public Hearing",
+      "event_date": "August 6, 2026 06:00 PM",
+      "event_date_iso": "2026-08-06T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE \r\nEAGLE MOUNTAIN CITY\r\n\r\nThe EAGLE MOUNTAIN CITY is proposing to increase its property tax revenue. \r\n\r\nThe EAGLE MOUNTAIN CITY tax on a $488,000 residence would increase from\r\n$142.25 to $456.28, which is $314.03 per year.\r\n\r\nThe EAGLE MOUNTAIN CITY tax on a $488,000 business would increase from\r\n$258.64 to $829.60, which is $570.96 per year.\r\n\r\nIf the proposed budget is approved, EAGLE MOUNTAIN CITY would receive an additional $6,742,938 in property tax revenue per year as a result of the tax increase. If the proposed budget is approved, EAGLE MOUNTAIN CITY would increase its property tax budgeted revenue by 220.88% above last year's property tax budgeted revenue excluding eligible new growth.\r\n\r\nThe EAGLE MOUNTAIN CITY invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase. You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\n\r\nPUBLIC HEARING\r\n\r\nDate/Time:   8/6/2026 6:00 PM\r\nLocation:      Eagle Mountain City Hall Council Chambers \r\n                      1650 Stagecoach Run\r\n                      Eagle Mountain\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the EAGLE MOUNTAIN CITY at 801-789-6600 or visit https://eaglemountain.gov/ Instructions for virtual participation in the public hearing will be available at https://eaglemountain.gov/ no later than 24 hours before the public hearing is scheduled to begin.",
+      "meeting_location": "1650 E Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "July 21, 2026 11:27 AM",
+      "attachments": [
+        {
+          "file_name": "08.06.2026 - CCPH Notice of Proposed Tax Increase.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1464769.pdf",
+          "date_added": "2026/07/21 11:27 AM",
+          "file_id": "1464769"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1098477",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098477.html",
       "title": "Public Meeting - Special Session",
@@ -185,76 +269,6 @@
           "url": "https://www.utah.gov/pmn/files/1467865.pdf",
           "date_added": "2026/07/30 03:07 PM",
           "file_id": "1467865"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096939",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096939.html",
-      "title": "Public Hearing",
-      "event_date": "August 6, 2026 06:00 PM",
-      "event_date_iso": "2026-08-06T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE \r\nEAGLE MOUNTAIN CITY\r\n\r\nThe EAGLE MOUNTAIN CITY is proposing to increase its property tax revenue. \r\n\r\nThe EAGLE MOUNTAIN CITY tax on a $488,000 residence would increase from\r\n$142.25 to $456.28, which is $314.03 per year.\r\n\r\nThe EAGLE MOUNTAIN CITY tax on a $488,000 business would increase from\r\n$258.64 to $829.60, which is $570.96 per year.\r\n\r\nIf the proposed budget is approved, EAGLE MOUNTAIN CITY would receive an additional $6,742,938 in property tax revenue per year as a result of the tax increase. If the proposed budget is approved, EAGLE MOUNTAIN CITY would increase its property tax budgeted revenue by 220.88% above last year's property tax budgeted revenue excluding eligible new growth.\r\n\r\nThe EAGLE MOUNTAIN CITY invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase. You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\n\r\nPUBLIC HEARING\r\n\r\nDate/Time:   8/6/2026 6:00 PM\r\nLocation:      Eagle Mountain City Hall Council Chambers \r\n                      1650 Stagecoach Run\r\n                      Eagle Mountain\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the EAGLE MOUNTAIN CITY at 801-789-6600 or visit https://eaglemountain.gov/ Instructions for virtual participation in the public hearing will be available at https://eaglemountain.gov/ no later than 24 hours before the public hearing is scheduled to begin.",
-      "meeting_location": "1650 E Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "July 21, 2026 11:27 AM",
-      "attachments": [
-        {
-          "file_name": "08.06.2026 - CCPH Notice of Proposed Tax Increase.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1464769.pdf",
-          "date_added": "2026/07/21 11:27 AM",
-          "file_id": "1464769"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1097397",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097397.html",
-      "title": "Public Hearing",
-      "event_date": "August 4, 2026 07:00 PM",
-      "event_date_iso": "2026-08-04T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on August 4, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nTransportation Master Plan and Impact Fee Facilities Plan (IFFP):\r\n\r\n-\tTransportation Master Plan and Impact Fee Facilities Plan (IFFP) Update: The hearing is for adoption of an update to the Transportation Master Plan and Impact Fee Facilities Plan (IFFP) The City's Transportation Master Plan is intended to identify the needed transportation infrastructure needed to provide adequate service for the City's residents and businesses. This comprehensive transportation plan that must be developed and regularly maintained to combat the potential congestion caused by projected growth. This plan must incorporate the goals of the city of Eagle Mountain regarding the transportation systems within our jurisdiction and those regional facilities maintained by UDOT, UTA, Utah County, and neighboring communities. \r\nEMC Point of Contact: Assistant City Engineer, David Salazar dsalazar@eaglemountain.gov.\r\n\r\nScenic Mountain Rezone: \r\n\r\n-\tScenic Mountain Rezone: Proposed General Plan Future Land Use Map Amendment(s) and Rezoning of various properties within, and adjacent to, the expired Scenic Mountain master development area. Approximately 42.29 acres of land are included in this proposal. The following QR code may be scanned to see a list of affected parcels to be considered: \r\n\r\n\r\n\tEMC Point of Contact: Robert Hobbs, rhobbs@eaglemountian.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 23 day of July, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly, City Recorder",
-      "meeting_location": "1650 E Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "July 23, 2026 11:44 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1090693",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1090693.html",
-      "title": "Public Hearing",
-      "event_date": "August 4, 2026 07:00 PM",
-      "event_date_iso": "2026-08-04T19:00:00",
-      "notice_types": [
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARINGS and PUBLIC COMMENT PERIOD\r\nEagle Mountain City, Utah\r\nU.S. Housing and Urban Development (HUD)\r\nCommunity Development Block Grant (CDBG) Program\r\nPreparation of Proposed Program Year (PY) 2026 HUD CDBG Annual Action Plan\r\nEagle Mountain City will hold a Public Hearing on Tuesday, August 4, 2026 during a regularly scheduled council meeting at 7:00 p.m. in Council Chambers, at City Hall at 1650 E Stagecoach Run, Eagle Mountain City, Utah 84005.\r\nThis notice is provided in compliance with the City's adopted Citizen Participation Plan, as required by 24 CFR (Code of Federal Regulations) 91. The Eagle Mountain City Community Development Block Grant (CDBG) program is funded through the U.S. Department of Housing and Urban Development (HUD).\r\nEagle Mountain City receives an annual allocation from the HUD CDBG program, as an Entitlement City. Eagle Mountain City (EMC) is preparing the required Program Year (PY) 2026 Annual Action Plan (AAP). The PY2026 allocation is currently estimated at $246,979, finalized with a grant agreement between EMC and HUD after HUD approval.\r\nDuring the public hearing EMC staff, in accordance with HUD requirements, will outline goals and AAP projects under consideration for PY 2026 with CDBG funding.\r\nCurrent funding outline includes:\r\nAnnual Allocation of $246,979 and Prior Year Resources of approximately $220,000, for a total of $466,979.\r\nProject\r\nProposed Allocation\r\nHousing Preservation and Development\r\n$ 200,000\r\nPublic Services (capped at 15% of annual award)\r\n$ 36,900\r\nPublic Facilities and Infrastructure Improvements\r\n$ 180,879\r\nPY 2026 Program Planning and Administration (capped at 20% of annual award)\r\n$ 49,200\r\nAll amounts are estimates\r\nThe public is invited to attend this hearing and provide feedback on the EMC proposed AAP goals and projects.\r\nNOTICE OF PUBLIC COMMENT PERIOD\r\nA public comment period on the proposed Annual Action Plan will begin on July 1, 2026 at 10:00 am MDT. Public comment period will close on August 4, 2026 at 7:00 pm MDT.\r\nComments received by the City on or before the end of the comment period will be forwarded to the U.S. Department of Housing and Urban Development (HUD). Comments received after the comment period will not be considered.\r\nA detailed account of the plans and activities associated with the CDBG program may be obtained by visiting the City's website at www.eaglemountain.gov, or by contacting Kiara Polee, Affordable Housing Coordinator, at telephone (801) 789-6700, or by email to kpolee@eaglemountain.gov.\r\nPublic notices regarding future public hearings for the 5-year Consolidated Plan, Annual Action Plans, and/or other HUD reports will be printed in a local newspaper of general circulation and posted online on the City's, website at www.eaglemountain.gov.\r\nIn accordance with the Americans with Disabilities Act, individuals needing special accommodations should contact Taylor Draney at least five (5) days prior to the hearing. Individuals with hearing or speech impairments may dial 711 (Relay Utah).\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611. Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 19th day of June, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, posted to the Utah State public notice website http://www.utah.gov/pmn/index.html, and was emailed to at least one newspaper of general circulation within the jurisdiction of the public body.\r\nLacie A. Messerly\r\nCity Recorder\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "June 19, 2026 03:50 PM",
-      "attachments": [
-        {
-          "file_name": "CCPH 08.04.2026 - 2026 HUD Annual Action Plan.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1452385.pdf",
-          "date_added": "2026/06/19 03:47 PM",
-          "file_id": "1452385"
         }
       ],
       "canceled": false

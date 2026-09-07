@@ -4,12 +4,39 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-08-31T15:56:11.002081+00:00",
+  "scraped_at": "2026-09-07T14:04:44.229528+00:00",
   "notices": [
+    {
+      "notice_id": "1106291",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106291.html",
+      "title": "Planning Commission Public Notice",
+      "event_date": "September 16, 2026 06:30 PM",
+      "event_date_iso": "2026-09-16T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on September 16, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as 'A' Definitions of the American Fork City Municipal Code. Amending Section 17.12.201, the Code Text Amendment provides definitions for accessory buildings, accessory dwellings, and accessory structures.  \r\n \tDescription: Staff has initiated a Code Text Amendment to provide definitions for accessory buildings, accessory dwellings, and accessory structures to eliminate any ambiguity in identifying what each item is.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as 'D' Definitions of the American Fork City Municipal Code. Amending Section 17.12.204, the Code Text Amendment provides a definition for detached accessory dwelling units.\r\n \tDescription Staff has initiated a Code Text Amendment to provide a definition for detached accessory dwelling units to prevent any ambiguity in identifying the what the item is in preparation for allowing detached accessory dwelling units in accordance with Utah State Code.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Detached Accessory Dwelling Units, of the American Fork City Municipal Code. Creating Section 17.5.136, the Code Text Amendment plans to provide regulations for Detached Accessory Dwelling Units within the City.\r\n \tDescription: Staff has initiated a Code Text Amendment to provide regulations for detached accessory dwelling units in accordance with the recent change of Utah State Code.\r\n\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
+      "meeting_location": "31 N Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 03, 2026 04:47 PM",
+      "attachments": [
+        {
+          "file_name": "2026.09.16_PC Public Notice Letter.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483999.pdf",
+          "date_added": "2026/09/03 04:47 PM",
+          "file_id": "1483999"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1103269",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103269.html",
-      "title": "Planning Commission Public Notice",
+      "title": "Planning Commission Public Notice, Agenda, and Packet",
       "event_date": "September 2, 2026 06:30 PM",
       "event_date_iso": "2026-09-02T18:30:00",
       "notice_types": [
@@ -29,6 +56,13 @@
           "url": "https://www.utah.gov/pmn/files/1477613.pdf",
           "date_added": "2026/08/20 10:15 AM",
           "file_id": "1477613"
+        },
+        {
+          "file_name": "2026.09.02 Planning Commission Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1482071.pdf",
+          "date_added": "2026/08/31 04:07 PM",
+          "file_id": "1482071"
         }
       ],
       "canceled": false
@@ -36,7 +70,7 @@
     {
       "notice_id": "1098461",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098461.html",
-      "title": "Planning Commission Agenda, Public Notice Letters and Packet",
+      "title": "Planning Commission Agenda, Public Notice Letters, Packet and Minutes",
       "event_date": "August 19, 2026 02:52 PM",
       "event_date_iso": "2026-08-19T14:52:00",
       "notice_types": [
@@ -50,6 +84,13 @@
       "contact_email": null,
       "posted_on": "July 30, 2026 02:54 PM",
       "attachments": [
+        {
+          "file_name": "08.19.2026 APPROVED PC Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1483791.pdf",
+          "date_added": "2026/09/03 01:30 PM",
+          "file_id": "1483791"
+        },
         {
           "file_name": "2026.08.19_PC Public Notice Letter - General Plan.pdf",
           "category": "Public Information Handout",
@@ -227,7 +268,7 @@
     {
       "notice_id": "1074985",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074985.html",
-      "title": "Planning Commission Public Notice, Agenda and Amended Packet",
+      "title": "Planning Commission Public Notice, Agenda, Amended Packet and Minutes",
       "event_date": "May 6, 2026 06:30 PM",
       "event_date_iso": "2026-05-06T18:30:00",
       "notice_types": [
@@ -241,6 +282,13 @@
       "contact_email": null,
       "posted_on": "April 22, 2026 11:33 AM",
       "attachments": [
+        {
+          "file_name": "05.06.2026 APPROVED PC Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1481635.pdf",
+          "date_added": "2026/08/31 10:28 AM",
+          "file_id": "1481635"
+        },
         {
           "file_name": "2026.05.06 - PC Public Notice Letter.pdf",
           "category": "Public Information Handout",
@@ -301,45 +349,6 @@
           "url": "https://www.utah.gov/pmn/files/1419989.pdf",
           "date_added": "2026/04/16 05:32 PM",
           "file_id": "1419989"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072501",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072501.html",
-      "title": "Planning Commission Work Session Agenda, Packet and Minutes",
-      "event_date": "April 15, 2026 06:30 PM",
-      "event_date_iso": "2026-04-15T18:30:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA\r\nWORK SESSION\r\n________________________________________\r\nWork Session\r\nApril 15, 2026\r\nWednesday 6:30 PM\r\n\r\nAdministrative Conference Room\r\n51 East Main Street \r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n________________________________________Planning Commission Members\r\n \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\n \r\nNotice is hereby given that the American Fork City Planning Commission will meet in a Work Session on April 15, 2026, at the Administration Conference Room, located at 51 East Main Street, commencing at 6:30 PM. The agenda shall be as follows:\r\n\r\n1.\tWork Session \r\n\r\na.\tRoll Call\r\nb.\tDiscussion on proposed amendments to the City's Municipal Code, General Plan, and Zoning.\r\nc.\tAdjourn.\r\n\r\nDated this 13th day of April 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "April 13, 2026 11:23 AM",
-      "attachments": [
-        {
-          "file_name": "4.15.2026 APPROVED PC Work Session Minutes (1).pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1434923.pdf",
-          "date_added": "2026/05/18 10:59 AM",
-          "file_id": "1434923"
-        },
-        {
-          "file_name": "2026.04.15 - Planning Commission Work Session Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1417391.pdf",
-          "date_added": "2026/04/13 11:22 AM",
-          "file_id": "1417391"
-        },
-        {
-          "file_name": "2026.04.15 Planning Commission Work Session Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1417393.pdf",
-          "date_added": "2026/04/13 11:23 AM",
-          "file_id": "1417393"
         }
       ],
       "canceled": false

@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-08-31T15:55:59.559631+00:00",
+  "scraped_at": "2026-09-07T14:04:32.434797+00:00",
   "notices": [
+    {
+      "notice_id": "1106591",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106591.html",
+      "title": "09.08.26 City Council agenda",
+      "event_date": "September 8, 2026 07:00 PM",
+      "event_date_iso": "2026-09-08T19:00:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL SEPTEMBER 8, 2026 \r\nREGULAR SESSION AGENDA\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate\r\nelectronically.\r\nThe American Fork City Council will meet in a regular session on September 8, 2026, in the American Fork City Hall, 31 North Church Street, commencing at 7:00 PM. The agenda shall be as follows:\r\n\r\nPUBLIC HEARING\r\n1.\tReceiving public comments on the disposition of real property at 700 South 100 West.\r\n2.\tReceiving public comment on the Chipman/Stake Center Annexation, located in the vicinity of 510 South 100 West and consisting of approximately 24 acres.\r\n\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation; roll call.\r\n2.\tTwenty-minute public comment period - limited to two minutes per person.\r\n3.\tCity Administrator's report.\r\n4.\tCouncil reports.\r\n5.\tMayor's report.\r\n\r\nCOMMON CONSENT AGENDA\r\n(Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the August 11, 2026, corrected truth in taxation public hearing minutes. \r\n2.\tApproval of the August 18, 2026, work session minutes.\r\n3.\tApproval of the August 25, 2026, city council minutes.\r\n4.\tConsideration regarding authorization to release the Improvements Construction Guarantee in the amount of $41,020.00 and issue a Notice of Acceptance for the Roderick Catalyst Lot 7 construction of public improvements located at 68 East 1600 South.\r\n5.\tApproval of a Class A Beer License for Rancho Markets located at 702 East State Street.\r\n6.\tAcceptance of a waterline easement for the National GMC Addition Commercial Site plat at 629 East 1000 South.\r\n7.\tRatification of city payments (August 25, 2026, to September 1, 2026) and approval of purchase requests over $50,000.\r\n\r\nACTION ITEMS\r\n1.\tReview and action on a water banking agreement for water shares with Layne Downs for 71.92 acre-feet of water.\r\n2.\tReview and action on a resolution accepting the offer to purchase certain city-owned real property pursuant to a real estate purchase contract and addendum No. 2, and approving and authorizing execution of a dedication covenant.\r\n3.\tReview and action on an ordinance approving the Chipman/Stake Center Annexation located in the vicinity of 510 South 100 West and consisting of approximately 24 acres, including the ordinance of annexation, annexation agreement, road dedication plats, and placement of the property in the PR-3.0 zone.\r\n4.\tReview and action on a resolution accepting the petition for the Series 38 Annexation located in the vicinity of 330 East 580 South consisting of approximately 1.5 acres.\r\n5.\tReview and action on a proposed Request for Consideration for a project known as American Fork Hotel located at 714 S 600 E. The applicants for this project request consideration of an adjustment in parking to decrease the number of required parking stalls as outlined in Section 17.5.133(D) of the American Fork Municipal Code. \r\n6.\tReview and action on an ordinance repealing and replacing Chapter 12.16 of the American Fork City Code with a new Chapter 12.16 entitled 'Park Strips and Trees'.\r\n7.\tReview and action on a resolution approving an update to the American Fork General Plan to update all sections to establish an updated vision for growth and development in the City. \r\n8.\tReview and action on an Engineering and Design Services Contract for the CDBG 11 King Street Waterline and Infrastructure Improvement Project.\r\n9.\tReview and action on an Engineering and Design Services Contract for the Main Street from Grant Ave to 200W Water Line and Infrastructure Improvement Project.\r\n10.\tConsideration and action on entering into a closed session to discuss (A) the sale, purchase, and/or lease of real property; (B) pending or reasonably imminent litigation; and (C) the professional character or competence of an individual(s) as described in Utah State Code 52-4-204 and 52-4-205. \r\n\r\nADJOURNMENT\r\n\r\nDated this 4th day of September, 2026.\r\n\r\n/s/Terilyn Lurker, City Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.\r\n-\tPersons addressing the Council during public comment may submit written materials to the City Recorder. When practicable, the Recorder shall distribute copies to the Council or provide them electronically after the meeting. Submission of written materials does not require the Council to review, discuss, or respond to the materials during the meeting. The presiding officer may impose reasonable, content-neutral limitations regarding the format, number of copies, or method of submission to ensure the orderly conduct of the meeting.",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "September 04, 2026 01:50 PM",
+      "attachments": [
+        {
+          "file_name": "09.08.26 CC Agenda and packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1484561.pdf",
+          "date_added": "2026/09/04 01:49 PM",
+          "file_id": "1484561"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1104279",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104279.html",
@@ -179,23 +205,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1104685",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104685.html",
-      "title": "Ordinance No. 2026-07-15",
-      "event_date": "July 28, 2026 07:00 PM",
-      "event_date_iso": "2026-07-28T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Ordinance Adoption\r\n\r\nNotice is hereby given that on July 28, 2026, the American Fork City Council adopted Ordinance No. 2026-07-15 which approved amending Chapter 15.16 titled 'Floodplain Management' in the American Fork City Code to ensure compliance with updated and revised FEMA regulations and maps. The ordinance is available for public inspection during normal business hours (Monday through Thursday 7 a.m. to 6 p.m.)\r\n\r\nDated this 28th day of August 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "August 27, 2026 02:19 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1097299",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097299.html",
       "title": "07.28.26 City Council agenda",
@@ -228,35 +237,20 @@
       "canceled": false
     },
     {
-      "notice_id": "1094573",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094573.html",
-      "title": "07.14.26 City Council agenda",
-      "event_date": "July 14, 2026 07:00 PM",
-      "event_date_iso": "2026-07-14T19:00:00",
+      "notice_id": "1104685",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104685.html",
+      "title": "Ordinance No. 2026-07-15",
+      "event_date": "July 28, 2026 07:00 PM",
+      "event_date_iso": "2026-07-28T19:00:00",
       "notice_types": [
-        "Meeting"
+        "Notice"
       ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nJULY 14, 2026\r\n\t\tMEETING AGENDA\r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may participate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council will hold a regular session on Tuesday, July 14, 2026, in City Hall, located at 31 North Church Street, commencing at 7:00 p.m. The agenda shall be as follows:\r\n\r\nREGULAR SESSION\r\n1.\tPledge of Allegiance; Invocation by Council Member Hunter; roll call. \r\n2.\tTwenty-minute public comment period - limited to two minutes per person. \r\n3.\tCity Administrator's Report \r\n4.\tCouncil Reports \r\n5.\tMayor's Report \r\nCOMMON CONSENT AGENDA\r\n (Common Consent is that class of Council action that requires no further discussion or which is routine in nature.  All items on the Common Consent Agenda are adopted by a single motion unless removed from the Common Consent Agenda.)\r\n1.\tApproval of the June 2, 2026, work session minutes.\r\n2.\tApproval of the June 9, 2026, city council minutes.\r\n3.\tApproval of the June 16, 2026, work session minutes.\r\n4.\tApproval of the June 16, 2026, special session minutes.\r\n5.\tApproval of the authorization to release the Improvements Construction Guarantee in the amount of $16,526.42 and issue a Notice of Acceptance for the Evans residence construction of public improvements located at 829 North 290 East. \r\n6.\tRatification of city payments (June 17, 2026, to July 7, 2026) and approval of purchase requests over $50,000. \r\nACTION ITEMS\r\n1.\tReview and action on the authorization to release the Improvements Durability Retainer of $9,934.95 for Walton Lane Townhomes located at 841 East 700 South. \r\n2.\tReview and action on a water banking agreement for water shares with Layne Downs for 38.12-acre feet of water.\r\n3.\tReview and action regarding a boundary adjustment agreement between Timpanogos Special Service District, American Fork City, and Roderick Enterprises. \r\n4.\tReview and action on a resolution accepting the annexation petition for the Earl Annexation consisting of 10.91 acres and located at approximately 570 West 200 South.\r\n5.\tReview and action on a pioneering agreement with AFEW LLC for system improvements associated with Edgewater North and the Yard Subdivisions.\r\n6.\tReview and action on approval of a purchase agreement with Keaton Wall for property located at approximately 1000 North and 750 West.\r\n7.\tReview and action on an award for architectural services for the public works building.\r\n8.\tReview and action on the award of the contract for the landscape architectural & design of a new park on 620 South. \r\n9.\tReview and action on the award of the agreement for construction of the Overlay Project 2026 to JKT LLC.\r\n10.\tReview and action on a resolution providing notice of the city's intent to sell certain real property located near 700 South 100 West.\r\n11.\tAdjournment. \r\n\r\nDated this 9th day of July 2026.\r\n\r\nTerilyn Lurker\r\nCity Recorder\r\n\r\n-\tIn accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 801-763-3000 at least 48 hours in advance of the meeting.\r\n-\tThe order of agenda items may be changed to accommodate the needs of the City Council, staff, and the public.",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "agenda_text": "Notice of Ordinance Adoption\r\n\r\nNotice is hereby given that on July 28, 2026, the American Fork City Council adopted Ordinance No. 2026-07-15 which approved amending Chapter 15.16 titled 'Floodplain Management' in the American Fork City Code to ensure compliance with updated and revised FEMA regulations and maps. The ordinance is available for public inspection during normal business hours (Monday through Thursday 7 a.m. to 6 p.m.)\r\n\r\nDated this 28th day of August 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "July 09, 2026 07:20 PM",
-      "attachments": [
-        {
-          "file_name": "07.14.26 CC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1481173.pdf",
-          "date_added": "2026/08/28 10:47 AM",
-          "file_id": "1481173"
-        },
-        {
-          "file_name": "07.14.26 CC Agenda and corrected packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1461159.pdf",
-          "date_added": "2026/07/13 04:24 PM",
-          "file_id": "1461159"
-        }
-      ],
+      "posted_on": "August 27, 2026 02:19 PM",
+      "attachments": [],
       "canceled": false
     }
   ]
