@@ -4,8 +4,34 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-09-07T14:02:56.826296+00:00",
+  "scraped_at": "2026-09-14T14:47:48.080260+00:00",
   "notices": [
+    {
+      "notice_id": "1107541",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1107541.html",
+      "title": "PCPH Corrigan Development Agreement and RTI Rezone",
+      "event_date": "September 22, 2026 06:30 PM",
+      "event_date_iso": "2026-09-22T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\nThe Eagle Mountain Planning Commission will hold public hearings on September 22, 2026, at 6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning Commission will receive public comments concerning the following items:\r\n\r\nEagle Mountain Municipal Code Amendments: \r\n \r\n\r\nEMMC Titles 16 and 17: This proposal adds a plat notation requirement for wildland urban interface (WUI) lots to EMMC 16.25.040 and corresponding definitions to 17.10.030. It also amends EMMC 17.60.040 to permit removal of vegetation from WUI lots, as required by Utah Code § 10-20-619(6) (amended by 2026 HB 215). EMC Staff Point of Contact: Elizabeth Fewkes, efewkes@eaglemountain.gov.\r\n\r\nEMMC 9.10 and 17.47: An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain Municipal Code Section 9.10 and 17.47 Regarding Archery Use Within the City. EMC Staff Point of Contact: Natalie Winterton, nwinterton@eaglemountain.gov.\r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "September 09, 2026 04:41 PM",
+      "attachments": [
+        {
+          "file_name": "PCPH 9.22.26 Amended Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1487089.pdf",
+          "date_added": "2026/09/11 09:03 AM",
+          "file_id": "1487089"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1104469",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104469.html",
@@ -107,6 +133,13 @@
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "August 20, 2026 01:53 PM",
       "attachments": [
+        {
+          "file_name": "08.25.26 PC Approved Meeting MInutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1486119.pdf",
+          "date_added": "2026/09/09 03:28 PM",
+          "file_id": "1486119"
+        },
         {
           "file_name": "8.25.26 PC Agenda.pdf",
           "category": "Public Information Handout",
@@ -278,46 +311,6 @@
           "url": "https://www.utah.gov/pmn/files/1459011.pdf",
           "date_added": "2026/07/08 02:10 PM",
           "file_id": "1459011"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094397",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094397.html",
-      "title": "Planning Commission Public Meeting",
-      "event_date": "July 14, 2026 05:30 PM",
-      "event_date_iso": "2026-07-14T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN \r\nPLANNING COMMISSION MEETING \r\nJULY 14, 2026, 5:30 PM \r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS \r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005 \r\n5:30 PM - PLANNING COMMISSION WORK SESSION \r\n1. \r\nDISCUSSION ITEMS \r\n1.A. TRAINING - Architecture: The Value of Constructing Buildings to Last \r\n1.B. AGENDA REVIEW \r\n6:30 PM PLANNING COMMISSION POLICY SESSION \r\n2. \r\n3. \r\n4. \r\n5. \r\n6. \r\n7. \r\nCALL TO ORDER \r\nPLEDGE OF ALLEGIANCE \r\nDECLARATION OF CONFLICTS OF INTEREST \r\nMINUTES \r\n5.A. June 23, 2026 Planning Commission Minutes \r\nSTATUS REPORT \r\nACTION AND ADVISORY ITEMS \r\n7.A. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nRezoning Certain Lands Known as Scenic Mountain.   \r\nBACKGROUND: (Presented by Senior Planner, Robert Hobbs) Proposed General Plan \r\nFuture Land Use Map Amendment(s) and Rezoning of various properties within, and \r\nadjacent to, the expired Scenic Mountain master development area. \r\n7.B. SITE PLAN - Eagle Mountain Chapel and Recreation Building \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) Planning Commission review \r\nof a site plan proposal that would demolish two residential dwellings, renovate and \r\nexpand the current accessory building into a religious and cultural meeting hall, and \r\nconstruct an accessory recreation building. \r\n7.C. PUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, \r\nApproving the Eagle Mountain Chapel and Recreation Building Development \r\nAgreement. \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) Planning Commission review \r\nof a proposed development agreement that would facilitate the development of the \r\nproposed Eagle Mountain Chapel and Recreation Building Site Plan.  \r\n7.D. ACTION ITEM - Wright Retaining Wall Variance \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) Planning Commission review \r\nof a proposed Variance request to the City's retaining wall height maximum. \r\n7.E. ACTION ITEM - A Resolution of Eagle Mountain City, Utah, Approving the First \r\nAmendment to the Brylee Townhomes Development Agreement. \r\nBACKGROUND: (Presented by Planner, Steven Lehmitz) Planning Commission review \r\nof a proposed First Amendment to the Brylee Farms Phase B Development Agreement. \r\n7.F. First Amendment to Stadion Development Agreement \r\n8. \r\n9. \r\nDISCUSSION ITEMS \r\nAGENDA REVIEW \r\n10. NEXT SCHEDULED MEETING \r\n11. ADJOURNMENT \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS. \r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable \r\naccommodations for participation in all Public Meetings and Work Sessions. Please call the City \r\nRecorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be \r\nheld telephonically to allow a member of the public body to participate. This agenda is subject to \r\nchange with a minimum 24-hour notice.",
-      "meeting_location": "1650 E. Stagecoach Run CN136001 - Eagle Mountain City, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "July 09, 2026 11:34 AM",
-      "attachments": [
-        {
-          "file_name": "07.14.2026 Approved PC Meeting Minutes - signed.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1467479.pdf",
-          "date_added": "2026/07/30 07:38 AM",
-          "file_id": "1467479"
-        },
-        {
-          "file_name": "7.14.26 PC Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1459669.pdf",
-          "date_added": "2026/07/09 11:33 AM",
-          "file_id": "1459669"
-        },
-        {
-          "file_name": "7.14.26 PC Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1459671.pdf",
-          "date_added": "2026/07/09 11:34 AM",
-          "file_id": "1459671"
         }
       ],
       "canceled": false

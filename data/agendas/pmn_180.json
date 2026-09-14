@@ -4,8 +4,25 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-09-07T14:04:32.434797+00:00",
+  "scraped_at": "2026-09-14T14:49:23.106004+00:00",
   "notices": [
+    {
+      "notice_id": "1107981",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1107981.html",
+      "title": "09.15.26 City Council Work Session - canceled",
+      "event_date": "September 15, 2026 04:00 PM",
+      "event_date_iso": "2026-09-15T16:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nSEPTEMBER 15, 2026 \r\n \r\n \r\nWORK SESSION AGENDA -CANCELED \r\n\r\n\r\n\r\n\r\n*Notice of Electronic Meeting*\r\nOne or more City Council members may be physically absent from this meeting but may\r\nparticipate electronically.\r\n\r\nNotice is hereby given that the American Fork City Council work session regularly scheduled for\r\nTuesday, September 16, 2026, in the City Administration Conference Room, located at 51 East\r\nMain Street, commencing at 4:00 p.m. has been canceled.\r\n\r\nDated the 10th day of September 2026. \r\n\r\n/s/Terilyn Lurker\r\nCity Recorder\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n- In accordance with the Americans with Disabilities Act, the City of American Fork will make reasonable\r\naccommodations to participate in the meeting. Requests for assistance can be made by contacting the City\r\nRecorder at 801-763-3000 at least 48 hours in advance of the meeting. \r\n- The order of agenda items may be changed to accommodate the needs of the City Council, staff, and the\r\npublic.",
+      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "September 10, 2026 06:30 PM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1106591",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106591.html",
@@ -107,6 +124,13 @@
       "posted_on": "August 21, 2026 10:19 AM",
       "attachments": [
         {
+          "file_name": "08.25.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1486037.pdf",
+          "date_added": "2026/09/09 02:21 PM",
+          "file_id": "1486037"
+        },
+        {
           "file_name": "08.25.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1478261.pdf",
@@ -137,7 +161,22 @@
       "contact_name": "Terilyn Lurker",
       "contact_email": "tlurker@americanfork.gov",
       "posted_on": "August 13, 2026 05:12 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "08.18.26 WS Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1485961.pdf",
+          "date_added": "2026/09/09 01:28 PM",
+          "file_id": "1485961"
+        },
+        {
+          "file_name": "08.18.26 WS Agenda.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1485963.pdf",
+          "date_added": "2026/09/09 01:29 PM",
+          "file_id": "1485963"
+        }
+      ],
       "canceled": false
     },
     {
@@ -156,11 +195,11 @@
       "posted_on": "August 10, 2026 10:11 AM",
       "attachments": [
         {
-          "file_name": "08.11.26 Truth in Taxation Public Hearing.pdf",
+          "file_name": "08.11.26 Truth in Taxation Public Hearing - corrected.pdf",
           "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1481179.pdf",
-          "date_added": "2026/08/28 10:51 AM",
-          "file_id": "1481179"
+          "url": "https://www.utah.gov/pmn/files/1486023.pdf",
+          "date_added": "2026/09/09 02:13 PM",
+          "file_id": "1486023"
         },
         {
           "file_name": "NOTICE OF PROPOSED TAX INCREASE - VIRTUAL PARTICIPATION INFO.pdf",
@@ -234,23 +273,6 @@
           "file_id": "1465529"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1104685",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104685.html",
-      "title": "Ordinance No. 2026-07-15",
-      "event_date": "July 28, 2026 07:00 PM",
-      "event_date_iso": "2026-07-28T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice of Ordinance Adoption\r\n\r\nNotice is hereby given that on July 28, 2026, the American Fork City Council adopted Ordinance No. 2026-07-15 which approved amending Chapter 15.16 titled 'Floodplain Management' in the American Fork City Code to ensure compliance with updated and revised FEMA regulations and maps. The ordinance is available for public inspection during normal business hours (Monday through Thursday 7 a.m. to 6 p.m.)\r\n\r\nDated this 28th day of August 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "August 27, 2026 02:19 PM",
-      "attachments": [],
       "canceled": false
     }
   ]

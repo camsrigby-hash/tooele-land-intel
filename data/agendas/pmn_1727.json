@@ -4,8 +4,40 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-09-07T14:02:21.069203+00:00",
+  "scraped_at": "2026-09-14T14:47:12.269581+00:00",
   "notices": [
+    {
+      "notice_id": "1107549",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1107549.html",
+      "title": "City Council Meeting",
+      "event_date": "September 15, 2026 06:00 PM",
+      "event_date_iso": "2026-09-15T18:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "AGENDA - City Council Meeting           \r\nCITY OF SARATOGA SPRINGS\r\nTuesday, September 15, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Please avoid repetitive comments. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tDepartment Reports: Finance 4th Quarter update.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tApproval of Minutes: September 1, 2026\r\n\r\nPUBLIC HEARINGS\r\n\tThe Council will accept public comment and may approve the following items:\r\n\r\n1.\tBudget Amendments for Fiscal Year 2026-2027. Resolution R26-48 (09-15-26).\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tPreliminary Plat and Site Plan for Redwood Medical, located at 1843 N Redwood Road. Colton Burton as applicant. \r\n2.\tPreliminary Plat and Site Plan for SCI Wasatch Lawn Funeral Home, located at 877 W. Peony Drive. Brayden Allsop as applicant. \r\n3.\tRezone and Development Agreement for the Andover Property, located NE of Pony Express Parkway and Clark Drive. Scott Carlson as applicant. Ordinance 26-41 (09-15-26).\r\n4.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.20 regarding Detached Accessory Dwelling Units. City initiated, citywide. Ordinance 26-42 (09-15-26).  \r\n5.\tCouncil Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken. \r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "September 09, 2026 04:52 PM",
+      "attachments": [
+        {
+          "file_name": "2026-09-15 cc agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1486205.pdf",
+          "date_added": "2026/09/09 04:41 PM",
+          "file_id": "1486205"
+        },
+        {
+          "file_name": "2026-09-15 cc packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1486207.pdf",
+          "date_added": "2026/09/09 04:42 PM",
+          "file_id": "1486207"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1105789",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105789.html",
@@ -296,45 +328,6 @@
           "url": "https://www.utah.gov/pmn/files/1477093.pdf",
           "date_added": "2026/08/19 12:47 PM",
           "file_id": "1477093"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096399",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096399.html",
-      "title": "City Council Meeting",
-      "event_date": "July 21, 2026 06:00 PM",
-      "event_date_iso": "2026-07-21T18:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL MEETING AGENDA CITY OF SARATOGA SPRINGS\r\nTuesday, July 21, 2026 @ 6:00 pm\r\nCity of Saratoga Springs Council Chambers\r\n319 South Saratoga Road, Saratoga Springs, UT 84045\r\n\r\nPOLICY MEETING\r\n\r\nCALL TO ORDER\r\n\r\n1.\tRoll Call. \r\n2.\tMoment of Reflection. \r\n3.\tPledge of Allegiance. \r\n4.\tPresentation: Oath of Office for new Police Officers: Forrest Crawford, Kevin Froylan, Estaban Gutierrez-Rivera, Jason Albrecht.\r\n5.\tPublic Input - This time has been set aside for the public to express ideas, concerns, and comments for subject matter not listed as public hearing on the agenda. Limit of 3 minutes per speaker, unused time may not be given to another. Time for Public Input is limited to no more than 15 minutes total. \r\n\r\nREPORTS\r\n\r\n1.\tMayor.\r\n2.\tCity Council.\r\n3.\tAdministration.\r\n4.\tOther: Point of the Mountain Chamber Report.\r\n\r\nCONSENT ITEMS\r\n\tThe Council may approve these items without discussion or public comment and may remove an item to the Business Items for discussion and consideration.\r\n\r\n1.\tUpdate to the Personnel Policies and Procedures Manual. Ordinance 26-32 (07-21-26).\r\n2.\tApproval of Minutes: July 7, 2026.\r\n\r\nBUSINESS ITEMS\r\n\tThe Council will discuss (without public comment) and may approve the following items:\r\n\r\n1.\tDevelopment Agreement amendment for Saratoga View Assisted Living Center, located at 1429 N. Utah Cottage Drive. Adam Lambert as applicant. Ordinance 26-33 (07-21-26).\r\n2.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.14 for phased non-residential site plans. City initiated, Citywide. Ordinance 26-31 (07-21-26).\r\n3.\tAmendments to Title 19 Land Development Code of the City of Saratoga Springs, chapter 19.19 Open Space, for minimum required amenities. Citywide, City initiated.  Ordinance 26-34 (07-21-26).\r\n4.\tProgram for the Inspection and Maintenance of Sidewalks. Resolution R26-43 (07-21-26).\r\n5.\tCouncil Comments: Council members may discuss specific topics or issues they wish to have formally considered for inclusion on a future meeting agenda. No action will be taken.\r\n\r\nCLOSED MEETING\r\n\tPossible motion to enter into closed meeting for the purchase, exchange, or lease of property; pending or reasonably imminent litigation; the character, professional competence, or the physical or mental health of an individual; or the deployment of security personnel, devices, or systems.\r\n\r\nADJOURNMENT",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "July 17, 2026 02:36 PM",
-      "attachments": [
-        {
-          "file_name": "2026-07-21 cc approved minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1470501.pdf",
-          "date_added": "2026/08/05 02:13 PM",
-          "file_id": "1470501"
-        },
-        {
-          "file_name": "2026-07-21 cc agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464383.pdf",
-          "date_added": "2026/07/20 01:45 PM",
-          "file_id": "1464383"
-        },
-        {
-          "file_name": "2026-07-21 cc packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464385.pdf",
-          "date_added": "2026/07/20 01:45 PM",
-          "file_id": "1464385"
         }
       ],
       "canceled": false

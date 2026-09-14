@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "1155",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1155.html",
-  "scraped_at": "2026-09-07T14:03:32.330663+00:00",
+  "scraped_at": "2026-09-14T14:48:23.827769+00:00",
   "notices": [
     {
       "notice_id": "1106317",
@@ -71,6 +71,13 @@
       "contact_email": "jnostrom@herriman.gov",
       "posted_on": "August 06, 2026 12:09 PM",
       "attachments": [
+        {
+          "file_name": "2026_08_11 RCCM Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1486927.pdf",
+          "date_added": "2026/09/10 05:35 PM",
+          "file_id": "1486927"
+        },
         {
           "file_name": "2026_08_11 RCCM Packet.pdf",
           "category": "Public Information Handout",

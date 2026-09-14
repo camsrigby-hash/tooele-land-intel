@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-09-07T14:04:08.509925+00:00",
+  "scraped_at": "2026-09-14T14:48:59.288079+00:00",
   "notices": [
     {
       "notice_id": "1106239",
@@ -54,6 +54,39 @@
           "url": "https://www.utah.gov/pmn/files/1483541.pdf",
           "date_added": "2026/09/03 09:13 AM",
           "file_id": "1483541"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1108263",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108263.html",
+      "title": "City Council Agenda",
+      "event_date": "September 15, 2026 05:30 PM",
+      "event_date_iso": "2026-09-15T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, September 15, 2026, 5:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nDiscussion: Draper Days Recap - David and Kellie\r\n\r\nDiscussion: Willow Creek Update - Scott\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n4.\tConsent Items\r\n\r\n4.a Approve the September 1, 2026 City Council Meeting Minutes\r\n\r\n4.b Approve Resolution #26-44\r\n\r\nA resolution reappointing Alan Taylor as a member of the Draper City Building Board of Appeals. Staff: Kellie Challburg.\r\n\r\n5.\tItems for Council Consideration\r\n \r\n5.a Public Hearing: Ordinance #1738\r\n\r\nAn ordinance approving the Exchange Development Agreement for approximately 2.15 acres of property located at approximately 14068 South 145 East within Draper City. Staff report by Jennifer Jastremsky.\r\n\r\n5.b Public Hearing: Resolution #26-46\r\n\r\nA resolution amending the adopted budget of Draper City for Fiscal Year 2026-2027. Staff report by John Vuyk.\r\n\r\n5.c Action Item: Resolution #26-47\r\n\r\nA resolution disposing of surplus personal property in accordance with Draper City municipal code 3-3-150. Staff report by John Vuyk.\r\n\r\n6.\tAdjournment",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "September 11, 2026 02:37 PM",
+      "attachments": [
+        {
+          "file_name": "2026-09-15 CityCouncil_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1487499.pdf",
+          "date_added": "2026/09/11 02:36 PM",
+          "file_id": "1487499"
+        },
+        {
+          "file_name": "2026-09-15 CityCouncil_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1487501.pdf",
+          "date_added": "2026/09/11 02:37 PM",
+          "file_id": "1487501"
         }
       ],
       "canceled": false
@@ -269,88 +302,6 @@
           "url": "https://www.utah.gov/pmn/files/1470887.pdf",
           "date_added": "2026/08/06 11:48 AM",
           "file_id": "1470887"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1102177",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102177.html",
-      "title": "City Council Agenda",
-      "event_date": "August 18, 2026 05:30 PM",
-      "event_date_iso": "2026-08-18T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\n\r\nTuesday, August 18, 2026, 5:30 PM\r\n\r\n1020 E. Pioneer Rd.\r\n\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\n\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nReport: Great Salt Lake Preservation Efforts - Jordan Valley Water Conservancy District and the Great Salt Lake Commissioners Office\r\n\r\nDiscussion: Community Reinvestment Agency Overview - Mike\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tOaths of Office - Draper City Youth Council\r\n\r\n4.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments that cannot be made within these limits should be submitted in writing to the city recorder at recorder@draperutah.gov prior to noon the day of the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n5.\tConsent Items\r\n\r\n5.a Approve the minutes of the August 4, 2026 City Council Meeting\r\n\r\n6.\tItems for Council Consideration\r\n\r\n6.a Public Hearing: Ordinance # 1736\r\n\r\nAn ordinance of Draper City amending the text of Chapter 9-11 of the Draper City Municipal Code related to residential units in the Town Center. Known as the City Initiated Town Center Residential Zoning Text Amendment. Staff report by Todd Taylor.\r\n \r\n6.b Public Hearing: Resolution #26-39\r\n\r\nA resolution adopting the final Draper City Budget including compensation schedules and adopting the certified tax rate for the fiscal year 2026-2027. Staff report by John Vuyk.\r\n\r\n6.c Action Item: Ordinance #1734\r\n\r\nAn ordinance amending Title 3 of the Draper City Municipal Code governing the structure and procedures of the Planning Commission as Required by State Law. Staff report by Spencer DuShane.\r\n\r\n7.\tRecess to a Community Reinvestment Agency Meeting\r\n\r\n8.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held August 18, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nPosted this 14th day of August, 2026.\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 14, 2026 03:25 PM",
-      "attachments": [
-        {
-          "file_name": "2026-08-18_CityCouncil_Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1483063.pdf",
-          "date_added": "2026/09/02 11:44 AM",
-          "file_id": "1483063"
-        },
-        {
-          "file_name": "2026-08-18 Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1475375.pdf",
-          "date_added": "2026/08/14 03:25 PM",
-          "file_id": "1475375"
-        },
-        {
-          "file_name": "2026-08-18 Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1475377.pdf",
-          "date_added": "2026/08/14 03:25 PM",
-          "file_id": "1475377"
-        },
-        {
-          "file_name": "2026-08-18 Meeting Recap.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477129.pdf",
-          "date_added": "2026/08/19 01:29 PM",
-          "file_id": "1477129"
-        },
-        {
-          "file_name": "2026-08-18 Public Comment.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477195.pdf",
-          "date_added": "2026/08/19 02:09 PM",
-          "file_id": "1477195"
-        },
-        {
-          "file_name": "Great Salt Lake Preservation Efforts.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477197.pdf",
-          "date_added": "2026/08/19 02:09 PM",
-          "file_id": "1477197"
-        },
-        {
-          "file_name": "Study Session CRA Training.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477199.pdf",
-          "date_added": "2026/08/19 02:09 PM",
-          "file_id": "1477199"
-        },
-        {
-          "file_name": "FY2027 Final Budget Adoption.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477201.pdf",
-          "date_added": "2026/08/19 02:09 PM",
-          "file_id": "1477201"
-        },
-        {
-          "file_name": "Planning Commission Ordinance 3-5-030.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477203.pdf",
-          "date_added": "2026/08/19 02:09 PM",
-          "file_id": "1477203"
         }
       ],
       "canceled": false

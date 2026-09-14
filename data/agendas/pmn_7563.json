@@ -4,8 +4,25 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-09-07T14:01:21.633333+00:00",
+  "scraped_at": "2026-09-14T14:46:13.513200+00:00",
   "notices": [
+    {
+      "notice_id": "1106885",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106885.html",
+      "title": "**CANCELED*** Erda Planning Commission Meeting",
+      "event_date": "September 8, 2026 07:00 PM",
+      "event_date_iso": "2026-09-08T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "****CANCELED*****Notice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday September 8th, 2026 has been canceled. The Planning Commission will hold their next regularly scheduled meeting on Tuesday September 22nd, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 07, 2026 09:19 PM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1104057",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104057.html",
@@ -310,52 +327,6 @@
           "url": "https://www.utah.gov/pmn/files/1422089.pdf",
           "date_added": "2026/04/21 06:22 PM",
           "file_id": "1422089"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1072573",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1072573.html",
-      "title": "Erda City Planning Commission Meeting",
-      "event_date": "April 15, 2026 07:00 PM",
-      "event_date_iso": "2026-04-15T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on WEDNESDAY, April 15, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info:https://meet.google.com/ezz-dcdg-dsb\r\nOr dial:  (US) +1 708-858-3582  PIN:  204 103 669 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 3-10-26\r\nPublic Comment (3 minute limit per comment)\r\nCopper Cove Preliminary Plat Phase 1: Derald Anderson is requesting a preliminary plat approval for Copper Cove phase 1. The plat contains 45 lots at the north east corner of the development. Lots range in size from 5800 sq ft to 10000 sq ft.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "April 13, 2026 01:38 PM",
-      "attachments": [
-        {
-          "file_name": "4-15-26 Audio of Planning and Zoning Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1420191.mp3",
-          "date_added": "2026/04/17 10:25 AM",
-          "file_id": "1420191"
-        },
-        {
-          "file_name": "4-15-26 Signed Meeting Minutes Planning Commission.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1425589.pdf",
-          "date_added": "2026/04/30 08:01 AM",
-          "file_id": "1425589"
-        },
-        {
-          "file_name": "4-15-26 Planning Commission Agenda.docx (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1417509.pdf",
-          "date_added": "2026/04/13 01:38 PM",
-          "file_id": "1417509"
-        },
-        {
-          "file_name": "Copper Cove phase 1 preliminary staff report with attachments (2).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1417511.pdf",
-          "date_added": "2026/04/13 01:38 PM",
-          "file_id": "1417511"
         }
       ],
       "canceled": false
