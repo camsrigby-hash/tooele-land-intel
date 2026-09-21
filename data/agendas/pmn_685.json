@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-09-14T14:46:25.392683+00:00",
+  "scraped_at": "2026-09-21T14:52:43.352750+00:00",
   "notices": [
     {
       "notice_id": "1108209",
@@ -23,6 +23,13 @@
       "contact_email": "clarissap@tooelecity.gov",
       "posted_on": "September 11, 2026 01:24 PM",
       "attachments": [
+        {
+          "file_name": "09.16.2026_CCAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1490507.mp3",
+          "date_added": "2026/09/18 10:11 AM",
+          "file_id": "1490507"
+        },
         {
           "file_name": "09.16.2026_CCAgenda.pdf",
           "category": "Public Information Handout",
@@ -84,6 +91,13 @@
       "contact_email": "clarissap@tooelecity.gov",
       "posted_on": "September 11, 2026 12:54 PM",
       "attachments": [
+        {
+          "file_name": "09.16.2026_WKAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1490499.mp3",
+          "date_added": "2026/09/18 10:09 AM",
+          "file_id": "1490499"
+        },
         {
           "file_name": "09.16.2026_WKAgenda.pdf",
           "category": "Public Information Handout",
@@ -202,6 +216,40 @@
       "canceled": false
     },
     {
+      "notice_id": "1097741",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097741.html",
+      "title": "Notice of Proposed Tax Increase and Public Hearing",
+      "event_date": "August 19, 2026 07:00 PM",
+      "event_date_iso": "2026-08-19T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nTOOELE CITY\r\n\r\nThe TOOELE CITY is proposing to increase its property tax revenue.\r\n\r\nThe TOOELE CITY tax on a $410,000 residence would increase from $569.84 to $584.05, which is $14.21 per year.\r\n\r\nThe TOOELE CITY tax on a $410,000 business would increase from $1,036.07 to $1,061.90, which is $25.83 per year.\r\n\r\nIf the proposed budget is approved, TOOELE CITY would receive an additional $238,092 in property tax revenue per year as a result of the tax increase. If the proposed budget is approved, TOOELE CITY would increase its property tax budgeted revenue by 2.49% above last year's property tax budgeted revenue excluding eligible new growth.\r\n\r\nThe TOOELE CITY invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase. You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPUBLIC HEARING\r\nDate/Time:  8/19/2026 7:00 PM\r\nLocation:  Tooele City Hall Council Chambers, 90 North Main Street, Tooele, UT 84074\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the TOOELE CITY at 435-843-2156 or visit www.tooelecity.gov. Instructions for virtual participation in the public hearing will be available at www.tooelecity.gov no later than 24 hours before the public hearing is scheduled to begin.",
+      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Clarissa Pankratz",
+      "contact_email": "clarissap@tooelecity.gov",
+      "posted_on": "July 27, 2026 10:37 AM",
+      "attachments": [
+        {
+          "file_name": "07.22.2026 TNT Taxation Advertisement Tooele City 08192026 Public Hearing.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466261.pdf",
+          "date_added": "2026/07/27 10:36 AM",
+          "file_id": "1466261"
+        },
+        {
+          "file_name": "07.22.2026 TNT Combined County Taxation Advertisement 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1466263.pdf",
+          "date_added": "2026/07/27 10:37 AM",
+          "file_id": "1466263"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1102565",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102565.html",
       "title": "Public Hearing Regarding Truth in Taxation During Business Meeting",
@@ -245,40 +293,6 @@
           "url": "https://www.utah.gov/pmn/files/1475953.pdf",
           "date_added": "2026/08/17 03:19 PM",
           "file_id": "1475953"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1097741",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1097741.html",
-      "title": "Notice of Proposed Tax Increase and Public Hearing",
-      "event_date": "August 19, 2026 07:00 PM",
-      "event_date_iso": "2026-08-19T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PROPOSED TAX INCREASE\r\nTOOELE CITY\r\n\r\nThe TOOELE CITY is proposing to increase its property tax revenue.\r\n\r\nThe TOOELE CITY tax on a $410,000 residence would increase from $569.84 to $584.05, which is $14.21 per year.\r\n\r\nThe TOOELE CITY tax on a $410,000 business would increase from $1,036.07 to $1,061.90, which is $25.83 per year.\r\n\r\nIf the proposed budget is approved, TOOELE CITY would receive an additional $238,092 in property tax revenue per year as a result of the tax increase. If the proposed budget is approved, TOOELE CITY would increase its property tax budgeted revenue by 2.49% above last year's property tax budgeted revenue excluding eligible new growth.\r\n\r\nThe TOOELE CITY invites all concerned citizens to a public hearing for the purpose of hearing comments regarding the proposed tax increase and to explain the reasons for the proposed tax increase. You have the option to attend or participate in the public hearing in person or virtually.\r\n\r\nPUBLIC HEARING\r\nDate/Time:  8/19/2026 7:00 PM\r\nLocation:  Tooele City Hall Council Chambers, 90 North Main Street, Tooele, UT 84074\r\n\r\nTo obtain more information regarding the tax increase, citizens may contact the TOOELE CITY at 435-843-2156 or visit www.tooelecity.gov. Instructions for virtual participation in the public hearing will be available at www.tooelecity.gov no later than 24 hours before the public hearing is scheduled to begin.",
-      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Clarissa Pankratz",
-      "contact_email": "clarissap@tooelecity.gov",
-      "posted_on": "July 27, 2026 10:37 AM",
-      "attachments": [
-        {
-          "file_name": "07.22.2026 TNT Taxation Advertisement Tooele City 08192026 Public Hearing.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466261.pdf",
-          "date_added": "2026/07/27 10:36 AM",
-          "file_id": "1466261"
-        },
-        {
-          "file_name": "07.22.2026 TNT Combined County Taxation Advertisement 2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1466263.pdf",
-          "date_added": "2026/07/27 10:37 AM",
-          "file_id": "1466263"
         }
       ],
       "canceled": false

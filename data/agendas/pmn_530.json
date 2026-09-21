@@ -4,24 +4,32 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-09-14T14:49:46.608729+00:00",
+  "scraped_at": "2026-09-21T14:56:03.802929+00:00",
   "notices": [
     {
       "notice_id": "1108003",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108003.html",
-      "title": "City Council Meeting",
-      "event_date": "September 15, 2026 04:00 PM",
-      "event_date_iso": "2026-09-15T16:00:00",
+      "title": "Special City Council Meeting",
+      "event_date": "September 15, 2026 06:00 PM",
+      "event_date_iso": "2026-09-15T18:00:00",
       "notice_types": [
         "Notice",
         "Meeting"
       ],
-      "agenda_text": "NOTICE OF A REGULAR CITY COUNCIL MEETING\r\nSeptember 15, 2026, at 4:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, September 15, 2026, at 4:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPUBLIC COMMENTS (3 MINUTES)\r\n'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tWORK SESSION\r\n        4.1  Interview Candidates for City Council Vacancy\r\n\r\n5.\tPROCLAMATIONS\r\n        5.1.\tCharlie Kirk Day of Remembrance - September 10, 2026\r\n \r\n6.\tCONSENT ITEMS\r\n        6.1.\tApproval of the September 8, 2026, City Council Meeting Minutes\r\n\r\n7.\tBUSINESS ITEMS\r\n        7.1.\tApprove the First Amendment to the Holdaway Fields Development Agreement with Cadence Homes and Goodboro Homes (Developers)\r\n        \r\n        7.2.\tAccept Quit Claim Deeds for Holdaway Properties\r\n\r\n        7.3.\tAppoint A City Treasurer \r\n\r\n        7.4.\tSelect A Candidate for City Council Vacancy \r\n\r\n8.\tADJOURNMENT",
+      "agenda_text": "NOTICE OF A SPECIAL CITY COUNCIL MEETING\r\nSeptember 15, 2026, at 6:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a SPECIAL City Council meeting on Tuesday, September 15, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPUBLIC COMMENTS (3 MINUTES)\r\n'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tWORK SESSION\r\n        4.1  Interview Candidates for City Council Vacancy\r\n\r\n5.\tPROCLAMATIONS\r\n        5.1.\tCharlie Kirk Day of Remembrance September 10, 2026\r\n\r\n6.\tCONSENT ITEMS\r\n        6.1.\tApproval of the September 8, 2026, City Council Meeting Minutes\r\n\r\n7.\tBUSINESS ITEMS\r\n        7.1.\tApprove the First Amendment to the Holdaway Fields Development Agreement with Cadence Homes and Goodboro Homes (Developers)\r\n        7.2.\tAccept Quit Claim Deed for Holdaway Properties \r\n        7.3.\tAppoint A City Treasurer\r\n        7.4\tSelect Candidate for City Council Vacancy\r\n        7.5.\tCity Council Annual Meeting Schedule Amendment #3 (Resolution 2026-35)\r\n\r\n8.\tADJOURNMENT",
       "meeting_location": "125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
       "contact_name": "Robin Bond",
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "September 10, 2026 09:33 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "9.15.26 CC Agenda Packet (2).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1488291.pdf",
+          "date_added": "2026/09/14 05:03 PM",
+          "file_id": "1488291"
+        }
+      ],
       "canceled": false
     },
     {
@@ -40,6 +48,13 @@
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "September 04, 2026 05:57 PM",
       "attachments": [
+        {
+          "file_name": "9.8.26 APPROVED CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1490197.pdf",
+          "date_added": "2026/09/17 04:48 PM",
+          "file_id": "1490197"
+        },
         {
           "file_name": "9.8.26 CC Packet.pdf",
           "category": "Public Information Handout",

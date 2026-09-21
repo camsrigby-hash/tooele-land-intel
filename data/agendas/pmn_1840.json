@@ -4,8 +4,41 @@
   "public_body": "Grantsville City Council",
   "body_id": "1840",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1840.html",
-  "scraped_at": "2026-09-14T14:45:38.296839+00:00",
+  "scraped_at": "2026-09-21T14:51:55.897950+00:00",
   "notices": [
+    {
+      "notice_id": "1108779",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108779.html",
+      "title": "Grantsville City Council Regular Meeting",
+      "event_date": "September 16, 2026 07:00 PM",
+      "event_date_iso": "2026-09-16T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, September 16, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm. \r\n\r\nThe agenda is as follows: \r\nROLL CALL \r\nAGENDA: \r\n1.\tPublic Comment\r\n2.\tSummary Action Items\r\na.\tApproval of Minutes from the August 19, 2026 City Council Regular Meeting\r\nb.\tApproval of Minutes from the September 2, 2026 City Council Regular Meeting\r\nc.\tApproval of bills\r\n3.\tConsideration of Ordinance 2026-28 amending Chapter 9 of the Grantsville Land Use Management Code regarding landscaping, waterwise landscaping, irrigation, parkways, park strips, medians, and approved plant materials\r\n4.\tConsideration of Ordinance 2026-27 approving the Alington Planned Unit Development located at approximately 948 E Main Street (SR-138)\r\n5.\tConsideration of Resolution 2026-62 approving a Master Development Agreement for the Alington Flex Homes Planned Unit Development located at approximately 948 E Main Street (SR-138)\r\n6.\tConsideration of Ordinance 2026-29 amending Chapter 15 of the Grantsville Land Use and Management Code to add eligible zoning designations for Micro-Entrepreneurship\r\n7.\tConsideration of Ordinance 2026-30 amending Chapters 2, 6, and 7 of the Grantsville Land Use Management Code regarding frontage requirements, residential driveways, and conditional use permit review\r\n8.\tConsideration of Resolution 2026-68 adopting the APWA Utah Manual of Standard Specifications and Standard Plans as the official Grantsville City Construction Standards\r\n9.\tCouncil Reports\r\n10.\tAdjourn\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "September 14, 2026 07:52 PM",
+      "attachments": [
+        {
+          "file_name": "09.16.2026 City Council Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1488373.pdf",
+          "date_added": "2026/09/14 07:51 PM",
+          "file_id": "1488373"
+        },
+        {
+          "file_name": "09.16.2026 City Council Meeting Packet v1.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1488375.pdf",
+          "date_added": "2026/09/14 07:52 PM",
+          "file_id": "1488375"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1105099",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105099.html",
@@ -328,32 +361,6 @@
           "url": "https://www.utah.gov/pmn/files/1461151.pdf",
           "date_added": "2026/07/13 04:11 PM",
           "file_id": "1461151"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1092355",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092355.html",
-      "title": "Notice of Meeting Cancellation",
-      "event_date": "July 1, 2026 07:00 PM",
-      "event_date_iso": "2026-07-01T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "PUBLIC NOTICE OF CITY COUNCIL MEETING CANCELLATION\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the Regular Meeting of the Grantsville City Council that was to be held on Wednesday, July 1, 2026 has been cancelled.\r\n\r\nThe next regularly scheduled meeting will be held on July 15, 2026 at 7:00 PM at Grantsville City Hall, located at 429 E. Main St., Grantsville City, UT as well as electronically via Zoom.\r\n\r\nAlicia Fairbourne\r\nGrantsville City Recorder\r\nPublished and posted 6/29/2026\r\nIn accordance with the Utah Open and Public Meetings Act",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "June 29, 2026 07:41 PM",
-      "attachments": [
-        {
-          "file_name": "PUBLIC NOTICE OF CITY COUNCIL MEETING CANCELLATION.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1455917.pdf",
-          "date_added": "2026/06/29 07:41 PM",
-          "file_id": "1455917"
         }
       ],
       "canceled": false

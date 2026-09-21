@@ -4,8 +4,40 @@
   "public_body": "City Council",
   "body_id": "1155",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1155.html",
-  "scraped_at": "2026-09-14T14:48:23.827769+00:00",
+  "scraped_at": "2026-09-21T14:54:41.154099+00:00",
   "notices": [
+    {
+      "notice_id": "1109731",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109731.html",
+      "title": "Regular Session",
+      "event_date": "September 23, 2026 05:30 PM",
+      "event_date_iso": "2026-09-23T17:30:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\nWednesday, September 23, 2026\r\n*Amended September 17, 2026 @ 5:40 p.m.\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Council shall assemble for a \r\nmeeting in the City Council Chambers, located at\r\n5355 WEST HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n \r\n5:30 PM - WORK MEETING: (Fort Herriman Conference Room)\r\n\r\n1.\tCouncil Business\r\n1.1.\tReview of this Evening's Agenda\r\n1.2.\tFuture Agenda Items\r\n1.3.\tCouncil discussion of future citizen recognitions\r\n\r\n2.\tAdministrative Reports\r\n2.1.\tCity Status Report: August 2026 - Trevor Ram, Assistant to the City Manager\r\n\r\n2.2.\tCIP Review: General Fund Projects - Trevor Ram, Assistant to the City Manager \r\n\r\n2.3.\tLegislative priorities for 2027 - Nathan Cherpeski, City Manager\r\n\r\n2.4.\tDiscussion of proposed amendment to Herriman City Ordinance 5-1-11 - Replace 'Licenses Required' with 'Identification Required' - Brent Adamson, Commander | Matt Brooks, Assistant City Attorney\r\n\r\n3.\tAdjournment\r\n\r\n7:00 PM - GENERAL MEETING:\r\n4.\tCall to Order\r\n4.1.\tInvocation/Thought/Reading and Pledge of Allegiance\r\n4.2.\tCity Council Comments and Recognitions\r\n\r\n5.\tPublic Comment\r\nAudience members may bring any item within the City's purview to the City Council's attention. Comments will be limited to two minutes. State Law prohibits the Council from acting on items that do not appear on the agenda. Public comments for this meeting will also be conducted electronically. Any person interested in addressing the Council may submit a comment by emailing recorder@herriman.gov or by visiting Herriman.gov/agendas-and-minutes, where there is a link to fill out an online public comment form. Your statement will be incorporated into the public record.\r\n\r\n6.\tCity Council Reports\r\n6.1.\tCouncilmember Jared Henderson\r\n6.2.\tCouncilmember Teddy Hodges\r\n6.3.\tCouncilmember Matt Basham\r\n6.4.\tCouncilmember Terrah Anderson\r\n\r\n7.\tMayor Report\r\n\r\n8.\t*Reports, Presentations and Appointments\r\n8.1.\t*Herriman Police Department Oath of Office and Badge Pinning Ceremony\r\n\r\n9.\tConsent Agenda\r\n9.1.\tApproval of the August 26, 2026 City Council meeting minutes\r\n\r\n10.\tDiscussion and Action Items\r\n10.1.\tConsideration of an amendment to Title 10 of the Herriman City Code regarding uses allowed in the Commercial, Mixed Use, and Manufacturing zoning districts regarding Commissaries, outdoor retail displays associated with retail businesses, and seasonal sales activities - Blake Thomas, Community Development Director\r\n\r\n10.2.\tDiscussion and consideration of an agreement with the Affordable Housing Infrastructure Grant Board regarding grant funding to build public infrastructure that directly supports the development of owner-occupied, attainable housing - Blake Thomas, Community Development Director\r\n\r\n11.\tFuture Meetings\r\n11.1.\tNext Joint City Council/Planning Commission Meeting: September 30, 2026\r\n11.2.\tNext Planning Meeting: October 7, 2026\r\n11.3.\tNext City Council Meeting: October 14, 2026\r\n\r\n12.\tEvents\r\n12.1.\tAnnie KIDS and Oliver Jr Performance: September 23, 2026 - September 25, 2026, Butterfield Park 6:00 p.m.\r\n12.2.\tHungry Herriman Food Truck Roundup: September 28, 2026, Crane Park, 5:00 p.m.\r\n12.3.\tHerriman Howl: October 5, 2026, Crane Park @ 5:00 p.m.\r\n\r\n13.\tClosed Session\r\nThe Herriman City Council may temporarily recess the City Council meeting to convene in a closed session to discuss the character, professional competence, or physical or mental health of an individual, pending or reasonable imminent litigation, and the purchase, exchange, or lease of real property, as provided by Utah Code Annotated §52-4-205\r\n\r\n14.\tAdjournment\r\n\r\n15.\tRecommence to Work Meeting (If Needed)",
+      "meeting_location": "5355 West Herriman Main Street Herriman, UT 84096 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Jackie Nostrom",
+      "contact_email": "jnostrom@herriman.gov",
+      "posted_on": "September 17, 2026 05:10 PM",
+      "attachments": [
+        {
+          "file_name": "2026_09_23 RCCM Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1490219.pdf",
+          "date_added": "2026/09/17 05:10 PM",
+          "file_id": "1490219"
+        },
+        {
+          "file_name": "2026_09_23 RCCM Packet Amd..pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1490261.pdf",
+          "date_added": "2026/09/17 05:59 PM",
+          "file_id": "1490261"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1106317",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106317.html",
@@ -270,24 +302,6 @@
           "file_id": "1429595"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1073489",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1073489.html",
-      "title": "Cancellation Notice",
-      "event_date": "April 22, 2026 05:30 PM",
-      "event_date_iso": "2026-04-22T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "City Council Agenda \r\n\r\nWednesday, April 22, 2026\r\n\r\n\r\nNOTICE IS HEREBY GIVEN that the \r\nHerriman City Council Meeting scheduled for Wednesday, April 22, 2026, has been CANCELLED \r\n\r\n\r\nPlease plan to join us for the next City Council meeting \r\nscheduled for Wednesday, May 13, 2026",
-      "meeting_location": "5355 West Herriman Main Street Herriman, UT 84096 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Jackie Nostrom",
-      "contact_email": "jnostrom@herriman.gov",
-      "posted_on": "April 16, 2026 10:21 AM",
-      "attachments": [],
       "canceled": false
     }
   ]

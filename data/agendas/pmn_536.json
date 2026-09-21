@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-09-14T14:47:48.080260+00:00",
+  "scraped_at": "2026-09-21T14:54:05.645972+00:00",
   "notices": [
     {
       "notice_id": "1107541",
@@ -28,6 +28,39 @@
           "url": "https://www.utah.gov/pmn/files/1487089.pdf",
           "date_added": "2026/09/11 09:03 AM",
           "file_id": "1487089"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1109515",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109515.html",
+      "title": "Planning Commission Public Meeting",
+      "event_date": "September 22, 2026 05:30 PM",
+      "event_date_iso": "2026-09-22T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nSEPTEMBER 22, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tDISCUSSION / TRAINING - Sports and Recreation Planning\r\n\r\n\t1.B.\tAGENDA REVIEW\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tSeptember 8, 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tPUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, amending Eagle Mountain Municipal Code Section 16.25.040 Application, 17.10.030 Definitions, and 17.60.040 General Landscape Provisions. \r\n\r\nBACKGROUND: (Presented by Long Range Planner, Elizabeth Fewkes) A proposal to identify wildland urban interface (WUI) lots on final plats, permit vegetation removal allowances required by Utah Code, and add associated definitions.\r\n\r\n\t7.B.\tPUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain Municipal Code Section 9.10 and 17.47 Regarding Archery Use Within the City.\r\n\r\nBACKGROUND: (Presented by Natalie Winterton) An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain Municipal Code Section 9.10 and 17.47 Regarding Archery Use Within the City. \r\n\r\n\t7.C.\tPUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, Rezoning Certain Lands Known as Corrigan Farms.\r\n\r\nBACKGROUND: (Presented by Senior Planner, David Stroud) Corrigan Farms LLC is looking to rezone parcel number 59:068:0006 to add the RTI overlay zone to the property to allow it to develop a data center project with a natural gas powerplant.\r\n\r\n\t7.D.\tCorrigan Farms Development Agreement\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "September 17, 2026 10:16 AM",
+      "attachments": [
+        {
+          "file_name": "Agenda.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489781.docx",
+          "date_added": "2026/09/17 10:13 AM",
+          "file_id": "1489781"
+        },
+        {
+          "file_name": "Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489783.pdf",
+          "date_added": "2026/09/17 10:16 AM",
+          "file_id": "1489783"
         }
       ],
       "canceled": false
@@ -285,32 +318,6 @@
           "url": "https://www.utah.gov/pmn/files/1465503.pdf",
           "date_added": "2026/07/22 04:12 PM",
           "file_id": "1465503"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1092995",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092995.html",
-      "title": "PCPH Scenic Mountain Rezone, Eagle Mountain Chapel and Recreation Building",
-      "event_date": "July 14, 2026 06:30 PM",
-      "event_date_iso": "2026-07-14T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on July 14, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\n\r\nScenic Mountain Rezone: Proposed General Plan Future Land Use Map Amendment(s) and \r\nRezoning of various properties within, and adjacent to, the expired Scenic Mountain master \r\ndevelopment area. Approximately 42.29 acres of land are included in this proposal. The following QR \r\ncode may be scanned to see a list of affected parcels to be considered: \r\nEMC Point of Contact: Robert Hobbs, rhobbs@eaglemountain.gov. \r\n\r\nEagle Mountain Chapel and Recreation Building Site Plan: Planning Commission review of a site \r\nplan proposal that would demolish two residential dwellings, renovate and expand the current \r\naccessory building into a religious and cultural meeting hall, and construct an accessory recreation \r\nbuilding. EMC Point of Contact: Steven Lehmitz, slehmitz@eaglemountain.gov. \r\n\r\nEagle Mountain Chapel and Recreation Building Development Agreement: Planning \r\nCommission review of a proposed development agreement that would facilitate the development of \r\nthe proposed Eagle Mountain Chapel and Recreation Building Site Plan. EMC Point of Contact: \r\nSteven Lehmitz, slehmitz@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city \r\nwebsite and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, \r\nUT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special \r\naccommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  \r\nOpen portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "July 02, 2026 12:34 PM",
-      "attachments": [
-        {
-          "file_name": "07.14.2026 PCPH Scenic Mountain Rezone, Eagle Mountain Chapel and Recreation Building.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1459011.pdf",
-          "date_added": "2026/07/08 02:10 PM",
-          "file_id": "1459011"
         }
       ],
       "canceled": false

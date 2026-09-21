@@ -4,8 +4,58 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-09-14T14:47:36.126356+00:00",
+  "scraped_at": "2026-09-21T14:53:53.835685+00:00",
   "notices": [
+    {
+      "notice_id": "1109791",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109791.html",
+      "title": "Notice of Quorum",
+      "event_date": "September 30, 2026 06:30 PM",
+      "event_date_iso": "2026-09-30T18:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF POSSIBLE QUORUM\r\n\r\nNotice is hereby given that a quorum of the Eagle Mountain City Council may be present on Wednesday, September 30, 2026, from 6:30 PM to 8:30 PM at City Hall, (1650 E. Stagecoach Run, Eagle Mountain, Utah). The City is hosting Class 3 of 6 of the Citizen's Academy, with the general topic of How the City Grows. City Councilmembers may attend for informational purposes only. No official City business will be conducted, and no formal discussion or decisions will take place.  \r\n\r\nCERTIFICATE OF POSTING\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above notice of quorum was posted on this 18th day of September, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, and posted to the Utah State Public Notice website http://www.utah.gov/pmn/index.html\r\nLacie A. Messerly, City Recorder",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "September 18, 2026 08:34 AM",
+      "attachments": [
+        {
+          "file_name": "09.30.2026 Notice of Quorum - Citizen's Academy @ City Hall Class 3.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1490349.pdf",
+          "date_added": "2026/09/18 08:33 AM",
+          "file_id": "1490349"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1109789",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109789.html",
+      "title": "Notice of Quorum",
+      "event_date": "September 23, 2026 06:30 PM",
+      "event_date_iso": "2026-09-23T18:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF POSSIBLE QUORUM\r\n\r\nNotice is hereby given that a quorum of the Eagle Mountain City Council may be present on Wednesday, September 23, 2026, from 6:30 PM to 8:30 PM at Fire Station 253, (1208  Mid Valley Rd, Eagle Mountain, Utah). The City is hosting Class 2 of 6 of the Citizen's Academy, with the general topic of Public Safety. City Councilmembers may attend for informational purposes only. No official City business will be conducted, and no formal discussion or decisions will take place.  \r\n\r\nCERTIFICATE OF POSTING\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above notice of quorum was posted on this 18th day of September, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, and posted to the Utah State Public Notice website http://www.utah.gov/pmn/index.html\r\n Lacie A. Messerly, City Recorder",
+      "meeting_location": "1208 Mid Valley Rd. Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "September 18, 2026 08:30 AM",
+      "attachments": [
+        {
+          "file_name": "09.23.2026 Notice of Quorum - Citizen's Academy @ City Hall Class 2.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1490347.pdf",
+          "date_added": "2026/09/18 08:31 AM",
+          "file_id": "1490347"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1108025",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108025.html",
@@ -66,7 +116,7 @@
       "notice_types": [
         "Meeting"
       ],
-      "agenda_text": "EAGLE MOUNTAIN\r\nCITY COUNCIL MEETING\r\n\r\nSEPTEMBER 15, 2026, 4:00 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 E STAGECOACH RUN, EAGLE MOUNTAIN, UT 84005\r\n\r\n4:00 PM WORK SESSION - CITY COUNCIL CHAMBERS\r\n\r\n1.\tDISCUSSION AND INFORMATION ITEMS\r\n\tThis is an opportunity to provide information to the City Council. These items are for information only and do not require action by the City Council.\r\n\r\n\t1.A.\tDISCUSSION - Code for Transmission Lines, Utah Code Requirements\r\n(anticipated time 15 minutes)\r\n\r\n\t1.B.\tDISCUSSION - RV Parking Code Amendment\r\n(anticipated time 15 minutes)\r\n\r\n\t1.C.\tDISCUSSION - Project Recommendations (Community Services Board)\r\n(anticipated time 20 minutes)\r\n\r\n2.\tCITY MANAGER INFORMATION ITEMS\r\n\tThis is an opportunity for the City Manager to provide information to the City Council. \r\n\r\n3.\tAGENDA REVIEW\r\n\tThe City Council will review items on the Consent Agenda and Policy Session Agenda.\r\n\r\n4.\tADJOURN TO A CLOSED SESSION\r\n\tThe City Council will adjourn into a Closed Session for the purpose of discussion of pending or reasonably imminent litigation; the character, professional competence, or physical or mental health of an individual; the purchase, lease, sale, or exchange of real property; a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state or a political subdivision; and/or the deployment of security personnel, devices, or systems, pursuant to Section 52-4-205(1) of the Utah Code, Annotated.\r\n\r\n7:00 PM POLICY SESSION - CITY COUNCIL CHAMBERS\r\n\r\n5.\tCALL TO ORDER\r\n\r\n6.\tPLEDGE OF ALLEGIANCE\r\n\r\n7.\tINFORMATION ITEMS/UPCOMING EVENTS\r\n\r\n8.\tINTRODUCTION/RECOGNITION \r\n\r\n\t8.A.\tINTRODUCTION - Utah County Sheriff's Office Deputy\r\n\r\n9.\tPUBLIC COMMENTS\r\n\tTime has been set aside for the public to express their ideas, concerns, and comments. (Please limit your comments to three minutes each.)\r\n\r\n10.\tCITY COUNCIL/MAYOR ITEMS\r\n\tTime has been set aside for the City Council and Mayor to make comments.\r\n\r\nCONSENT AGENDA\r\n\r\n11.\tCHANGE ORDERS\r\n\r\n\t11.A.\tCHANGE ORDER - 2025 Midvalley Road Extension - Change Orders #6 and #7\r\n\r\n12.\tMINUTES\r\n\r\n\t12.A.\tSeptember 1, 2026 Minutes - Regular City Council Meeting\r\n\r\n13.\tPRELIMINARY PLATS & SITE PLANS\r\n\r\n\t13.A.\tSITE PLAN - Spring Run Plaza Lot 1\r\n\r\n\t13.B.\tSITE PLAN - Spring Run Plaza Lot 2\r\n\r\n14.\tRESOLUTIONS\r\n\r\n\t14.A.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving an Agreement with Utah Public Solutions LLC to Provide Lobbying Services\r\n\r\n\t14.B.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving a Reimbursement Agreement with Spring Run Parkway Partners II, LP\r\n\r\nSCHEDULED ITEMS\r\n\r\n15.\tRESOLUTION/PUBLIC HEARING\r\n\r\n\t15.A.\tRESOLUTION/PUBLIC HEARING - A Resolution of Eagle Mountain City, Utah, Approving the First Amendment to the Fiscal Year 2026-2027 Annual Budget\r\n\r\nBACKGROUND: (Presented by Budget Manager Terrence Dela Peña)  The proposed budget amendment includes changes to the General Fund, Capital Project Fund, Special Revenue Funds, Internal Service Funds, and Enterprise Funds.\r\n\r\n16.\tTRAINING\r\n\r\n\t16.A.\tTRAINING - Open & Public Meetings Act (OPMA)\r\n\r\n17.\tLEGISLATIVE ITEMS\r\n\r\n\t17.A.\tUPDATE - Legislative Priorities List\r\n\r\n18.\tCITY COUNCIL/MAYOR'S BUSINESS AND LIAISON REPORTS\r\n\tThis time is set aside for the City Council's and Mayor's comments on City business, and for Councilmembers to report on the boards they are assigned to as liaisons to the City Council. \r\n\r\n19.\tCOMMUNICATION ITEMS\r\n\r\n\t19.A.\tUpcoming Agenda Items\r\n\r\n20.\tADJOURNMENT\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.\r\n\r\nCERTIFICATE OF POSTING\r\n\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 10 day of September, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly\r\nCity Recorder",
+      "agenda_text": "EAGLE MOUNTAIN\r\nCITY COUNCIL MEETING - AMENDED AGENDA\r\n\r\nSEPTEMBER 15, 2026, 4:00 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 E STAGECOACH RUN, EAGLE MOUNTAIN, UT 84005\r\n\r\n4:00 PM WORK SESSION - CITY COUNCIL CHAMBERS\r\n\r\n1.\tDISCUSSION AND INFORMATION ITEMS\r\n\tThis is an opportunity to provide information to the City Council. These items are for information only and do not require action by the City Council.\r\n\r\n\t1.A.\tDISCUSSION - Code for Transmission Lines, Utah Code Requirements\r\n(anticipated time 15 minutes)\r\n\r\n\t1.B.\tDISCUSSION - RV Parking Code Amendment\r\n(anticipated time 15 minutes)\r\n\r\n\t1.C.\tDISCUSSION - Project Recommendations (Community Services Board)\r\n(anticipated time 20 minutes)\r\n\r\n2.\tCITY MANAGER INFORMATION ITEMS\r\n\tThis is an opportunity for the City Manager to provide information to the City Council. \r\n\r\n3.\tAGENDA REVIEW\r\n\tThe City Council will review items on the Consent Agenda and Policy Session Agenda.\r\n\r\n4.\tADJOURN TO A CLOSED SESSION\r\n\tThe City Council will adjourn into a Closed Session for the purpose of discussion of pending or reasonably imminent litigation; the character, professional competence, or physical or mental health of an individual; the purchase, lease, sale, or exchange of real property; a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state or a political subdivision; and/or the deployment of security personnel, devices, or systems, pursuant to Section 52-4-205(1) of the Utah Code, Annotated.\r\n\r\n7:00 PM POLICY SESSION - CITY COUNCIL CHAMBERS\r\n\r\n5.\tCALL TO ORDER\r\n\r\n6.\tPLEDGE OF ALLEGIANCE\r\n\r\n7.\tINFORMATION ITEMS/UPCOMING EVENTS\r\n\r\n\r\n\r\n8.\tINTRODUCTION/RECOGNITION \r\n\r\n\t8.A.\tINTRODUCTION - Utah County Sheriff's Office Deputy\r\n\r\n\r\n9.\tPROCLAMATIONS\r\n\r\n\t9.A.\tPROCLAMATION - A Proclamation of Eagle Mountain City, Utah, Proclaiming Eagle Mountain City as a JustServe City\r\n\r\n10.\tPUBLIC COMMENTS\r\n\tTime has been set aside for the public to express their ideas, concerns, and comments. (Please limit your comments to three minutes each.)\r\n\r\n11.\tCITY COUNCIL/MAYOR ITEMS\r\n\tTime has been set aside for the City Council and Mayor to make comments.\r\n\r\nCONSENT AGENDA\r\n\r\n12.\tCHANGE ORDERS\r\n\r\n\t12.A.\tCHANGE ORDER - 2025 Midvalley Road Extension - Change Orders #6 and #7\r\n\r\n13.\tMINUTES\r\n\r\n\t13.A.\tSeptember 1, 2026 Minutes - Regular City Council Meeting\r\n\r\n14.\tPRELIMINARY PLATS & SITE PLANS\r\n\r\n\t14.A.\tSITE PLAN - Spring Run Plaza Lot 1\r\n\r\n\t14.B.\tSITE PLAN - Spring Run Plaza Lot 2\r\n\r\n15.\tRESOLUTIONS\r\n\r\n\t15.A.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving an Agreement with Utah Public Solutions LLC to Provide Lobbying Services\r\n\r\n\t15.B.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving a Reimbursement Agreement with Spring Run Parkway Partners II, LP\r\n\r\nSCHEDULED ITEMS\r\n\r\n16.\tRESOLUTION/PUBLIC HEARING\r\n\r\n\t16.A.\tRESOLUTION/PUBLIC HEARING - A Resolution of Eagle Mountain City, Utah, Approving the First Amendment to the Fiscal Year 2026-2027 Annual Budget\r\n\r\nBACKGROUND: (Presented by Budget Manager Terrence Dela Peña)  The proposed budget amendment includes changes to the General Fund, Capital Project Fund, Special Revenue Funds, Internal Service Funds, and Enterprise Funds.\r\n\r\n17.\tTRAINING\r\n\r\n\t17.A.\tTRAINING - Open & Public Meetings Act (OPMA)\r\n\r\n18.\tLEGISLATIVE ITEMS\r\n\r\n\t18.A.\tUPDATE - Legislative Priorities List\r\n\r\n19.\tCITY COUNCIL/MAYOR'S BUSINESS AND LIAISON REPORTS\r\n\tThis time is set aside for the City Council's and Mayor's comments on City business, and for Councilmembers to report on the boards they are assigned to as liaisons to the City Council. \r\n\r\n20.\tCOMMUNICATION ITEMS\r\n\r\n\t20.A.\tUpcoming Agenda Items\r\n\r\n21.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.\r\n\r\nCERTIFICATE OF POSTING\r\n\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 14 day of September, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly\r\nCity Recorder",
       "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT Show in Apple Maps Show in Google Maps",
       "contact_name": "Lacie Messerly",
       "contact_email": "lmesserly@eaglemountain.gov",
@@ -78,6 +128,13 @@
           "url": "https://www.utah.gov/pmn/files/1486683.pdf",
           "date_added": "2026/09/10 01:14 PM",
           "file_id": "1486683"
+        },
+        {
+          "file_name": "09.15.2026 City Council Agenda - Amended.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1488211.pdf",
+          "date_added": "2026/09/14 03:49 PM",
+          "file_id": "1488211"
         }
       ],
       "canceled": false
@@ -174,6 +231,13 @@
       "posted_on": "August 27, 2026 03:17 PM",
       "attachments": [
         {
+          "file_name": "09.01.2026 - CC Minutes - APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1489439.pdf",
+          "date_added": "2026/09/16 02:56 PM",
+          "file_id": "1489439"
+        },
+        {
           "file_name": "09.01.2026 - City Council Agenda.pdf",
           "category": "Other",
           "url": "https://www.utah.gov/pmn/files/1480793.pdf",
@@ -198,63 +262,6 @@
       "contact_email": "lmesserly@eaglemountain.gov",
       "posted_on": "August 25, 2026 05:13 PM",
       "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1100316",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100316.html",
-      "title": "Public Hearing",
-      "event_date": "August 18, 2026 07:00 PM",
-      "event_date_iso": "2026-08-18T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\n\r\nThe Eagle Mountain City Council will hold public hearings on August 18, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\nAdoption of the Final Budget for FY 2026-2027:\r\n\r\n-\tAdoption of the Final Budget for FY 2026-2027: The City Council is considering adoption of the Fiscal Year 2026-2027 final budget following completion of the Truth-in-Taxation process. The final budget includes an increase to the property tax rate and will generate additional revenue to support public safety. \r\n\r\nThe City Council reviewed the proposed Property Tax Impact Schedule on May 5, 2026, adopted the Fiscal Year 2026-2027 Interim Budget on June 16, 2026, and held a Truth-in-Taxation public hearing on August 6, 2026, to receive public comment regarding the proposed property tax increase and its impact on property owners. The final budget will be the document that governs the expenditures for Fiscal Year 2026-2027. \r\nEMC Point of Contact: Director of Administrative Services, Kimberly Ruesch: kruesch@eaglemountain.gov.\r\n\r\nAmendment to Eagle Mountain Municipal Code: \r\n\r\n-\tEMMC 16.20.040 - Preliminary Plats: Consideration of an amendment to Eagle Mountain Municipal Code 16.20.040, regarding street names on preliminary plats. \r\nEMC Point of Contact: Senior Planner, David Stroud: dstroud@esaglemountain.gov. \r\n\r\n-\tEMMC 16.25.040 - Final Plats: Consideration of an amendment to Eagle Mountain Municipal Code 16.25.040, regarding street names and City maintained property on final plats. \r\nEMC Point of Contact Senior Planner, David Stroud: dstroud@eaglemountain.gov. \r\n\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\n\r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 8 day of August, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly, City Recorder",
-      "meeting_location": "1650 E. Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "August 07, 2026 12:27 PM",
-      "attachments": [
-        {
-          "file_name": "CCPH 08.18.2026 - Adoption of Final Budget for FY 2026-2027, EMMC 16.20.040 and 16.25.040.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1471644.pdf",
-          "date_added": "2026/08/07 12:27 PM",
-          "file_id": "1471644"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1101805",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101805.html",
-      "title": "Public Meeting",
-      "event_date": "August 18, 2026 04:00 PM",
-      "event_date_iso": "2026-08-18T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN\r\nCITY COUNCIL MEETING\r\n\r\nAUGUST 18, 2026, 4:00 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 E STAGECOACH RUN, EAGLE MOUNTAIN, UT 84005\r\n\r\n4:00 PM WORK SESSION - CITY COUNCIL CHAMBERS\r\n\r\n1.\tDISCUSSION AND INFORMATION ITEMS\r\n\tThis is an opportunity to provide information to the City Council. These items are for information only and do not require action by the City Council.\r\n\r\n\t1.A.\tDISCUSSION - Pony Express Business Park.\r\n(anticipated time 15 minutes)\r\n\r\n\t1.B.\tDISCUSSION - Archery Overlay Zone.\r\n(anticipated time 15 minutes)\r\n\r\n\t1.C.\tDISCUSSION - City Staffing Analysis.\r\n(anticipated time 15 minutes)\r\n\r\n\t1.D.\tDISCUSSION - Proposed Policy Regarding Property Tax Funding for the Sheriff's Office.\r\n(anticipated time 10 minutes)\r\n\r\n2.\tCITY MANAGER INFORMATION ITEMS\r\n\tThis is an opportunity for the City Manager to provide information to the City Council. \r\n\r\n3.\tAGENDA REVIEW\r\n\tThe City Council will review items on the Consent Agenda and Policy Session Agenda.\r\n\r\n4.\tADJOURN TO A CLOSED SESSION\r\n\tThe City Council will adjourn into a Closed Session for the purpose of discussion of pending or reasonably imminent litigation; the character, professional competence, or physical or mental health of an individual; the purchase, lease, sale, or exchange of real property; a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state or a political subdivision; and/or the deployment of security personnel, devices, or systems, pursuant to Section 52-4-205(1) of the Utah Code, Annotated.\r\n\r\n7:00 PM POLICY SESSION - CITY COUNCIL CHAMBERS\r\n\r\n5.\tCALL TO ORDER\r\n\r\n6.\tPLEDGE OF ALLEGIANCE\r\n\r\n7.\tPUBLIC COMMENTS\r\n\tTime has been set aside for the public to express their ideas, concerns, and comments. (Please limit your comments to three minutes each.)\r\n\r\n8.\tCITY COUNCIL/MAYOR ITEMS\r\n\tTime has been set aside for the City Council and Mayor to make comments.\r\n\r\nCONSENT AGENDA\r\n\r\n9.\tBOND RELEASES\r\n\r\n\t9.A.\tThe Towns at Brylee Farms Phase B, Plat 4 - Into Warranty \r\n\r\n10.\tMINUTES\r\n\r\n\t10.A.\tJuly 30, 2026 Minutes - Transportation Interlocal Meeting\r\n\r\n\t10.B.\tAugust 4, 2026 Minutes - Regular City Council Meeting\r\n\r\n\t10.C.\tAugust 6, 2026 Minutes - Council Meeting - Truth-in-Taxation\r\n\r\n\t10.D.\tAugust 10, 2026 Minutes - Council Meeting - Special Session\r\n\r\n11.\tRESOLUTIONS\r\n\r\n\t11.A.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Awarding the Bid for EMC 6.0 MGD Wastewater Treatment Facility Expansion - GMP-2 Oxidation Ditch and Miscellaneous Site Improvements to MGC Contractors, Inc. and Approving the Contract.\r\n\r\n\t11.B.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Accepting the Eagle Mountain City Fiscal Year 2025 Audited Financial Statements.\r\n\r\nSCHEDULED ITEMS\r\n\r\n12.\tORDINANCES/PUBLIC HEARINGS\r\n\r\n\t12.A.\tORDINANCE/PUBLIC HEARING - An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain Municipal Code 16.20.040 (Preliminary Plats) regarding Street Names.  \r\n\r\nBACKGROUND: (Presented by Senior Planner, David Stroud) The proposed ordinance amends Eagle Mountain Municipal Code Section 16.20.040 regarding street names on Preliminary Plats.\r\n\r\n\t12.B.\tORDINANCE/PUBLIC HEARING - An Ordinance of Eagle Mountain, Utah, Amending Eagle Mountain Municipal Code 16.25.040, Final Plats.\r\n\r\nBACKGROUND: (Presented by Senior Planner, David Stroud) The proposed ordinance amends Eagle Mountain Municipal Code Section 16.25.040 to include street naming standards required of final plats, and other plat requirements.\r\n\r\n13.\tTRUTH-IN-TAXATION\r\n\r\n\t13.A.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Repealing a Property Tax Increase Above the Certified Tax Rate for Fiscal Year 2026-2027.\r\n\r\nBACKGROUND: On August 6, 2026, the City Council held a Truth in Taxation public hearing and approved a property tax rate of 0.001500 for Fiscal Year 2026-2027, exceeding the certified tax rate of 0.000530. The proposed resolution formally rescinds the previously approved property tax increase.\r\n\r\n\t13.B.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving a Property Tax Increase Above the Certified Tax Rate for Fiscal Year 2026-2027.\r\n\r\nBACKGROUND: Following the required Truth in Taxation public hearing, the City Council will consider approval of the proposed property tax increase above the certified tax rate for Fiscal Year 2026-2027, as required by Utah law. Approval of the proposed increase allows the City to incorporate the associated property tax revenue into the final Fiscal Year 2026-2027 budget.\r\n\r\n\t13.C.\tRESOLUTION/PUBLIC HEARING - A Resolution of Eagle Mountain City, Utah, Adopting the Fiscal Year 2026-2027 Annual Budget Totaling $363,992,973.\r\n\r\nBACKGROUND: (Presented by Administrative Services Director Kimberly Ruesch) State statute requires taxing entities proposing a property tax increase above the certified tax rate to complete the Truth-in-Taxation process prior to adopting a final property tax rate and budget.  A Truth-in-Taxation public hearing was held on August 6, 2026, to receive public comment regarding the proposed property tax increase and the Council adopted a tax rate of 0.001500. This rate was a reduction from the interim budget proposed rate and reduces property tax revenue by $1,151,343.\r\n\r\n14.\tMID-VALLEY COMMUNITY REINVESTMENT PROJECT AREA\r\n\r\n\t14.A.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving an Interlocal Cooperation Agreement between the Redevelopment Agency of Eagle Mountain City and Eagle Mountain City for the Collection and Remittance of Incremental Property Taxes Collected from Property within the Mid-Valley Community Reinvestment Project Area.\r\n\r\nBACKGROUND: (Presented by Director of Legislative and Strategic Services, Evan Berrett): The Mid-Valley CRA encompasses approximately 53 acres currently under review for commercial retail development. The proposed Interlocal Agreement outlines the City's participation in tax increment financing for off-site project improvements and establishes the related administrative procedures and terms.\r\n\r\n\t14.B.\tRESOLUTION - A Resolution of Eagle Mountain City, Utah, Approving the Mid-Valley CRA Participation Agreement between Eagle Mountain City, the Redevelopment Agency of Eagle Mountain City, and Terra Smith's Eagle Mountain, LLC.\r\n\r\nBACKGROUND: (Presented by Director of Legislative and Strategic Services, Evan Berrett): The Mid-Valley CRA encompasses approximately 53 acres currently under review for commercial retail development. The proposed resolution establishes the terms and conditions for the distribution and use of project area funds and addresses the obligations agreed upon by the participating parties through the negotiation process.\r\n\r\n\t14.C.\tORDINANCE - An Ordinance of Eagle Mountain City, Utah, Adopting the Mid-Valley Community Reinvestment Project Area Plan, as Approved by the Redevelopment Agency of Eagle Mountain City, as the Official Community Reinvestment Project Area Plan for the Project Area and Directing that Notice of the Adoption be Given as Required by Statute.\r\n\r\nBACKGROUND: (Presented by Director of Legislative and Strategic Services, Evan Berrett): The proposed ordinance adopts the Mid-Valley Community Reinvestment Project Area Plan as the official plan for the Mid-Valley Project Area. The Plan outlines the proposed development and establishes the framework for community reinvestment activities within the Project Area.\r\n\r\n\t14.D.\tORDINANCE - An Ordinance of Eagle Mountain, Utah Approving the 5th Amendment to the Amended and Restated Overland Master Development Agreement.\r\n\r\nBACKGROUND: (Presented by City Attorney, Marcus Draper) This item was approved at the March 25, 2026 Special City Council meeting. The parties have corrected some clerical errors in the document and have altered the language in sections 5.3, 5.4, and 5.6 for the City Council's review. The changes in the language relate to the infrastructure funding and directly incorporate the provisions of the participation agreement to ensure that there is no discrepancy between the agreements. It also adds some stronger language that reinforces existing language that the infrastructure improvements discussed in the agreement will be fully reimbursed.\r\n\r\n15.\tLEGISLATIVE ITEMS\r\n\r\n\t15.A.\tUPDATE - Legislative Priorities List\r\n\r\n16.\tCITY COUNCIL/MAYOR'S BUSINESS AND LIAISON REPORTS\r\n\tThis time is set aside for the City Council's and Mayor's comments on City business, and for Councilmembers to report on the boards they are assigned to as liaisons to the City Council. \r\n\r\n\r\n17.\tCOMMUNICATION ITEMS\r\n\r\n\t17.A.\tFinancial Report\r\n\r\n\t17.B.\tUpcoming Agenda Items\r\n\r\n18.\tADJOURNMENT\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.\r\n\r\nCERTIFICATE OF POSTING\r\n\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above agenda notice was posted on this 18 day of August, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie Messerly\r\nCity Recorder",
-      "meeting_location": "1650 E Stagecoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "August 13, 2026 04:04 PM",
-      "attachments": [
-        {
-          "file_name": "08.18.2026 - CC Minutes - APPROVED.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1482889.pdf",
-          "date_added": "2026/09/02 09:26 AM",
-          "file_id": "1482889"
-        },
-        {
-          "file_name": "08.18.2026 - City Council Agenda.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1474645.pdf",
-          "date_added": "2026/08/13 04:03 PM",
-          "file_id": "1474645"
-        }
-      ],
       "canceled": false
     }
   ]

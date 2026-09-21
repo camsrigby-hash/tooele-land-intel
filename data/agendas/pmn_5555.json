@@ -4,8 +4,33 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-09-14T14:48:59.288079+00:00",
+  "scraped_at": "2026-09-21T14:55:16.642058+00:00",
   "notices": [
+    {
+      "notice_id": "1109251",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109251.html",
+      "title": "Notice of Ordinance Adoption: Ordinance #1738 approving the Exchange 14068 South 145 East Development Agreement for approximately 2.15 acres of property",
+      "event_date": "September 16, 2026 12:25 PM",
+      "event_date_iso": "2026-09-16T12:25:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on September 16, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1738\r\n\r\nOn September 15, 2026, the Draper City Council Adopted Ordinance #1738 approving the Exchange 14068 South 145 East Development Agreement for approximately 2.15 acres of property located at approximately 14068 South 145 East within Draper City. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 16th Day of September, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "September 16, 2026 12:26 PM",
+      "attachments": [
+        {
+          "file_name": "Ord 1738.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489325.pdf",
+          "date_added": "2026/09/16 12:26 PM",
+          "file_id": "1489325"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1106239",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106239.html",
@@ -87,6 +112,34 @@
           "url": "https://www.utah.gov/pmn/files/1487501.pdf",
           "date_added": "2026/09/11 02:37 PM",
           "file_id": "1487501"
+        },
+        {
+          "file_name": "2026-09-15 Meeting Recap.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489311.pdf",
+          "date_added": "2026/09/16 12:18 PM",
+          "file_id": "1489311"
+        },
+        {
+          "file_name": "Draper Days 2026 Review.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1490037.pdf",
+          "date_added": "2026/09/17 02:39 PM",
+          "file_id": "1490037"
+        },
+        {
+          "file_name": "5.a Exchange 1468 S 145 E DA CC 9-15-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1490039.pdf",
+          "date_added": "2026/09/17 02:39 PM",
+          "file_id": "1490039"
+        },
+        {
+          "file_name": "5.a Project Mammoth- RRC_Overview_20260915_CC_Draper, UT.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1490041.pdf",
+          "date_added": "2026/09/17 02:39 PM",
+          "file_id": "1490041"
         }
       ],
       "canceled": false
@@ -132,6 +185,13 @@
       "contact_email": "nicole.smedley@draperutah.gov",
       "posted_on": "August 28, 2026 02:55 PM",
       "attachments": [
+        {
+          "file_name": "2026-09-01_CityCouncil_Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1489315.pdf",
+          "date_added": "2026/09/16 12:19 PM",
+          "file_id": "1489315"
+        },
         {
           "file_name": "2026-09-01 CityCouncil_Agenda.pdf",
           "category": "Public Information Handout",
@@ -249,33 +309,6 @@
           "url": "https://www.utah.gov/pmn/files/1477353.pdf",
           "date_added": "2026/08/19 04:26 PM",
           "file_id": "1477353"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1100541",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100541.html",
-      "title": "Notice of Public Hearing: Final Adoption of Fiscal Year 2026-2027 Budget",
-      "event_date": "August 18, 2026 07:00 PM",
-      "event_date_iso": "2026-08-18T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on August 7, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/ Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Public Hearing: Final Adoption of Fiscal Year 2026-2027 Budget\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to adopt the Fiscal Year 2026-2027 Budget. \r\n\r\nThe hearing will be held at Draper City Hall, 1020 East Pioneer Road, on Tuesday, August 18, 2026, at 7:00 p.m. in the City Council Chambers. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact John Vuyk at (801) 576-6318 or john.vuyk@draperutah.gov\r\n\r\nDated this 7th day of August, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 08, 2026 01:00 AM",
-      "attachments": [
-        {
-          "file_name": "CC 8.18 Public Hearing Notice on Final Budget.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1471929.pdf",
-          "date_added": "2026/08/08 01:02 AM",
-          "file_id": "1471929"
         }
       ],
       "canceled": false
