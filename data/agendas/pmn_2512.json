@@ -4,8 +4,25 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-09-21T14:53:06.958482+00:00",
+  "scraped_at": "2026-09-28T16:30:13.645694+00:00",
   "notices": [
+    {
+      "notice_id": "1110601",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110601.html",
+      "title": "Lehi City Council Meeting Agenda",
+      "event_date": "September 24, 2026 11:00 AM",
+      "event_date_iso": "2026-09-24T11:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Lehi City Council Meeting\r\n\r\nAgenda\r\n\r\nSeptember 24, 2026\r\n\r\n11:00 AM - Lehi City Council Chambers (131 N. 100 E., Lehi, Utah)\r\n\r\n1.\tWelcome and Opening Comment\r\n\r\n2.\tConsider a motion to hold a Closed Meeting to discuss pending or reasonably imminent litigation, and to discuss the character, professional competence, or physical or mental health of an individual.\r\n\r\n3.\tAdjournment",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "September 22, 2026 09:27 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1109171",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109171.html",
@@ -160,24 +177,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "July 14, 2026 05:31 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096943",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096943.html",
-      "title": "Lehi City Notice of Public Hearing for Executive Officers Compensation",
-      "event_date": "July 28, 2026 07:00 PM",
-      "event_date_iso": "2026-07-28T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "LEHI CITY NOTICE OF PUBLIC HEARING \r\n\r\nEXECUTIVE OFFICERS \r\nCOMPENSATION\r\n\r\nNotice is hereby given that the Lehi City Council will conduct a public hearing on Tuesday, July 28, 2026, which begins at 7:00 p.m., at the Lehi City Council Chambers located at 131 N. 100 E., Lehi, Utah, for the purpose of receiving input regarding the FY 2027 compensation for Executive Officers.\r\n\r\nDated this 21st day of July, 2026.\r\n\r\nCITY OF LEHI, UTAH",
-      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "July 21, 2026 11:31 AM",
       "attachments": [],
       "canceled": false
     }

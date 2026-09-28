@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-09-21T14:54:05.645972+00:00",
+  "scraped_at": "2026-09-28T16:31:12.876371+00:00",
   "notices": [
     {
       "notice_id": "1107541",
@@ -107,6 +107,13 @@
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "September 03, 2026 01:56 PM",
       "attachments": [
+        {
+          "file_name": "9.8.26 PCPH Approved Meeting Minutes - signed.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1492853.pdf",
+          "date_added": "2026/09/24 09:18 AM",
+          "file_id": "1492853"
+        },
         {
           "file_name": "9.8.26 PC Agenda.docx",
           "category": "Public Information Handout",

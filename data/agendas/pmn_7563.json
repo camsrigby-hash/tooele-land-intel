@@ -4,8 +4,40 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-09-21T14:52:31.210594+00:00",
+  "scraped_at": "2026-09-28T16:29:37.886068+00:00",
   "notices": [
+    {
+      "notice_id": "1110125",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110125.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "September 22, 2026 07:00 PM",
+      "event_date_iso": "2026-09-22T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, September 22, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info: https://meet.google.com/nnn-ionq-fuo\r\nOr dial:  (US) +1 904-580-8957  PIN:  227 152 488 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 8-25-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Conditional Use Permit for a Private road for \r\nParcel #01-422-0-0013 Warr Minor Subdivision\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 21, 2026 08:55 AM",
+      "attachments": [
+        {
+          "file_name": "9-22-26 Audio of Planning Commission Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1493083.mp3",
+          "date_added": "2026/09/24 01:00 PM",
+          "file_id": "1493083"
+        },
+        {
+          "file_name": "Warr minor sub private road CUP staff report (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1491163.pdf",
+          "date_added": "2026/09/21 08:55 AM",
+          "file_id": "1491163"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1106885",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106885.html",
@@ -44,6 +76,13 @@
           "url": "https://www.utah.gov/pmn/files/1480157.mp3",
           "date_added": "2026/08/26 02:01 PM",
           "file_id": "1480157"
+        },
+        {
+          "file_name": "8-25-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1493085.pdf",
+          "date_added": "2026/09/24 01:01 PM",
+          "file_id": "1493085"
         },
         {
           "file_name": "Oquirrh point amended CSP staff report 082526.pdf",
@@ -276,60 +315,6 @@
       "posted_on": "May 06, 2026 01:05 PM",
       "attachments": [],
       "canceled": true
-    },
-    {
-      "notice_id": "1074883",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1074883.html",
-      "title": "Erda City Planning Commission Meeting",
-      "event_date": "April 28, 2026 07:00 PM",
-      "event_date_iso": "2026-04-28T19:00:00",
-      "notice_types": [
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday, April 28, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info:https://meet.google.com/ngz-prmj-tzp\r\nOr dial:  (US) +1 513-816-0757  PIN:  244 454 945 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 4-15-26\r\nPublic Comment (3 minute limit per comment)\r\nCopper Cove Preliminary Plat Phase 1: Derald Anderson is requesting a preliminary plat approval for Copper Cove phase 1. The plat contains 45 lots at the north east corner of the development. Lots range in size from 5800 sq ft to 10000 sq ft.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "April 21, 2026 06:13 PM",
-      "attachments": [
-        {
-          "file_name": "4-28-26 Audio of Planning Commission Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1425595.mp3",
-          "date_added": "2026/04/30 08:06 AM",
-          "file_id": "1425595"
-        },
-        {
-          "file_name": "4-28-26 Signed Meeting Minutes Planning Commission.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1454623.pdf",
-          "date_added": "2026/06/25 02:21 PM",
-          "file_id": "1454623"
-        },
-        {
-          "file_name": "Copper Cove Master Development Agreement (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422081.pdf",
-          "date_added": "2026/04/21 06:10 PM",
-          "file_id": "1422081"
-        },
-        {
-          "file_name": "4-28-26 Planning Commission Agenda.docx.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422085.pdf",
-          "date_added": "2026/04/21 06:13 PM",
-          "file_id": "1422085"
-        },
-        {
-          "file_name": "Copper Cove phase 1 preliminary staff report with attachments (2).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1422089.pdf",
-          "date_added": "2026/04/21 06:22 PM",
-          "file_id": "1422089"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

@@ -4,8 +4,27 @@
   "public_body": "Planning Commission",
   "body_id": "6",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/6.html",
-  "scraped_at": "2026-09-21T14:56:32.341717+00:00",
+  "scraped_at": "2026-09-28T16:33:41.627680+00:00",
   "notices": [
+    {
+      "notice_id": "1111311",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111311.html",
+      "title": "Planning Commission Public Hearing Notice Zone Changes and Title 15 Amendments General Plan Map Amendment",
+      "event_date": "October 7, 2026 06:00 PM",
+      "event_date_iso": "2026-10-07T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Notice of Public Hearings\r\n\r\nThe City Council and Planning Commission will hold public hearings on Wednesday, October 7, 2026, and\r\nTuesday, October 20, 2026, at 6:00 pm.\r\n\r\nZone Change & General Plan Amendment (Public Hearing):\r\nShady Oaks Event Center\r\nPublic hearings will be held with the Planning Commission and City Council on a proposed Zone Map\r\nAmendment and a General Plan Amendment on the subject property located at 3575 East River Bottoms\r\nRoad. The Zone Map Amendment would change the zoning from R-1-30 to C-O and the General Plan\r\nAmendment would change the land use designation from Medium Density Residential to Mixed Use.\r\n\r\nZone Change (Public Hearing):\r\nBuilders FirstSource\r\nPublic hearings will be held with the Planning Commission and City Council on a proposed Zone Map\r\nAmendment to change the zoning of the subject property located at 1617 North 300 West, from R-R to I-1.\r\n\r\nZone Change (Public Hearing):\r\nNelson Commercial\r\nPublic hearings will be held with the Planning Commission and City Council on a proposed Zone Change from\r\nR-R Rural Residential to C-2 General Commercial for property located at 2162 South Main Street.\r\n\r\nGeneral Plan Map Amendment, Zone Change &amp; Preliminary Plat (Public Hearing):\r\nRidgeline Townhomes\r\nPublic hearings will be held with the Planning Commission and City Council to review the proposed Ridgeline\r\nTownhomes development, located at approximately 1217 North SR-51. The proposal involves a General Plan\r\nMap Amendment from Business Park to High Density Residential and a Zone Change request from C-2\r\nGeneral Commercial to R-3 Residential. This includes the Master Planned Development Overlay to allow for a\r\nPreliminary Plat with 45 townhome units as a Master Planned Development.\r\n\r\nTitle 15 Amendments (Public Hearing):\r\nPlanning Commission: This proposal updates Title 15 regarding the procedures and training for the Planning\r\nCommission based on recently adopted state code.\r\n\r\nTitle 15 Amendments (Public Hearing):\r\nVolleyball Training Facility: This proposal requests an amendment to the city&#39;s Municipal Code to allow indoor\r\nvolleyball facilities as a permitted use in the I-1 Light Industrial Zone.\r\nThese hearings will be held in the Council Chambers at 80 South Main Street, Second Floor, Spanish Fork. If\r\nyou have any questions or comments concerning these requests, please contact Kasey Woodard at\r\n801.804.4580 or by email at kwoodard@spanishfork.gov. Written questions and comments will be forwarded to\r\nthe City Council.",
+      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Kasey Woodard",
+      "contact_email": "kwoodard@spanishfork.org",
+      "posted_on": "September 25, 2026 04:17 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1104629",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104629.html",

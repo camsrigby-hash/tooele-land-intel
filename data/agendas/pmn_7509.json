@@ -4,8 +4,25 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-09-21T14:52:19.526180+00:00",
+  "scraped_at": "2026-09-28T16:29:25.934867+00:00",
   "notices": [
+    {
+      "notice_id": "1110595",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110595.html",
+      "title": "**CANCELED*** Erda City Council Meeting",
+      "event_date": "September 24, 2026 07:00 PM",
+      "event_date_iso": "2026-09-24T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "****CANCELED*****\r\n\r\nNotice is hereby given that the Erda City Council's Scheduled Meeting on Thursday September 24th, 2026 has been canceled. The City Council will hold their next regularly scheduled meeting on Thursday October 8th 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "September 22, 2026 07:38 PM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1106863",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106863.html",
@@ -327,24 +344,6 @@
           "file_id": "1453601"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1086409",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086409.html",
-      "title": "Notice of Public Hearing on Budget Amendment for Fiscal Year 2025-2026",
-      "event_date": "June 11, 2026 07:00 PM",
-      "event_date_iso": "2026-06-11T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY - FISCAL YEAR 2025-2026 BUDGET AMENDMENT\r\nNotice is hereby given that the Erda City Council will hold a public hearing to consider an amendment to the Fiscal Year 2025-2026 Budget.\r\nDate: June 11, 2026\r\nTime: 7:00PM\r\nLocation: Erda City Office: 2163 W Erda Way, Erda Ut,\r\nThe purpose of the hearing is to receive public comment regarding proposed amendments to the City's budget, including adjustments to revenues and expenditures within various funds.\r\nAll interested persons are invited to attend and provide comments. A copy of the proposed budget amendment is available for public inspection at Erda City Hall during regular business hours.",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "June 04, 2026 04:03 PM",
-      "attachments": [],
       "canceled": false
     },
     {

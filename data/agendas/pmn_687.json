@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "687",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/687.html",
-  "scraped_at": "2026-09-21T14:52:55.117543+00:00",
+  "scraped_at": "2026-09-28T16:30:01.944701+00:00",
   "notices": [
     {
       "notice_id": "1109993",
@@ -23,6 +23,13 @@
       "contact_email": "shilob@tooelecity.gov",
       "posted_on": "September 18, 2026 02:36 PM",
       "attachments": [
+        {
+          "file_name": "09.23.2026 PC Audio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1493151.mp3",
+          "date_added": "2026/09/24 02:23 PM",
+          "file_id": "1493151"
+        },
         {
           "file_name": "09.23.2026_PCAgenda.pdf",
           "category": "Public Information Handout",
@@ -122,54 +129,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1106657",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106657.html",
-      "title": "Tooele City Planning Commission Business Meeting",
-      "event_date": "September 9, 2026 07:00 PM",
-      "event_date_iso": "2026-09-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele City Planning Commission will meet in a business meeting scheduled for Wednesday, September 9, 2026 at the hour of 7:00 p.m.  The meeting will be held in the City Council Chambers of Tooele City Hall, located at 90 North Main Street, Tooele, Utah.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded.  If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov.  If submission by email is not an option, written comments may be submitted to the City Planner.  Written comments must be submitted by 11:59 p.m. the day before the hearing.  Written comments will be addressed at the designated points in the meeting.\r\n\r\nAGENDA \r\n\r\n1.\tPledge of Allegiance\r\n\r\n2.\tRoll Call\r\n\r\n3.\tPublic Hearing and Recommendation on a request for a Zoning Map Amendment to remove the Sensitive Area Overlay from three parcels located at approximately 695 South Main Street and 598 South Canyon Road on a combined total of 2.02 acres located in the Open Space & MU-160 Multiple Use Zones and the R1-7 Residential zoning district.\r\n\r\n4.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Steve Laird, property owner, to allow construction of a detached garage that would cause the total lot coverage of accessory buildings to exceed the maximum 8% permitted by the zoning ordinance. The subject property is located at 576 Park Hill, consists of approximately 0.45 acres, and is zoned R1-12 Single-Family Residential.\r\n\r\n5.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Kevin Watson, representing Chick-Fil-A Restaurants, to authorize the use of an 'Accessory Drive Through Facility' for property located at approximately 967 North Main Street on approximately 1.67 acres in the GC General Commercial zoning district.\r\n\r\n6.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Steve Mros, representing Awesome Auto Repair, to authorize the use of 'Automobile Repair' to occur at the property located at 310 East 2000 North in the General Commercial (GC) zoning district on .73 acres. \r\n\r\n7.\tDecision on a Preliminary Subdivision Plan request by Perry Homes, Inc., for the Compass Point Village 5 subdivision proposed to be located at 3072 N 400 West consisting of 181 residential lots on 21.75 acres in the Compass Point RSD zoning district.  \r\n\r\n8.\tCity Council Reports\r\n\r\n9.\tReview and Decision - August 26, 2026 Planning Commission meeting minutes.\r\n\r\n10.\tAdjourn\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodations during this meeting should notify Anna Anglin, Tooele City Planner, prior to the meeting at (435) 843-2132.",
-      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "September 04, 2026 03:57 PM",
-      "attachments": [
-        {
-          "file_name": "09.09.2026 PC Audio Part 1.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1488485.mp3",
-          "date_added": "2026/09/15 09:45 AM",
-          "file_id": "1488485"
-        },
-        {
-          "file_name": "09.09.2026 PC Audio Part 2.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1488487.mp3",
-          "date_added": "2026/09/15 09:46 AM",
-          "file_id": "1488487"
-        },
-        {
-          "file_name": "09.09.2026_PC_Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1484693.pdf",
-          "date_added": "2026/09/04 03:56 PM",
-          "file_id": "1484693"
-        },
-        {
-          "file_name": "09.09.2026_PC_Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1484695.pdf",
-          "date_added": "2026/09/04 03:56 PM",
-          "file_id": "1484695"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1105365",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105365.html",
       "title": "Public Notice - Public Hearing for a Conditional Use Permit for Automobile Repair",
@@ -224,33 +183,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1105373",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105373.html",
-      "title": "Public Notice - Public Hearing for a Zoning Map Amendment to Remove the Sensitive Area Overlay",
-      "event_date": "September 9, 2026 07:00 PM",
-      "event_date_iso": "2026-09-09T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, September 9, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov\r\n\r\nPublic Hearing Notice is hereby given that the Tooele City Planning Commission will hold a public hearing to consider a Zoning Map Amendment request submitted by Douglas Kinsman and Ron Hall, property owners, to remove the Sensitive Area Overlay from three parcels located at approximately 695 South Main Street and 598 South Canyon Road (Parcel Nos. 02-013-0-0083, 02-013-0-0090, and 02-013-0-0089). The three properties total approximately 2.02 acres and are currently zoned R1-7 Single-Family Residential and Open Space.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Planner. Written comments must be submitted by 11:59 p.m. the day before the hearing. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
-      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shilo Baker",
-      "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "August 31, 2026 04:34 PM",
-      "attachments": [
-        {
-          "file_name": "09.09.2026 Halls Hollow Overlay Zoning Map Amendment Public Notice 083126.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1482121.pdf",
-          "date_added": "2026/08/31 04:34 PM",
-          "file_id": "1482121"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1105371",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105371.html",
       "title": "Public Notice - Public Hearing for a Conditional Use Permit for an Accessory Drive-Through Facility",
@@ -278,9 +210,91 @@
       "canceled": false
     },
     {
-      "notice_id": "1102221",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102221.html",
-      "title": "Public Notice - Public Hearing for CUP for Pet Shop/Pet Grooming Service",
+      "notice_id": "1106657",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106657.html",
+      "title": "Tooele City Planning Commission Business Meeting",
+      "event_date": "September 9, 2026 07:00 PM",
+      "event_date_iso": "2026-09-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HEREBY GIVEN THAT the Tooele City Planning Commission will meet in a business meeting scheduled for Wednesday, September 9, 2026 at the hour of 7:00 p.m.  The meeting will be held in the City Council Chambers of Tooele City Hall, located at 90 North Main Street, Tooele, Utah.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded.  If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov.  If submission by email is not an option, written comments may be submitted to the City Planner.  Written comments must be submitted by 11:59 p.m. the day before the hearing.  Written comments will be addressed at the designated points in the meeting.\r\n\r\nAGENDA \r\n\r\n1.\tPledge of Allegiance\r\n\r\n2.\tRoll Call\r\n\r\n3.\tPublic Hearing and Recommendation on a request for a Zoning Map Amendment to remove the Sensitive Area Overlay from three parcels located at approximately 695 South Main Street and 598 South Canyon Road on a combined total of 2.02 acres located in the Open Space & MU-160 Multiple Use Zones and the R1-7 Residential zoning district.\r\n\r\n4.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Steve Laird, property owner, to allow construction of a detached garage that would cause the total lot coverage of accessory buildings to exceed the maximum 8% permitted by the zoning ordinance. The subject property is located at 576 Park Hill, consists of approximately 0.45 acres, and is zoned R1-12 Single-Family Residential.\r\n\r\n5.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Kevin Watson, representing Chick-Fil-A Restaurants, to authorize the use of an 'Accessory Drive Through Facility' for property located at approximately 967 North Main Street on approximately 1.67 acres in the GC General Commercial zoning district.\r\n\r\n6.\tPublic Hearing and Decision to consider a Conditional Use Permit request by Steve Mros, representing Awesome Auto Repair, to authorize the use of 'Automobile Repair' to occur at the property located at 310 East 2000 North in the General Commercial (GC) zoning district on .73 acres. \r\n\r\n7.\tDecision on a Preliminary Subdivision Plan request by Perry Homes, Inc., for the Compass Point Village 5 subdivision proposed to be located at 3072 N 400 West consisting of 181 residential lots on 21.75 acres in the Compass Point RSD zoning district.  \r\n\r\n8.\tCity Council Reports\r\n\r\n9.\tReview and Decision - August 26, 2026 Planning Commission meeting minutes.\r\n\r\n10.\tAdjourn\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodations during this meeting should notify Anna Anglin, Tooele City Planner, prior to the meeting at (435) 843-2132.",
+      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "September 04, 2026 03:57 PM",
+      "attachments": [
+        {
+          "file_name": "09.09.2026 PC Audio Part 1.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1488485.mp3",
+          "date_added": "2026/09/15 09:45 AM",
+          "file_id": "1488485"
+        },
+        {
+          "file_name": "09.09.2026 PC Audio Part 2.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1488487.mp3",
+          "date_added": "2026/09/15 09:46 AM",
+          "file_id": "1488487"
+        },
+        {
+          "file_name": "09.09.2026_PCMinutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1493155.pdf",
+          "date_added": "2026/09/24 02:27 PM",
+          "file_id": "1493155"
+        },
+        {
+          "file_name": "09.09.2026_PC_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1484693.pdf",
+          "date_added": "2026/09/04 03:56 PM",
+          "file_id": "1484693"
+        },
+        {
+          "file_name": "09.09.2026_PC_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1484695.pdf",
+          "date_added": "2026/09/04 03:56 PM",
+          "file_id": "1484695"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1105373",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105373.html",
+      "title": "Public Notice - Public Hearing for a Zoning Map Amendment to Remove the Sensitive Area Overlay",
+      "event_date": "September 9, 2026 07:00 PM",
+      "event_date_iso": "2026-09-09T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, September 9, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov\r\n\r\nPublic Hearing Notice is hereby given that the Tooele City Planning Commission will hold a public hearing to consider a Zoning Map Amendment request submitted by Douglas Kinsman and Ron Hall, property owners, to remove the Sensitive Area Overlay from three parcels located at approximately 695 South Main Street and 598 South Canyon Road (Parcel Nos. 02-013-0-0083, 02-013-0-0090, and 02-013-0-0089). The three properties total approximately 2.02 acres and are currently zoned R1-7 Single-Family Residential and Open Space.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Planner. Written comments must be submitted by 11:59 p.m. the day before the hearing. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shilo Baker",
+      "contact_email": "shilob@tooelecity.gov",
+      "posted_on": "August 31, 2026 04:34 PM",
+      "attachments": [
+        {
+          "file_name": "09.09.2026 Halls Hollow Overlay Zoning Map Amendment Public Notice 083126.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1482121.pdf",
+          "date_added": "2026/08/31 04:34 PM",
+          "file_id": "1482121"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1102225",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1102225.html",
+      "title": "Public Notice - Public Hearing for Compass Point CSD Land Use Map Amendment and Zoning Map Amendment",
       "event_date": "August 26, 2026 07:00 PM",
       "event_date_iso": "2026-08-26T19:00:00",
       "notice_types": [
@@ -288,18 +302,18 @@
         "Meeting",
         "Hearing"
       ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, August 26, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. \r\n\r\nThe complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Anna Anglin, at (435) 843-2132 or annaa@tooelecity.gov\r\n\r\nPublic Hearing: Consider a Conditional Use Permit request submitted by Dallas Rowberry, Business Owner, to authorize the use of a pet shop/ pet grooming service within the General Commercial (GC) zone. The subject property is located at 756 N Main Street.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded.  If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov.  If submission by email is not an option, written comments may be submitted to the City Planner.  Written comments must be submitted by 11:59 p.m. the day before the hearing.  Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Anna Anglin, Tooele City Planner at (435) 843-2132 prior to the meeting.",
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nNOTICE IS HERBY GIVEN THAT the Tooele Planning Commission will hold a public hearing during their business meeting scheduled for Wednesday, August 26, 2026 at 7:00 p.m. in the City Council Chambers of City Hall located at 90 North Main Street, Tooele, Utah. The complete public notice is posted on the Utah Public Notice Website www.utah.gov, the Tooele City Website www.tooelecity.gov, and at Tooele City Hall in Suite 227. To request a copy of the public notice and for additional inquiries please contact the Tooele City Planner, Andrew Aagard, at (435) 843-2132 or andrewa@tooelecity.gov\r\n\r\nPublic Hearing on a Land Use Map Amendment and Zoning Map Amendment request by Perry Homes and to consider approval for the Compass Point CSD Zoning Ordinance and to re-assign the land use designation and zoning for approximately 398 acres of property as described in the following: \r\n\r\n1.\tArea 'A' consisting of 106 acres located at approximately 3100 North Main Street.  Proposes changing the land use from Medium Density Residential to Regional Commercial and the zoning from General Commercial and Compass Point RSD to the Compass Point CSD Zone.  \r\n\r\n2.\tArea 'B' consisting of 38.9 acres located at approximately 800 West 1000 North.  Proposes changing the zoning from Neighborhood Commercial to the Compass Point CSD Zone. \r\n\r\n3.\tArea 'C' consisting of 51 acres located north of the Overlake Golf Course, east of the Tooele City wastewater treatment plant at 400 West.  Proposes changing the land use from Medium Density Residential to Regional Commercial and changing the zoning from the Compass Point RSD to the Compass Point CSD.  \r\n\r\n4.\tArea 'D' Consisting of 198.7 acres extending from 1800 North to 3300 North and 1200 West to the Overlake Golf Course.  Proposes changing the land use from Medium Density Residential to Regional Commercial and changing the zoning from Compass Point RSD to the Compass Point CSD.  \r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded.  If you do not consent, we encourage you to join the Planning Commission meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for a public hearing item, please email pcpubliccomment@tooelecity.gov.  If submission by email is not an option, written comments may be submitted to the City Planner.  Written comments must be submitted by 11:59 p.m. the day before the hearing.  Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodation should notify Andrew Aagard, Tooele City Planner at (435) 843-2132 prior to the meeting.",
       "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": "Shilo Baker",
       "contact_email": "shilob@tooelecity.gov",
-      "posted_on": "August 14, 2026 04:14 PM",
+      "posted_on": "August 14, 2026 04:17 PM",
       "attachments": [
         {
-          "file_name": "08.26.2026 Kibbles Cuts Notice CUP 081426.pdf",
+          "file_name": "08.26.2026 Compass Point CSD Public Notice 081426.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1475427.pdf",
-          "date_added": "2026/08/14 04:13 PM",
-          "file_id": "1475427"
+          "url": "https://www.utah.gov/pmn/files/1475433.pdf",
+          "date_added": "2026/08/14 04:17 PM",
+          "file_id": "1475433"
         }
       ],
       "canceled": false
