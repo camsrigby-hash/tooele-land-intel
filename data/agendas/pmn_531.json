@@ -4,8 +4,33 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-09-28T16:33:20.258560+00:00",
+  "scraped_at": "2026-10-05T16:58:57.657252+00:00",
   "notices": [
+    {
+      "notice_id": "1112263",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112263.html",
+      "title": "Planning Commission Regular Meeting - 10/07/2026",
+      "event_date": "October 7, 2026 07:00 PM",
+      "event_date_iso": "2026-10-07T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR\r\nPLANNING COMMISSION MEETING\r\nOctober 7, 2026, at 7:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard Planning Commission will hold a regularly scheduled Planning Commission meeting on Wednesday, October 7, 2026, at 7:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\n\r\n1.\tCALL TO ORDER\r\n\r\n\r\n2.\tPRESENTATIONS, RECOGNITIONS, AWARDS, AND PROCLAMATIONS\r\n\r\n3.\tPUBLIC COMMENTS PC\r\n \tTime dedicated for public comment. Comments will be limited to three (3) minutes. No actions may be taken by the Planning Commission due to the need for proper public noticing. Public comments can be submitted ahead of time to planning@vineyardutah.gov.\r\n\r\n4.\tBUSINESS ITEMS\r\n\r\n \t4.1.\tConditional Use Permit - Coin Operated Claw and Arcade Machines\r\n \t \t\r\n\r\n \t4.2.\tConditional Use Permit - Sunlight Bilingual Preschool\r\n \t \tThe applicant, Georgia Fenn, is requesting a conditional use permit approval for a preschool within the Fenn home, located at 38 W Sycamore Ln. The applicant's home is zoned R1-8, which allows a home preschool with 8-10 children as a conditional use.\r\n\r\n \t4.3.\tPLAN26-0012 Site Plan Application - Minor Amendment - Lot 6 / Vineyard Properties of Utah LLC Martin Snow\r\n \t \t\r\n\r\n \t4.4.\tPLAN26-0011 Site Plan Application - Minor Amendment Orchards Phase 7\r\n \t \t\r\n\r\n \t4.5.\tSenate Bill 284/City Code Compliance - Consideration of Ordinance No. 2026-11 \r\n\r\n5.\tWORK SESSION\r\n\r\n6.\tSTAFF AND COMMISSION REPORTS\r\n\r\n\r\n7.\tADJOURNMENT\r\n\r\n\r\n\r\nThe next regularly scheduled meeting is on  _November 4, 2026_\r\n\r\nThe public is invited to participate in all Planning Commission meetings. In compliance with the Americans with Disabilities Act, individuals needing special accommodations during this public meeting should notify the planning staff at least 24 hours prior to the meeting by calling (801) 226-1929 or email at planning@vineyardutah.gov.\r\n\r\nThe foregoing notice and agenda were posted on the Utah Public Notice Website and Vineyard Website, posted at Vineyard City Hall, and delivered electronically to city staff and each member of the Planning Commission. \r\n\r\nAGENDA NOTICING COMPLETED ON:\tOctober 1, 2026\r\n\r\n\r\nCERTIFIED (NOTICED) BY:\t\r\n/s/ Anthony Fletcher\r\n\r\nAnthony Fletcher, Planner",
+      "meeting_location": "125 s Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "October 01, 2026 04:48 PM",
+      "attachments": [
+        {
+          "file_name": "Planning Commission Agenda - October 7, 2026 Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1495711.pdf",
+          "date_added": "2026/10/01 04:48 PM",
+          "file_id": "1495711"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1105123",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105123.html",
@@ -163,32 +188,6 @@
         }
       ],
       "canceled": true
-    },
-    {
-      "notice_id": "1069031",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1069031.html",
-      "title": "4.1.2026 Planning Commission Cancelation Notice",
-      "event_date": "April 1, 2026 07:00 PM",
-      "event_date_iso": "2026-04-01T19:00:00",
-      "notice_types": [
-        "Meeting",
-        "Bond"
-      ],
-      "agenda_text": "CANCELATION OF REGULAR MEETING\r\nOF THE VINEYARD PLANNING COMMISSION,\r\nWednesday, April 1, 2026, 7:00 p.m.\r\nCANCELATION NOTICE\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Planning Commission's regularly scheduled meeting for April 1, 2026, has been canceled. \r\n \r\nThe foregoing CANCELATION notice was posted on the Utah Public Notice Website and Vineyard Website, posted at the Vineyard City Offices and City Hall, and delivered electronically to city staff and each member of the Planning Commission.\r\n\r\n\r\nCANCELLATION NOTICING COMPLETED ON: March 27, 2026\r\n\r\nNOTICED BY:   /s/ Rachel Stevens\r\n                          Rachel Stevens, Planner",
-      "meeting_location": "125 S Main Street Vineyard , UT 89059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "March 27, 2026 09:14 AM",
-      "attachments": [
-        {
-          "file_name": "4.1.2026 Planning Commission Cancelation Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1410915.pdf",
-          "date_added": "2026/03/27 09:14 AM",
-          "file_id": "1410915"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

@@ -4,8 +4,41 @@
   "public_body": "Grantsville City Council",
   "body_id": "1840",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1840.html",
-  "scraped_at": "2026-09-28T16:29:02.203938+00:00",
+  "scraped_at": "2026-10-05T16:54:38.757981+00:00",
   "notices": [
+    {
+      "notice_id": "1112621",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112621.html",
+      "title": "Grantsville City Council Regular Meeting (Rescheduled)",
+      "event_date": "October 5, 2026 07:00 PM",
+      "event_date_iso": "2026-10-05T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a rescheduled Regular Meeting on Monday, October 5, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm.\r\n\r\nThe agenda is as follows:\r\n\r\nROLL CALL\r\n\r\nAGENDA:\r\n1. Public Comment\r\n2. Summary Action Items\r\n     a. Approval of Minutes from the September 2, 2026 City Council Regular Meeting\r\n     b. Approval of Minutes from the September 16, 2026 City Council Regular Meeting\r\n     c. Approval of bills\r\n3. Introduction of FKKR, the consultant selected to assist Grantsville City with the General Plan Update, and presentation regarding the General Plan Update process\r\n4. Consideration of Resolution 2026-63 approving an Energy Brokerage & Advisory Services Agreement between Grantsville City Corporation and CIG LLC for the Wastewater Treatment Plant Capital Project\r\n5. Consideration of Ordinance 2026-27 approving the Alington Planned Unit Development (PUD) located at approximately 948 East Main Street (SR-138) within the Mixed Use (MU) Zoning District\r\n6. Consideration of Resolution 2026-62 approving a Master Development Agreement for the Alington Flex Homes Planned Unit Development located at approximately 948 East Main Street (SR-138)\r\n7. Consideration of Ordinance 2026-28 amending Chapter 9 of the Grantsville Land Use Development Code regarding landscaping, waterwise landscaping, irrigation, parkways, park strips, medians, and approved plant materials\r\n8. Consideration of Resolution 2026-69 approving the renaming of Parkview Drive within Sun Sage Terrace Phase 2 to McIntosh Drive\r\n9. Adjourn\r\n\r\n\r\nAlicia Fairbourne\r\nCity Recorder\r\n\r\n\r\nCERTIFICATE OF POSTING: This agenda was posted on the Grantsville City Hall Notice Boards, the State Public Notice website at www.utah.gov/pmn/index.html, and the Grantsville City website at www.grantsvilleut.gov.",
+      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Alicia Fairbourne",
+      "contact_email": "afairbourne@grantsvilleut.gov",
+      "posted_on": "October 02, 2026 06:41 PM",
+      "attachments": [
+        {
+          "file_name": "10.05.2026 City Council Meeting Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1496283.pdf",
+          "date_added": "2026/10/02 06:41 PM",
+          "file_id": "1496283"
+        },
+        {
+          "file_name": "10.05.2026 Packet v2.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1496289.pdf",
+          "date_added": "2026/10/02 07:04 PM",
+          "file_id": "1496289"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1108779",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108779.html",
@@ -114,6 +147,13 @@
       "contact_email": "afairbourne@grantsvilleut.gov",
       "posted_on": "August 14, 2026 05:44 PM",
       "attachments": [
+        {
+          "file_name": "08.19.2026 City Council Meeting Minutes FINAL.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1496291.pdf",
+          "date_added": "2026/10/02 07:11 PM",
+          "file_id": "1496291"
+        },
         {
           "file_name": "08.19.2026 City Council Meeting Agenda.pdf",
           "category": "Public Information Handout",
@@ -314,53 +354,6 @@
           "url": "https://www.utah.gov/pmn/files/1463087.pdf",
           "date_added": "2026/07/16 04:56 PM",
           "file_id": "1463087"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094805",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094805.html",
-      "title": "Grantsville City Council Regular Meeting AMENDED",
-      "event_date": "July 15, 2026 07:00 PM",
-      "event_date_iso": "2026-07-15T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "PUBLIC NOTICE:\r\n\r\nThe Grantsville City Council will hold a Regular Meeting and Public Hearing on Wednesday, July 15, 2026 in person at 429 East Main Street, Grantsville UT 84029 and electronically via Zoom beginning at 7:00 pm. \r\n\r\nAMENDED AGENDA: 7/13/2026 3:15 PM\r\n\r\nThe agenda is as follows: \r\n\r\nROLL CALL \r\n\r\nAGENDA: \r\n1.\tPublic Comment\r\n2.\tSummary Action Items\r\n     a.\tApproval of Minutes from the June 17, 2026 City Council Regular Meeting\r\n     b.\tApproval of bills\r\n3.\tPresentation of the Grantsville City Youth Council Scholarship Awards\r\n4.\tPresentation of gift - presented by Aspen Clegg, Finance Director\r\n5.\tIntroduction of newly appointed officer Terron Bowen and administration of the Oath of Office\r\n6.\tConsideration of Resolution 2026-34 approving a Memorandum of Understanding for automatic license plate recognition data sharing\r\n7.\tConsideration of Resolution 2026-56 approving the Utah ICAC Task Force Memorandum of Understanding and accepting the FY2027 ICAC Grant Award\r\n8.\tDiscussion regarding potential grant-matching funds for the Grantsville Historic Preservation Committee\r\n9.\tConsideration of Resolution 2026-53 approving a pilot service agreement with Kids Kan for the Kids Kan Yellow Can Program\r\n10.\tDiscussion regarding the ACE bulk waste pickup\r\n11.\tConsideration of Resolution 2026-52 approving the Sun Sage Terrace Master Development Agreement and master lot layout for Phases 3 through 6 located at approximately 1161 West Main Street in the R-1-21 Residential District\r\n12.\tConsideration of Resolution 2026-51 approving a Hold Harmless and Easement Acknowledgment Agreement for property located at 641 South Maxwell Drive\r\n13.\tConsideration of Resolution 2026-55 approving the Falcons Landing Master Development Agreement for property located approximately at Booth Street and Wild Rose Drive\r\n14.\tConsideration of Resolution 2026-54 awarding the contract for the Apple Street Water Line Replacement Project to Forge Industrial\r\n15.\tConsideration of Ordinance 2026-26 approving amendments to Chapter 7-3 of the Grantsville City Code regarding definitions and regulations for cross connections and dual source connections\r\n16.\tCouncil Reports\r\n17.\tClosed Session: (Imminent Litigation, Real Estate Negotiations, Personnel)\r\n18.\tAdjourn\r\n\r\nAlicia Fairbourne\t\t\r\nCity Recorder \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIn compliance with the Americans with Disability Act, Grantsville City will accommodate reasonable requests to assist persons with disabilities to participate in meetings. Requests for assistance may be made by calling City Hall at (435) 884-3411 at least three days in advance of a meeting.",
-      "meeting_location": "429 E Main St. Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Alicia Fairbourne",
-      "contact_email": "afairbourne@grantsvilleut.gov",
-      "posted_on": "July 10, 2026 05:12 PM",
-      "attachments": [
-        {
-          "file_name": "07.15.2026 City Council Regular Meeting Minutes FINAL.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1480951.pdf",
-          "date_added": "2026/08/27 05:21 PM",
-          "file_id": "1480951"
-        },
-        {
-          "file_name": "07.15.2026 City Council Meeting Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460563.pdf",
-          "date_added": "2026/07/10 05:11 PM",
-          "file_id": "1460563"
-        },
-        {
-          "file_name": "07.15.2026 Agenda Packet AMENDED.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1461149.pdf",
-          "date_added": "2026/07/13 04:10 PM",
-          "file_id": "1461149"
-        },
-        {
-          "file_name": "07.15.2026 City Council Meeting Agenda AMENDED.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1461151.pdf",
-          "date_added": "2026/07/13 04:11 PM",
-          "file_id": "1461151"
         }
       ],
       "canceled": false

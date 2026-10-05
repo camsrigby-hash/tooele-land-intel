@@ -4,8 +4,26 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-09-28T16:30:25.397846+00:00",
+  "scraped_at": "2026-10-05T16:56:02.466262+00:00",
   "notices": [
+    {
+      "notice_id": "1112669",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112669.html",
+      "title": "Lehi City Planning Commission Public Hearing Items",
+      "event_date": "October 8, 2026 07:00 PM",
+      "event_date_iso": "2026-10-08T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "On October 8, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of Danny Logan's request for review of R-1-22 and TH-5 zoning for the Logan Annexation on 2.68 acres located at approximately 1300 S 1700 W. \r\n \r\nPublic hearing and recommendation of Lawrence Snow's request for review of the 802 W State Street Zone Change, changing the zoning on .72 acres from Mixed Use to Heavy Commercial. \r\n \r\nPublic hearing and consideration of Colby Anderson's request for approval of an exception on the building materials for the Moto United Phase 2 Concept located at 450 Millpond Drive. \r\n \r\nPublic hearing and recommendation of Tapley Mitchell's request for review of the Tapley Project Concept located at 58 South 300 West, adding four townhome units and retaining the existing structures on site.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "October 05, 2026 05:21 AM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1108789",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108789.html",
@@ -114,23 +132,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1087839",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087839.html",
-      "title": "Planning Commission Agenda",
-      "event_date": "June 11, 2026 07:00 PM",
-      "event_date_iso": "2026-06-11T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nJune 11, 2026\r\n\r\n7:00 PM - Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tConsent Agenda\r\n\r\n2.1. Approval of the minutes from the May 7, 2026 meeting\r\n\r\n2.2. Approval of the minutes from the May 14, 2026 meeting\r\n\r\n2.3. Approval of the minutes from the May 28, 2026 meeting\r\n\r\n3.\tRegular Agenda\r\n\r\n3.1. Public hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.\r\n\r\n\r\n3.2. Public hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area.\r\n\r\n\r\n3.3. Public hearing and consideration of Grow Development's request for approval of the Cortese\r\nPreliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone.\r\n\r\n\r\n3.4. Public hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).\r\n\r\n\r\n3.5. Public hearing and consideration of Thanksgiving Point's request for approval of the Thanksgiving Point Science Center site plan located at 2356 West Wheatley Lane, requesting exceptions to the EIFS, glass, and setback requirements.\r\n\r\n\r\n3.6. Public hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses.\r\n\r\n3.7. Public hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.\r\n\r\n\r\n4.\tCity Business\r\n\r\n5.\tAdjournment\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "June 10, 2026 10:08 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1084221",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084221.html",
       "title": "Public Hearings Notice",
@@ -144,6 +145,23 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 28, 2026 12:16 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1087839",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087839.html",
+      "title": "Planning Commission Agenda",
+      "event_date": "June 11, 2026 07:00 PM",
+      "event_date_iso": "2026-06-11T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nJune 11, 2026\r\n\r\n7:00 PM - Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tConsent Agenda\r\n\r\n2.1. Approval of the minutes from the May 7, 2026 meeting\r\n\r\n2.2. Approval of the minutes from the May 14, 2026 meeting\r\n\r\n2.3. Approval of the minutes from the May 28, 2026 meeting\r\n\r\n3.\tRegular Agenda\r\n\r\n3.1. Public hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.\r\n\r\n\r\n3.2. Public hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area.\r\n\r\n\r\n3.3. Public hearing and consideration of Grow Development's request for approval of the Cortese\r\nPreliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone.\r\n\r\n\r\n3.4. Public hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).\r\n\r\n\r\n3.5. Public hearing and consideration of Thanksgiving Point's request for approval of the Thanksgiving Point Science Center site plan located at 2356 West Wheatley Lane, requesting exceptions to the EIFS, glass, and setback requirements.\r\n\r\n\r\n3.6. Public hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses.\r\n\r\n3.7. Public hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.\r\n\r\n\r\n4.\tCity Business\r\n\r\n5.\tAdjournment\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
+      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "June 10, 2026 10:08 AM",
       "attachments": [],
       "canceled": false
     },
@@ -162,32 +180,6 @@
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "May 14, 2026 10:53 AM",
       "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1083851",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1083851.html",
-      "title": "Planning Commission Agenda",
-      "event_date": "May 27, 2026 07:00 PM",
-      "event_date_iso": "2026-05-27T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "Lehi Planning Commission Meeting\r\n\r\nAgenda\r\n\r\nMay 28, 2026\r\n\r\n7:00 PM - Lehi City Council Chambers, (131 N. 100 E., Lehi, UT 84043)\r\n\r\n1.\tCall to Order\r\n\r\n2.\tRegular Agenda\r\n\r\n2.1. Public hearing and consideration of Terry Bishop's request for review of the Bishop Development Agreement, allowing to increase the number of lots in a subdivision to 13, for a 7-acre parcel located at 2424 West 900 North.\r\n\r\n\r\n2.2. Public hearing and recommendation of Lehi City's request review of amendments to the Lehi City Development Code Chapter 35, Community Forestry, adding requirements for trees affected by migratory birds and clarifying the City's recommended public tree planting list. \r\n\r\n2.3. Public hearing and recommendation of Lehi City's request for review of an amendment to\r\n\r\nChapter 26 of the Development Code, Accessory Uses updating the requirements for Detached Accessory Dwelling Units (DADUs) to meet 2026 State Legislation. \r\n\r\n3.\tCity Business\r\n\r\n4.\tAdjournment\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 27, 2026 09:58 AM",
-      "attachments": [
-        {
-          "file_name": "05.28.26 PC Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1458739.pdf",
-          "date_added": "2026/07/08 10:06 AM",
-          "file_id": "1458739"
-        }
-      ],
       "canceled": false
     }
   ]

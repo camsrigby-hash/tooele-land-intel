@@ -4,17 +4,18 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-09-28T16:33:00.114534+00:00",
+  "scraped_at": "2026-10-05T16:58:37.245979+00:00",
   "notices": [
     {
       "notice_id": "1110767",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110767.html",
-      "title": "Planning Commission Public Notice",
+      "title": "Planning Commission Public Notice, Agenda and Packet",
       "event_date": "October 7, 2026 06:30 PM",
       "event_date_iso": "2026-10-07T18:30:00",
       "notice_types": [
         "Notice",
-        "Meeting"
+        "Meeting",
+        "Hearing"
       ],
       "agenda_text": "________________________________________\r\nNOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on October 7, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Sploot Veterinary Clinic, of the American Fork City Municipal Code. Amending Section 17.7.602 Planned Shopping Center Projects, the Code Text Amendment plans to propose Veterinary Clinics as a permitted use with the SC-1 Zone.  \r\n\r\n \tDescription: The Code Text Amendment proposes Veterinary Clinics as a permitted use within the SC-1 Zone. The Veterinary Clinics proposed in the SC-1 Zone would only have small animal care only, no outside runs, and no overnight boarding.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as American Fork Hillcrest 2. 3. 6 Wards, of the American Fork City Municipal Code. Amending Section 17.21.020 Landscaping Requirements, the Code Text Amendment plans to increase the lawn areas for Institutional Uses (churches, schools, etc.).\r\n \tDescription: The Code Text Amendment proposes to increase the lawn areas for Institutional Uses (churches, schools, etc.) to 33 percent of the Total Landscaped Area from 20 percent of the Total Landscaped Area.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Performance Guarantee, of the American Fork City Municipal Code. Amending Section 17.9, the Code Text Amendment clarifies improvements, public or private, required to be included in the performance guarantee that applicants provide to the City and clarifies expiration requirements.  \r\n\r\n \tDescription: The Code Text Amendment clarifies that performance guarantees need to be in place for the duration of the project without an expiration or that if they do have an expiration, a renewal will be required to ensure that a performance guarantee is in place until the project is completed and City Council has accepted the infrastructure and released the performance guarantee. It also requires the improvement warranty to be in place until the durability period for the project is completed, the applicant has completed all punchlist items, and all public infrastructure has been inspected by City Staff and meets all City standards. If the improvement warranty has an expiration, a renewal shall be required until the above mentioned items are complete. Further, it quantifies the contingency amount required for performance guarantees. Private infrastructure that is required to meet various qualifying criteria as outlined in Utah State code shall be included in the performance guarantee.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment known as Administrative Site Plan Review, of the American Fork City Code. Amending Section 17.6.101 Administrative Site Plan Review, the Code Text Amendment is clearing up a clerical error.\r\n \tDescription: The Code Text Amendment fixes a clerical error within the code.\r\n\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
       "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
@@ -28,6 +29,13 @@
           "url": "https://www.utah.gov/pmn/files/1492653.pdf",
           "date_added": "2026/09/23 02:55 PM",
           "file_id": "1492653"
+        },
+        {
+          "file_name": "10.07.2026 - PC Meeting Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1495717.pdf",
+          "date_added": "2026/10/01 04:54 PM",
+          "file_id": "1495717"
         }
       ],
       "canceled": false

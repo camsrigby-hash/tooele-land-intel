@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-09-28T16:32:24.619736+00:00",
+  "scraped_at": "2026-10-05T16:58:01.330853+00:00",
   "notices": [
     {
       "notice_id": "1111063",
@@ -59,6 +59,39 @@
       "canceled": false
     },
     {
+      "notice_id": "1112499",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112499.html",
+      "title": "City Council Agenda",
+      "event_date": "October 6, 2026 05:30 PM",
+      "event_date_iso": "2026-10-06T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, October 6, 2026, 5:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nQuarterly Financial Update - John\r\n\r\nDiscussion: Fleet Policy - Scott\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tRecognition: Communications Director, Linda Peterson by Rachael Van Cleave of the Utah Public Information Officer Association\r\n\r\n4.\tOaths of Office: Police Department Master Officers\r\n\r\n5.\tOaths of Office: Fire Department\r\n\r\n6.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n7.\tConsent Items\r\n\r\n7.a Approve the minutes of the September 15, 2026 City Council Meeting\r\n \r\n7.b Approve Resolution #26-45\r\nA resolution appointing Bryn Johnson and Emily Barton as members of the Draper City Audit Committee and appointing Councilmember Tasha Lowery as Chairperson. Staff: Kellie Challburg.\r\n\r\n8.\tItems for Council Consideration\r\n\r\n8.a Public Hearing: Ordinance #1739\r\nAn ordinance amending the Official Zoning Map of Draper City for approximately 1.35 acres located at approximately 960 E. New Hope Dr. Otherwise known as the Snow Zoning Map Amendment Request. Staff Report by Nick Whittaker.\r\n\r\n8.b Public Hearing: Ordinance #1740\r\nAn ordinance of Draper City amending the Text of the Land Use and Development Code of the Draper City Municipal Code relating to signage in the Karl Malone Auto Center Commercial Special District. Staff Report by Todd Draper.\r\n\r\n9.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held October 6, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nAttest: Nicole Smedley, CMC, City Recorder Draper City, State of Utah",
+      "meeting_location": "1020 E. Pioneer Rd. Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "October 02, 2026 01:09 PM",
+      "attachments": [
+        {
+          "file_name": "2026-10-06 Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1496117.pdf",
+          "date_added": "2026/10/02 01:08 PM",
+          "file_id": "1496117"
+        },
+        {
+          "file_name": "2026-10-06 Agenda Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1496119.pdf",
+          "date_added": "2026/10/02 01:09 PM",
+          "file_id": "1496119"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1109251",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109251.html",
       "title": "Notice of Ordinance Adoption: Ordinance #1738 approving the Exchange 14068 South 145 East Development Agreement for approximately 2.15 acres of property",
@@ -79,32 +112,6 @@
           "url": "https://www.utah.gov/pmn/files/1489325.pdf",
           "date_added": "2026/09/16 12:26 PM",
           "file_id": "1489325"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1106239",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106239.html",
-      "title": "Notice of Public Hearing: Exchange 14068 South 145 East Development Agreement Request",
-      "event_date": "September 15, 2026 07:00 PM",
-      "event_date_iso": "2026-09-15T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on September 3, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Exchange 14068 South 145 East Development Agreement Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the below bodies \r\nto consider the above listed request. The property is located at approximately 14068 S. 145 East. The purpose of the request is to modify Draper City Municipal Code Title 9 standards to allow a building up to 60-feet in height and allow alternative architectural and parking standards. The request will allow a building to be built in the existing Exchange at 140th office complex which better aligns with what has already been built in the complex.\r\n\r\n-\tPlanning Commission: September 10, 2026 at 6:30 p.m. \r\n-\tCity Council: September 15, 2026 at 7:00 p.m.\r\n\r\nBoth hearings will be held at Draper City Hall in the City Council Chambers. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Jennifer Jastremsky at Draper City offices, jennifer.jastremsky@draperutah.gov & 801-576-6328.\r\n\r\nDated this 3rd Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "September 03, 2026 03:25 PM",
-      "attachments": [
-        {
-          "file_name": "CC 9.15 Exchange 14068 South 145 East Development Agreement Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1483915.pdf",
-          "date_added": "2026/09/03 03:24 PM",
-          "file_id": "1483915"
         }
       ],
       "canceled": false
@@ -131,6 +138,32 @@
           "url": "https://www.utah.gov/pmn/files/1483541.pdf",
           "date_added": "2026/09/03 09:13 AM",
           "file_id": "1483541"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1106239",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106239.html",
+      "title": "Notice of Public Hearing: Exchange 14068 South 145 East Development Agreement Request",
+      "event_date": "September 15, 2026 07:00 PM",
+      "event_date_iso": "2026-09-15T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on September 3, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Exchange 14068 South 145 East Development Agreement Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the below bodies \r\nto consider the above listed request. The property is located at approximately 14068 S. 145 East. The purpose of the request is to modify Draper City Municipal Code Title 9 standards to allow a building up to 60-feet in height and allow alternative architectural and parking standards. The request will allow a building to be built in the existing Exchange at 140th office complex which better aligns with what has already been built in the complex.\r\n\r\n-\tPlanning Commission: September 10, 2026 at 6:30 p.m. \r\n-\tCity Council: September 15, 2026 at 7:00 p.m.\r\n\r\nBoth hearings will be held at Draper City Hall in the City Council Chambers. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Jennifer Jastremsky at Draper City offices, jennifer.jastremsky@draperutah.gov & 801-576-6328.\r\n\r\nDated this 3rd Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "September 03, 2026 03:25 PM",
+      "attachments": [
+        {
+          "file_name": "CC 9.15 Exchange 14068 South 145 East Development Agreement Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483915.pdf",
+          "date_added": "2026/09/03 03:24 PM",
+          "file_id": "1483915"
         }
       ],
       "canceled": false
@@ -311,31 +344,6 @@
           "url": "https://www.utah.gov/pmn/files/1480045.pdf",
           "date_added": "2026/08/26 12:51 PM",
           "file_id": "1480045"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1103151",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1103151.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1736 amending the text of Chapter 9-11 of the Draper City Municipal Code - Residential Units in the Town Center",
-      "event_date": "August 19, 2026 04:27 PM",
-      "event_date_iso": "2026-08-19T16:27:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on August 19, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1736\r\n\r\nOn August 18, 2026, the Draper City Council Adopted Ordinance #1736 amending the text of Chapter 9-11 of the Draper City Municipal Code related to Residential Units in the Town Center. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 19th day of August, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 19, 2026 04:28 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1736.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1477357.pdf",
-          "date_added": "2026/08/19 04:28 PM",
-          "file_id": "1477357"
         }
       ],
       "canceled": false

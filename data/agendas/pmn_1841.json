@@ -4,7 +4,7 @@
   "public_body": "Grantsville City Planning Commission",
   "body_id": "1841",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1841.html",
-  "scraped_at": "2026-09-28T16:29:13.986491+00:00",
+  "scraped_at": "2026-10-05T16:54:50.935480+00:00",
   "notices": [
     {
       "notice_id": "1110919",
@@ -78,6 +78,38 @@
           "url": "https://www.utah.gov/pmn/files/1493001.pdf",
           "date_added": "2026/09/24 11:01 AM",
           "file_id": "1493001"
+        },
+        {
+          "file_name": "Combined Planning Commission Packet 10-6-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1496209.pdf",
+          "date_added": "2026/10/02 03:45 PM",
+          "file_id": "1496209"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1111421",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111421.html",
+      "title": "Data Center Open House Possible Quorum of Planning Commission Present",
+      "event_date": "September 30, 2026 06:00 PM",
+      "event_date_iso": "2026-09-30T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC OPEN HOUSE\r\nPROPOSED DATA CENTER REGULATIONS\r\nPossible Quorum of Planning Commission Present\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that an open house regarding proposed regulations for Data Centers within Grantsville City will be held on Wednesday, September 30, 2026, from 6:00 p.m. to 8:00 p.m. at the Grantsville City Police Station, 50 Bowery Street, Grantsville, Utah.\r\nThe open house is intended to provide an opportunity for residents to learn about the proposed Data Center regulations, ask questions, discuss the proposed regulations with City staff, and provide feedback.\r\nThe open house is not a meeting of the Grantsville City Planning Commission or Grantsville City Council and will not be conducted or led by the Planning Commission and/or City Council. Members of the Planning Commission and/or City Council may attend the open house, and a quorum of the Planning Commission and/or City Council may be present. No formal Planning Commission or City Council meeting will be convened, and no action or decisions will be taken by the Planning Commission or City Council during the open house.\r\nThe proposed Data Center regulations are anticipated to be presented to the Grantsville City Planning Commission on October 20, 2026, at which time the Planning Commission may discuss the proposed regulations and make a recommendation in accordance with the posted Planning Commission agenda.\r\n\r\nBill Cobabe\r\nGrantsville Community Development Director\r\n\r\nPosted on September 22, 2026, in accordance with the \r\nUtah Open and Public Meetings Act.",
+      "meeting_location": "50 Bowery Street Grantsville, UT 84029 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Shelby Moore",
+      "contact_email": "smoore@grantsvilleut.gov",
+      "posted_on": "September 28, 2026 11:32 AM",
+      "attachments": [
+        {
+          "file_name": "2026.09.30 - Open House Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1493971.pdf",
+          "date_added": "2026/09/28 11:36 AM",
+          "file_id": "1493971"
         }
       ],
       "canceled": false
@@ -636,82 +668,6 @@
           "url": "https://www.utah.gov/pmn/files/1440845.pdf",
           "date_added": "2026/05/29 12:22 PM",
           "file_id": "1440845"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1079143",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1079143.html",
-      "title": "Planning Commission Regular Meeting May 19, 2026",
-      "event_date": "May 19, 2026 07:00 PM",
-      "event_date_iso": "2026-05-19T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\nThe Grantsville City Planning Commission will hold a Regular Meeting at 7:00 p.m. on Tuesday, May 19, 2026 at 429 East Main Street, Grantsville, UT 84029. The agenda is as follows:\r\nROLL CALL\r\nAGENDA\r\n1.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of a proposed Conditional Use Permit for Andrew Christiansen to own and operate Tinman's Gunworks, a home-based business that includes services such as firearm repairs, maintenance, restoration, purchases and transfers; located at 332 West Apple Street in the RM-7 zone.\r\n2.\tPresentation, Public Hearing, Discussion, and Consideration: Consideration of a proposed Conditional Use Permit for Falysia and Joseph Mangrum to own and operate a farm stand for the sale of eggs, produce, and sourdough bread at 463 S High Pasture Way, located in the R-1-21 zoning district.\r\n3.\tPresentation, Public Hearing, Discussion, and Recommendation: Recommendation of a Proposed amendment to the Kenneth Fawson Subdivision and the Proposed Commercial Final Plat Application for Holiday Oil, located at 794 E Main Street in the CG zone.\r\n4.\tPresentation, Public Hearing, Discussion and Consideration: Consideration of a Proposed Preliminary Plat Application for Presidents Park Townhomes, located approximately at Nygreen Street and Washington Avenue.\r\n5.\tApproval of the minutes from the April 21, 2026, and May 5, 2026 Planning Commission regular meetings.\r\n6.\tReport from City Staff.\r\n7.\tOpen Forum for Planning Commissioners.\r\n8.\tReport from City Council.\r\n9.\tAdjourn. \r\nShelby Moore\r\nZoning Administrator \r\nGrantsville City Community & Economic Development\r\n\r\nJoin Zoom Meeting\r\nJoin Zoom Meeting: https://us02web.zoom.us/j/4358843411\r\nBy Phone, Dial: 1-253-215-8782\r\nMeeting ID: 435 884 3411",
-      "meeting_location": "429 E Main Street Grantsville , UT 84029 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Shelby Moore",
-      "contact_email": "smoore@grantsvilleut.gov",
-      "posted_on": "May 08, 2026 01:39 PM",
-      "attachments": [
-        {
-          "file_name": "2026.05.19 - PC Regular Meeting - Audio.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1436905.mp3",
-          "date_added": "2026/05/21 08:49 AM",
-          "file_id": "1436905"
-        },
-        {
-          "file_name": "2026.05.19 - PC Regular Meeting Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1442859.pdf",
-          "date_added": "2026/06/03 11:11 AM",
-          "file_id": "1442859"
-        },
-        {
-          "file_name": "PC Agenda 5-19-26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430421.pdf",
-          "date_added": "2026/05/08 01:39 PM",
-          "file_id": "1430421"
-        },
-        {
-          "file_name": "2026.05.19 - Public Notice - CUP.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430423.pdf",
-          "date_added": "2026/05/08 01:39 PM",
-          "file_id": "1430423"
-        },
-        {
-          "file_name": "2026.05.19 - Public Notice - Farm Stand.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430425.pdf",
-          "date_added": "2026/05/08 01:39 PM",
-          "file_id": "1430425"
-        },
-        {
-          "file_name": "2026.05.19 - Public Notice - Holiday Oil.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430427.pdf",
-          "date_added": "2026/05/08 01:39 PM",
-          "file_id": "1430427"
-        },
-        {
-          "file_name": "2026.05.19 - Public Notice - Presidents Park Townhomes Preliminary.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1430429.pdf",
-          "date_added": "2026/05/08 01:39 PM",
-          "file_id": "1430429"
-        },
-        {
-          "file_name": "Combined Planning Commission Packet - 05-19-2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1434316.pdf",
-          "date_added": "2026/05/15 01:23 PM",
-          "file_id": "1434316"
         }
       ],
       "canceled": false

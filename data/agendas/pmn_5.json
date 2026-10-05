@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-09-28T16:33:32.154057+00:00",
+  "scraped_at": "2026-10-05T16:59:09.486409+00:00",
   "notices": [
     {
       "notice_id": "1111313",
@@ -79,6 +79,32 @@
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "September 24, 2026 07:39 AM",
       "attachments": [],
+      "canceled": false
+    },
+    {
+      "notice_id": "1112227",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112227.html",
+      "title": "City Council Meeting",
+      "event_date": "October 6, 2026 04:30 PM",
+      "event_date_iso": "2026-10-06T16:30:00",
+      "notice_types": [
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "See attachment",
+      "meeting_location": "80 S Main Street Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Tara Silver",
+      "contact_email": "tsilver@spanishfork.org",
+      "posted_on": "October 01, 2026 03:43 PM",
+      "attachments": [
+        {
+          "file_name": "City Council Agenda 10-06-2026.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1495651.pdf",
+          "date_added": "2026/10/01 04:01 PM",
+          "file_id": "1495651"
+        }
+      ],
       "canceled": false
     },
     {
@@ -352,26 +378,6 @@
           "file_id": "1471219"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1085785",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1085785.html",
-      "title": "Spanish Fork City Council & Local Building Authority NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED",
-      "event_date": "July 7, 2026 06:00 PM",
-      "event_date_iso": "2026-07-07T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, the Local Government Bonding Act, Title 11, Chapter 14, Utah Code, as amended and the Utah Refunding Bond Act, Title 11, Chapter 27, Utah Code Annotated 1953, as amended (collectively, the 'Act'), that on June 2, 2026, the Governing Board (the 'Governing Board') of the Local Building Authority of Spanish Fork City, Utah (the 'Authority') adopted a resolution (the 'Resolution') declaring its intention to issue its Lease Revenue and Refunding Bonds, Series 2026 (the 'Bonds'), and calling a public hearing to receive input from the public with respect to the issuance of the Bonds.\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\n\r\nThe Authority shall hold a public hearing on July 7, 2026, at the hour of 6:00 p.m. The location of the public hearing is at the City offices of Spanish Fork, Utah (the 'City') located at 40 South Main Street, Spanish Fork, Utah. The purpose of the hearing is to receive input from the public with respect to: (a) the proposed Bonds, and (b) any potential economic impact that the improvements, facility or property financed in whole or in part with the proceeds of the Bonds may have on the private sector. All members of the public are invited to attend and participate.\r\n\r\nPURPOSE FOR ISSUING BONDS\r\n\r\nThe Authority intends to issue the Bonds to provide funds to (a) finance costs of the construction of a fire station and public works building and all related improvements (the 'Series 2026 Project'); (b) refund certain outstanding bonds of the Authority; (c) fund any required deposits to a debt service reserve fund; and (d) pay costs associated with the issuance of the Bonds.\r\n\r\nPARAMETERS OF THE BONDS\r\n\r\nThe Authority intends to issue the Bonds in a principal amount of not to exceed Eighty-Three Million Dollars ($83,000,000), to bear interest at a rate or rates of not to exceed six percent (6.00%) per annum, to mature in not more than twenty-one (21) years from their date or dates, and to be sold at a price not less than ninety-eight percent (98%) of the total principal amount thereof, plus accrued interest, if any, to the date of delivery of the Bonds.\r\n\r\nThe Bonds are to be issued and sold by the Authority pursuant to the Resolution, including as attachments to said Resolution a form of a General Indenture of Trust and Third Supplemental Indenture of Trust (collectively, the 'Indenture') and a form of a Master Lease Agreement and Second Amendment to Master Lease Agreement (together, the 'Lease'), which were before the Governing Board at the time of the adoption of the Resolution. The Indenture and the Lease are to be executed by the Authority and/or the City with such terms and provisions and any changes thereto as authorized by the Resolution.\r\n\r\nSECURITY FOR THE BONDS\r\n\r\n4916-0246-9554, v. 1\r\nThe Bonds are payable solely from the rents, revenues and other income received by the Authority from the leasing of the Series 2026 Project to the City on an annually renewable basis (the 'Lease Revenues') and any other monies available under the Indenture.\r\n\r\nOUTSTANDING BONDS SECURED BY LEASE REVENUES\r\n\r\nThe Authority currently has $26,101,000 bonds outstanding secured by Lease Revenues of which $10,536,000 are anticipated to be refunded with a portion of the proposed Series 2026 Bonds, together with $70,000,000 from the proposed Series 2026 Bonds for new projects, for an estimated total outstanding par of $91,860,000 once the Series 2026 Bonds are issued and the refunding completed.\r\n\r\nOTHER OUTSTANDING BONDS OF THE AUTHORITY\r\n\r\nInformation regarding all of the Authority's outstanding bonds may be found in the City's audited financial report (the 'Financial Report') at https://reporting.auditor.utah.gov/searchreports/s/. For additional information, including any more recent than as of the date of the Financial Report please contact Seth Perrins, City Manager at (801) 804-4531.\r\n\r\nTOTAL ESTIMATED COST\r\n\r\nBased on an estimate of the current interest rate and financing plan, the estimated total debt service cost of the Bonds, if held until maturity, is $96,202,094.\r\nA copy of the Resolution and the forms of Indenture and the Lease are on file in the City offices, located at 40 South Main Street, Spanish Fork, Utah, where they may be examined during regular business hours from 8:00 a.m. to 5:00 p.m., Monday through Friday, for a period of at least thirty (30) days from and after the last date of posting of this notice.\r\nNOTICE IS FURTHER GIVEN that a period of thirty (30) days from and after the date of the posting of this notice is provided by law during which (i) any person in interest shall have the right to contest the legality of the Resolution, the Indenture, the Lease, or the Bonds, or any provision made for the security and payment of the Bonds, and after such time, no one shall have any cause of action to contest the regularity, formality or legality thereof for any cause whatsoever, and (ii) active voters (as defined in Section 20A-1-102 of the Utah Code) within the City may sign a written petition requesting an election to authorize the issuance of the Bonds. If written petitions which have been signed by at least twenty percent (20%) of the active voters of the City are filed with the Authority during said 30-day period, the Authority shall be required to hold an election to obtain voter authorization prior to the issuance of the Bonds. If fewer than twenty percent (20%) of the active voters of the City file a written petition during said 30-day period, the Authority may proceed to issue the Bonds without an election.\r\n\r\nDATED this June 3, 2026.\r\n/s/Tara Silver\r\nSecretary-Treasurer",
-      "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Tara Silver",
-      "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "June 03, 2026 11:35 AM",
-      "attachments": [],
       "canceled": false
     }
   ]
