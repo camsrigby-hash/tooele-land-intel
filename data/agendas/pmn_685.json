@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-10-05T16:55:26.616847+00:00",
+  "scraped_at": "2026-10-12T17:24:18.150992+00:00",
   "notices": [
     {
       "notice_id": "1112601",
@@ -23,6 +23,13 @@
       "contact_email": "clarissap@tooelecity.gov",
       "posted_on": "October 02, 2026 05:03 PM",
       "attachments": [
+        {
+          "file_name": "10.07.2026_CCAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1498593.mp3",
+          "date_added": "2026/10/08 10:55 AM",
+          "file_id": "1498593"
+        },
         {
           "file_name": "10.07.2026_CCAgenda.pdf",
           "category": "Public Information Handout",
@@ -84,6 +91,13 @@
       "posted_on": "October 02, 2026 05:06 PM",
       "attachments": [
         {
+          "file_name": "10.07.2026_WKAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1498591.mp3",
+          "date_added": "2026/10/08 10:54 AM",
+          "file_id": "1498591"
+        },
+        {
           "file_name": "10.07.2026_WKAgenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1496253.pdf",
@@ -96,6 +110,13 @@
           "url": "https://www.utah.gov/pmn/files/1496255.pdf",
           "date_added": "2026/10/02 05:06 PM",
           "file_id": "1496255"
+        },
+        {
+          "file_name": "10.07.2026_Public Materials Distributed-Presented at WK Meeting.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1498597.pdf",
+          "date_added": "2026/10/08 11:06 AM",
+          "file_id": "1498597"
         }
       ],
       "canceled": false
@@ -153,6 +174,13 @@
           "file_id": "1490507"
         },
         {
+          "file_name": "09.16.2026_CCMinutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1498575.pdf",
+          "date_added": "2026/10/08 10:45 AM",
+          "file_id": "1498575"
+        },
+        {
           "file_name": "09.16.2026_CCAgenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1487433.pdf",
@@ -191,6 +219,13 @@
           "url": "https://www.utah.gov/pmn/files/1490499.mp3",
           "date_added": "2026/09/18 10:09 AM",
           "file_id": "1490499"
+        },
+        {
+          "file_name": "09.16.2026_WKMinutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1498581.pdf",
+          "date_added": "2026/10/08 10:47 AM",
+          "file_id": "1498581"
         },
         {
           "file_name": "09.16.2026_WKAgenda.pdf",

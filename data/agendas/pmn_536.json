@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-10-05T16:56:50.168074+00:00",
+  "scraped_at": "2026-10-12T17:25:38.592147+00:00",
   "notices": [
     {
       "notice_id": "1112107",
@@ -16,18 +16,51 @@
         "Notice",
         "Meeting"
       ],
-      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\nThe Eagle Mountain Planning Commission will hold public hearings on October 13, 2026, at 6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning Commission will receive public comments concerning the following items:\r\nOak Hollow and Parkway Crossroads Rezone: The Eagle Mountain Planning Commission will conduct public hearings for proposed Future Land Use Map and Zoning Map amendments. These properties are located within the Oak Hollow development and Parkway Crossroads area. Approximately 41 acres of land are included in this proposal. The properties in question, along with the specific zoning and future land use designations proposed for each property, including a map, can be found by scanning the QR code provided on this notice. EMC Point of Contact: Mickie Mills, mmills@eaglemountain.gov.\r\n \r\n\t\t\t\t\t\r\nUCCU Site Plan: Planning Commission review of a proposed commercial building site plan on Lot 1 of The District at Eagle Mountain Town Center Subdivision, Phase A. The property is generally located just south of E. Trailhead Rd., between N. Pony Express Pkwy. and N. 1620 E St. EMC Point of Contact: Mickie Mills, mmills@eaglemountain.gov.\r\nEagle Mountain Municipal Code Amendments:\r\nTransmission Lines in Agricultural Zone: An Ordinance of Eagle Mountain City, Utah, amending Eagle Mountain Municipal Code Chapter 17.20 Power Transmission Lines. A proposal to make power transmission lines either a special or permitted use in the Agricultural Zone. EMC Point of Contact: Bradon Larsen, blarsen@eaglemountain.gov.\r\nEMMC 17.60.085 - Artificial Turf: Adopting EMMC 17.60.085 regarding standards for the use and installation of artificial turf. EMC Point of Contact: David Stroud, dstroud@eaglemountain.gov.\r\nEMMC 17.60.100 - Landscaping: Amending EMMC 17.60.100 regarding installation of rear yard landscaping. EMC Point of Contact: David Stroud, dstroud@eaglemountain.gov.\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
+      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF PUBLIC HEARINGS\r\nThe Eagle Mountain Planning Commission will hold public hearings on October 13, 2026, at 6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005. The Planning Commission will receive public comments concerning the following items:\r\nOak Hollow and Parkway Crossroads Rezone: The Eagle Mountain Planning Commission will conduct public hearings for proposed Future Land Use Map and Zoning Map amendments. These properties are located within the Oak Hollow development and Parkway Crossroads area. Approximately 41 acres of land are included in this proposal. The properties in question, along with the specific zoning and future land use designations proposed for each property, including a map, can be found by scanning the QR code provided on this notice. EMC Point of Contact: Mickie Mills, mmills@eaglemountain.gov.\r\nUCCU Site Plan: Planning Commission review of a proposed commercial building site plan on Lot 1 of The District at Eagle Mountain Town Center Subdivision, Phase A. The property is generally located just south of E. Trailhead Rd., between N. Pony Express Pkwy. and N. 1620 E St. EMC Point of Contact: Mickie Mills, mmills@eaglemountain.gov. Eagle Mountain Municipal Code Amendments: Transmission Lines in Agricultural Zone: An Ordinance of Eagle Mountain City, Utah, amending Eagle Mountain Municipal Code Chapter 17.20 Power Transmission Lines. A proposal to make power transmission lines either a special or permitted use in the Agricultural Zone. EMC Point of Contact: Bradon Larsen, blarsen@eaglemountain.gov. EMMC 17.60.085 - Artificial Turf: Adopting EMMC 17.60.085 regarding standards for the use and installation of artificial turf. EMC Point of Contact: David Stroud, dstroud@eaglemountain.gov. EMMC 17.60.100 - Landscaping: Amending EMMC 17.60.100 regarding installation of rear yard landscaping. EMC Point of Contact: David Stroud, dstroud@eaglemountain.gov.\r\nPublished on October 1, 2026\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611. Open portions of the meeting can be viewed at www.eaglemountain.gov.\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
       "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
       "contact_name": "Robert Hobbs",
       "contact_email": "rhobbs@emcity.org",
       "posted_on": "October 01, 2026 12:31 PM",
       "attachments": [
         {
-          "file_name": "10.13.2026 PCPH Notice.pdf",
+          "file_name": "10.13.2026 Updated PCPH Notice.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1495599.pdf",
-          "date_added": "2026/10/01 03:02 PM",
-          "file_id": "1495599"
+          "url": "https://www.utah.gov/pmn/files/1498269.pdf",
+          "date_added": "2026/10/07 03:41 PM",
+          "file_id": "1498269"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1113985",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1113985.html",
+      "title": "Public Meeting",
+      "event_date": "October 13, 2026 05:30 PM",
+      "event_date_iso": "2026-10-13T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nOCTOBER 13, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tDISCUSSION - Deer Run Concept Plan\r\n\r\n\t1.B.\tAGENDA REVIEW\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tSeptember 22, 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tPUBLIC HEARING / ACTION ITEM - UCCU Express Site Plan\r\n\r\nBACKGROUND: (Presented by Planner, Mickie Mills) A proposed site plan for UCCU Express, at 4314 N Pony Express Pkwy, Parcel 37:386:0001.\r\n\r\n\t7.B.\tPUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, Amending the Official Zoning Map and Future Land Use Map to Assign Current Zoning Designations to the Oak Hollow and Parkway Crossroads areas.\r\n\r\nBACKGROUND: (Presented by Planner, Mickie Mills) The Eagle Mountain City Council will conduct a public hearing on the proposed Future Land Use Map and Zoning Map amendments. These properties are located within the Oak Hollow development and the Parkway Crossroads area near the Pony Express and Ranches intersection. Approximately 38 acres of land for Oak Hollow and 7 acres of land for Parkway Crossroads are included in this proposal.\r\n\r\n\t7.C.\tPUBLIC HEARING / ACTION ITEM - An Ordinance of Eagle Mountain City, Utah, Amending the Eagle Mountain Municipal Code 17.60.085 regarding Artificial Turf and Eagle Mountain Municipal Code 17.60.100 regarding rear yard landscaping.\r\n\r\nBACKGROUND: (Presented by Senior Planner, David Stroud)  Adopting EMMC 17.60.085 regarding standards for the use and installation of artificial turf and amending EMMC 17.60.100 regarding rear yard landscaping.\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "October 08, 2026 01:26 PM",
+      "attachments": [
+        {
+          "file_name": "Agenda (1).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1498771.docx",
+          "date_added": "2026/10/08 01:25 PM",
+          "file_id": "1498771"
+        },
+        {
+          "file_name": "Packet (2).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1498773.pdf",
+          "date_added": "2026/10/08 01:26 PM",
+          "file_id": "1498773"
         }
       ],
       "canceled": false
@@ -285,32 +318,6 @@
           "url": "https://www.utah.gov/pmn/files/1470673.pdf",
           "date_added": "2026/08/06 07:55 AM",
           "file_id": "1470673"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1095765",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1095765.html",
-      "title": "07.28.2026 PCPH Notice",
-      "event_date": "July 28, 2026 06:30 PM",
-      "event_date_iso": "2026-07-28T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on July 28, 2026, at 6:30 \r\np.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\n\r\nTransportation Master Plan and Impact Fee Facilities Plan (IFFP) Update: The hearing is \r\nfor adoption of an update to the Transportation Master Plan and Impact Fee Facilities Plan \r\n(IFFP) The City's Transportation Master Plan is intended to identify the needed \r\ntransportation infrastructure needed to provide adequate service for the City's residents \r\nand businesses. This comprehensive transportation plan that must be developed and \r\nregularly maintained to combat the potential congestion caused by projected growth. This \r\nplan must incorporate the goals of the city of Eagle Mountain regarding the transportation \r\nsystems within our jurisdiction and those regional facilities maintained by UDOT, UTA, Utah \r\nCounty, and neighboring communities. EMC Point of Contact: Assistant City Engineer, David \r\nSalazar: dsalazar@eaglemountain.gov. \r\n\r\nPinnacles Master Development Plan/Master Development Agreement Zone Change: A \r\nrequest by Andy Flamm for Master Development Plan and Agreement Amendment (with an \r\nassociated Rezone and Future Land Use Map Amendment) to change the identification and \r\nzoning of two parcels of land (County Assessor Acct./Serial #s 59:034:0192 & 59:034:0193) \r\n6.04 acres and 5.24 acres respectively, from Commercial Neighborhood to Agriculture and \r\nthe future land use setting/category from Neighborhood Residential 1 to Ag. EMC Point of \r\nContact: Senior Planner, Robert Hobbs, rhobbs@eaglemountain.gov. \r\n\r\nPole Canyon Lot Split PLGA-26-9: A proposed lot split for 2333 N O St., Utah County \r\nParcel Number 59:055:0011, that will create two lots of approximately ten acres each. \r\nEMC Point of Contact: Planner, Mickie Mills: mmills@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC 17.60.120.C - Barbed Wire Fencing: A proposed amendment to Eagle Mountain \r\nCode section 17.60.120.C to allow barbed wire fencing in the RTI Overlay Zone and clarify \r\nthat chain link fencing, where allowed, shall not be topped with barbed wire. EMC Point of \r\nContact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 17.25.040A - Residential Standards Table: proposed amendment to Eagle \r\nMountain Code Section 17.25.040, Residential Standards Table, to acknowledge existing \r\nlots smaller than 4,500 square feet that are rezoned to the RC Zone as legally \r\nnonconforming; likewise, for existing building setbacks that are smaller than the minimum \r\nsetbacks otherwise required in the RC Zone. EMC Point of Contact: Senior Planner, Robert \r\nHobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 17.100.040 - Master Site Plans: A proposed amendment to Eagle Mountain Code \r\nSection 17.100.040 (Master Site Plans) to clarify when a master site plan or standard site \r\nplan is required, establish the applicable review process, require a separate plat application \r\nfor land proposed to be subdivided within a site plan, and require approval of a master site \r\nplan before approval of a plat for land proposed to be subdivided within that plan's area. \r\nEMC Point of Contact: Senior Planner, Robert Hobbs: rhobbs@eaglemountain.gov. \r\n\r\nEMMC 16.20.040 - Preliminary Plats: Regarding street names on preliminary plats. EMC \r\nPoint of Contact: Senior Planner, David Stroud: dstroud@eaglemountain.gov. \r\n\r\nEMMC 16.25.040 - Final Plats: Regarding street names and City maintained property on \r\nfinal plats. EMC Point of Contact: Senior Planner, David Stroud: \r\ndstroud@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on \r\nthe city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, \r\nEagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to \r\n5:30 PM. If you need special accommodation to participate in the meeting, please call the \r\nCity Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at \r\nwww.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "July 15, 2026 03:24 PM",
-      "attachments": [
-        {
-          "file_name": "07.28.2026 PCPH Notice.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1462331.pdf",
-          "date_added": "2026/07/15 03:24 PM",
-          "file_id": "1462331"
         }
       ],
       "canceled": false

@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-10-05T16:58:49.067096+00:00",
+  "scraped_at": "2026-10-12T17:27:33.853357+00:00",
   "notices": [
+    {
+      "notice_id": "1114503",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114503.html",
+      "title": "City Council Meeting",
+      "event_date": "October 13, 2026 06:00 PM",
+      "event_date_iso": "2026-10-13T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR CITY COUNCIL MEETING\r\nOctober 13, 2026, at 6:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, October 13, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPUBLIC COMMENTS (3 MINUTES PER PERSON)\r\n'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tWORK SESSION\r\n        4.1  Discuss Short-Term Rentals (Ed Kennedy - 10 Minutes)\r\n\r\n5.\tCONSENT ITEMS\r\n        5.1.\tApproval of the September 15, 2026, City Council Meeting Minutes\r\n\r\n6.\tAPPOINTMENTS AND REMOVALS\r\n        6.1.\tAppoint ARCH Commission Member (Brian Vawdreoy - 5 Minutes)\r\n\r\n7.\tBUSINESS ITEMS\r\n        7.1.\tApprove RES 2026-40 - Awarding the Parking Enforcement Bid to EZ Park (5 Minutes)\r\n\r\n        7.2.\tApprove RES 2026-41 Establishing the Vineyard Economic Development Partnership (VEDP) (5 Minutes)\r\n\r\n        7.3.\tApprove ORD 2026-12 Renaming the Active Transportation Commission (ATC) as the Pedestrian Safety Commission (PSC) (5 Minutes)\r\n\r\n        7.4.\tMembership in the North Utah County Aquifer Council (NUCAC) (5 Minutes) Consideration and approval of a resolution authorizing Vineyard City's membership in the North Utah County Aquifer Council (NUCAC), at an initial cost of $12,000 and approximately $6,000 annually thereafter.\r\n\r\n        7.5.\tAccept Resolution 2026-36: Opposing The Geneva Retention Pond Exchange And Requesting A Public Management Plan (5 Minutes)\r\n\r\n8.\tADJOURNMENT",
+      "meeting_location": "City Council Chambers 125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "October 09, 2026 05:52 PM",
+      "attachments": [
+        {
+          "file_name": "10.13.26 CC Packet  .pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1499765.pdf",
+          "date_added": "2026/10/09 05:49 PM",
+          "file_id": "1499765"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1110699",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110699.html",
@@ -261,38 +287,6 @@
           "url": "https://www.utah.gov/pmn/files/1460921.pdf",
           "date_added": "2026/07/13 11:43 AM",
           "file_id": "1460921"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1092729",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1092729.html",
-      "title": "City Council Meeting",
-      "event_date": "July 7, 2026 04:00 PM",
-      "event_date_iso": "2026-07-07T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "NOTICE OF A REGULAR\r\nCITY COUNCIL WORK MEETING\r\nJuly 7, 2026, at 4:00 PM\r\n\t________________\t\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council Work Meeting on Tuesday, July 7, 2026, at 4:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n\r\n3.\tPUBLIC COMMENTS (3 Mins)\r\n \t'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tCONSENT ITEMS\r\n\r\n \t4.1.\tApproval of the June 23, 2026, City Council Meeting Minutes\r\n\r\n5.\tWORK SESSION\r\n\r\n \t5.1.\tDiscuss 400 South Road Construction (Council Member Holdaway)\r\n\r\n \t5.2.\tDiscuss Motorized Bikes, Scooters, and Other Means of Transportation (Deputy Chief Holden Rockwell)\r\n\r\n        5.3  Discuss Resolution 2026-31 - Insignificant Land Resolution (Council Member Ezra Nair)\r\n\r\n6.\tCOMMUNICATION ITEMS\r\n\r\n\r\n7.\tADJOURNMENT",
-      "meeting_location": "125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "July 01, 2026 02:29 PM",
-      "attachments": [
-        {
-          "file_name": "7.7.26 APPROVED Minutes w Signatures.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1479637.pdf",
-          "date_added": "2026/08/25 02:33 PM",
-          "file_id": "1479637"
-        },
-        {
-          "file_name": "7.7.26 CC Packet (3).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1457801.pdf",
-          "date_added": "2026/07/06 12:25 PM",
-          "file_id": "1457801"
         }
       ],
       "canceled": false

@@ -4,8 +4,58 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-10-05T16:58:01.330853+00:00",
+  "scraped_at": "2026-10-12T17:26:47.893843+00:00",
   "notices": [
+    {
+      "notice_id": "1113575",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1113575.html",
+      "title": "Notice of Ordinance Adoption: Ordinance #1740 - amending the text of the Land Use and Development Code of the Draper City Municipal Code relating to signage in the Karl Malone Auto Center Commercial Special District (KMAC-CSD)",
+      "event_date": "October 7, 2026 11:30 AM",
+      "event_date_iso": "2026-10-07T11:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on October 7, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1740\r\n\r\nOn October 6, 2026, the Draper City Council Adopted Ordinance #1740 amending the text of the Land Use and Development Code of the Draper City Municipal Code relating to signage in the Karl Malone Auto Center Commercial Special District (KMAC-CSD). The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 7th Day of October, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "October 07, 2026 11:31 AM",
+      "attachments": [
+        {
+          "file_name": "Ord 1740.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1497955.pdf",
+          "date_added": "2026/10/07 11:30 AM",
+          "file_id": "1497955"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1113573",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1113573.html",
+      "title": "Notice of Ordinance Adoption: Ordinance #1739 - Snow Zoning Map Amendment, amending the official zoning map of Draper City for property at approximately 960 E. New Hope Dr. from RA1 to RA2",
+      "event_date": "October 7, 2026 11:28 AM",
+      "event_date_iso": "2026-10-07T11:28:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Posted on October 7, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1739\r\n\r\nOn October 6, 2026, the Draper City Council Adopted Ordinance #1739 amending the official zoning map of Draper City for approximately 1.35 acres of property from RA1 (Residential Agricultural) to RA2 (Residential Agricultural), located at approximately 960 E. New Hope Dr. within Draper City, otherwise known as the Snow Zoning Map Amendment. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 7th Day of October, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "October 07, 2026 11:29 AM",
+      "attachments": [
+        {
+          "file_name": "Ord 1739.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1497949.pdf",
+          "date_added": "2026/10/07 11:29 AM",
+          "file_id": "1497949"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1111063",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111063.html",
@@ -87,6 +137,27 @@
           "url": "https://www.utah.gov/pmn/files/1496119.pdf",
           "date_added": "2026/10/02 01:09 PM",
           "file_id": "1496119"
+        },
+        {
+          "file_name": "2026-10-06 Meeting Recap.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1497907.pdf",
+          "date_added": "2026/10/07 10:57 AM",
+          "file_id": "1497907"
+        },
+        {
+          "file_name": "2026-10-06 Public Comment Handout.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1498877.pdf",
+          "date_added": "2026/10/08 02:15 PM",
+          "file_id": "1498877"
+        },
+        {
+          "file_name": "FY27 Q1 Quarterly Financial Update.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1498885.pdf",
+          "date_added": "2026/10/08 02:21 PM",
+          "file_id": "1498885"
         }
       ],
       "canceled": false
@@ -112,32 +183,6 @@
           "url": "https://www.utah.gov/pmn/files/1489325.pdf",
           "date_added": "2026/09/16 12:26 PM",
           "file_id": "1489325"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1106027",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106027.html",
-      "title": "Notice of Public Hearing: Amendment of the Draper City Fiscal Year 2026-2027 Budget",
-      "event_date": "September 15, 2026 07:00 PM",
-      "event_date_iso": "2026-09-15T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on September 3, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Budget Amendment for Fiscal Year 2026-2027\r\n\r\nNotice is hereby given that the Draper City Council will hold a public hearing to consider reopening and amending the Draper City Fiscal Year 2026-2027 Budget.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on September 15, 2026 at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact John Vuyk at (801) 576-6318 or john.vuyk@draperutah.gov\r\n\r\nDated this 3rd day of September, 2026\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "September 03, 2026 09:13 AM",
-      "attachments": [
-        {
-          "file_name": "CC 9.15 FY 26-27 Budget Amendment.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1483541.pdf",
-          "date_added": "2026/09/03 09:13 AM",
-          "file_id": "1483541"
         }
       ],
       "canceled": false
@@ -169,6 +214,32 @@
       "canceled": false
     },
     {
+      "notice_id": "1106027",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106027.html",
+      "title": "Notice of Public Hearing: Amendment of the Draper City Fiscal Year 2026-2027 Budget",
+      "event_date": "September 15, 2026 07:00 PM",
+      "event_date_iso": "2026-09-15T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on September 3, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Budget Amendment for Fiscal Year 2026-2027\r\n\r\nNotice is hereby given that the Draper City Council will hold a public hearing to consider reopening and amending the Draper City Fiscal Year 2026-2027 Budget.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on September 15, 2026 at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact John Vuyk at (801) 576-6318 or john.vuyk@draperutah.gov\r\n\r\nDated this 3rd day of September, 2026\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "September 03, 2026 09:13 AM",
+      "attachments": [
+        {
+          "file_name": "CC 9.15 FY 26-27 Budget Amendment.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1483541.pdf",
+          "date_added": "2026/09/03 09:13 AM",
+          "file_id": "1483541"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1108263",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108263.html",
       "title": "City Council Agenda",
@@ -184,6 +255,13 @@
       "contact_email": "nicole.smedley@draperutah.gov",
       "posted_on": "September 11, 2026 02:37 PM",
       "attachments": [
+        {
+          "file_name": "2026-09-15_CityCouncil_Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1497911.pdf",
+          "date_added": "2026/10/07 10:57 AM",
+          "file_id": "1497911"
+        },
         {
           "file_name": "2026-09-15 CityCouncil_Agenda.pdf",
           "category": "Public Information Handout",
@@ -250,100 +328,6 @@
           "url": "https://www.utah.gov/pmn/files/1483309.pdf",
           "date_added": "2026/09/02 04:02 PM",
           "file_id": "1483309"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1105037",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105037.html",
-      "title": "City Council Agenda",
-      "event_date": "September 1, 2026 06:30 PM",
-      "event_date_iso": "2026-09-01T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, September 1, 2026, 6:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\nAMENDED AGENDA - ADDING ITEM 4.E\r\n\r\n6:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\n        CLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\n        The Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\n        Council/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tPublic Comments\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person.                                                 Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n4.\tConsent Items\r\n\r\n        4.a  Approve the August 12, 2026 and August 18, 2026 City Council Meeting Minutes\r\n\r\n        4.b  Approve Resolution #26-40\r\n        A resolution reappointing Geneva Woodmansee as a member of the Draper City Parks, Trails, and Recreation Committee. Staff: Kellie Challburg.\r\n\r\n        4.c  Approve Resolution #26-41\r\n        A resolution appointing Laura Fidler as a regular member of the Draper City Planning Commission. Staff: Kellie Challburg.\r\n\r\n        4.d  Approve Resolution #26-42\r\n        A resolution appointing Drew Martinez as an alternate member of the Draper City Planning Commission. Staff: Kellie Challburg.\r\n\r\n       4.e  Approve Resolution #26-43\r\n       A resolution authorizing the Mayor to execute a Quit Claim Deed for certain real property located in the Suncrest Development. Staff report by Traci Gundersen.\r\n\r\n5.\tItems for Council Consideration\r\n \r\n        5.a Action Item: Approve Ordinance #1737\r\n        An ordinance of the Draper City Council amending Title 3, Chapter 4 of the Draper City Municipal Code regarding Government Records Access and Management. Staff report by Nicole Smedley.\r\n\r\n6.\tRecess to a Community Reinvestment Agency Meeting\r\n\r\n7.\tAdjournment\r\n\r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held September 1, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nPosted this 28th day of August 2026. \r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 28, 2026 02:55 PM",
-      "attachments": [
-        {
-          "file_name": "2026-09-01_CityCouncil_Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1489315.pdf",
-          "date_added": "2026/09/16 12:19 PM",
-          "file_id": "1489315"
-        },
-        {
-          "file_name": "2026-09-01 CityCouncil_Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1481337.pdf",
-          "date_added": "2026/08/28 02:55 PM",
-          "file_id": "1481337"
-        },
-        {
-          "file_name": "2026-09-01 CityCouncil_Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1481339.pdf",
-          "date_added": "2026/08/28 02:55 PM",
-          "file_id": "1481339"
-        },
-        {
-          "file_name": "2026-09-01 CityCouncil_AmendedAgenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1481403.pdf",
-          "date_added": "2026/08/28 04:26 PM",
-          "file_id": "1481403"
-        },
-        {
-          "file_name": "2026-09-01 CityCouncil_Packet_Amended.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1481405.pdf",
-          "date_added": "2026/08/28 04:26 PM",
-          "file_id": "1481405"
-        },
-        {
-          "file_name": "2026-09-01 Meeting Recap.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1483301.pdf",
-          "date_added": "2026/09/02 03:56 PM",
-          "file_id": "1483301"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1104411",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104411.html",
-      "title": "Tree Committee",
-      "event_date": "September 1, 2026 08:00 AM",
-      "event_date_iso": "2026-09-01T08:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "TREE COMMITTEE AGENDA\r\n\r\nTuesday, September 1, 2026, 8:00 AM\r\n1020 East Pioneer Road Draper, Utah 84020 \r\nAdministration Conference Room\r\n\r\n1.\tWelcome and Roll Call\r\n\r\n2.\tApproval of Previous Meeting Minutes 2.a Minutes from May 5, 2026\r\n\r\n3.\tWheadon Farm Park Donation\r\n\r\n4.\tTree Committee Duties\r\n\r\n4.a Plan for Inventory of Existing Trees\r\n\r\n4.b Plans for various public areas such as:\r\n\r\nEntrances to the city - city council has expressed desire to potentially enlist the Tree committee and allocate budget here\r\n\r\nCity parks -\r\n\r\n     potential planting project for splash pad\r\n     private citizen donor planting for Wheadon Park Main transportation corridors and others\r\n\r\nRecommend goals and policies to the city council regarding tree culture for Draper City\r\n\r\n\r\n4.c Policies for planting of trees for beautification, noise dampening, visual screening, weather protection, erosion control\r\n\r\n4.d Recommendations to city council on public relations matters, including, but not limited to Arbor Day, cleanup days, home beautification contests and other tree related city activities\r\n\r\n4.e Street Tree Guide\r\n \r\n4.f  Recommendations to city if desired:\r\n\r\nMake recommendations on arboricultural specifications and standards of practices for all trees and shrubbery on City property, and recommend standards and specifications for the work of any person or organization engaged in the business of working on trees within the city\r\n\r\nMake recommendations on the grounds immediately surrounding the trees and shrubbery on public property, as far as it is necessary to assure the proper growth, care and protection of said trees and shrubbery\r\n\r\nMake recommendations on the care and treatment of trees and shrubbery, including planting, maintenance, pruning, spraying and removal of trees and shrubbery on city property;\r\n\r\nMake recommendations on the identification, marking and preservation of historic or notable trees\r\n\r\n\r\n4.g Develop standards and specifications regarding the planting of trees for new developments, including site plans and subdivisions and make recommendations to the Planning Commission and City Council regarding the same\r\n\r\nCity planning to adopt the planting standards put forward by city engineering for park strips\r\n\r\n\r\n4.h Develop standards and specifications regarding the planting of trees on public property, including size, location and approved species and make recommendations for adoption in this code\r\n\r\n5.\tAdjournment\r\n \r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper Tree Committee meeting to be held September 1, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\nNicole Smedley, CMC, City Recorder Draper City, State of Utah",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "August 26, 2026 12:51 PM",
-      "attachments": [
-        {
-          "file_name": "2026-09-01_TreeCommittee_Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1480043.pdf",
-          "date_added": "2026/08/26 12:51 PM",
-          "file_id": "1480043"
-        },
-        {
-          "file_name": "2026-09-01_TreeCommittee_Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1480045.pdf",
-          "date_added": "2026/08/26 12:51 PM",
-          "file_id": "1480045"
         }
       ],
       "canceled": false
