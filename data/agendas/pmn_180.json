@@ -4,8 +4,35 @@
   "public_body": "City Council",
   "body_id": "180",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/180.html",
-  "scraped_at": "2026-10-12T17:27:10.865680+00:00",
+  "scraped_at": "2026-10-19T15:22:27.072845+00:00",
   "notices": [
+    {
+      "notice_id": "1116005",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116005.html",
+      "title": "10.27.26 Public Hearing - Vacation of ROW",
+      "event_date": "October 27, 2026 07:00 PM",
+      "event_date_iso": "2026-10-27T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "NOTICE OF INTENT TO VACATE A PARCEL WITHIN A RIGHT OF WAY\r\nAND PUBLIC HEARING\r\n\r\nNotice is hereby given that American Fork City will hold a public hearing on Tuesday, October 27, 2026, at the American Fork City Hall, located at 31 North Church Street, commencing at 7:00 p.m. The purpose of the public hearing is to receive public comments on the vacation of a parcel within a right-of-way at approximately 10 West and 1200 South. \r\n\r\nThe legal description is as follows: \r\n\r\nA parcel of land being part of an entire tract of land described in that Warranty Deed recorded\r\nDecember 27, 2021 as Entry No. 212962:2021 in the office of the Utah County Recorder. Said\r\nparcel is located in the Southeast Quarter of Section 26, Township 5 South, Range 1 East, Salt Lake Base and Meridian described as follows: \r\n\r\nBeginning at the southeasterly corner of Deer Park Drive (1230 South) road dedication plat recorded November 6, 2023 as Entry No. 72759:2023, having Map No. 18981 in the office of said Recorder, which is 616.14 feet S. 89°00'19' E. along a monument line and 1738.82 feet North from a Reference Monument to the South Quarter Corner of said Section 26; said point also being 532.74 feet S. 89°48'53' E. along the Section Line and 1668.17 feet North from South Quarter Corner of Section 26; thence N. 00°27'17' E. 54.88 feet to the northeasterly corner of said Deer Park Drive (1230 South); thence S. 65°12'39' E. 14.10 feet along a southeasterly extension of the northeasterly line of said Deer Park Drive (1230 South) to a easterly boundary line of said entire tract; thence S. 00°03'35' W. 55.05 feet along said easterly boundary line to intersect a southeasterly extension of the southwesterly line of said Deer Park Drive (1230  South); thence N. 65°12'39' W. 14.51 feet along said extension to the Point of Beginning. \r\n\r\nContaining 0.016 acres, more or less. \r\n\r\nCopies of the proposed vacation are available at the City Administrative Offices, 51 E. Main Street.  All interested people are invited to attend and make comments.\r\nDated this 15 day of October, 2026.\r\n\r\n \r\nTerilyn Lurker\r\nCity Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "October 15, 2026 04:13 PM",
+      "attachments": [
+        {
+          "file_name": "10.27.26 - ROW Vacation PH Notice - Deer Park LLC.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1502225.pdf",
+          "date_added": "2026/10/15 04:13 PM",
+          "file_id": "1502225"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1114307",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114307.html",
@@ -49,24 +76,6 @@
       "canceled": true
     },
     {
-      "notice_id": "1108527",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108527.html",
-      "title": "09.22.26 Public Hearing - FYE 2026 Budget amendments",
-      "event_date": "September 22, 2026 07:00 PM",
-      "event_date_iso": "2026-09-22T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nSEPTEMBER 22, 2026\r\nPUBLIC HEARING\r\n\r\n\r\n\t\r\n\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, September 22, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments for the purpose of amending the American Fork City FY 2026 Budget. All interested people are invited to attend.\r\nDated this 14th day of September 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "September 14, 2026 10:37 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1109955",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109955.html",
       "title": "09.22.26 City Council agenda - AMENDED",
@@ -83,6 +92,13 @@
       "posted_on": "September 18, 2026 01:59 PM",
       "attachments": [
         {
+          "file_name": "09.22.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1501237.pdf",
+          "date_added": "2026/10/14 11:58 AM",
+          "file_id": "1501237"
+        },
+        {
           "file_name": "09.22.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1490825.pdf",
@@ -97,6 +113,24 @@
           "file_id": "1491565"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1108527",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108527.html",
+      "title": "09.22.26 Public Hearing - FYE 2026 Budget amendments",
+      "event_date": "September 22, 2026 07:00 PM",
+      "event_date_iso": "2026-09-22T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "AMERICAN FORK CITY COUNCIL\r\nSEPTEMBER 22, 2026\r\nPUBLIC HEARING\r\n\r\n\r\n\t\r\n\r\nNOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, September 22, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments for the purpose of amending the American Fork City FY 2026 Budget. All interested people are invited to attend.\r\nDated this 14th day of September 2026\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "September 14, 2026 10:37 AM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -150,6 +184,13 @@
       "posted_on": "September 04, 2026 01:50 PM",
       "attachments": [
         {
+          "file_name": "09.08.26 CC Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1501463.pdf",
+          "date_added": "2026/10/14 03:33 PM",
+          "file_id": "1501463"
+        },
+        {
           "file_name": "09.08.26 CC Agenda and packet.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1484561.pdf",
@@ -157,6 +198,23 @@
           "file_id": "1484561"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1104277",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104277.html",
+      "title": "09.08.26 Public Hearing - Disposition of Real Property",
+      "event_date": "September 8, 2026 07:00 PM",
+      "event_date_iso": "2026-09-08T19:00:00",
+      "notice_types": [
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, September 8, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the disposition of the following parcels:\r\nParcel Number 13:050:0262 containing 5.524 acres at approximately 700 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:066:0024 containing 0.940 acres at approximately 730 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:050:0263 containing 0.0247 acres at approximately 700 South 25 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 25th day of August 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
+      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Terilyn Lurker",
+      "contact_email": "tlurker@americanfork.gov",
+      "posted_on": "August 25, 2026 04:37 PM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -183,40 +241,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1104277",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104277.html",
-      "title": "09.08.26 Public Hearing - Disposition of Real Property",
-      "event_date": "September 8, 2026 07:00 PM",
-      "event_date_iso": "2026-09-08T19:00:00",
-      "notice_types": [
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nNotice is hereby given that the American Fork City Council will hold a public hearing in conjunction with a regular session on Tuesday, September 8, 2026, at 7:00 p.m. at the American Fork City Hall, 31 North Church Street. The City Council will receive public comments regarding the disposition of the following parcels:\r\nParcel Number 13:050:0262 containing 5.524 acres at approximately 700 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:066:0024 containing 0.940 acres at approximately 730 South 100 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nParcel Number 13:050:0263 containing 0.0247 acres at approximately 700 South 25 West. It is currently located in Utah County, but when annexed into the city it will be located in the PR-3.0 zone. The property is currently being used for grazing.\r\nFor questions or more information, please contact tlurker@americanfork.gov\r\nDated this 25th day of August 2026.\r\n\r\n/s/Terilyn Lurker\r\nCity Recorder",
-      "meeting_location": "31 N. Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "August 25, 2026 04:37 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1104657",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104657.html",
-      "title": "09.01.26 Work Session - canceled",
-      "event_date": "September 1, 2026 04:00 PM",
-      "event_date_iso": "2026-09-01T16:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Notice is hereby given that the American Fork City Council work session scheduled for Tuesday, September 1, 2026, in the City Administration Conference Room, located at 51 East Main, has been canceled.",
-      "meeting_location": "51 East Main Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Terilyn Lurker",
-      "contact_email": "tlurker@americanfork.gov",
-      "posted_on": "August 27, 2026 01:19 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }

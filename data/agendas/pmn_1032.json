@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "1032",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1032.html",
-  "scraped_at": "2026-10-12T17:26:01.834554+00:00",
+  "scraped_at": "2026-10-19T15:21:15.140767+00:00",
   "notices": [
+    {
+      "notice_id": "1115739",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1115739.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "October 27, 2026 06:30 PM",
+      "event_date_iso": "2026-10-27T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, October 27, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLCUP202600189 - IEC Education of Utah, Conditional Use Permit, 10888 S. 300 W., Sandi Monsen (applicant)\r\n\r\n-\tPLZTA202600194 - Monopole Distance Requirement Reduction, City Code Amendment - Ordinance 2026-26, Rocky Schutjer / RAGE Development (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on October 27, 2026.  Any attachments to the email must be less than 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
+      "meeting_location": "1600 W. Towne Center Drive City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "October 15, 2026 08:45 AM",
+      "attachments": [
+        {
+          "file_name": "10-27-2026 Notice Planning Commission State Notice Website Combined.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1501651.pdf",
+          "date_added": "2026/10/15 08:44 AM",
+          "file_id": "1501651"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1114561",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114561.html",
@@ -129,33 +156,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1104623",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104623.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "September 8, 2026 06:30 PM",
-      "event_date_iso": "2026-09-08T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, September 8, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLCUP202600160 - Master Auto Tech, Conditional Use Permit, 11048 Redwood Road, Applicant (David George)\r\n\r\n-\tPLZTA202600164 - ORDINANCE NO.  2026 - 24 Legislative Updates to ADU and Accessory Building Standards in Chapters 17.08, 17.30, 17.40, 17.130.030 of City Code, City of South Jordan (Applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on September 8, 2026.  Any attachments to the email must be less than 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "August 27, 2026 11:44 AM",
-      "attachments": [
-        {
-          "file_name": "09-08-26 Notice of Public Hearing .pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1480581.pdf",
-          "date_added": "2026/08/27 11:43 AM",
-          "file_id": "1480581"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1106493",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106493.html",
       "title": "Planning Commission Meeting",
@@ -197,28 +197,28 @@
       "canceled": false
     },
     {
-      "notice_id": "1101675",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101675.html",
+      "notice_id": "1104623",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1104623.html",
       "title": "Notice of Public Hearing",
-      "event_date": "August 25, 2026 06:30 PM",
-      "event_date_iso": "2026-08-25T18:30:00",
+      "event_date": "September 8, 2026 06:30 PM",
+      "event_date_iso": "2026-09-08T18:30:00",
       "notice_types": [
         "Notice",
         "Meeting",
         "Hearing"
       ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, August 25, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLPP202600059 - Park Place Phase 5 Preliminary Subdivision, 11011 S 1055 W, Derek Rindlisbacher (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on August 25, 2026.  Any attachments to the email must be less than 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, September 8, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLCUP202600160 - Master Auto Tech, Conditional Use Permit, 11048 Redwood Road, Applicant (David George)\r\n\r\n-\tPLZTA202600164 - ORDINANCE NO.  2026 - 24 Legislative Updates to ADU and Accessory Building Standards in Chapters 17.08, 17.30, 17.40, 17.130.030 of City Code, City of South Jordan (Applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on September 8, 2026.  Any attachments to the email must be less than 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
       "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
       "contact_name": "Anna Crookston",
       "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "August 13, 2026 11:00 AM",
+      "posted_on": "August 27, 2026 11:44 AM",
       "attachments": [
         {
-          "file_name": "08-25-26 Notice of Public Hearing.pdf",
+          "file_name": "09-08-26 Notice of Public Hearing .pdf",
           "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1474191.pdf",
-          "date_added": "2026/08/13 10:58 AM",
-          "file_id": "1474191"
+          "url": "https://www.utah.gov/pmn/files/1480581.pdf",
+          "date_added": "2026/08/27 11:43 AM",
+          "file_id": "1480581"
         }
       ],
       "canceled": false
@@ -265,6 +265,33 @@
       "canceled": false
     },
     {
+      "notice_id": "1101675",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101675.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "August 25, 2026 06:30 PM",
+      "event_date_iso": "2026-08-25T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, August 25, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLPP202600059 - Park Place Phase 5 Preliminary Subdivision, 11011 S 1055 W, Derek Rindlisbacher (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on August 25, 2026.  Any attachments to the email must be less than 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
+      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "August 13, 2026 11:00 AM",
+      "attachments": [
+        {
+          "file_name": "08-25-26 Notice of Public Hearing.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1474191.pdf",
+          "date_added": "2026/08/13 10:58 AM",
+          "file_id": "1474191"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1098611",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1098611.html",
       "title": "Notice of Meeting Cancellation",
@@ -287,33 +314,6 @@
           "url": "https://www.utah.gov/pmn/files/1468081.pdf",
           "date_added": "2026/07/31 09:12 AM",
           "file_id": "1468081"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1096083",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096083.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "July 28, 2026 06:30 PM",
-      "event_date_iso": "2026-07-28T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Planning Commission will hold an in-person meeting on Tuesday, July 28, 2026 beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tPLMPA202600108 - Sri Ganesha Hindu Temple, Major Site Plan Amendment, 1131 W. 10290 S., Aditya Vinadhara (Applicant)\r\n\r\n-\tPLSPR202600118 - Beauty Barn, Site Plan, 10956 S. Jordan Gateway, Nichols Naylor Architects (applicant)\r\n\r\n-\tPLSPR202600076 - 7 Brew Coffee, Site Plan, 3634 W 11400 S, Janis Wren (applicant)\r\n\r\n-\tPLCUP202600093 - Peck Garage & ADU, Conditional Use Permit, 11756 S Gold Dust Drive, Sadi Peck (applicant)\r\n\r\n-\tPLZBA202600119 - Fitzgerald & Wagstaff Rezone, Zoning Amendment, 3250 W 11400 S, Mark Wagstaff (applicant)\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://www.sjc.utah.gov/planning-commission/  for further instructions on the day of the meeting. Ability to connect and view is dependent on an individual's internet connection, not the City. \r\n\r\nPublic comment allowed only in person or written.  To assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Greg Schindler at gschindler@sjc.utah.gov, by 12:00 p.m. on July 28, 2026.  Any attachments to the email must be less than 10 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.",
-      "meeting_location": "1600 West Towne Center Drive Council Chamber and Zoom South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "July 16, 2026 04:45 PM",
-      "attachments": [
-        {
-          "file_name": "07-28-26 Notice of Public Hearing.pdf",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1463061.pdf",
-          "date_added": "2026/07/16 04:43 PM",
-          "file_id": "1463061"
         }
       ],
       "canceled": false

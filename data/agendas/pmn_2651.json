@@ -4,8 +4,26 @@
   "public_body": "Planning Commission",
   "body_id": "2651",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2651.html",
-  "scraped_at": "2026-10-12T17:24:52.565463+00:00",
+  "scraped_at": "2026-10-19T15:20:03.309546+00:00",
   "notices": [
+    {
+      "notice_id": "1115147",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1115147.html",
+      "title": "Public Hearing Notice for Planning Commission Items",
+      "event_date": "October 22, 2026 07:00 PM",
+      "event_date_iso": "2026-10-22T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Public Hearing Items 10/22/26:\r\n \r\nPublic hearing and consideration of Jim Karren's request for approval of the Karren Estates Plat A Preliminary 3-lot Subdivision located at 105 South 500 West. \r\n \r\nPublic hearing and consideration of Janica Lee's request for approval of an 8-foot fence located at her 1806 North 500 West residence.  \r\n \r\nPublic hearing and recommendation of JDJ Investments LLC's request for review of the Jarvis Zone Chage, changing the zoning on 1.89 acres located at approximately 1840 N 2300 W from A-5 to R-1-8. \r\n \r\nPublic hearing and recommendation of Matt Loveland's request for review of the Clark Meadows updated 12-lot concept asking for 2 densities in lieu of payment located at approximately 1700 West and 1300 South.  \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a comprehensive Development Code update to Chapter 39, Definitions, integrating definitions found in other Chapters.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "October 13, 2026 12:44 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1112669",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112669.html",
@@ -132,23 +150,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1084221",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084221.html",
-      "title": "Public Hearings Notice",
-      "event_date": "June 11, 2026 07:00 PM",
-      "event_date_iso": "2026-06-11T19:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 28, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.   \r\n\r\nPublic hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area. \r\n\r\nPublic hearing and consideration of Grow Development's request for approval of the Cortese Preliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone. \r\n\r\nPublic hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).   \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.",
-      "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 28, 2026 12:16 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
       "notice_id": "1087839",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087839.html",
       "title": "Planning Commission Agenda",
@@ -166,19 +167,19 @@
       "canceled": false
     },
     {
-      "notice_id": "1080695",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1080695.html",
+      "notice_id": "1084221",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1084221.html",
       "title": "Public Hearings Notice",
-      "event_date": "May 28, 2026 07:00 PM",
-      "event_date_iso": "2026-05-28T19:00:00",
+      "event_date": "June 11, 2026 07:00 PM",
+      "event_date_iso": "2026-06-11T19:00:00",
       "notice_types": [
-        "Hearing"
+        "Notice"
       ],
-      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 28, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and consideration of Terry Bishop's request for review of the Bishop Development Agreement, allowing to increase the number of lots in a subdivision to 13, for a 7-acre parcel located at 2424 West 900 North. \r\n\r\nPublic hearing and recommendation of Lehi City's request review of amendments to the Lehi City Development Code Chapter 35, Urban Forestry, adding requirements for trees affected by migratory birds and clarifying the City's recommended public tree planting list. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of an amendment to Chapter 26 of the Development Code, Accessory Uses updating the requirements for Detached Accessory Dwelling Units (DADUs) to meet 2026 State Legislation.",
+      "agenda_text": "LEHI CITY PLANNING COMMISSION NOTICE OF PUBLIC HEARING\r\n\r\n\r\nOn May 28, 2026, at 7:00 p.m. in the Lehi Civic Center Council Chambers located at 131 North 100 East, the Lehi City Planning Commission will hold a public hearing to receive public comment on the following items:\r\n\r\nPublic hearing and recommendation of TN Contracting LLC's request for review of the Prestwich Zone Change on 1.09-acres located at 2004 North 900 West changing the zoning from RA-1to R-2.   \r\n\r\nPublic hearing and consideration of Trademark Visual's request for conditional use approval of two pylon signs for The Collective commercial development located at 1050 West Sunrise Way and requesting an exception for greater height and sign area. \r\n\r\nPublic hearing and consideration of Grow Development's request for approval of the Cortese Preliminary Subdivision, an 8-lot residential development located at 1450 West 1220 North in the R-1-22 zone. \r\n\r\nPublic hearing and recommendation of Deborah Walker's request for review of the Walker Zone Change on 2.58-acres located at 915 West State Street, changing the zoning from R-1-8 to C-H (Heavy Commercial).   \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to both Table 05.030-B and Section 12.130, updating the regulations for Automobile Sales businesses. \r\n\r\nPublic hearing and recommendation of Lehi City's request for review of a Development Code Amendment to Chapter 12, Chapter 39, Table 05.030A, and Table 05.030B adding a Neighborhood Exchange Structure Use.",
       "meeting_location": "131 N 100 E Lehi, UT 84043 Show in Apple Maps Show in Google Maps",
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "May 14, 2026 10:53 AM",
+      "posted_on": "May 28, 2026 12:16 PM",
       "attachments": [],
       "canceled": false
     }

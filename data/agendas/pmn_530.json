@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-10-12T17:27:33.853357+00:00",
+  "scraped_at": "2026-10-19T15:22:50.931043+00:00",
   "notices": [
     {
       "notice_id": "1114503",
@@ -23,11 +23,11 @@
       "posted_on": "October 09, 2026 05:52 PM",
       "attachments": [
         {
-          "file_name": "10.13.26 CC Packet  .pdf",
+          "file_name": "10.13.26 CC Packet.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1499765.pdf",
-          "date_added": "2026/10/09 05:49 PM",
-          "file_id": "1499765"
+          "url": "https://www.utah.gov/pmn/files/1500189.pdf",
+          "date_added": "2026/10/12 05:10 PM",
+          "file_id": "1500189"
         }
       ],
       "canceled": false

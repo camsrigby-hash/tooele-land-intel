@@ -4,8 +4,41 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-10-12T17:26:47.893843+00:00",
+  "scraped_at": "2026-10-19T15:22:03.078097+00:00",
   "notices": [
+    {
+      "notice_id": "1116323",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116323.html",
+      "title": "City Council Agenda",
+      "event_date": "October 20, 2026 06:00 PM",
+      "event_date_iso": "2026-10-20T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\n\r\nTuesday, October 20, 2026, 6:00 PM\r\n\r\n1020 E. Pioneer Rd.\r\n\r\nDraper, Utah 84020\r\n\r\n6:00 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\n\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nDiscussion: Fleet Policy - Robert\r\n\r\nCouncil Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tProclamation - Extra Mile Day\r\n\r\n4.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n5.\tConsent Items\r\n\r\n5.a Approve the Minutes of the October 6, 2026 City Council Meeting\r\n\r\n5.b Approve Resolution #26-49\r\n\r\nA resolution of the Draper City Council amending and extending an agreement with APC Towers. Staff: Spencer DuShane.\r\n\r\n6.\tAdjournment\r\n \r\nI, the City Recorder of Draper City, certify that copies of this agenda for the Draper City Council meeting to be held October 20, 2026, were posted at Draper City Hall, Draper City website www.draperutah.gov, and the Utah Public Notice website at www.utah.gov/pmn.\r\n\r\n\r\nNicole Smedley, CMC, City Recorder Draper City, State of Utah",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "October 16, 2026 02:59 PM",
+      "attachments": [
+        {
+          "file_name": "2026-10-20_CityCouncil_Agenda.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1502789.pdf",
+          "date_added": "2026/10/16 02:57 PM",
+          "file_id": "1502789"
+        },
+        {
+          "file_name": "2026-10-20_CityCouncil_Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1502791.pdf",
+          "date_added": "2026/10/16 02:58 PM",
+          "file_id": "1502791"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1113575",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1113575.html",
@@ -303,31 +336,6 @@
           "url": "https://www.utah.gov/pmn/files/1490041.pdf",
           "date_added": "2026/09/17 02:39 PM",
           "file_id": "1490041"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1105927",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105927.html",
-      "title": "Notice of Ordinance Adoption: Ordinance #1737 - Amending Title 3 Chapter 4 of the Draper Municipal Code regarding Government Records Access and Management",
-      "event_date": "September 2, 2026 04:01 PM",
-      "event_date_iso": "2026-09-02T16:01:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "Posted on September 2, 2026, on the Utah Public Notice Website https://www.utah.gov/pmn/, the Draper City Website https://www.draperutah.gov/ and at City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNotice of Ordinance Adoption - Ordinance #1737\r\n\r\nOn September 1, 2026, the Draper City Council Adopted Ordinance #1737 amending Title 3 Chapter 4 of the Draper City Municipal Code regarding Government Records Access and Management. The complete ordinance is on file at the Draper City Recorder's Office and available online at https://www.draperutah.gov/\r\n\r\nPublished this 2nd of September, 2026.\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "September 02, 2026 04:02 PM",
-      "attachments": [
-        {
-          "file_name": "Ord 1737.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1483309.pdf",
-          "date_added": "2026/09/02 04:02 PM",
-          "file_id": "1483309"
         }
       ],
       "canceled": false
