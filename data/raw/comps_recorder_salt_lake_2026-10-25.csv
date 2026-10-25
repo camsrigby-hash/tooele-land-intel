@@ -1,0 +1,26 @@
+address,sale_date,sale_price,price_per_acre,acres,zoning_class,source,link,scraped_at
+"2061 N 2200 W, Salt Lake City, Salt Lake County, UT",2026-01-01,434600,530000.0,0.82,Commercial,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"3499 N 3200 W, Salt Lake County, UT",2026-01-01,669500,4184.38,160.0,Greenbelt,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"723 W 500 N, Salt Lake City, Salt Lake County, UT",2026-01-01,148800,297600.0,0.5,Tax Exempt - Charitable Organization or Religious,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"2092 N PINECREST CANYON RD, Emigration Canyon, Salt Lake County, UT",2026-01-01,302400,148965.52,2.03,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"2085 N PINECREST CANYON RD, Emigration Canyon, Salt Lake County, UT",2026-01-01,211900,230326.09,0.92,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"1045 N KILLYONS LN, Emigration Canyon, Salt Lake County, UT",2026-01-01,225100,424716.98,0.53,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"1134 N KILLYONS LN, Emigration Canyon, Salt Lake County, UT",2026-01-01,40700,42842.11,0.95,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"918 N PINECREST CANYON RD, Emigration Canyon, Salt Lake County, UT",2026-01-01,377600,150438.25,2.51,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"6808 E EMIGRATION CANYON RD, Emigration Canyon, Salt Lake County, UT",2026-01-01,240300,129891.89,1.85,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"5623 E EMIGRATION CANYON RD, Emigration Canyon, Salt Lake County, UT",2026-01-01,345900,349393.94,0.99,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"290 N MARGARETHE LN, Emigration Canyon, Salt Lake County, UT",2026-01-01,339000,565000.0,0.6,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"47 E GUEST AVE, South Salt Lake, Salt Lake County, UT",2026-01-01,1379100,1352058.82,1.02,Commercial,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"4017 S MAIN ST, Millcreek, Salt Lake County, UT",2026-01-01,995600,1157674.42,0.86,Commercial,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7188 E GRACE RD # 352, Salt Lake County, UT",2026-01-01,155900,154356.44,1.01,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7117 E PANORAMA RD # 350, Salt Lake County, UT",2026-01-01,147600,129473.68,1.14,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7145 E PARKER RD # 315, Salt Lake County, UT",2026-01-01,213900,38333.33,5.58,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7188 E PARKER RD # 320, Salt Lake County, UT",2026-01-01,173300,173300.0,1.0,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7180 E CANYON HAVEN LN # 317, Salt Lake County, UT",2026-01-01,154300,244920.63,0.63,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7218 E CANYON HAVEN LN # 322, Salt Lake County, UT",2026-01-01,166100,210253.16,0.79,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7210 E PANORAMA RD # 351, Salt Lake County, UT",2026-01-01,155800,121718.75,1.28,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"2189 S MAYBETH RD # 321, Salt Lake County, UT",2026-01-01,155400,141272.73,1.1,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7280 E PARKER RD # 333, Salt Lake County, UT",2026-01-01,156900,88146.07,1.78,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7124 E PARKER RD # 313, Salt Lake County, UT",2026-01-01,156900,90172.41,1.74,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"2210 S MAYBETH RD # 323, Salt Lake County, UT",2026-01-01,154300,241093.75,0.64,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
+"7354 E PANORAMA RD # 372, Salt Lake County, UT",2026-01-01,154800,186506.02,0.83,Recreational,ugrc_lir_assessor_fallback:salt_lake,https://slco.org/recorder/,2026-10-25T10:44:32+00:00
