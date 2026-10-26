@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs City Council",
   "body_id": "1727",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1727.html",
-  "scraped_at": "2026-10-19T15:20:15.296258+00:00",
+  "scraped_at": "2026-10-26T14:54:33.590062+00:00",
   "notices": [
     {
       "notice_id": "1114465",
@@ -30,6 +30,23 @@
           "file_id": "1499723"
         }
       ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1117399",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1117399.html",
+      "title": "Notice of Adoption of Ordinance",
+      "event_date": "October 20, 2026 06:00 PM",
+      "event_date_iso": "2026-10-20T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF ADOPTION OF ORDINANCE\r\n\r\nNotice is hereby given that the City Council of the City of Saratoga Springs, Utah, at their meeting of October 20, 2026, passed and adopted the following Ordinances:\r\n\r\n26-50 (10-20-26) Adopting an Amendment to the official Zoning Map of certain real property in the City.\r\n\r\nCopies of these Ordinances are on file in the office of the City of Saratoga Springs City Recorder and are available for review during business hours.\r\n\r\n\r\n\r\nThis notice has been posted on:\r\nThe Utah Public Notice Website,\r\nThe City of Saratoga Springs Website, and\r\nThe City of Saratoga Springs administration building notice board.\r\n\r\n\r\nDated: October 21, 2026\r\n/s/ Nicolette Fike, City Recorder",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "October 21, 2026 03:49 PM",
+      "attachments": [],
       "canceled": false
     },
     {
@@ -75,57 +92,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1109271",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109271.html",
-      "title": "Public Hearing for City Council",
-      "event_date": "October 6, 2026 06:00 PM",
-      "event_date_iso": "2026-10-06T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that The City of Saratoga Springs, Utah City Council will hold a Public Hearing for an Amendment to the City's Annexation Policy Plan and Expansion Area Map.\r\n\r\nThe public hearing will be held on Tuesday, October 6, 2026 at 6:00 p.m. in the Saratoga Springs City Offices, City Council Chambers, 319 S. Saratoga Road, Saratoga Springs, Utah 84045.\r\n\r\nQuestions or Comments regarding this proposed amendment may be directed to the Planning Dept. 801-766-9793.\r\n\r\nPosted: September 16, 2026.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "September 16, 2026 01:24 PM",
-      "attachments": [
-        {
-          "file_name": "2026-10-06 CC PH Notice Policy Plan Update - legal descrip and map.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489369.pdf",
-          "date_added": "2026/09/16 01:24 PM",
-          "file_id": "1489369"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1110373",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110373.html",
-      "title": "City Council Public Hearing - Notice of Vacating Easements",
-      "event_date": "October 6, 2026 06:00 PM",
-      "event_date_iso": "2026-10-06T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nThe City of Saratoga Springs, Utah proposes to vacate easements and rights-of-way. The City Council will hold a public hearing on October 6th, 2026, at 6:00 p.m. at 319 S. Saratoga Rd., Saratoga Springs UT, to discuss the proposed the right-of-way, and easement vacations.\r\n\r\n1.\tVacation of Sewer Easement S-1, Ut. County Document Recording Entry No. 2013-59717, The easement is no longer needed for sewer infrastructure.\r\n\r\n2.\tVacation of Storm Drain Easement SD-11, Ut. County Document Recording Entry No.2013-59717, To remove the City as grantee and grant a new easement to the HOA for ongoing access and maintenance of the SD-11 storm drain pond.\r\n\r\n3.\tVacation of 2013 SD-9 Storm Drain Easement, Ut. County Document Recording Entry No. 2013-59717, The easement is no longer needed.\r\n\r\n4.\tVacation of 2014 SD-9 Storm Drain Easement, Ut. County Document Recording Entry No. 46496:2014, To remove the City as grantee and grant a new easement to the HOA for legal access and long-term maintenance of the SD-9 storm drain pond.\r\n\r\n5.\tVacation of Stub Road Right-of-Way on Swainson Avenue, The stub road is no longer needed for access. \r\n6.\tModification of Public Utility Easement (PUE) - Swainson Avenue, Ut. County Document Recording Entry No. 46495:2014, With the vacation of the stub road ROW, this jog is no longer necessary.\r\nPublic Hearing Comments may be submitted to comments@saratogaspringscity.com.  \r\nComments & Questions may be directed to the Planning dept. 801-766-9793 x155.",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "September 22, 2026 09:19 AM",
-      "attachments": [
-        {
-          "file_name": "2026-10-06 CC PH Notice Fox Hollow Easement Vacation.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1491679.pdf",
-          "date_added": "2026/09/22 09:19 AM",
-          "file_id": "1491679"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1112331",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112331.html",
       "title": "City Council Meeting",
@@ -140,6 +106,13 @@
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "October 01, 2026 08:59 PM",
       "attachments": [
+        {
+          "file_name": "2026-10-06 cc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1504807.pdf",
+          "date_added": "2026/10/21 03:55 PM",
+          "file_id": "1504807"
+        },
         {
           "file_name": "2026-10-06 cc agenda.pdf",
           "category": "Public Information Handout",
@@ -184,6 +157,57 @@
       "canceled": false
     },
     {
+      "notice_id": "1110373",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110373.html",
+      "title": "City Council Public Hearing - Notice of Vacating Easements",
+      "event_date": "October 6, 2026 06:00 PM",
+      "event_date_iso": "2026-10-06T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nThe City of Saratoga Springs, Utah proposes to vacate easements and rights-of-way. The City Council will hold a public hearing on October 6th, 2026, at 6:00 p.m. at 319 S. Saratoga Rd., Saratoga Springs UT, to discuss the proposed the right-of-way, and easement vacations.\r\n\r\n1.\tVacation of Sewer Easement S-1, Ut. County Document Recording Entry No. 2013-59717, The easement is no longer needed for sewer infrastructure.\r\n\r\n2.\tVacation of Storm Drain Easement SD-11, Ut. County Document Recording Entry No.2013-59717, To remove the City as grantee and grant a new easement to the HOA for ongoing access and maintenance of the SD-11 storm drain pond.\r\n\r\n3.\tVacation of 2013 SD-9 Storm Drain Easement, Ut. County Document Recording Entry No. 2013-59717, The easement is no longer needed.\r\n\r\n4.\tVacation of 2014 SD-9 Storm Drain Easement, Ut. County Document Recording Entry No. 46496:2014, To remove the City as grantee and grant a new easement to the HOA for legal access and long-term maintenance of the SD-9 storm drain pond.\r\n\r\n5.\tVacation of Stub Road Right-of-Way on Swainson Avenue, The stub road is no longer needed for access. \r\n6.\tModification of Public Utility Easement (PUE) - Swainson Avenue, Ut. County Document Recording Entry No. 46495:2014, With the vacation of the stub road ROW, this jog is no longer necessary.\r\nPublic Hearing Comments may be submitted to comments@saratogaspringscity.com.  \r\nComments & Questions may be directed to the Planning dept. 801-766-9793 x155.",
+      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "September 22, 2026 09:19 AM",
+      "attachments": [
+        {
+          "file_name": "2026-10-06 CC PH Notice Fox Hollow Easement Vacation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1491679.pdf",
+          "date_added": "2026/09/22 09:19 AM",
+          "file_id": "1491679"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1109271",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109271.html",
+      "title": "Public Hearing for City Council",
+      "event_date": "October 6, 2026 06:00 PM",
+      "event_date_iso": "2026-10-06T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that The City of Saratoga Springs, Utah City Council will hold a Public Hearing for an Amendment to the City's Annexation Policy Plan and Expansion Area Map.\r\n\r\nThe public hearing will be held on Tuesday, October 6, 2026 at 6:00 p.m. in the Saratoga Springs City Offices, City Council Chambers, 319 S. Saratoga Road, Saratoga Springs, Utah 84045.\r\n\r\nQuestions or Comments regarding this proposed amendment may be directed to the Planning Dept. 801-766-9793.\r\n\r\nPosted: September 16, 2026.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "September 16, 2026 01:24 PM",
+      "attachments": [
+        {
+          "file_name": "2026-10-06 CC PH Notice Policy Plan Update - legal descrip and map.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489369.pdf",
+          "date_added": "2026/09/16 01:24 PM",
+          "file_id": "1489369"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1109373",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109373.html",
       "title": "Notice of Adoption of Ordinance",
@@ -197,24 +221,6 @@
       "contact_name": "Nicolette Fike",
       "contact_email": "nfike@saratogasprings-ut.gov",
       "posted_on": "September 16, 2026 03:42 PM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1105789",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105789.html",
-      "title": "Public Hearing: Budget Amendments FY 2026-27",
-      "event_date": "September 15, 2026 06:00 PM",
-      "event_date_iso": "2026-09-15T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Notice of Public Hearing\r\n\r\nNotice is hereby given that the City of Saratoga Springs City Council will conduct a public hearing to receive comments on Budget Amendments for the Fiscal Year 2026-2027 Budget.\r\n\r\nThe public hearing will be held during City Council meeting on Tuesday, September 15th, 2026, at 6:00 p.m. in the City of Saratoga Springs Council Chambers located at 319 South Saratoga Road, Saratoga Springs, Utah. \r\n\r\nQuestions may be directed to the City Finance Dept. 801-766-9793.\r\nPublic Comments may be submitted to comments@saratogasprings-ut.gov",
-      "meeting_location": "319 So. Saratoga Road Saratoga Springs, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "September 02, 2026 10:53 AM",
       "attachments": [],
       "canceled": false
     },

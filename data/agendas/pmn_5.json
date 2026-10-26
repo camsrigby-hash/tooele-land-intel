@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5.html",
-  "scraped_at": "2026-10-19T15:23:11.641316+00:00",
+  "scraped_at": "2026-10-26T14:57:27.685323+00:00",
   "notices": [
     {
       "notice_id": "1111313",
@@ -41,24 +41,75 @@
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
       "posted_on": "October 15, 2026 04:55 PM",
-      "attachments": [],
+      "attachments": [
+        {
+          "file_name": "Adopted 10 City Council Minutes 10-06-2026.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1506115.pdf",
+          "date_added": "2026/10/23 10:54 AM",
+          "file_id": "1506115"
+        },
+        {
+          "file_name": "PRESENTATION 2026 DWMP PIWMP CC Presentation (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506117.pdf",
+          "date_added": "2026/10/23 11:06 AM",
+          "file_id": "1506117"
+        },
+        {
+          "file_name": "PRESENTATION 2026 DWMP PIWMP CC Presentation.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506119.pdf",
+          "date_added": "2026/10/23 11:06 AM",
+          "file_id": "1506119"
+        },
+        {
+          "file_name": "PRESENTATION SF 101 - Property Taxes.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506121.pdf",
+          "date_added": "2026/10/23 11:07 AM",
+          "file_id": "1506121"
+        },
+        {
+          "file_name": "presentation.cc.10-20-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506123.pdf",
+          "date_added": "2026/10/23 11:07 AM",
+          "file_id": "1506123"
+        },
+        {
+          "file_name": "presentation.foundryvision.10-20-2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506125.pdf",
+          "date_added": "2026/10/23 11:07 AM",
+          "file_id": "1506125"
+        },
+        {
+          "file_name": "Ordinance Certificates Spanish_Fork_October_20_2026_Ordinance_Certificates.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506127.pdf",
+          "date_added": "2026/10/23 11:09 AM",
+          "file_id": "1506127"
+        }
+      ],
       "canceled": false
     },
     {
-      "notice_id": "1110859",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110859.html",
-      "title": "Spanish Fork City Council Public Notice Regarding Fiscal Year 2027 Employee Compensation for Elective, Statutory, and Executive Municipal Officers",
+      "notice_id": "1110855",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110855.html",
+      "title": "Spanish Fork City Council Public Hearing Notice Leland Meadows and Oak Village",
       "event_date": "October 6, 2026 06:00 PM",
       "event_date_iso": "2026-10-06T18:00:00",
       "notice_types": [
         "Notice",
-        "Meeting"
+        "Meeting",
+        "Hearing"
       ],
-      "agenda_text": "NOTICE OF THE FISCAL YEAR 2027 EMPLOYEE COMPENSATION FOR ELECTIVE, STATUTORY, AND EXECUTIVE MUNICIPAL OFFICERS PUBLIC HEARING\r\n\r\nA Public Hearing for the Fiscal Year 2027 employee compensation for elective, statutory, and executive municipal officers of Spanish Fork City will be held before the Spanish Fork City Council on October 6, 2026, at 6:00 P.M. This hearing is to receive public comment on proposed compensation increases for elected officials and municipal employees, including executive municipal officers, as set forth in the Fiscal Year 2027 Budget Revision 1.\r\n\r\nThis will be held in the Spanish Fork City Council Chambers at 6 pm located at 80 S Main Street, Spanish Fork, Utah. All interested residents are invited to attend.\r\n\r\nIf you need special accommodation to participate in the meeting please contact the City Manager's office, 801-804-4530.\r\nThis was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 09-24-2026.\r\n\r\nTara Silver\r\nCity Recorder",
+      "agenda_text": "Notice of Public Hearings\r\n\r\nThe City Council will hold public hearings on Tuesday October 6, 2026, at 6:00 pm.\r\n\r\nZone Change & Preliminary Plat (Public Hearing):\r\n\r\n- Leland Meadows: A public hearing will be held with the City Council as part of the\r\nreview of the proposed Leland Meadows Zone Change and Preliminary Plat approval\r\nrequest. This proposal involves changing the current zoning of multiple properties from\r\nR-R to R-1-6 and R-1-15 with the Master Planned Development Overlay to accommodate\r\na residential subdivision of 206 residential lots and garden homes as a Master Planned\r\nDevelopment to be located at approximately 1200 West 1400 South.\r\n\r\nZone Change & Preliminary Plat (Public Hearing):\r\n\r\n- Oak Village: A public hearing will be held with the City Council as part of the review of\r\nthe proposed Oak Village Subdivision Zone Change and Preliminary Plat approval\r\nrequest. This proposal involves changing the current zoning of multiple properties from\r\nR-R and R-1-12 to R-1-9 and R-1-12 with the Master Planned Development Overlay to\r\naccommodate a residential subdivision of 110 lots as a Master Planned Development to\r\nbe located at approximately 100 South Spanish Fork Parkway.\r\n\r\nThese hearings will be held in the Council Chambers at 80 South Main Street, Second Floor,\r\nSpanish Fork. If you have any questions or comments concerning these requests, please\r\ncontact Kasey Woodard at 801.804.4580 or by email at kwoodard@spanishfork.gov. Written\r\nquestions and comments will be forwarded to the City Council.",
       "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "September 24, 2026 07:50 AM",
+      "posted_on": "September 24, 2026 07:39 AM",
       "attachments": [],
       "canceled": false
     },
@@ -82,21 +133,20 @@
       "canceled": false
     },
     {
-      "notice_id": "1110855",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110855.html",
-      "title": "Spanish Fork City Council Public Hearing Notice Leland Meadows and Oak Village",
+      "notice_id": "1110859",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110859.html",
+      "title": "Spanish Fork City Council Public Notice Regarding Fiscal Year 2027 Employee Compensation for Elective, Statutory, and Executive Municipal Officers",
       "event_date": "October 6, 2026 06:00 PM",
       "event_date_iso": "2026-10-06T18:00:00",
       "notice_types": [
         "Notice",
-        "Meeting",
-        "Hearing"
+        "Meeting"
       ],
-      "agenda_text": "Notice of Public Hearings\r\n\r\nThe City Council will hold public hearings on Tuesday October 6, 2026, at 6:00 pm.\r\n\r\nZone Change & Preliminary Plat (Public Hearing):\r\n\r\n- Leland Meadows: A public hearing will be held with the City Council as part of the\r\nreview of the proposed Leland Meadows Zone Change and Preliminary Plat approval\r\nrequest. This proposal involves changing the current zoning of multiple properties from\r\nR-R to R-1-6 and R-1-15 with the Master Planned Development Overlay to accommodate\r\na residential subdivision of 206 residential lots and garden homes as a Master Planned\r\nDevelopment to be located at approximately 1200 West 1400 South.\r\n\r\nZone Change & Preliminary Plat (Public Hearing):\r\n\r\n- Oak Village: A public hearing will be held with the City Council as part of the review of\r\nthe proposed Oak Village Subdivision Zone Change and Preliminary Plat approval\r\nrequest. This proposal involves changing the current zoning of multiple properties from\r\nR-R and R-1-12 to R-1-9 and R-1-12 with the Master Planned Development Overlay to\r\naccommodate a residential subdivision of 110 lots as a Master Planned Development to\r\nbe located at approximately 100 South Spanish Fork Parkway.\r\n\r\nThese hearings will be held in the Council Chambers at 80 South Main Street, Second Floor,\r\nSpanish Fork. If you have any questions or comments concerning these requests, please\r\ncontact Kasey Woodard at 801.804.4580 or by email at kwoodard@spanishfork.gov. Written\r\nquestions and comments will be forwarded to the City Council.",
+      "agenda_text": "NOTICE OF THE FISCAL YEAR 2027 EMPLOYEE COMPENSATION FOR ELECTIVE, STATUTORY, AND EXECUTIVE MUNICIPAL OFFICERS PUBLIC HEARING\r\n\r\nA Public Hearing for the Fiscal Year 2027 employee compensation for elective, statutory, and executive municipal officers of Spanish Fork City will be held before the Spanish Fork City Council on October 6, 2026, at 6:00 P.M. This hearing is to receive public comment on proposed compensation increases for elected officials and municipal employees, including executive municipal officers, as set forth in the Fiscal Year 2027 Budget Revision 1.\r\n\r\nThis will be held in the Spanish Fork City Council Chambers at 6 pm located at 80 S Main Street, Spanish Fork, Utah. All interested residents are invited to attend.\r\n\r\nIf you need special accommodation to participate in the meeting please contact the City Manager's office, 801-804-4530.\r\nThis was published on the Utah Public Notice Website, the City Website, and posted at the Parks and Recreation, Library Hall, and City Hall buildings by the City Recorder on 09-24-2026.\r\n\r\nTara Silver\r\nCity Recorder",
       "meeting_location": "80 South Main Street at Library Hall Spanish Fork, UT 84660 Show in Apple Maps Show in Google Maps",
       "contact_name": "Tara Silver",
       "contact_email": "tsilver@spanishfork.org",
-      "posted_on": "September 24, 2026 07:39 AM",
+      "posted_on": "September 24, 2026 07:50 AM",
       "attachments": [],
       "canceled": false
     },

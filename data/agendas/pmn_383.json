@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "383",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/383.html",
-  "scraped_at": "2026-10-19T15:22:15.160631+00:00",
+  "scraped_at": "2026-10-26T14:56:31.947216+00:00",
   "notices": [
     {
       "notice_id": "1116245",
@@ -118,6 +118,32 @@
       "canceled": false
     },
     {
+      "notice_id": "1110909",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110909.html",
+      "title": "Notice of Public Hearing: Pony Express Center Parking Deviation Request",
+      "event_date": "October 8, 2026 06:30 PM",
+      "event_date_iso": "2026-10-08T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on September 24, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Pony Express Center Parking Deviation Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 12896 S. Pony Express Rd. The purpose of the request is for a parking reduction to a commercial business center. \r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on October 8, 2026 at 6:30 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov. \r\n\r\nDated this 24th Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lori Stout",
+      "contact_email": "lori.stout@draperutah.gov",
+      "posted_on": "September 24, 2026 10:03 AM",
+      "attachments": [
+        {
+          "file_name": "PC 10.8 Pony Express Center Parking Deviation Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1492923.pdf",
+          "date_added": "2026/09/24 10:03 AM",
+          "file_id": "1492923"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1110901",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110901.html",
       "title": "Notice of Public Hearing: The Audio Wizard AV Home Occupation Conditional Use Permit Request",
@@ -217,32 +243,6 @@
           "url": "https://www.utah.gov/pmn/files/1492927.pdf",
           "date_added": "2026/09/24 10:05 AM",
           "file_id": "1492927"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1110909",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110909.html",
-      "title": "Notice of Public Hearing: Pony Express Center Parking Deviation Request",
-      "event_date": "October 8, 2026 06:30 PM",
-      "event_date_iso": "2026-10-08T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on September 24, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Pony Express Center Parking Deviation Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Planning Commission to consider the above listed request. The property is located at approximately 12896 S. Pony Express Rd. The purpose of the request is for a parking reduction to a commercial business center. \r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on October 8, 2026 at 6:30 p.m.  The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Todd Draper at (801) 576-6335 or todd.draper@draperutah.gov. \r\n\r\nDated this 24th Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lori Stout",
-      "contact_email": "lori.stout@draperutah.gov",
-      "posted_on": "September 24, 2026 10:03 AM",
-      "attachments": [
-        {
-          "file_name": "PC 10.8 Pony Express Center Parking Deviation Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1492923.pdf",
-          "date_added": "2026/09/24 10:03 AM",
-          "file_id": "1492923"
         }
       ],
       "canceled": false

@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-10-19T15:22:03.078097+00:00",
+  "scraped_at": "2026-10-26T14:56:20.048217+00:00",
   "notices": [
     {
       "notice_id": "1116323",
@@ -35,6 +35,20 @@
           "url": "https://www.utah.gov/pmn/files/1502791.pdf",
           "date_added": "2026/10/16 02:58 PM",
           "file_id": "1502791"
+        },
+        {
+          "file_name": "2026-10-20 Meeting Recap.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1504397.pdf",
+          "date_added": "2026/10/21 09:45 AM",
+          "file_id": "1504397"
+        },
+        {
+          "file_name": "Brief Fleet Management Policy_Presentation 20OCT2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1504399.pdf",
+          "date_added": "2026/10/21 09:45 AM",
+          "file_id": "1504399"
         }
       ],
       "canceled": false
@@ -157,6 +171,13 @@
       "contact_email": "nicole.smedley@draperutah.gov",
       "posted_on": "October 02, 2026 01:09 PM",
       "attachments": [
+        {
+          "file_name": "2026-10-06_CityCouncil_Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1504827.pdf",
+          "date_added": "2026/10/21 04:16 PM",
+          "file_id": "1504827"
+        },
         {
           "file_name": "2026-10-06 Agenda.pdf",
           "category": "Public Information Handout",
