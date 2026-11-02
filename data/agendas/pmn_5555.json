@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "5555",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/5555.html",
-  "scraped_at": "2026-10-26T14:56:20.048217+00:00",
+  "scraped_at": "2026-11-02T17:53:51.077104+00:00",
   "notices": [
+    {
+      "notice_id": "1119055",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1119055.html",
+      "title": "Notice of Public Hearing: The Duffin Land Use Map And Zoning Map Amendment Request",
+      "event_date": "November 10, 2026 07:00 PM",
+      "event_date_iso": "2026-11-10T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on October 29, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: The Duffin Land Use Map And Zoning Map Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the City Council to consider the above listed request. The property is located at approximately 267 W. 11915 S. The purpose of the request is to Change the current zoning designation from R3 (Single-family residential) to CBP (Business/manufacturing park) and change the existing land use designation from Residential Medium Density to Business & Light Manufacturing.\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on November 10, 2026, at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n.\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker at (801) 576-6522 or Nick.Whittaker@draperutah.gov \r\n\r\nDated this 29th Day of October, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "October 29, 2026 01:11 PM",
+      "attachments": [
+        {
+          "file_name": "CC 11.10 The Duffin Land Use Map And Zoning Map Amendment Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1508343.pdf",
+          "date_added": "2026/10/29 01:11 PM",
+          "file_id": "1508343"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1116323",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116323.html",
@@ -104,32 +130,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1111063",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111063.html",
-      "title": "Notice of Public Hearing: Snow Zoning Map Amendment Request",
-      "event_date": "October 6, 2026 07:00 PM",
-      "event_date_iso": "2026-10-06T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Hearing"
-      ],
-      "agenda_text": "Posted on September 24, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Snow Zoning Map Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Draper City Council to consider the above listed request. The property is located at approximately 960 E. New Hope Dr. The purpose of the request is to change the zoning designation from RA1 (Residential agricultural, 40,000 ft2 min. lot size) to RA2 (Residential agricultural, 20,000 ft2 min. lot size)\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on October 6, 2026, at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker, MCMP at (801) 576-6522 or nick.whittaker@draperutah.gov. \r\n\r\nDated this 24th Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
-      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "September 24, 2026 03:03 PM",
-      "attachments": [
-        {
-          "file_name": "CC 10.6 Snow Zoning Map Amendment Request.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1493205.pdf",
-          "date_added": "2026/09/24 03:03 PM",
-          "file_id": "1493205"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1110935",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1110935.html",
       "title": "Notice of Public Hearing: Rivian KMAC-CSD Zoning Text Amendment Request",
@@ -151,6 +151,32 @@
           "url": "https://www.utah.gov/pmn/files/1492995.pdf",
           "date_added": "2026/09/24 10:50 AM",
           "file_id": "1492995"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1111063",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111063.html",
+      "title": "Notice of Public Hearing: Snow Zoning Map Amendment Request",
+      "event_date": "October 6, 2026 07:00 PM",
+      "event_date_iso": "2026-10-06T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "Posted on September 24, 2026, on the Utah Public Notice Website www.utah.gov/pmn/ Draper City Website www.draperutah.gov/news/ and at Draper City Hall, 1020 E. Pioneer Road, Draper, UT\r\n\r\nNOTICE OF PUBLIC HEARING: Snow Zoning Map Amendment Request\r\n\r\nNotice is hereby given that Draper City will hold a public hearing before the Draper City Council to consider the above listed request. The property is located at approximately 960 E. New Hope Dr. The purpose of the request is to change the zoning designation from RA1 (Residential agricultural, 40,000 ft2 min. lot size) to RA2 (Residential agricultural, 20,000 ft2 min. lot size)\r\n\r\nThe hearing will be held at Draper City Hall in the City Council Chambers, on October 6, 2026, at 7:00 p.m. The complete notice is posted on the Utah Public Notice Website; www.utah.gov/pmn/, Draper City Website; www.draperutah.gov/news/, and at Draper City Hall. \r\n\r\nTo request a copy of the public notice or for additional inquiries contact Nick Whittaker, MCMP at (801) 576-6522 or nick.whittaker@draperutah.gov. \r\n\r\nDated this 24th Day of September, 2026\r\n\r\nAttest: Nicole Smedley, City Recorder",
+      "meeting_location": "1020 E Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicole Smedley",
+      "contact_email": "nicole.smedley@draperutah.gov",
+      "posted_on": "September 24, 2026 03:03 PM",
+      "attachments": [
+        {
+          "file_name": "CC 10.6 Snow Zoning Map Amendment Request.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1493205.pdf",
+          "date_added": "2026/09/24 03:03 PM",
+          "file_id": "1493205"
         }
       ],
       "canceled": false
@@ -289,74 +315,6 @@
           "url": "https://www.utah.gov/pmn/files/1483541.pdf",
           "date_added": "2026/09/03 09:13 AM",
           "file_id": "1483541"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1108263",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108263.html",
-      "title": "City Council Agenda",
-      "event_date": "September 15, 2026 05:30 PM",
-      "event_date_iso": "2026-09-15T17:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA\r\nTuesday, September 15, 2026, 5:30 PM\r\n1020 E. Pioneer Rd.\r\nDraper, Utah 84020\r\n\r\n5:30 PM STUDY SESSION (ADMINISTRATIVE CONFERENCE ROOM)\r\n\r\nCLOSED MEETING, IF NECESSARY - TO BE ANNOUNCED IN MOTION\r\nThe Draper City Council may temporarily recess the meeting and convene in a closed meeting as provided by UCA § 52-4-205.\r\n\r\nDiscussion: Draper Days Recap - David and Kellie\r\n\r\nDiscussion: Willow Creek Update - Scott\r\n\r\nCouncil/Manager Reports\r\n\r\n7:00 PM BUSINESS SESSION\r\n\r\n1.\tCall to Order\r\n\r\n2.\tPledge of Allegiance\r\n\r\n3.\tPublic Comments\r\n\r\nTo be considerate of everyone attending the meeting, public comments will be restricted to items that are not listed on this or a future agenda and limited to three minutes per person. Comments which cannot be made within these limits should be submitted in writing to the City Recorder prior to noon the day before the meeting. Comments pertaining to an item on the agenda should not be given at this time but should be held until that item is called.\r\n\r\n4.\tConsent Items\r\n\r\n4.a Approve the September 1, 2026 City Council Meeting Minutes\r\n\r\n4.b Approve Resolution #26-44\r\n\r\nA resolution reappointing Alan Taylor as a member of the Draper City Building Board of Appeals. Staff: Kellie Challburg.\r\n\r\n5.\tItems for Council Consideration\r\n \r\n5.a Public Hearing: Ordinance #1738\r\n\r\nAn ordinance approving the Exchange Development Agreement for approximately 2.15 acres of property located at approximately 14068 South 145 East within Draper City. Staff report by Jennifer Jastremsky.\r\n\r\n5.b Public Hearing: Resolution #26-46\r\n\r\nA resolution amending the adopted budget of Draper City for Fiscal Year 2026-2027. Staff report by John Vuyk.\r\n\r\n5.c Action Item: Resolution #26-47\r\n\r\nA resolution disposing of surplus personal property in accordance with Draper City municipal code 3-3-150. Staff report by John Vuyk.\r\n\r\n6.\tAdjournment",
-      "meeting_location": "1020 Pioneer Rd Draper, UT 84020 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicole Smedley",
-      "contact_email": "nicole.smedley@draperutah.gov",
-      "posted_on": "September 11, 2026 02:37 PM",
-      "attachments": [
-        {
-          "file_name": "2026-09-15_CityCouncil_Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1497911.pdf",
-          "date_added": "2026/10/07 10:57 AM",
-          "file_id": "1497911"
-        },
-        {
-          "file_name": "2026-09-15 CityCouncil_Agenda.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1487499.pdf",
-          "date_added": "2026/09/11 02:36 PM",
-          "file_id": "1487499"
-        },
-        {
-          "file_name": "2026-09-15 CityCouncil_Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1487501.pdf",
-          "date_added": "2026/09/11 02:37 PM",
-          "file_id": "1487501"
-        },
-        {
-          "file_name": "2026-09-15 Meeting Recap.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489311.pdf",
-          "date_added": "2026/09/16 12:18 PM",
-          "file_id": "1489311"
-        },
-        {
-          "file_name": "Draper Days 2026 Review.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1490037.pdf",
-          "date_added": "2026/09/17 02:39 PM",
-          "file_id": "1490037"
-        },
-        {
-          "file_name": "5.a Exchange 1468 S 145 E DA CC 9-15-26.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1490039.pdf",
-          "date_added": "2026/09/17 02:39 PM",
-          "file_id": "1490039"
-        },
-        {
-          "file_name": "5.a Project Mammoth- RRC_Overview_20260915_CC_Draper, UT.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1490041.pdf",
-          "date_added": "2026/09/17 02:39 PM",
-          "file_id": "1490041"
         }
       ],
       "canceled": false

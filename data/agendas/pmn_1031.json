@@ -4,8 +4,58 @@
   "public_body": "City Council",
   "body_id": "1031",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
-  "scraped_at": "2026-10-26T14:55:20.711323+00:00",
+  "scraped_at": "2026-11-02T17:52:51.410318+00:00",
   "notices": [
+    {
+      "notice_id": "1118419",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118419.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "October 27, 2026 06:00 PM",
+      "event_date_iso": "2026-10-27T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members may\r\nAttend the Following Event:\r\n\r\nSouth Valley Chamber Titan Awards\r\nGrand America Hotel\r\n555 S Main Street \r\nSalt Lake City, UT 84111\r\nTuesday, October 27, 2026\r\n6:00 p.m. -  8:00 p.m.\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 26th Day of October 2026.",
+      "meeting_location": "555 S Main Street Grand America Hotel Salt Lake City, UT 84111 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "October 26, 2026 05:47 PM",
+      "attachments": [
+        {
+          "file_name": "10-27-2026 Notice of Potential Quorum - SV Chamber Titan Award 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1507001.pdf",
+          "date_added": "2026/10/26 05:47 PM",
+          "file_id": "1507001"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1118421",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118421.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "October 27, 2026 08:00 AM",
+      "event_date_iso": "2026-10-27T08:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members\r\nmay Attend the Following Event:\r\n\r\n The Utah League of Cities and Towns \r\n2026 Annual Convention \r\nSalt Palace Convention Center \r\n100 S. West Temple Salt Lake City, UT 84101 \r\nOctober 27 & 28, 2026 \r\n2026 Agenda: https://www.ulct.utah.gov/annual-convention/  \r\n\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\n\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Dated and posted 26th Day of October, 2026.",
+      "meeting_location": "100 S. West Temple Salt Palace Salt Lake City , UT 84111 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "October 26, 2026 05:52 PM",
+      "attachments": [
+        {
+          "file_name": "10-27-2025 UPN Potential Quorum Notice -ULCT Annual Convention 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1507003.pdf",
+          "date_added": "2026/10/26 05:52 PM",
+          "file_id": "1507003"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1116625",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116625.html",
@@ -34,6 +84,62 @@
           "url": "https://www.utah.gov/pmn/files/1503349.pdf",
           "date_added": "2026/10/19 01:30 PM",
           "file_id": "1503349"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1109399",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109399.html",
+      "title": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED",
+      "event_date": "October 6, 2026 06:30 PM",
+      "event_date_iso": "2026-10-06T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that on September 15, 2026, the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') adopted a resolution (the 'Resolution') declaring its intention to issue its Lease Revenue Bonds, Series 2026 (the 'Bonds'), and calling a public hearing to receive input from the public with respect to the issuance of the Bonds.\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\nThe Authority shall hold a public hearing on October 6, 2026, at the hour of 6:30 p.m.  The location of the public hearing is at the City offices of South Jordan, Utah (the 'City') located at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the hearing is to receive input from the public with respect to: (a) the proposed Bonds, and (b) any potential economic impact that the improvements, facility or property financed in whole or in part with the proceeds of the Bonds may have on the private sector.  All members of the public are invited to attend and participate. \r\n\r\nPURPOSE FOR ISSUING BONDS\r\nThe Authority intends to issue the Bonds to provide funds to (a) finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required deposits to a debt service reserve fund; and (c) pay costs associated with the issuance of the Bonds.  \r\n\r\nPARAMETERS OF THE BONDS\r\nThe Authority intends to issue the Bonds in a principal amount of not to exceed Twenty-Seven Million Dollars ($27,000,000), to bear interest at a rate or rates of not to exceed six percent (6.00%) per annum, to mature in not more than thirty-one (31) years from their date or dates, and to be sold at a price not less than ninety-seven percent (97%) of the total principal amount thereof, plus accrued interest, if any, to the date of delivery of the Bonds.\r\nThe Bonds are to be issued and sold by the Authority pursuant to the Resolution, including as attachments to said Resolution a form of the General Indenture of Trust and First Supplemental Indenture of Trust (collectively, the 'Indenture') and a form of a Master Lease Agreement (the 'Lease'), which were before the Board at the time of the adoption of the Resolution.  The Indenture and the Lease are to be executed by the Authority and/or the City with such terms and provisions and any changes thereto as authorized by the Resolution.\r\n \r\nSECURITY FOR THE BONDS\r\nThe Bonds are payable solely from the rents, revenues and other income received by the Authority from the leasing of the Series 2026 Project to the City on an annually renewable basis (the 'Lease Revenues').\r\n\r\nOUTSTANDING BONDS SECURED BY LEASE REVENUES\r\nThe Authority currently has no bonds outstanding secured by Lease Revenues.\r\n\r\nOTHER OUTSTANDING BONDS OF THE AUTHORITY\r\nInformation regarding all of the Authority's outstanding bonds may be found in the City's audited financial report (the 'Financial Report') at https://reporting.auditor.utah.gov/searchreports/s/.  For additional information, including any more recent than as of the date of the Financial Report please contact Anna Crookston, Secretary-Treasurer at (801) 446-4357.\r\n\r\nTOTAL ESTIMATED COST\r\nBased on an estimate of the current interest rate and financing plan, the estimated total debt service cost of the Bonds, if held until maturity, is $43,667,000.\r\n\r\nA copy of the Resolution and the forms of Indenture and the Lease are on file in the City offices, located at 1600 W. Towne Center Drive, South Jordan, Utah, where they may be examined during regular business hours from 8:00 a.m. to 6:00 p.m., Monday through Thursday, and 8:00 a.m. to 12:00 p.m. on Friday, for a period of at least thirty (30) days from and after the last date of posting of this notice.\r\n\r\nNOTICE IS FURTHER GIVEN that a period of thirty (30) days from and after the date of the posting of this notice is provided by law during which (i) any person in interest shall have the right to contest the legality of the Resolution, the Indenture, the Lease, or the Bonds, or any provision made for the security and payment of the Bonds, and after such time, no one shall have any cause of action to contest the regularity, formality or legality thereof for any cause whatsoever, and (ii) active voters (as defined in Section 20A-1-102 of the Utah Code Annotated 1953, as amended) within the City may sign a written petition requesting an election to authorize the issuance of the Bonds.  If written petitions which have been signed by at least twenty percent (20%) of the active voters of the City are filed with the Authority during said 30-day period, the Authority shall be required to hold an election to obtain voter authorization prior to the issuance of the Bonds.  If fewer than twenty percent (20%) of the active voters of the City file a written petition during said 30-day period, the Authority may proceed to issue the Bonds without an election.\r\n\r\nDATED this September 16, 2026. \r\n\t/s/Anna Crookston\t\r\n\tSecretary-Treasurer",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "September 16, 2026 04:39 PM",
+      "attachments": [
+        {
+          "file_name": "10-06-2026 NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489563.pdf",
+          "date_added": "2026/09/16 04:39 PM",
+          "file_id": "1489563"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1109401",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109401.html",
+      "title": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND AND PUBLIC HEARING",
+      "event_date": "October 6, 2026 06:30 PM",
+      "event_date_iso": "2026-10-06T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND\r\nAND PUBLIC HEARING\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') intends to issue its Lease Revenue Bonds, Series 2026 (the 'Series 2026 Bonds') and will hold a public hearing to provide members of the public desiring to be heard an opportunity to present testimony on the proposed issuance of the Series 2026 Bonds in accordance with Sections 11-14-103 and 17D-2-501 of the Utah Code Annotated 1953, as amended.  Said public hearing will be held on October 6, 2026, at 6:30 p.m., at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the Series 2026 Bonds is to provide funds to finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required debt service reserve fund; and (c) pay costs associated with the issuance of the Series 2026 Bonds.  The length of term of the Series 2026 Bonds shall not exceed 26 years.  The average annual amount that the Authority will be required to pay in principal and interest on the Series 2026 Bonds is $1,732,500.  The intended lessee of the facility to be constructed using proceeds from the Series 2026 Bonds is the City of South Jordan, Utah (the 'City') and the expected annual amount of lease payments that the City will pay is $1,732,500.  The Authority anticipates taking action on the proposal to issue the Series 2026 Bonds directly following the public hearing at the same meeting listed above.\r\n\r\n\r\nDATED this September 16, 2026. \r\n\t/s/ Anna Crookston\t\r\n\tSecretary-Treasurer",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "September 16, 2026 04:41 PM",
+      "attachments": [
+        {
+          "file_name": "10-06-2026 Notice of Intent - MBA South Jordan Lease Rev 2026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1489565.pdf",
+          "date_added": "2026/09/16 04:41 PM",
+          "file_id": "1489565"
         }
       ],
       "canceled": false
@@ -74,62 +180,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1109401",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109401.html",
-      "title": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND AND PUBLIC HEARING",
-      "event_date": "October 6, 2026 06:30 PM",
-      "event_date_iso": "2026-10-06T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND\r\nAND PUBLIC HEARING\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') intends to issue its Lease Revenue Bonds, Series 2026 (the 'Series 2026 Bonds') and will hold a public hearing to provide members of the public desiring to be heard an opportunity to present testimony on the proposed issuance of the Series 2026 Bonds in accordance with Sections 11-14-103 and 17D-2-501 of the Utah Code Annotated 1953, as amended.  Said public hearing will be held on October 6, 2026, at 6:30 p.m., at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the Series 2026 Bonds is to provide funds to finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required debt service reserve fund; and (c) pay costs associated with the issuance of the Series 2026 Bonds.  The length of term of the Series 2026 Bonds shall not exceed 26 years.  The average annual amount that the Authority will be required to pay in principal and interest on the Series 2026 Bonds is $1,732,500.  The intended lessee of the facility to be constructed using proceeds from the Series 2026 Bonds is the City of South Jordan, Utah (the 'City') and the expected annual amount of lease payments that the City will pay is $1,732,500.  The Authority anticipates taking action on the proposal to issue the Series 2026 Bonds directly following the public hearing at the same meeting listed above.\r\n\r\n\r\nDATED this September 16, 2026. \r\n\t/s/ Anna Crookston\t\r\n\tSecretary-Treasurer",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 16, 2026 04:41 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 Notice of Intent - MBA South Jordan Lease Rev 2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489565.pdf",
-          "date_added": "2026/09/16 04:41 PM",
-          "file_id": "1489565"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1109399",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109399.html",
-      "title": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED",
-      "event_date": "October 6, 2026 06:30 PM",
-      "event_date_iso": "2026-10-06T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that on September 15, 2026, the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') adopted a resolution (the 'Resolution') declaring its intention to issue its Lease Revenue Bonds, Series 2026 (the 'Bonds'), and calling a public hearing to receive input from the public with respect to the issuance of the Bonds.\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\nThe Authority shall hold a public hearing on October 6, 2026, at the hour of 6:30 p.m.  The location of the public hearing is at the City offices of South Jordan, Utah (the 'City') located at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the hearing is to receive input from the public with respect to: (a) the proposed Bonds, and (b) any potential economic impact that the improvements, facility or property financed in whole or in part with the proceeds of the Bonds may have on the private sector.  All members of the public are invited to attend and participate. \r\n\r\nPURPOSE FOR ISSUING BONDS\r\nThe Authority intends to issue the Bonds to provide funds to (a) finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required deposits to a debt service reserve fund; and (c) pay costs associated with the issuance of the Bonds.  \r\n\r\nPARAMETERS OF THE BONDS\r\nThe Authority intends to issue the Bonds in a principal amount of not to exceed Twenty-Seven Million Dollars ($27,000,000), to bear interest at a rate or rates of not to exceed six percent (6.00%) per annum, to mature in not more than thirty-one (31) years from their date or dates, and to be sold at a price not less than ninety-seven percent (97%) of the total principal amount thereof, plus accrued interest, if any, to the date of delivery of the Bonds.\r\nThe Bonds are to be issued and sold by the Authority pursuant to the Resolution, including as attachments to said Resolution a form of the General Indenture of Trust and First Supplemental Indenture of Trust (collectively, the 'Indenture') and a form of a Master Lease Agreement (the 'Lease'), which were before the Board at the time of the adoption of the Resolution.  The Indenture and the Lease are to be executed by the Authority and/or the City with such terms and provisions and any changes thereto as authorized by the Resolution.\r\n \r\nSECURITY FOR THE BONDS\r\nThe Bonds are payable solely from the rents, revenues and other income received by the Authority from the leasing of the Series 2026 Project to the City on an annually renewable basis (the 'Lease Revenues').\r\n\r\nOUTSTANDING BONDS SECURED BY LEASE REVENUES\r\nThe Authority currently has no bonds outstanding secured by Lease Revenues.\r\n\r\nOTHER OUTSTANDING BONDS OF THE AUTHORITY\r\nInformation regarding all of the Authority's outstanding bonds may be found in the City's audited financial report (the 'Financial Report') at https://reporting.auditor.utah.gov/searchreports/s/.  For additional information, including any more recent than as of the date of the Financial Report please contact Anna Crookston, Secretary-Treasurer at (801) 446-4357.\r\n\r\nTOTAL ESTIMATED COST\r\nBased on an estimate of the current interest rate and financing plan, the estimated total debt service cost of the Bonds, if held until maturity, is $43,667,000.\r\n\r\nA copy of the Resolution and the forms of Indenture and the Lease are on file in the City offices, located at 1600 W. Towne Center Drive, South Jordan, Utah, where they may be examined during regular business hours from 8:00 a.m. to 6:00 p.m., Monday through Thursday, and 8:00 a.m. to 12:00 p.m. on Friday, for a period of at least thirty (30) days from and after the last date of posting of this notice.\r\n\r\nNOTICE IS FURTHER GIVEN that a period of thirty (30) days from and after the date of the posting of this notice is provided by law during which (i) any person in interest shall have the right to contest the legality of the Resolution, the Indenture, the Lease, or the Bonds, or any provision made for the security and payment of the Bonds, and after such time, no one shall have any cause of action to contest the regularity, formality or legality thereof for any cause whatsoever, and (ii) active voters (as defined in Section 20A-1-102 of the Utah Code Annotated 1953, as amended) within the City may sign a written petition requesting an election to authorize the issuance of the Bonds.  If written petitions which have been signed by at least twenty percent (20%) of the active voters of the City are filed with the Authority during said 30-day period, the Authority shall be required to hold an election to obtain voter authorization prior to the issuance of the Bonds.  If fewer than twenty percent (20%) of the active voters of the City file a written petition during said 30-day period, the Authority may proceed to issue the Bonds without an election.\r\n\r\nDATED this September 16, 2026. \r\n\t/s/Anna Crookston\t\r\n\tSecretary-Treasurer",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 16, 2026 04:39 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489563.pdf",
-          "date_added": "2026/09/16 04:39 PM",
-          "file_id": "1489563"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1112605",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112605.html",
       "title": "City Council Study Meeting",
@@ -151,6 +201,34 @@
           "url": "https://www.utah.gov/pmn/files/1496259.pdf",
           "date_added": "2026/10/02 05:11 PM",
           "file_id": "1496259"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1106483",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106483.html",
+      "title": "NOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)",
+      "event_date": "September 15, 2026 06:30 PM",
+      "event_date_iso": "2026-09-15T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "September 4, 2026\r\n\r\nNOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)\r\n\r\nSouth Jordan City, located in Salt Lake County, Utah serving development within the City's current municipal boundaries, intends to enact or modify its Impact Fee Facilities Plan (IFFP) and Impact Fee Analysis (IFA) related to public safety (Ordinance 2026-13) see service areas map below.  \r\n\r\nNotice is hereby given of a Public Hearing at 6:30pm on Tuesday, September 15, 2026 at South Jordan City Council Chambers (1600 W Towne Center Dr. South Jordan, UT 84095).  The City invites the public to attend the hearing and provide any comments related to the referenced documents.  The draft documents are also available for review at both South Jordan libraries (South Jordan Library, 10673 S Redwood Rd and Daybreak Library, 11358 Grandville Ave) and on the City's website at https://ut-southjordan.civicplus.com/500/Public-Notices",
+      "meeting_location": "1600 W. Towne Center Drive City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "September 04, 2026 10:29 AM",
+      "attachments": [
+        {
+          "file_name": "Notice for updated IFFP and IFA Public Safety_FINAL PACKET.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1484335.pdf",
+          "date_added": "2026/09/04 10:29 AM",
+          "file_id": "1484335"
         }
       ],
       "canceled": false
@@ -220,85 +298,6 @@
           "url": "https://www.utah.gov/pmn/files/1484333.pdf",
           "date_added": "2026/09/04 10:25 AM",
           "file_id": "1484333"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1106483",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106483.html",
-      "title": "NOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)",
-      "event_date": "September 15, 2026 06:30 PM",
-      "event_date_iso": "2026-09-15T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "September 4, 2026\r\n\r\nNOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)\r\n\r\nSouth Jordan City, located in Salt Lake County, Utah serving development within the City's current municipal boundaries, intends to enact or modify its Impact Fee Facilities Plan (IFFP) and Impact Fee Analysis (IFA) related to public safety (Ordinance 2026-13) see service areas map below.  \r\n\r\nNotice is hereby given of a Public Hearing at 6:30pm on Tuesday, September 15, 2026 at South Jordan City Council Chambers (1600 W Towne Center Dr. South Jordan, UT 84095).  The City invites the public to attend the hearing and provide any comments related to the referenced documents.  The draft documents are also available for review at both South Jordan libraries (South Jordan Library, 10673 S Redwood Rd and Daybreak Library, 11358 Grandville Ave) and on the City's website at https://ut-southjordan.civicplus.com/500/Public-Notices",
-      "meeting_location": "1600 W. Towne Center Drive City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 04, 2026 10:29 AM",
-      "attachments": [
-        {
-          "file_name": "Notice for updated IFFP and IFA Public Safety_FINAL PACKET.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1484335.pdf",
-          "date_added": "2026/09/04 10:29 AM",
-          "file_id": "1484335"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1108267",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108267.html",
-      "title": "City Council Study Meeting",
-      "event_date": "September 15, 2026 04:30 PM",
-      "event_date_iso": "2026-09-15T16:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN\t \r\nCITY COUNCIL STUDY MEETING AGENDA \t\r\nCITY COUNCIL WORK ROOM\t\r\nTUESDAY, SEPTEMBER 15, 2026 at 4:30 p.m.\t\r\n\r\nNotice is hereby given that the South Jordan City Council will hold a City Council Study Meeting at 4:30 p.m. on Tuesday, September 15, 2026, in person in the City Council Work Room, located at 1600 W. Towne Center Drive, South Jordan, Utah and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the Meeting. The agenda may be amended, and an Executive Session may be held at the end of the Meeting. Times listed are approximate and may be accelerated or delayed. \r\n\r\nIn addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. \r\nAbility to participate virtually is dependent on an individual's internet connection. Instructions on how to join virtually are below.\r\n\r\nJoin Study Meeting Virtually:\r\n-           Join on any device that has internet capability.\r\n-           Zoom link, Meeting ID and Password will be provided 24 hours prior to meeting start time. \r\n-           Zoom instructions are posted https://ut-southjordan.civicplus.com/241/City-Council. \r\n\r\nStudy Meeting Agenda: 4:30 p.m.\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Council Member, Kathie Johnson\r\nC.\tMayor and Council Coordination\r\nD.\tDiscussion/Review of Regular Council Meeting\r\nE.\tDiscussion Item: 4:45 p.m.\r\nE.1.\tAmendments related to cell tower spacing. (By Director of Planning & Economic Development, Brian Preece)\t\r\nRECESS CITY COUNCIL STUDY MEETING AND MOVE TO EXECUTIVE CLOSED SESSION\r\nF.\tExecutive Closed Session: 5:15 p.m.\r\nF.1.\tInvestigative proceedings regarding allegations of criminal misconduct.\r\nADJOURN EXECUTIVE CLOSED SESSION AND RETURN TO CITY COUNCIL STUDY MEETING\r\nADJOURNMENT\t\r\n\t\t\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\n: §\r\nCOUNTY OF SALT LAKE\t)\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted September 11, 2026.",
-      "meeting_location": "1600 W. Towne Center Drive Council Work Room with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 11, 2026 02:40 PM",
-      "attachments": [
-        {
-          "file_name": "09-15-2026 City of South Jordan City Council Study Meeting Agenda_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1487507.pdf",
-          "date_added": "2026/09/11 02:40 PM",
-          "file_id": "1487507"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1107119",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1107119.html",
-      "title": "Notice of Potential Quorum",
-      "event_date": "September 10, 2026 11:30 AM",
-      "event_date_iso": "2026-09-10T11:30:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members\r\nmay Attend the Following Event:\r\n\r\nAnnual Employee BBQ\r\nMain City Park\r\n11000 South Redwood Road\r\nSouth Jordan, UT 84095\r\nThursday, September 10, 2026\r\n11:30 a.m. to 1:00 p.m.\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 8th Day of September, 2026.",
-      "meeting_location": "11000 S. Redwood Road City Park South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 08, 2026 03:00 PM",
-      "attachments": [
-        {
-          "file_name": "09-10-2026 UPN Potential Quorum Notice - Annual Employee BBQ.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1485291.pdf",
-          "date_added": "2026/09/08 03:00 PM",
-          "file_id": "1485291"
         }
       ],
       "canceled": false

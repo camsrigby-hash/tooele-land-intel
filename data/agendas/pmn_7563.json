@@ -4,7 +4,7 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-10-26T14:53:34.844478+00:00",
+  "scraped_at": "2026-11-02T17:51:03.683160+00:00",
   "notices": [
     {
       "notice_id": "1116111",
@@ -71,6 +71,45 @@
       "canceled": false
     },
     {
+      "notice_id": "1118151",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118151.html",
+      "title": "Erda City Planning Commission Meeting",
+      "event_date": "October 27, 2026 07:00 PM",
+      "event_date_iso": "2026-10-27T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday,October 27, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info:  meet.google.com/czv-cyad-tgi\r\n\r\nOr dial:  + 1 315-758-1007  PIN:  940 549 432 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 10-13-26 and 9-22-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Conditional Use Permit 2026-169 Cole West is seeking a Temporary Sales Trailer located on 615 E North Slope Way\r\nOpen Public Hearing\r\nClose Public Hearing\r\nConsideration of Randy Salt Rezone Application 2026-172, Rezone from RR-5 to RR-1, Parcel:13-002-0-0002 Address: 704 E Bates Canyon Rd\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\n**All handouts associated with this meeting can be found on the city's website erda.gov under City Government**\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
+      "meeting_location": "2163 W. Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "October 26, 2026 09:15 AM",
+      "attachments": [
+        {
+          "file_name": "10-27-26 Audio of Planning Commission Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1507705.mp3",
+          "date_added": "2026/10/28 11:53 AM",
+          "file_id": "1507705"
+        },
+        {
+          "file_name": "Salt rezone staff report.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506529.pdf",
+          "date_added": "2026/10/26 09:14 AM",
+          "file_id": "1506529"
+        },
+        {
+          "file_name": "Cole West sales trailer staff report.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506531.pdf",
+          "date_added": "2026/10/26 09:14 AM",
+          "file_id": "1506531"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1114925",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114925.html",
       "title": "Joint Erda City Planning Commission and City Council WORK Meeting",
@@ -92,6 +131,13 @@
           "url": "https://www.utah.gov/pmn/files/1502215.mp3",
           "date_added": "2026/10/15 03:57 PM",
           "file_id": "1502215"
+        },
+        {
+          "file_name": "10-13-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1509141.pdf",
+          "date_added": "2026/10/30 05:06 PM",
+          "file_id": "1509141"
         },
         {
           "file_name": "2026-09-16 SKYWALK COMMUNITY PLAN.pdf",
@@ -131,6 +177,13 @@
           "url": "https://www.utah.gov/pmn/files/1493083.mp3",
           "date_added": "2026/09/24 01:00 PM",
           "file_id": "1493083"
+        },
+        {
+          "file_name": "9-22-26 Signed Meeting Minutes Planning Commission.pdf",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1509139.pdf",
+          "date_added": "2026/10/30 05:06 PM",
+          "file_id": "1509139"
         },
         {
           "file_name": "Warr minor sub private road CUP staff report (1).pdf",
@@ -286,59 +339,6 @@
       "posted_on": "July 07, 2026 06:17 PM",
       "attachments": [],
       "canceled": true
-    },
-    {
-      "notice_id": "1091045",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1091045.html",
-      "title": "Erda City Planning Commission Meeting",
-      "event_date": "June 23, 2026 07:00 PM",
-      "event_date_iso": "2026-06-23T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Notice is hereby given that the Erda Planning Commission will hold their regular meeting on Tuesday,June 23rd, 2026 at 7:00pm. The meeting will be held at the Erda City Office, next to the Fire Station located at 2163 W Erda Way, Erda, UT 84074\r\n\r\n\r\nGoogle Meet joining info: https://meet.google.com/chb-sksv-qqb\r\nOr dial:  (US) +1 208-820-4769  PIN:  417 885 311 #\r\n\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge and Prayer \r\nApprove Minutes from 4-28-26 and 5-26-26\r\nPublic Comment (3 minute limit per comment)\r\nConsideration of Conditional Use Permit 2026-76 Ashley Morrill owner of 'The Ugly Duckling Baking & Co' The Ugly Duckling Baking & Co. is a small, home-based food operation run under Utah's home consumption and Homemade Food Act.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nConsideration of Conditional Use Permit 2026-102 Tynley Bean is seeking to have small group art lessons up to 8 people at a time.\r\nOpen Public Hearing\r\nClose Public Hearing\r\nComments from Commissioners\r\nAdjournment \r\n\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals needing special accommodations should contact Erda City Office at either jpoole@erda.gov jstagg@erda.gov or 435-243-5577",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "June 22, 2026 06:14 PM",
-      "attachments": [
-        {
-          "file_name": "Planning Commission Meeting - 2026_06_23 18_57 MDT - Recording.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1453955.mp3",
-          "date_added": "2026/06/24 12:34 PM",
-          "file_id": "1453955"
-        },
-        {
-          "file_name": "6-23-26 Signed Meeting Minutes Planning Commission.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1478373.pdf",
-          "date_added": "2026/08/21 11:15 AM",
-          "file_id": "1478373"
-        },
-        {
-          "file_name": "6-23-26 Planning Commission Agenda (1).docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1453161.docx",
-          "date_added": "2026/06/22 06:14 PM",
-          "file_id": "1453161"
-        },
-        {
-          "file_name": "CUP Staff Report MacBean Art Studio 3866 Rose Springs (1).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1453163.pdf",
-          "date_added": "2026/06/22 06:14 PM",
-          "file_id": "1453163"
-        },
-        {
-          "file_name": "CUP staff report Ugly Duckling farm stand 3986 N 570 W (2).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1453165.pdf",
-          "date_added": "2026/06/22 06:14 PM",
-          "file_id": "1453165"
-        }
-      ],
-      "canceled": false
     }
   ]
 }

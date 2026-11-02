@@ -4,8 +4,40 @@
   "public_body": "Planning Commission",
   "body_id": "531",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/531.html",
-  "scraped_at": "2026-10-26T14:57:15.888142+00:00",
+  "scraped_at": "2026-11-02T17:54:48.436543+00:00",
   "notices": [
+    {
+      "notice_id": "1119349",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1119349.html",
+      "title": "Planning Commission Meeting - 11/10/2026",
+      "event_date": "November 10, 2026 05:00 PM",
+      "event_date_iso": "2026-11-10T17:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "A public hearing to hear proposed changes to the Vineyard City zoning code. \r\n\r\nProposed changes include the following\r\n1. Proposal to add a new use in the FOI and RC zones. The use will be called 'Place of Public Assembly (Indoor/Outdoor)' \r\n2. Proposal to add District Energy in the FOI and RC Zones",
+      "meeting_location": "125 s Main Street Vineyard, UT 84058 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "October 30, 2026 11:25 AM",
+      "attachments": [
+        {
+          "file_name": "Draft Zoning Text Amendment – District Energy in the FOI and RC Districts.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1508767.pdf",
+          "date_added": "2026/10/30 11:25 AM",
+          "file_id": "1508767"
+        },
+        {
+          "file_name": "Draft Zoning Text Amendment – Place of Public Assembly (Indoor_Outdoor) in the FOI and RC Districts.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1508769.pdf",
+          "date_added": "2026/10/30 11:25 AM",
+          "file_id": "1508769"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1115339",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1115339.html",

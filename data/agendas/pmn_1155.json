@@ -4,8 +4,25 @@
   "public_body": "City Council",
   "body_id": "1155",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1155.html",
-  "scraped_at": "2026-10-26T14:55:44.278014+00:00",
+  "scraped_at": "2026-11-02T17:53:15.362535+00:00",
   "notices": [
+    {
+      "notice_id": "1119149",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1119149.html",
+      "title": "Special Meeting",
+      "event_date": "November 4, 2026 08:00 AM",
+      "event_date_iso": "2026-11-04T08:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "CITY COUNCIL \r\nRETREAT AGENDA\r\n\r\nWednesday, November 4, 2026\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Council shall assemble for a \r\nmeeting in the Large Meeting Room at the Holiday Inn Express and Suites, located at\r\n12097 S Anthem Creek Lane, Herriman, Utah\r\n \r\n8:00 AM - Retreat Session: \r\n1.\tOpening Exercise\r\n1.1.\tTeam Building & Brain Teaser Exercises \r\n\r\n2.\tStrategic Outlook: Challenges & Opportunities\r\n2.1.\tChallenges Facing Herriman City Today and Over the Next Decade\r\n\r\n3.\tBreak\r\n\r\n4.\tPriority Identification and Reverse Brainstorming\r\n\r\n5.\tBreak\r\n\r\n6.\tStrategic Priorities, Action Planning and Next Steps\r\n\r\n7.\tAdjournment",
+      "meeting_location": "12097 S Anthem Creek Lane Herriman, UT 84096 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Jackie Nostrom",
+      "contact_email": "jnostrom@herriman.gov",
+      "posted_on": "October 29, 2026 04:22 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1117617",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1117617.html",
@@ -71,6 +88,13 @@
       "contact_email": "jnostrom@herriman.gov",
       "posted_on": "September 17, 2026 05:10 PM",
       "attachments": [
+        {
+          "file_name": "2026_09_23 RCCM Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1508021.pdf",
+          "date_added": "2026/10/28 07:18 PM",
+          "file_id": "1508021"
+        },
         {
           "file_name": "2026_09_23 RCCM Packet.pdf",
           "category": "Public Information Handout",
@@ -268,38 +292,6 @@
           "url": "https://www.utah.gov/pmn/files/1449793.pdf",
           "date_added": "2026/06/16 01:14 PM",
           "file_id": "1449793"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1086499",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1086499.html",
-      "title": "Regular Session",
-      "event_date": "June 10, 2026 05:30 PM",
-      "event_date_iso": "2026-06-10T17:30:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "CITY COUNCIL AGENDA\r\n\r\nWednesday, June 10, 2026\r\n\r\nNOTICE IS HEREBY GIVEN that the Herriman City Council shall assemble for a \r\nmeeting in the City Council Chambers, located at\r\n5355 WEST HERRIMAN MAIN STREET, HERRIMAN, UTAH\r\n \r\n\r\n5:30 PM - WORK MEETING: (Fort Herriman Conference Room)\r\n\r\n\r\n1.\tCouncil Business\r\n  \r\n1.1.\t  \r\nReview of this Evening's Agenda\r\n  \r\n1.2.\t  \r\nFuture Agenda Items\r\n  \r\n1.3.\t  \r\nCouncil discussion of future citizen recognitions\r\n\r\n\r\n2.\tAdministrative Reports\r\n  \r\n2.1.\t  \r\nCity Status Report - May 2025 - Trevor Ram, Assistant to the City Manager\r\n\r\n\r\n3.\tAdjournment\r\n\r\n\r\n\r\n7:00 PM - GENERAL MEETING:\r\n\r\n\r\n4.\tCall to Order\r\n  \r\n4.1.\t  \r\nInvocation/Thought/Reading and Pledge of Allegiance\r\n  \r\n4.2.\t  \r\nCity Council Comments and Recognitions\r\n\r\n\r\n5.\tPublic Comment\r\nAudience members may bring any item within the City's purview to the City Council's attention. Comments will be limited to two minutes. State Law prohibits the Council from acting on items that do not appear on the agenda. Public comments for this meeting will also be conducted electronically. Any person interested in addressing the Council may submit a comment by emailing recorder@herriman.gov or by visiting Herriman.gov/agendas-and-minutes, where there is a link to fill out an online public comment form. Your statement will be incorporated into the public record.\r\n\r\n\r\n\r\n6.\tCity Council Reports\r\n  \r\n6.1.\t  \r\nCouncilmember Jared Henderson\r\n  \r\n6.2.\t  \r\nCouncilmember Teddy Hodges\r\n  \r\n6.3.\t  \r\nCouncilmember Matt Basham\r\n  \r\n6.4.\t  \r\nCouncilmember Terrah Anderson\r\n\r\n\r\n7.\tMayor Report\r\n\r\n\r\n8.\tReports, Presentations and Appointments \r\n  \r\n8.1.\t  \r\nYouth Council Legacy Project Presentation\r\n  \r\n8.2.\t  \r\nFiscal year 2026 Office of the State Auditor's Fraud Risk Assessment - Kyle Maurer, Director of Finance and Administrative Services\r\n\r\n\r\n9.\tPublic Hearing\r\n  \r\n9.1.\t  \r\nPublic Hearing and consideration of an Ordinance fixing the compensation for the City of Herriman Elected Officials - Kyle Maurer, Director of Finance and Administrative Services\r\n  \r\n9.2.\t  \r\nPublic Hearing and consideration of a Resolution for proposed compensation Increases for specific City Officers - Kyle Maurer, Director of Finance and Administrative Services\r\n  \r\n9.3.\t  \r\nDiscussion and consideration of a Resolution amending the fiscal year 2026 City of Herriman budget - Kyle Maurer, Director of Finance and Administrative Services\r\n\r\n\r\n10.\tConsent Agenda\r\n  \r\n10.1.\t  \r\nInterlocal Cooperative Agreement Between Riverton and Herriman for Asphalt Surface Treatments and Lane Re-Striping of 13400 South and 13800 South Streets - Justun Edwards, Director of Public Works\r\n  \r\n10.2.\t  \r\nUDOT U-111 Betterment Agreement - U-111 Waterline Casings - Justun Edwards, Director of Public Works\r\n  \r\n10.3.\t  \r\nReview and approval of the January 2026 financial summary - Kyle Maurer, Director of Finance and Administrative Services\r\n  \r\n10.4.\t  \r\nReview and approval of the February 2026 financial summary - Kyle Maurer, Director of Finance and Administrative Services\r\n\r\n  \r\n10.5.\t  \r\nReview and approval of the March 2026 financial summary - Kyle Maurer, Director of Finance and Administrative Services\r\n\r\n\r\n11.\tDiscussion and Action Items\r\n  \r\n11.1.\t  \r\nOlympia Water Infrastructure Reimbursement Agreement and Amendment to the Water Availability Map - Justun Edwards, Director of Public Works | Jonathan Bowers, Public Utilities Engineering Manager\r\n  \r\n11.2.\t  \r\nReview and consider a recommendation to amend the Herriman City Zoning Map from A-1-43 (1-acre per lot minimum) to A-1-10 (10,000 sq ft per lot minimum) for property located at approximately 7232 W Gina Road. (File No, Z2026-060) - Michael Maloy, Planning Director\r\n \r\n  \r\n11.3.\t  \r\nDiscussion and consideration of an Ordinance adopting the final budget for the City of Herriman for fiscal years 2027 and 2028; adopting a job classification and salary plan; and setting the rate of tax and levying taxes upon all real and personal property within the City of Herriman, Utah - Kyle Maurer, Director of Finance and Administrative Services\r\n\r\n\r\n12.\tFuture Meetings\r\n  \r\n12.1.\t  \r\nNext Planning Meeting: July 1, 2026\r\n  \r\n12.2.\t  \r\nNext City Council Meeting: June 24, 2026\r\n\r\n\r\n13.\tEvents\r\n  \r\n13.1.\t  \r\nHungry Herriman Food Truck Roundup: June 15, 2026 and June 22, 2026; Crane Park 5:00 p.m.\r\n  \r\n13.2.\t  \r\nFOH: The Sound of Music Performances: June 10-19; Butterfield Park 7:30 p.m.\r\n  \r\n13.3.\t  \r\nFOH: Skate the Park: 70s Party; June 19, 2026, Crane Park 6:00 p.m.\r\n  \r\n13.4.\t  \r\nPrimary Election Day: June 23, 2026; Herriman City Hall 7:00 a.m. - 8:00 p.m.\r\n\r\n\r\n\r\n14.\tClosed Session\r\nThe Herriman City Council may temporarily recess the City Council meeting to convene in a closed session to discuss the character, professional competence, or physical or mental health of an individual, pending or reasonable imminent litigation, and the purchase, exchange, or lease of real property, as provided by Utah Code Annotated §52-4-205\r\n \r\n\r\n\r\n15.\tAdjournment\r\n\r\n\r\n16. Recommence to Work Meeting (If Needed)",
-      "meeting_location": "5355 West Herriman Main Street Herriman, UT 84096 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Jackie Nostrom",
-      "contact_email": "jnostrom@herriman.gov",
-      "posted_on": "June 04, 2026 05:57 PM",
-      "attachments": [
-        {
-          "file_name": "2026_06_10 RCCM Minutes.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1473069.pdf",
-          "date_added": "2026/08/11 08:00 PM",
-          "file_id": "1473069"
-        },
-        {
-          "file_name": "2026_06_10 RCCM Packet.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1444223.pdf",
-          "date_added": "2026/06/04 05:57 PM",
-          "file_id": "1444223"
         }
       ],
       "canceled": false

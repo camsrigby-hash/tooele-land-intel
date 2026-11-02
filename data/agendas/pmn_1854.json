@@ -4,7 +4,7 @@
   "public_body": "City of Saratoga Springs Planning Commission",
   "body_id": "1854",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1854.html",
-  "scraped_at": "2026-10-26T14:54:45.326436+00:00",
+  "scraped_at": "2026-11-02T17:52:15.598358+00:00",
   "notices": [
     {
       "notice_id": "1117441",
@@ -54,6 +54,13 @@
       "posted_on": "September 30, 2026 04:51 PM",
       "attachments": [
         {
+          "file_name": "2026-10-08 pc minutes approved.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1508873.pdf",
+          "date_added": "2026/10/30 12:43 PM",
+          "file_id": "1508873"
+        },
+        {
           "file_name": "2026-10-08 PC Agenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1495197.pdf",
@@ -88,6 +95,23 @@
       "canceled": false
     },
     {
+      "notice_id": "1108203",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108203.html",
+      "title": "Public Hearings for Planning Commission Meeting",
+      "event_date": "September 24, 2026 06:00 PM",
+      "event_date_iso": "2026-09-24T18:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PLANNING COMMISSION MEETING\r\n\r\nNotice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on September 24, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tSaratoga Springs Senior Seminary General Plan Amendment and Rezone, located approximately northwest of the new Alpine School District High School. The proposed General Plan Amendment would change the designation on the Future Land Use Map from Low Density Residential to Institutional/Civic. The proposed Zoning Map Amendment would rezone the property from Planned Community (PC) to Institutional/Civic (I/C) to allow the seminary as a permitted use. Bradley Gygi as applicant. \r\n2.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.05 - Supplementary Regulations.  Located at West Village Parkway Parcel 59:011:0083. The proposed amendment would provide an exception to allow a 10-foot wall or fence for public utilities. Corey Pace as applicant.\r\n3.\tSpring Heights II Rezone from Agricultural (A) to Light Industrial (LI)/ Regional Commercial (RC), General Plan Amendment from Business Park (BP) to Light Industrial (LI)/ Regional Commercial (RC), and Development Agreement. Located at 2300 North Redwood Road. Marty Beaumont with St. John Properties as applicant\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
+      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Nicolette Fike",
+      "contact_email": "nfike@saratogasprings-ut.gov",
+      "posted_on": "September 11, 2026 01:14 PM",
+      "attachments": [],
+      "canceled": false
+    },
+    {
       "notice_id": "1107267",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1107267.html",
       "title": "Planning Commission Meeting Annexation Policy Plan Public Hearing Notice",
@@ -110,23 +134,6 @@
           "file_id": "1485557"
         }
       ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1108203",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108203.html",
-      "title": "Public Hearings for Planning Commission Meeting",
-      "event_date": "September 24, 2026 06:00 PM",
-      "event_date_iso": "2026-09-24T18:00:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "PLANNING COMMISSION MEETING\r\n\r\nNotice of Public Hearing\r\n\r\nNotice is hereby given that The City of Saratoga Springs Planning Commission will conduct a public hearing during their regular meeting beginning at 6:00 p.m. on September 24, 2026 in the City Council Chambers, 319 S. Saratoga Road, Saratoga Springs UT 84045, on the following:\r\n\r\n1.\tSaratoga Springs Senior Seminary General Plan Amendment and Rezone, located approximately northwest of the new Alpine School District High School. The proposed General Plan Amendment would change the designation on the Future Land Use Map from Low Density Residential to Institutional/Civic. The proposed Zoning Map Amendment would rezone the property from Planned Community (PC) to Institutional/Civic (I/C) to allow the seminary as a permitted use. Bradley Gygi as applicant. \r\n2.\tAmendment to Title 19 Land Development Code of the City of Saratoga Springs, Chapter 19.05 - Supplementary Regulations.  Located at West Village Parkway Parcel 59:011:0083. The proposed amendment would provide an exception to allow a 10-foot wall or fence for public utilities. Corey Pace as applicant.\r\n3.\tSpring Heights II Rezone from Agricultural (A) to Light Industrial (LI)/ Regional Commercial (RC), General Plan Amendment from Business Park (BP) to Light Industrial (LI)/ Regional Commercial (RC), and Development Agreement. Located at 2300 North Redwood Road. Marty Beaumont with St. John Properties as applicant\r\n\r\nComments & questions may be directed to the Community Development Dept. 801-766-9793 ext. 155. Comments may also be submitted to comments@saratogasprings-ut.gov.",
-      "meeting_location": "319 South Saratoga Road Saratoga Springs, UT, UT 84045 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Nicolette Fike",
-      "contact_email": "nfike@saratogasprings-ut.gov",
-      "posted_on": "September 11, 2026 01:14 PM",
-      "attachments": [],
       "canceled": false
     },
     {

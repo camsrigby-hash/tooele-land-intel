@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "530",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/530.html",
-  "scraped_at": "2026-10-26T14:57:07.507320+00:00",
+  "scraped_at": "2026-11-02T17:54:38.757241+00:00",
   "notices": [
+    {
+      "notice_id": "1118321",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118321.html",
+      "title": "City Council Meeting",
+      "event_date": "October 27, 2026 06:00 PM",
+      "event_date_iso": "2026-10-27T18:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "NOTICE OF A REGULAR CITY COUNCIL MEETING\r\nOctober 27, 2026, at 6:00 PM\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, October 27, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\n\r\nAGENDA\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPUBLIC COMMENTS (3 MINUTES PER PERSON)\r\n        'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n4.\tRECOGNITIONS\r\n        4.1.\tRecognize the Public Works Team for Their Dedication and Hard Work in Extraordinary Circumstances.\r\n\r\n5.\tWORK SESSION\r\n        5.1   Discussion on Vineyard City's Fleet (Evan Smith and George Schramm - 15 Minutes)\r\n\r\n6.\tCONSENT ITEMS\r\n        6.1.\tApproval of the October 13, 2026, City Council Meeting Minutes\r\n        6.2.\tApprove ORD 2026-11 SB 284 ADU (Accessory Dwelling Units) Compliance\r\n        6.3.\tAccept Resolution 2026-37 Selling of Insignificant Land Parcel B\r\n        6.4.\tAccept Resolution 2026-38 Selling of Insignificant Land Parcel H\r\n        6.5.\tAccept Resolution 2026-39 Selling of Insignificant Land Parcels T\r\n\r\n7.\tBUSINESS ITEMS\r\n        7.1.\tApprove Resolution 2026 - 43 Flock Safety (Requested by Council Member Jacob Wood - 5 Minutes)\r\n\r\n8.\tADJOURN TO A CLOSED SESSION\r\n\tTo discuss pending or reasonably imminent litigation; the character or professional competence of an individual; the purchase or lease of real property; or to discuss a matter permitted under UCA § 52-4-205.\r\n\r\n       8.1   Approve and set a date, time, and location for a closed meeting for a strategy session to discuss the purchase, exchange, or lease of real property, including any form of a water right or water shares, or to discuss a proposed development agreement, project proposal, or financing proposal related to the development of land owned by the state or a political subdivision.\r\n\r\n        8.2   Approve and Set a Date, Time, and Location for a Closed Meeting to Discuss the Character, Professional Competence, or Physical or Mental Health of an Individual or Individuals, for Today's Date, at this Location, Following the Completion of the Regular Agenda. (Two items requested by Council Member Jake Holdaway - 15 minutes)\r\n\r\n        8.3   Approve and Set a Date, Time, and Location for a Closed Meeting for a Strategy Session to Discuss Pending or Reasonably Imminent Litigation for Today's Date, at this Location, Following the Completion of the Regular Agenda. (One item requested by Council Member Jake Holdaway - 7 minutes)\r\n\r\n9.\tADJOURNMENT",
+      "meeting_location": "City Council Chambers 125 South Main Street Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robin Bond",
+      "contact_email": "robinr@vineyardutah.gov",
+      "posted_on": "October 26, 2026 02:33 PM",
+      "attachments": [
+        {
+          "file_name": "10.27.26 CC Packet.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1506983.pdf",
+          "date_added": "2026/10/26 05:14 PM",
+          "file_id": "1506983"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1114503",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114503.html",
@@ -22,6 +48,13 @@
       "contact_email": "robinr@vineyardutah.gov",
       "posted_on": "October 09, 2026 05:52 PM",
       "attachments": [
+        {
+          "file_name": "10.13.26 CC Minutes - APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1507739.pdf",
+          "date_added": "2026/10/28 01:05 PM",
+          "file_id": "1507739"
+        },
         {
           "file_name": "10.13.26 CC Packet.pdf",
           "category": "Public Information Handout",
@@ -254,39 +287,6 @@
           "url": "https://www.utah.gov/pmn/files/1469137.pdf",
           "date_added": "2026/08/03 03:16 PM",
           "file_id": "1469137"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1094817",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1094817.html",
-      "title": "City Council Meeting",
-      "event_date": "July 14, 2026 06:00 PM",
-      "event_date_iso": "2026-07-14T18:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "NOTICE OF A REGULAR CITY COUNCIL MEETING\r\n July 14, 2026, at 6:00 PM\r\n\r\n\r\nPUBLIC NOTICE is hereby given that the Vineyard City Council will hold a regularly scheduled City Council meeting on Tuesday, July 14, 2026, at 6:00 PM, in the City Council Chambers at City Hall, 125 South Main Street, Vineyard, UT. This meeting can also be viewed on our live stream page.\r\nAGENDA\r\n\r\n\r\n1.\tCALL TO ORDER\r\n\r\n2.\tINVOCATION AND PLEDGE OF ALLEGIANCE (BY INVITATION)\r\n\r\n3.\tPRESENTATIONS\r\n        3.1.\tUtah County Mosquito Abatement Program Presentation (Jason Bird, Utah County) 15 mins\r\nPresentation from the Utah County Health Department regarding mosquito abatement services and ongoing mosquito control efforts within Vineyard City and throughout Utah County.\r\n\r\n4.\tPUBLIC COMMENTS\r\n'Public Comments' is defined as time set aside for citizens to express their views. Public comments can be submitted ahead of time to robinr@vineyardutah.gov.\r\n\r\n5.\tCONSENT ITEMS\r\n         5.1.\tAcceptance of the West Rail Trail from Utah County\r\n\r\n6.\tBUSINESS ITEMS\r\n        6.1.\tApprove Resolution 2026-31 Insignificant Land\r\n\r\n7.\tADJOURNMENT",
-      "meeting_location": "125 South Main 125 South Main Vineyard, UT 84059 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robin Bond",
-      "contact_email": "robinr@vineyardutah.gov",
-      "posted_on": "July 10, 2026 07:09 PM",
-      "attachments": [
-        {
-          "file_name": "7.14.26 CC Minutes - APPROVED.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1479625.pdf",
-          "date_added": "2026/08/25 02:21 PM",
-          "file_id": "1479625"
-        },
-        {
-          "file_name": "7.14.26 CC Packet (3).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1460921.pdf",
-          "date_added": "2026/07/13 11:43 AM",
-          "file_id": "1460921"
         }
       ],
       "canceled": false

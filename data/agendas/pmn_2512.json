@@ -4,8 +4,25 @@
   "public_body": "City Council",
   "body_id": "2512",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/2512.html",
-  "scraped_at": "2026-10-26T14:54:10.002334+00:00",
+  "scraped_at": "2026-11-02T17:51:39.911205+00:00",
   "notices": [
+    {
+      "notice_id": "1118709",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118709.html",
+      "title": "Notice of Intent to Annex the Logan Annexation",
+      "event_date": "November 10, 2026 07:00 PM",
+      "event_date_iso": "2026-11-10T19:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nLOGAN ANNEXATION\r\nPUBLIC HEARING\r\n\r\n\r\nOn September 22, 2026, the Lehi City Council passed Resolution #2026-54 approving Lehi City's intent to annex approximately 2.68 acres of real property owned by Danny Logan, located at approximately 1300 South 1700 West, Lehi, Utah. \r\nA public hearing has been scheduled before the Lehi City Council on the 10th day of November, 2026, at 7:00 p.m. for the purpose of receiving public comment.  The public hearing will be held at the Lehi Civic Center, in the Council Chambers, located at 131 N. 100 E., Lehi, UT.  \r\nThe Lehi City Council will annex the above described parcel unless, at or before the public hearing, written protests to the annexation are filed by the owners of real property located within the area proposed for annexation covering a majority of the total private land area within the entire area proposed for annexation and also is equal to at least 1/2 the assessed value of all private real property within the entire area proposed for annexation.",
+      "meeting_location": "131 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Teisha Wilson",
+      "contact_email": "twilson@lehi-ut.gov",
+      "posted_on": "October 27, 2026 10:52 PM",
+      "attachments": [],
+      "canceled": false
+    },
     {
       "notice_id": "1117119",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1117119.html",
@@ -158,23 +175,6 @@
       "contact_name": "Teisha Wilson",
       "contact_email": "twilson@lehi-ut.gov",
       "posted_on": "September 16, 2026 09:51 AM",
-      "attachments": [],
-      "canceled": false
-    },
-    {
-      "notice_id": "1109169",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109169.html",
-      "title": "Lehi City Council Meeting Work Session Agenda",
-      "event_date": "September 21, 2026 04:00 PM",
-      "event_date_iso": "2026-09-21T16:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "Lehi City Council Meeting\r\n\r\n Work Session Agenda\r\n\r\nSeptember 21, 2026\r\n\r\n4:00 PM - Lehi City Council Chambers (131 N. 100 E., Lehi, Utah)\r\n\r\nThe allotted time for each item is intended as a guideline and may be adjusted as needed.\r\n\r\n1.\tWelcome and Opening Comment\r\n\r\n2.\tPresentation and Discussion Items\r\n\r\n2.1. UTA On Demand Zone Presentation (10-15 min)\r\n\r\n2.2. Waste Management Hazardous Waste Disposal Proposal and Discussion (10-15 min)\r\n\r\n2.3. Library Board Code Amendment Discussion (10 min)\r\n\r\n2.4. Parks Capitol Projects Presentation and Discussion (30-40 min)\r\n\r\n2.5. 700 South Bike Lanes Discussion (10-15 min)\r\n\r\n2.6. 2300 West Fence Discussion (10-15 min)\r\n\r\n3.\tAdjournment (approximately 6 p.m.)\r\n\r\n\r\n\r\nPublic is invited to attend all open meetings\r\n\r\n\r\nIn compliance with the Americans with Disabilities Act, the City of Lehi will make reasonable accommodations to participate in the meeting. Requests for assistance can be made by contacting the City Recorder at 385-201-2269 This Agenda has been posted in accordance with Utah Code §§ 63G-30-102 Agendas may be amended up to 24 hours prior to a meeting\r\n\r\nA Closed Meeting may be called to order pursuant to Utah Code §§ 52-4-204 & 52-4-205\r\n\r\n\r\nThe order of agenda items may change to accommodate the needs of the legislative body, staff, or the public Electronic participation may be permitted for one or more members of the legislative body and staff",
-      "meeting_location": "153 N 100 E LEHI, UT 84043 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Teisha Wilson",
-      "contact_email": "twilson@lehi-ut.gov",
-      "posted_on": "September 16, 2026 09:50 AM",
       "attachments": [],
       "canceled": false
     }
