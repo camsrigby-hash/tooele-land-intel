@@ -4,7 +4,7 @@
   "public_body": "Planning Commission",
   "body_id": "536",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/536.html",
-  "scraped_at": "2026-11-02T17:52:39.466253+00:00",
+  "scraped_at": "2026-11-16T18:00:51.945549+00:00",
   "notices": [
     {
       "notice_id": "1118825",
@@ -23,11 +23,44 @@
       "posted_on": "October 28, 2026 02:07 PM",
       "attachments": [
         {
-          "file_name": "11.10.2026 PCPH Ranch House Storage, Wilson Animal Management Plan, Water Rights.pdf",
+          "file_name": "11.10.2026 PCPH Ranch House Storage, Wilson Alternative Management Plan.pdf",
           "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1507801.pdf",
-          "date_added": "2026/10/28 02:07 PM",
-          "file_id": "1507801"
+          "url": "https://www.utah.gov/pmn/files/1511491.pdf",
+          "date_added": "2026/11/05 10:02 AM",
+          "file_id": "1511491"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1120905",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1120905.html",
+      "title": "Public Meeting",
+      "event_date": "November 10, 2026 05:30 PM",
+      "event_date_iso": "2026-11-10T17:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN\r\nPLANNING COMMISSION MEETING\r\n\r\nNOVEMBER 10, 2026, 5:30 PM\r\nEAGLE MOUNTAIN CITY COUNCIL CHAMBERS\r\n1650 EAST STAGECOACH RUN, EAGLE MOUNTAIN, UTAH 84005\r\n5:30 PM - PLANNING COMMISSION WORK SESSION\r\n\r\n1.\tDISCUSSION ITEMS\r\n\r\n\t1.A.\tCONCEPT PLAN - The Bench\r\n\r\n\t1.B.\tAGENDA REVIEW\r\n\r\n6:30 PM PLANNING COMMISSION POLICY SESSION\r\n\r\n2.\tCALL TO ORDER\r\n\r\n3.\tPLEDGE OF ALLEGIANCE\r\n\r\n4.\tDECLARATION OF CONFLICTS OF INTEREST\r\n\r\n5.\tMINUTES\r\n\r\n\t5.A.\tOctober 27, 2026 Planning Commission Minutes\r\n\r\n6.\tSTATUS REPORT\r\n\r\n7.\tACTION AND ADVISORY ITEMS\r\n\r\n\t7.A.\tORDINANCE/PUBLIC HEARING - An Ordinance of Eagle Mountain City, Utah, Amending the Official Zoning Map and Future Land Use Map to Commercial Storage and Business Park/Light Industrial.\r\n\r\nBACKGROUND: (Presented by Planner, Mickie Mills) The Eagle Mountain Planning Commission will conduct public hearings for proposed Future Land Use Map and Zoning Map amendments. This property is located on Pole Canyon Blvd. between N 0 St. and N. Virtual Dr., parcel number 59:055:0026. Approximately 10 acres of land are included in this proposal.\r\n\r\n\t7.B.\tORDINANCE/PUBLIC HEARING - An Ordinance of Eagle Mountain City, Utah Approving a Development Agreement with Ranch House Storage LLC\r\n\r\n\t7.C.\tALTERNATIVE ANIMAL MANAGEMENT PLAN - Wilson Residence\r\n\r\nBACKGROUND: (Presented by Planning Manager, Steven Lehmitz) Planning Commission review of a proposed alternative animal management plan to allow up to two horses at 9022 N. Alexis Lane (Parcel No. 55:673:0027).\r\n\r\n8.\tDISCUSSION ITEMS\r\n\r\n9.\tAGENDA REVIEW\r\n\r\n10.\tNEXT SCHEDULED MEETING\r\n\r\n11.\tADJOURNMENT\r\n\r\n \r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN PUBLIC MEETINGS FOR ALL AGENDAS.\r\nIn accordance with the Americans with Disabilities Act, Eagle Mountain City will make reasonable accommodations for participation in all Public Meetings and Work Sessions. Please call the City Recorder's Office at least 3 working days prior to the meeting at 801-789-6611. This meeting may be held telephonically to allow a member of the public body to participate. This agenda is subject to change with a minimum 24-hour notice.",
+      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Robert Hobbs",
+      "contact_email": "rhobbs@emcity.org",
+      "posted_on": "November 05, 2026 10:40 AM",
+      "attachments": [
+        {
+          "file_name": "Agenda (3).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1511553.docx",
+          "date_added": "2026/11/05 10:30 AM",
+          "file_id": "1511553"
+        },
+        {
+          "file_name": "Packet (4).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1511555.pdf",
+          "date_added": "2026/11/05 10:37 AM",
+          "file_id": "1511555"
         }
       ],
       "canceled": false
@@ -285,32 +318,6 @@
           "url": "https://www.utah.gov/pmn/files/1483815.pdf",
           "date_added": "2026/09/03 01:56 PM",
           "file_id": "1483815"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1101871",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101871.html",
-      "title": "PCPH 8.25.2026 Retaining Walls, Gateway, Spring Run Plaza Preliminary Plat Lot 1 and 2",
-      "event_date": "August 25, 2026 06:30 PM",
-      "event_date_iso": "2026-08-25T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY \r\nNOTICE OF PUBLIC HEARINGS \r\n\r\nThe Eagle Mountain Planning Commission will hold public hearings on August 25, 2026, at \r\n6:30 p.m., or as soon thereafter as business allows, in the Eagle Mountain City Council \r\nChambers, located at 1650 E. Stagecoach Run, Eagle Mountain, Utah 84005.  The Planning \r\nCommission will receive public comments concerning the following items: \r\nGateway Park Plat 3 - Preliminary Plat: Planning Commission review of the proposed \r\n\r\nGateway Park Plat 3 Preliminary Plat, intended for industrial and business park development. \r\nThe project is located on Parcel Nos. 58:033:0384, 58:033:0413, and part of 58.033:0386. \r\nThe general location of the project is north of Cory B Wride Memorial Highway and west of \r\nMt Airey Drive. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nSpring Run Plaza Lot 1: Planning Commission review of a proposed multi-tenant \r\ncommercial building site plan on Lot 1 of the Spring Run Plaza development. The property is \r\ngenerally located on the northeast corner of Spring Run Parkway and Cory B Wride Memorial \r\nHighway, east of Walmart. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nSpring Run Plaza Lot 2: Planning Commission review of a proposed multi-tenant \r\ncommercial building site plan on Lot 2 of the Spring Run Plaza development. The property is \r\ngenerally located on the northeast corner of Spring Run Parkway and Cory B Wride Memorial \r\nHighway, east of Walmart. EMC Staff Point of Contact: Planner, Steven Lehmitz: \r\nslehmitz@eaglemountain.gov. \r\n\r\nEagle Mountain Municipal Code Amendments:  \r\n\r\nEMMC 17.60.130 - Retaining Wall Construction Standards Code Amendment: \r\nConsideration of an amendment to Eagle Mountain Municipal Code Chapter 17.60.130. This \r\namendment adds detailed design requirements for retaining walls, and includes \r\nclarification on building permit requirements, field inspections, and allowable retaining wall \r\nlocations. EMC Staff Point of Contact: City Engineer, Vince Hogge: vhogge@eaglemountain.gov. \r\n\r\nMaterials for the public hearing items may be viewed within three days of the meeting on the \r\ncity website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle \r\nMountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If \r\nyou need special accommodation to participate in the meeting, please call the City \r\nRecorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at \r\nwww.eaglemountain.gov. \r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL PUBLIC MEETINGS.",
-      "meeting_location": "1650 Stage Coach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Robert Hobbs",
-      "contact_email": "rhobbs@emcity.org",
-      "posted_on": "August 13, 2026 06:11 PM",
-      "attachments": [
-        {
-          "file_name": "PCPH 8.25.2026 Retaining Walls, Gateway, Spring Run Prelilm Plat 1 and 2.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1474757.pdf",
-          "date_added": "2026/08/13 06:10 PM",
-          "file_id": "1474757"
         }
       ],
       "canceled": false

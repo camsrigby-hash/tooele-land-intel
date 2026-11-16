@@ -4,8 +4,25 @@
   "public_body": "Erda Planning Commission",
   "body_id": "7563",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7563.html",
-  "scraped_at": "2026-11-02T17:51:03.683160+00:00",
+  "scraped_at": "2026-11-16T17:59:15.944836+00:00",
   "notices": [
+    {
+      "notice_id": "1106885",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106885.html",
+      "title": "***CANCELED*** Erda Planning Commission Meeting",
+      "event_date": "November 10, 2026 07:00 PM",
+      "event_date_iso": "2026-11-10T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "****CANCELED*****\r\nNotice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday November 10th, 2026 has been canceled.\r\nThe Planning Commission will hold their next regularly scheduled meeting on Tuesday December 8th, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
+      "meeting_location": "2163 W. Erda Way Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "September 07, 2026 09:19 PM",
+      "attachments": [],
+      "canceled": true
+    },
     {
       "notice_id": "1116111",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116111.html",
@@ -194,23 +211,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1106885",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106885.html",
-      "title": "**CANCELED*** Erda Planning Commission Meeting",
-      "event_date": "September 8, 2026 07:00 PM",
-      "event_date_iso": "2026-09-08T19:00:00",
-      "notice_types": [
-        "Meeting"
-      ],
-      "agenda_text": "****CANCELED*****Notice is hereby given that the Planning Commission's Scheduled Meeting on Tuesday September 8th, 2026 has been canceled. The Planning Commission will hold their next regularly scheduled meeting on Tuesday September 22nd, 2026 at 7:00pm. At the Erda City Office, Erda Fire Station, 2163 W. Erda Way, Erda UT.",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "September 07, 2026 09:19 PM",
-      "attachments": [],
-      "canceled": true
     },
     {
       "notice_id": "1104057",

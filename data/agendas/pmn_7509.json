@@ -4,8 +4,68 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-11-02T17:50:51.843990+00:00",
+  "scraped_at": "2026-11-16T17:59:03.866332+00:00",
   "notices": [
+    {
+      "notice_id": "1121991",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121991.html",
+      "title": "Erda City Council Meeting",
+      "event_date": "November 12, 2026 07:00 PM",
+      "event_date_iso": "2026-11-12T19:00:00",
+      "notice_types": [
+        "Meeting"
+      ],
+      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, November 12, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/ncn-ihrp-tki\r\nOr dial:  (US) +1 518-407-5926  PIN:  122 121 167 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 10-08-26\r\nTreasurer Report\r\nSheriff's Report\r\nNTFD Report\r\nConsideration of Ordinance 26-12 Amending Section 1-5-3 of the Erda Code of Ordinances by Requiring All Checks to Be Signed by the City Recorder and a Member of the City Council\r\nConsideration of Ordinance 26-13 Amending the Official Zoning Map of Erda to Rezone Property Located at Approximately 704 East Bates Canyon Road from RR-5 (Rural Residential 5 Acre) to RR-1 (Rural Residential 1 Acre)\r\nConsideration of Resolution 26-12 Identifying a Fair and Transparent Method That the Council Will Use to Fill a Midterm Vacancy in Council in the Event of a Tie. \r\nDiscussion Regarding the Upcoming City Council Vacancy and Appointment Process.\r\nDiscussion Regarding Potential RR-5 Zoning Changes - Planning Commissioner Kathleen Mallis\r\nDiscussion on potential street lights at sheep lane and Erda way\r\nDiscussion on HOAs and parks.\r\nDiscussion on 6 Mile Ranch Lawsuit\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\n\r\nFOLLOW UP ITEMS:\r\nJohn on Enbridge Gas agreement\r\nCreate an Audit form to audit businesses\r\nRabbit Lane Locks\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "November 09, 2026 06:55 PM",
+      "attachments": [
+        {
+          "file_name": "11-12-26 Agenda for City Council (1).docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513611.docx",
+          "date_added": "2026/11/09 06:49 PM",
+          "file_id": "1513611"
+        },
+        {
+          "file_name": "October Financial Report 26' (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513613.pdf",
+          "date_added": "2026/11/09 06:50 PM",
+          "file_id": "1513613"
+        },
+        {
+          "file_name": "Ordinance 26-12 Amending Section 1-5-3 of the Erda Code of Ordinances by Requiring All Checks to Be Signed by the City Recorder and a Member of the City Council.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513615.docx",
+          "date_added": "2026/11/09 06:50 PM",
+          "file_id": "1513615"
+        },
+        {
+          "file_name": "Ordinance 26-13 Rezone 704 EAST BATES CANYON ROAD .docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513617.docx",
+          "date_added": "2026/11/09 06:52 PM",
+          "file_id": "1513617"
+        },
+        {
+          "file_name": "Resolution 26-12 A Resolution Identifying a Fair and Transparent Method That the Council Will Use to Fill a Midterm Vacancy in Council in the Event of a Tie.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513619.docx",
+          "date_added": "2026/11/09 06:54 PM",
+          "file_id": "1513619"
+        },
+        {
+          "file_name": "Salt rezone staff report (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513621.pdf",
+          "date_added": "2026/11/09 06:54 PM",
+          "file_id": "1513621"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1116869",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116869.html",
@@ -233,24 +293,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1101875",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101875.html",
-      "title": "**CANCELED*** Erda City Council Meeting",
-      "event_date": "August 13, 2026 07:00 PM",
-      "event_date_iso": "2026-08-13T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "**PUBLIC NOTICE - CITY COUNCIL MEETING CANCELED**\r\n\r\nDue to the **Tornado Warning** and out of concern for the safety of our residents, staff, and City Council members, **today's City Council meeting has been canceled**.\r\n\r\nThe meeting will be **rescheduled for a future date**, which will be announced as soon as possible.\r\n\r\nPlease stay safe, remain weather-aware, and follow all emergency alerts and guidance from local authorities.\r\n\r\nThank you for your understanding.\r\n\r\n**City of Erda**",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "August 13, 2026 06:18 PM",
-      "attachments": [],
-      "canceled": true
-    },
-    {
       "notice_id": "1100891",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1100891.html",
       "title": "Erda City Council Meeting",
@@ -291,43 +333,22 @@
       "canceled": false
     },
     {
-      "notice_id": "1093601",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1093601.html",
-      "title": "Erda City Council Meeting",
-      "event_date": "July 9, 2026 07:00 PM",
-      "event_date_iso": "2026-07-09T19:00:00",
+      "notice_id": "1101875",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101875.html",
+      "title": "**CANCELED*** Erda City Council Meeting",
+      "event_date": "August 13, 2026 07:00 PM",
+      "event_date_iso": "2026-08-13T19:00:00",
       "notice_types": [
+        "Notice",
         "Meeting"
       ],
-      "agenda_text": "Notice is hereby given that the Erda City Council will hold a meeting on Thursday, July 9, 2026 at 7:00pm. The meeting will be held at the Erda City Fire Station/Office, located at 2163 West Erda Way, Erda, Utah\r\n\r\nYou may join in person or via Google Meet link: https://meet.google.com/zas-aheq-itv\r\nOr dial:  (US) +1 260-233-2131  PIN:  839 738 650 #\r\n\r\n\r\nCall to Order\r\nRoll Call\r\nPledge\r\nPublic Comment\r\nApprove meeting minutes from 6-25-26\r\nTreasurer Report\r\nSheriff's Report\r\nNTFD Report\r\nConsideration of Echo Plat 5 Park Plan Approval\r\nCouncil Representative Reports\r\nAdjournment \r\n\r\nFOLLOW UP ITEMS:\r\n\r\n**All handouts for this meeting can be found on the city's website erda.gov under the calendar section**\r\n\r\nBoard may elect to go into a closed session which will not be open to the public pursuant to Utah Code Ann. §52-4-205(1).",
+      "agenda_text": "**PUBLIC NOTICE - CITY COUNCIL MEETING CANCELED**\r\n\r\nDue to the **Tornado Warning** and out of concern for the safety of our residents, staff, and City Council members, **today's City Council meeting has been canceled**.\r\n\r\nThe meeting will be **rescheduled for a future date**, which will be announced as soon as possible.\r\n\r\nPlease stay safe, remain weather-aware, and follow all emergency alerts and guidance from local authorities.\r\n\r\nThank you for your understanding.\r\n\r\n**City of Erda**",
       "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": "Sheldon Birch",
       "contact_email": "sbirch@erda.gov",
-      "posted_on": "July 06, 2026 06:13 PM",
-      "attachments": [
-        {
-          "file_name": "7-09-26 Audio of City Council Meeting.mp3",
-          "category": "Audio Recording",
-          "url": "https://www.utah.gov/pmn/files/1460139.mp3",
-          "date_added": "2026/07/10 08:47 AM",
-          "file_id": "1460139"
-        },
-        {
-          "file_name": "7-09-26 Signed Meeting Minutes City Council.pdf",
-          "category": "Meeting Minutes",
-          "url": "https://www.utah.gov/pmn/files/1478325.pdf",
-          "date_added": "2026/08/21 10:47 AM",
-          "file_id": "1478325"
-        },
-        {
-          "file_name": "Oquirrh Point plat 5 park plan staff report Council 07092026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1458059.pdf",
-          "date_added": "2026/07/06 06:12 PM",
-          "file_id": "1458059"
-        }
-      ],
-      "canceled": false
+      "posted_on": "August 13, 2026 06:18 PM",
+      "attachments": [],
+      "canceled": true
     }
   ]
 }

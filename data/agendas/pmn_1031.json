@@ -4,8 +4,170 @@
   "public_body": "City Council",
   "body_id": "1031",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
-  "scraped_at": "2026-11-02T17:52:51.410318+00:00",
+  "scraped_at": "2026-11-16T18:01:03.821302+00:00",
   "notices": [
+    {
+      "notice_id": "1123156",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1123156.html",
+      "title": "City Council Meeting",
+      "event_date": "November 17, 2026 06:30 PM",
+      "event_date_iso": "2026-11-17T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "CITY OF SOUTH JORDAN\t \r\nCITY COUNCIL MEETING AGENDA \t\r\nCITY COUNCIL CHAMBERS\t\r\nTUESDAY, NOVEMBER 17, 2026 at 6:30 PM\r\n\t\r\nNotice is hereby given that the South Jordan City Council will hold a City Council meeting at 6:30 p.m. on Tuesday, November 17, 2026. The meeting will be conducted in person in the City Council Chambers, located at 1600 W. Towne Center Drive, South Jordan, Utah, and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the meeting. The agenda may be amended, and an executive session may be held at the end of the meeting. Times listed are approximate and may be accelerated or delayed.\r\n\r\nIn addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. \r\nPlease note that attendees joining virtually or by phone may not comment during public comment or a public hearing; to comment, individuals must attend in person or submit written comments prior to the meeting. To ensure comments are received, please submit them in writing to City Recorder Anna Crookston at acrookston@sjc.utah.gov by 3:00 p.m. on the day of the meeting. \t\r\n\r\nThe ability to participate virtually depends on the individual's internet connection. Instructions on how to join virtually are provided below.\t\r\n\r\nJoin South Jordan City Council Meeting Virtually:\r\n-       Join on any device that has internet capability.\t\r\n-       Zoom link, Meeting ID and Password will be provided 24 hours prior to meeting start time.\t \r\n-       Zoom instructions are posted https://ut-southjordan.civicplus.com/241/City-Council. \t\r\nRegular Meeting Agenda: 6:30 p.m.\r\n\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Council Member, Don Shelton\r\nC.\tPledge of Allegiance: By Assistant City Manager, Don Tingey\r\nD.\tMinute Approval:\r\nD.1.\tSeptember 15, 2026 City Council Study Meeting \r\nD.2.\tSeptember 15, 2026 Combined City Council & Municipal Board Authority Meeting \r\nD.3.\tOctober 6, 2026 City Council Study Meeting \r\nD.4.\tOctober 6, 2026 Combined City Council & Municipal Board Authority Meeting \r\nE.\tMayor and Council Reports: 6:35 p.m.\r\nF.\tPublic Comment: 6:50 p.m.\r\nThis is the time and place on the agenda for any person who wishes to comment. Any person or group wishing to comment on any item not otherwise scheduled for public hearing on the agenda may address the City Council at this point by stepping to the microphone, and giving their name and address for the record. Note, to participate in public comment you must attend City Council Meeting in-person. Comments should be limited to not more than three (3) minutes, unless additional time is authorized by the Chair. Groups wishing to comment will be asked to appoint a spokesperson. Items brought forward to the attention of the City Council will be turned over to staff to provide a response outside of the City Council Meeting. Time taken on non-agenda items, interrupts the process of the noticed agenda.\r\nG.\tPresentation Item: 7:00 p.m.\r\nG.1.\tUSU Wellbeing Survey results. (By Dr. Courtney Flint)\r\nH.\tAction Item: 7:15 p.m.\r\nH.1.\tResolution R2026-31, Authorizing the Mayor of the City of South Jordan to sign a Franchise Agreement with Forged Fiber 37, LLC. (By Assistant City Manager, Don Tingey) \r\nI.\tPublic Hearing Item: 7:20 p.m.\r\nI.1.\tOrdinance 2026-26, Amending Chapter 17.112.070 (Monopoles), of the City Municipal Code. RCV (By Director of Planning & Economic Development, Brian Preece) \r\nJ.\tStaff Reports and Calendaring Items: 7:30 p.m.\r\nADJOURNMENT\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\nCOUNTY OF SALT LAKE\t)\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted November 13, 2026.",
+      "meeting_location": "1600 W. Towne Center Drive City Council Chambers with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 13, 2026 12:50 PM",
+      "attachments": [
+        {
+          "file_name": "11-17-2026 City of South Jordan City Council Meeting Agenda_FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1516536.pdf",
+          "date_added": "2026/11/13 12:49 PM",
+          "file_id": "1516536"
+        },
+        {
+          "file_name": "11-17-2026 City of South Jordan City Council Meeting Agenda with Supporting Documents_FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1516538.pdf",
+          "date_added": "2026/11/13 12:49 PM",
+          "file_id": "1516538"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1121225",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121225.html",
+      "title": "Amended - Notice of Public Hearing",
+      "event_date": "November 17, 2026 06:30 PM",
+      "event_date_iso": "2026-11-17T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\n\r\nNotice is hereby given that the South Jordan City Council will hold an in-person meeting on Tuesday, November17, 2026, beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n\r\n. Ordinance 2026-26, Public Hearing - Zone Text Amendment (Monopole Distance Requirement from 1 mile to 1/2 mile). Monopole Distance Requirement Reduction, Rocky Schutjer / RAGE Development (applicant)\r\n\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing. All those who desire to attend the meeting via Zoom, please visit https://ut-southjordan.civicplus.com/241/City-Council for further instructions on the day of the meeting. Ability to connect is dependent on an individual's internet connection, not the City.\r\n\r\n\r\nTo assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Ryan Loose at rloose@sjc.utah.gov by 12:00 p.m. on November 17, 2026. Attachments cannot exceed 20 Mb in size.\r\n\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.\r\n\r\n\r\nGreg Schindler, AICP\r\n\r\nCity Planner",
+      "meeting_location": "1600 W. Towne Center Drive City Council Chambers with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 06, 2026 08:33 AM",
+      "attachments": [
+        {
+          "file_name": "Amended State Notice Website Combined Notice-City Council.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1513163.pdf",
+          "date_added": "2026/11/09 12:31 PM",
+          "file_id": "1513163"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1123162",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1123162.html",
+      "title": "Notice of Meeting Cancelation November 17, 2026 City Council Study Meeting",
+      "event_date": "November 17, 2026 04:30 PM",
+      "event_date_iso": "2026-11-17T16:30:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "CITY OF SOUTH JORDAN CITY COUNCIL STUDY MEETING\r\n\r\nNOTICE IS HEREBY GIVEN, the City Council Study Meeting scheduled for November 17, 2026, at 4:30 p.m. has been CANCELED.\r\n\r\nThe next City Council Study Meeting is scheduled for December 1, 2026.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 13, 2026 12:53 PM",
+      "attachments": [
+        {
+          "file_name": "11-17-2026 City of South Jordan City Council Study Meeting Cancelation Notice.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1516546.pdf",
+          "date_added": "2026/11/13 12:53 PM",
+          "file_id": "1516546"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1121635",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121635.html",
+      "title": "City of South Jordan City Council Budget Meeting",
+      "event_date": "November 10, 2026 07:00 PM",
+      "event_date_iso": "2026-11-10T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting"
+      ],
+      "agenda_text": "CITY OF SOUTH JORDAN \r\nCITY COUNCIL BUDGET MEETING AGENDA \t\r\nCOUNCIL WORK ROOM\t\r\nTUESDAY, NOVEMBER 10, 2026 at 7:00 p.m. \t\r\n\r\nNotice is hereby given that the South Jordan City Council will hold a Budget Meeting on Tuesday, November 10, 2026, at South Jordan City Hall, in the Council Work Room located at 1600 W. Towne Center Drive, South Jordan, Utah. Individuals with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the meeting. \r\n\r\nDinner: 6:15 p.m.\r\nBudget Meeting Agenda: 7:00 p.m.\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Director of City Commerce, Brian Preece\r\nC.\tDiscussion Item:\r\nC.1. Fiscal Year 2027-28 Budget. (By City Manager, Dustin Lewis) \r\nADJOURNMENT\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\nCOUNTY OF SALT LAKE\t)\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted November 9, 2026.",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall Council Work Room South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 09, 2026 09:11 AM",
+      "attachments": [
+        {
+          "file_name": "11-10-2026 City Council Budget Meeting Agenda_FINAL.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1512923.pdf",
+          "date_added": "2026/11/09 09:10 AM",
+          "file_id": "1512923"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1120783",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1120783.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "November 7, 2026 09:00 AM",
+      "event_date_iso": "2026-11-07T09:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members may\r\nAttend the Following Event:\r\n\r\nVeterans Day Breakfast\r\nSouth Jordan Community Center\r\n10778 S. Redwood Road\r\nSouth Jordan, UT 84095\r\nSaturday, November 7, 2026\r\n9:00 a.m. -  11:00 a.m.\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 5th Day of November 2026.",
+      "meeting_location": "10778 S. Redwood Road South Jordan Community Center South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 05, 2026 08:14 AM",
+      "attachments": [
+        {
+          "file_name": "11-07-2026 Notice of Potential Quorum - Veterans Day Breakfast.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1511331.pdf",
+          "date_added": "2026/11/05 08:14 AM",
+          "file_id": "1511331"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1120781",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1120781.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "November 6, 2026 09:45 AM",
+      "event_date_iso": "2026-11-06T09:45:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members may\r\nAttend the Following Event:\r\n\r\nGreat Salt Lake Tour\r\nGillmor Sanctuary\r\n401 Jimmy Doolittle Road\r\nSalt Lake City, UT 84116\r\nFriday, November 6, 2026\r\n9:45 a.m. to 2:00 p.m.\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 5th Day of November, 2026.",
+      "meeting_location": "401 Jimmy Doolittle Road Gillmore Sanctuary Salt Lake City, UT 84116 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 05, 2026 08:10 AM",
+      "attachments": [
+        {
+          "file_name": "11-06-2026 Notice of Potential Quorum - Great Salt Lake Tour.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1511327.pdf",
+          "date_added": "2026/11/05 08:10 AM",
+          "file_id": "1511327"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1118419",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1118419.html",
@@ -89,34 +251,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1109399",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109399.html",
-      "title": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED",
-      "event_date": "October 6, 2026 06:30 PM",
-      "event_date_iso": "2026-10-06T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that on September 15, 2026, the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') adopted a resolution (the 'Resolution') declaring its intention to issue its Lease Revenue Bonds, Series 2026 (the 'Bonds'), and calling a public hearing to receive input from the public with respect to the issuance of the Bonds.\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\nThe Authority shall hold a public hearing on October 6, 2026, at the hour of 6:30 p.m.  The location of the public hearing is at the City offices of South Jordan, Utah (the 'City') located at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the hearing is to receive input from the public with respect to: (a) the proposed Bonds, and (b) any potential economic impact that the improvements, facility or property financed in whole or in part with the proceeds of the Bonds may have on the private sector.  All members of the public are invited to attend and participate. \r\n\r\nPURPOSE FOR ISSUING BONDS\r\nThe Authority intends to issue the Bonds to provide funds to (a) finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required deposits to a debt service reserve fund; and (c) pay costs associated with the issuance of the Bonds.  \r\n\r\nPARAMETERS OF THE BONDS\r\nThe Authority intends to issue the Bonds in a principal amount of not to exceed Twenty-Seven Million Dollars ($27,000,000), to bear interest at a rate or rates of not to exceed six percent (6.00%) per annum, to mature in not more than thirty-one (31) years from their date or dates, and to be sold at a price not less than ninety-seven percent (97%) of the total principal amount thereof, plus accrued interest, if any, to the date of delivery of the Bonds.\r\nThe Bonds are to be issued and sold by the Authority pursuant to the Resolution, including as attachments to said Resolution a form of the General Indenture of Trust and First Supplemental Indenture of Trust (collectively, the 'Indenture') and a form of a Master Lease Agreement (the 'Lease'), which were before the Board at the time of the adoption of the Resolution.  The Indenture and the Lease are to be executed by the Authority and/or the City with such terms and provisions and any changes thereto as authorized by the Resolution.\r\n \r\nSECURITY FOR THE BONDS\r\nThe Bonds are payable solely from the rents, revenues and other income received by the Authority from the leasing of the Series 2026 Project to the City on an annually renewable basis (the 'Lease Revenues').\r\n\r\nOUTSTANDING BONDS SECURED BY LEASE REVENUES\r\nThe Authority currently has no bonds outstanding secured by Lease Revenues.\r\n\r\nOTHER OUTSTANDING BONDS OF THE AUTHORITY\r\nInformation regarding all of the Authority's outstanding bonds may be found in the City's audited financial report (the 'Financial Report') at https://reporting.auditor.utah.gov/searchreports/s/.  For additional information, including any more recent than as of the date of the Financial Report please contact Anna Crookston, Secretary-Treasurer at (801) 446-4357.\r\n\r\nTOTAL ESTIMATED COST\r\nBased on an estimate of the current interest rate and financing plan, the estimated total debt service cost of the Bonds, if held until maturity, is $43,667,000.\r\n\r\nA copy of the Resolution and the forms of Indenture and the Lease are on file in the City offices, located at 1600 W. Towne Center Drive, South Jordan, Utah, where they may be examined during regular business hours from 8:00 a.m. to 6:00 p.m., Monday through Thursday, and 8:00 a.m. to 12:00 p.m. on Friday, for a period of at least thirty (30) days from and after the last date of posting of this notice.\r\n\r\nNOTICE IS FURTHER GIVEN that a period of thirty (30) days from and after the date of the posting of this notice is provided by law during which (i) any person in interest shall have the right to contest the legality of the Resolution, the Indenture, the Lease, or the Bonds, or any provision made for the security and payment of the Bonds, and after such time, no one shall have any cause of action to contest the regularity, formality or legality thereof for any cause whatsoever, and (ii) active voters (as defined in Section 20A-1-102 of the Utah Code Annotated 1953, as amended) within the City may sign a written petition requesting an election to authorize the issuance of the Bonds.  If written petitions which have been signed by at least twenty percent (20%) of the active voters of the City are filed with the Authority during said 30-day period, the Authority shall be required to hold an election to obtain voter authorization prior to the issuance of the Bonds.  If fewer than twenty percent (20%) of the active voters of the City file a written petition during said 30-day period, the Authority may proceed to issue the Bonds without an election.\r\n\r\nDATED this September 16, 2026. \r\n\t/s/Anna Crookston\t\r\n\tSecretary-Treasurer",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 16, 2026 04:39 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 NOTICE OF PUBLIC HEARING AND BONDS TO BE ISSUED.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489563.pdf",
-          "date_added": "2026/09/16 04:39 PM",
-          "file_id": "1489563"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1109401",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109401.html",
       "title": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND AND PUBLIC HEARING",
@@ -140,164 +274,6 @@
           "url": "https://www.utah.gov/pmn/files/1489565.pdf",
           "date_added": "2026/09/16 04:41 PM",
           "file_id": "1489565"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1112609",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112609.html",
-      "title": "Combined City Council & Municipal Building Authority Board Meeting",
-      "event_date": "October 6, 2026 06:30 PM",
-      "event_date_iso": "2026-10-06T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN\t \r\nCOMBINED CITY COUNCIL & MUNICIPAL BUILDING AUTHORITY BOARD MEETING AGENDA \t\r\nCITY COUNCIL CHAMBERS\t\r\nTUESDAY, OCTOBER 06, 2026 at 6:30 p.m.\t\r\nNotice is hereby given that the South Jordan City Council will hold a Combined City Council and Municipal Building Authority Board meeting at 6:30 p.m. on Tuesday, October 6, 2026. The meeting will be conducted in person in the City Council Chambers, located at 1600 W. Towne Center Drive, South Jordan, Utah, and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the meeting. The agenda may be amended, and an executive session may be held at the end of the meeting. Times listed are approximate and may be accelerated or delayed.\r\nIn addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. \r\nPlease note that attendees joining virtually or by phone may not comment during public comment or a public hearing; to comment, individuals must attend in person or submit written comments prior to the meeting. To ensure comments are received, please submit them in writing to City Recorder Anna Crookston at acrookston@sjc.utah.gov by 3:00 p.m. on the day of the meeting. \r\nThe ability to participate virtually depends on the individual's internet connection. Instructions on how to join virtually are provided below.\r\nJoin South Jordan City Council Meeting Virtually:\r\n-           Join on any device that has internet capability.\r\n-           Zoom link, Meeting ID and Password will be provided 24 hours prior to meeting start time. \r\n-           Zoom instructions are posted https://ut-southjordan.civicplus.com/241/City-Council.  \r\nRegular Meeting Agenda: 6:30 p.m.\r\n\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Council Member, Don Shelton\r\nC.\tPledge of Allegiance: By CFO, Sunil Naidu\r\nD.\tMayor and Council Reports: 6:35 p.m.\r\nE.\tPublic Comment: 6:50 p.m.\r\nThis is the time and place on the agenda for any person who wishes to comment. Any person or group wishing to comment on any item not otherwise scheduled for public hearing on the agenda may address the City Council at this point by stepping to the microphone, and giving their name and address for the record. Note, to participate in public comment you must attend City Council Meeting in-person. Comments should be limited to not more than three (3) minutes, unless additional time is authorized by the Chair. Groups wishing to comment will be asked to appoint a spokesperson. Items brought forward to the attention of the City Council will be turned over to staff to provide a response outside of the City Council Meeting. Time taken on non-agenda items, interrupts the process of the noticed agenda.\r\nF.\tPresentation Item: 7:00 p.m.\r\nF.1.\tSandbox Theater. (By Director of Recreation, Janell Payne)\r\nRECESS CITY COUNCIL MEETING AND MOVE TO MUNICIPAL BUILDING AUTHORITY BOARD MEETING\r\nG.\tMunicipal Building Authority Board Meeting Public Hearing Items: 7:15 p.m.\r\nG.1.\tPublic hearing to receive input from the public regarding (a) the issuance of not more than $27,000,000 of Lease Revenue Bonds and (b) any potential economic impact the improvements, facility or property financed in whole or in part with the proceeds of said bonds may have on the private sector. RCV (By CFO, Sunil Naidu)\r\nG.2.\tPublic hearing, to be held separate from any other public hearing, regarding (a) the issuance of not more than $27,000,000 of Lease Revenue Bonds, and (b) providing each member of the public desiring to be heard an opportunity to present testimony on the proposed issuance of a lease revenue bond. RCV (By CFO, Sunil Naidu)\r\nADJOURN MUNICIPAL BUILDING AUTHORITY BOARD MEETING AND RETURN TO CITY COUNCIL MEETING\r\nH.\tStaff Reports and Calendaring Items: 7:45 p.m.\r\nADJOURNMENT\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\nCOUNTY OF SALT LAKE\t)\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted October 2, 2026.",
-      "meeting_location": "1600 W. Towne Center Drive City Council Chambers with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "October 02, 2026 05:13 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 City of South Jordan Combined City Council_Municipal Building Authority Board Meeting Agenda_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1496263.pdf",
-          "date_added": "2026/10/02 05:13 PM",
-          "file_id": "1496263"
-        },
-        {
-          "file_name": "10-06-2026 City of South Jordan Combined City Council _Municipal Building Authority Board Meeting Agenda with Supporting Documents_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1496265.pdf",
-          "date_added": "2026/10/02 05:13 PM",
-          "file_id": "1496265"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1112605",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112605.html",
-      "title": "City Council Study Meeting",
-      "event_date": "October 6, 2026 04:30 PM",
-      "event_date_iso": "2026-10-06T16:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN\t \r\nCITY COUNCIL STUDY MEETING AGENDA \t\r\nCITY COUNCIL WORK ROOM\t\r\nTUESDAY, OCTOBER 6, 2026 at 4:30 p.m.\t\r\nNotice is hereby given that the South Jordan City Council will hold a City Council Study Meeting at 4:30 p.m. on Tuesday, October 6, 2026, in person in the City Council Work Room, located at 1600 W. Towne Center Drive, South Jordan, Utah and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the Meeting. The agenda may be amended, and an Executive Session may be held at the end of the Meeting. Times listed are approximate and may be accelerated or delayed. \r\nIn addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. \r\nAbility to participate virtually is dependent on an individual's internet connection. Instructions on how to join virtually are below.\r\nJoin Study Meeting Virtually:\r\n-           Join on any device that has internet capability.\r\n-           Zoom link, Meeting ID and Password will be provided 24 hours prior to meeting start time. \r\n-           Zoom instructions are posted https://ut-southjordan.civicplus.com/241/City-Council. \r\n\r\nStudy Meeting Agenda: 4:30 p.m.\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Council Member, Patrick Harris\r\nC.\tMayor and Council Coordination\r\nD.\tDiscussion/Review of Regular Council Meeting\r\nE.\tDiscussion Item: 4:45 p.m.\r\nE.1.\tRepresentative Kennedy. (By City Attorney, Ryan Loose)\r\nF.\tPresentation Item: 5:30 p.m.\t\r\nF.1.\tUDOT AAM Local Government Toolkit. (By Natalie Aldous, X-Factor Strategic Communications Specialist)\r\nF.2.\tUnified Development Code. (By Director or Planning & Economic Development, Brian Preece &Long-Range Planner, Joe Moss)\r\nADJOURNMENT\t\r\n\t\tCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\n: §\r\nCOUNTY OF SALT LAKE\t)\r\n\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South        Jordan City's website at www.sjc.utah.gov. Published and posted October 2, 2026.",
-      "meeting_location": "1600 W. Towne Center Drive Council Work Room with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "October 02, 2026 05:11 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 City of South Jordan City Council Study Meeting Agenda_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1496259.pdf",
-          "date_added": "2026/10/02 05:11 PM",
-          "file_id": "1496259"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1106483",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106483.html",
-      "title": "NOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)",
-      "event_date": "September 15, 2026 06:30 PM",
-      "event_date_iso": "2026-09-15T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "September 4, 2026\r\n\r\nNOTICE OF INTENT TO ENACT OR MODIFY THE PUBLIC SAFETY IMPACT FEE FACILITIES PLAN (IFFP) AND IMPACT FEE ANALYSIS (IFA)\r\n\r\nSouth Jordan City, located in Salt Lake County, Utah serving development within the City's current municipal boundaries, intends to enact or modify its Impact Fee Facilities Plan (IFFP) and Impact Fee Analysis (IFA) related to public safety (Ordinance 2026-13) see service areas map below.  \r\n\r\nNotice is hereby given of a Public Hearing at 6:30pm on Tuesday, September 15, 2026 at South Jordan City Council Chambers (1600 W Towne Center Dr. South Jordan, UT 84095).  The City invites the public to attend the hearing and provide any comments related to the referenced documents.  The draft documents are also available for review at both South Jordan libraries (South Jordan Library, 10673 S Redwood Rd and Daybreak Library, 11358 Grandville Ave) and on the City's website at https://ut-southjordan.civicplus.com/500/Public-Notices",
-      "meeting_location": "1600 W. Towne Center Drive City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 04, 2026 10:29 AM",
-      "attachments": [
-        {
-          "file_name": "Notice for updated IFFP and IFA Public Safety_FINAL PACKET.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1484335.pdf",
-          "date_added": "2026/09/04 10:29 AM",
-          "file_id": "1484335"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1108275",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108275.html",
-      "title": "Combined City Council & Municipal Building Authority Board Meeting",
-      "event_date": "September 15, 2026 06:30 PM",
-      "event_date_iso": "2026-09-15T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN\t \r\nCOMBINED CITY COUNCIL & MUNICIPAL BUILDING AUTHORITY BOARD MEETING AGENDA \t\r\nCITY COUNCIL CHAMBERS\t\r\nTUESDAY, SEPTEMBER 15, 2026 at 6:30 PM\t\r\n\r\nNotice is hereby given that the South Jordan City Council will hold a Combined City Council and Municipal Building Authority Board meeting at 6:30 p.m. on Tuesday, September 15, 2026. The meeting will be conducted in person in the City Council Chambers, located at 1600 W. Towne Center Drive, South Jordan, Utah, and virtually via Zoom phone and video conferencing. Persons with disabilities requesting assistance should contact the City Recorder at least 24 hours prior to the meeting. The agenda may be amended, and an executive session may be held at the end of the meeting. Times listed are approximate and may be accelerated or delayed.\r\n\r\nIn addition to in-person attendance, the City intends to provide virtual access via Zoom for phone and video conferencing; however, virtual access is not guaranteed and may be limited by technical issues or connectivity constraints. Individuals may join via phone or video, using Zoom. In the event the Meeting is disrupted in any way that the City in its sole discretion deems inappropriate, the City reserves the right to immediately remove the individual(s) from the Meeting and, if needed, end virtual access to the Meeting. Reasons for removing an individual or ending virtual access to the Meeting include, but are not limited to, the posting of offensive pictures, remarks, or making offensive statements, disrespectful statements or actions, and any other action deemed inappropriate. \r\nPlease note that attendees joining virtually or by phone may not comment during public comment or a public hearing; to comment, individuals must attend in person or submit written comments prior to the meeting. To ensure comments are received, please submit them in writing to City Recorder Anna Crookston at acrookston@sjc.utah.gov by 3:00 p.m. on the day of the meeting. \r\n\r\nThe ability to participate virtually depends on the individual's internet connection. Instructions on how to join virtually are provided below.\r\n\r\nJoin South Jordan City Council Meeting Virtually:\r\n-           Join on any device that has internet capability.\r\n-           Zoom link, Meeting ID and Password will be provided 24 hours prior to meeting start time. \r\n-           Zoom instructions are posted https://ut-southjordan.civicplus.com/241/City-Council. \r\n\r\nRegular Meeting Agenda: 6:30 p.m.\r\nA.\tWelcome, Roll Call, and Introduction: By Mayor, Dawn R. Ramsey\r\nB.\tInvocation: By Council Member, Patrick Harris\r\nC.\tPledge of Allegiance: By Police Chief, Jeff Carr  \r\nD.\tMinute Approval:\r\nD.1.\tJuly 21, 2026 City Council Study Meeting\r\nD.2.\tJuly 21, 2026 City Council Meeting\r\nD.3.\tAugust 4, 2026 City Council Study Meeting\r\nD.4.\tAugust 4, 2026 City Council Meeting\r\nD.5.\tAugust 18, 2026 City Council Study Meeting\r\nD.6.\tAugust 18, 2026 City Council Meeting\r\nE.\tMayor and Council Reports: 6:35 p.m.\r\nF.\tPublic Comment: 6:50 p.m.\r\nThis is the time and place on the agenda for any person who wishes to comment. Any person or group wishing to comment on any item not otherwise scheduled for public hearing on the agenda may address the City Council at this point by stepping to the microphone, and giving their name and address for the record. Note, to participate in public comment you must attend City Council Meeting in-person. Comments should be limited to not more than three (3) minutes, unless additional time is authorized by the Chair. Groups wishing to comment will be asked to appoint a spokesperson. Items brought forward to the attention of the City Council will be turned over to staff to provide a response outside of the City Council Meeting. Time taken on non-agenda items, interrupts the process of the noticed agenda.\r\nG.\tPresentation Item: 7:00 p.m.\r\nG.1.\tProclamation of the City of South Jordan Constitution Week 2026. (By Mayor, Dawn R. Ramsey)  \r\nRECESS CITY COUNCIL MEETING AND MOVE TO MUNICIPAL BUILDING AUTHORITY BOARD MEETING\r\nH.\tMunicipal Building Authority Board Meeting Action Items: 7:05 p.m.\r\nH.1.\tReading of a Statement: The Municipal Building Authority of the City of South Jordan, Utah hereby intends to issue a lease revenue bond. The purpose of said bond is to provide funds to (a) finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Project'); (b) fund any required deposits to a debt service reserve fund; and (c) pay costs associated with the issuance of the Bonds. The estimated amount of the bond is $27,000,000.\r\nH.2.\tMBA Resolution 2026-01, Consideration for adoption of a resolution of the Municipal Building Authority of the City of South Jordan, Utah authorizing the issuance and sale of not more than $27,000,000 aggregate principal amount of Lease Revenue Bonds; and related matters. (By CFO, Sunil Naidu)\r\nADJOURN MUNICIPAL BUILDING AUTHORITY BOARD MEETING AND RETURN TO CITY COUNCIL MEETING\r\nI.\tAction Item: 7:15 p.m.\r\nI.1.\tResolution R2026-30, Consideration for adoption of a resolution of the City Council of the City of South Jordan, Utah (the 'City') authorizing and approving the execution and delivery of a Master Lease Agreement and a Ground Lease Agreement by and between the City and the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority'); authorizing the issuance and sale by the Authority of not more than $27,000,000 aggregate principal amount of Lease Revenue Bonds; and related matters. (By CFO, Sunil Naidu)\r\nJ.\tPublic Hearing Items: 7:25 p.m.\r\nJ.1.\tResolution R2026-29, Approving the 2025 Consolidated Annual Performance and Evaluation Report and authorizing submittal to the United States Department of Housing and Urban Development. RCV (By Senior Accountant, Abagail Patonai) \r\nJ.2.\tOrdinance 2026-13, Adopting an amended and updated impact fee for public safety infrastructure; establishing certain policies related to impact fees for public safety (fire infrastructure only) facilities; establishing the service area; and other related matters. RCV (By Assistant City Manager, Don Tingey) \r\nJ.3.\tOrdinance 2026-24, Amending Chapters 17.08 (Definitions), 17.30 (Agricultural Zones), 17.40 (Residential Zones), and 17.130.030 (Accessory Dwelling Unit Floating Zone) of the City Municipal Code to conform with recent changes in state law. RCV (By Long-Range Planner, Joe Moss)\r\nJ.4.\tOrdinance 2026-25, Prohibiting operation of Virtual Currency Kiosks. RCV (By Police Lieutenant, Adrian Montelongo) \r\nK.\tStaff Reports and Calendaring Items: 8:30 p.m.\r\nADJOURNMENT\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t)\r\nCOUNTY OF SALT LAKE\t)\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Agenda was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted September 11, 2026.",
-      "meeting_location": "1600 W. Towne Center Drive City Council Chambers with Zoom Webinar option South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 11, 2026 02:46 PM",
-      "attachments": [
-        {
-          "file_name": "09-15-2026 City of South Jordan Combined City Council and MBA Meeting Agenda_FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1487513.pdf",
-          "date_added": "2026/09/11 02:45 PM",
-          "file_id": "1487513"
-        },
-        {
-          "file_name": "09-15-2026 Executive Summary.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1487517.pdf",
-          "date_added": "2026/09/11 02:45 PM",
-          "file_id": "1487517"
-        },
-        {
-          "file_name": "09-15-2026 City of South Jordan Combined City Council & MBA Board Meeting Agenda with Supporting Documents_AMENDED FINAL.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1488347.pdf",
-          "date_added": "2026/09/14 05:51 PM",
-          "file_id": "1488347"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1106479",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1106479.html",
-      "title": "Notice of Public Hearing",
-      "event_date": "September 15, 2026 06:30 PM",
-      "event_date_iso": "2026-09-15T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Council will hold an in-person meeting on Tuesday, September 15, 2026, beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tOrdinance 2026-24, Text Amendment - Sections of the Municipal Code 17.08, 17.30, 17.40, and 17.130.130; ADU & Accessory Building Code Amendments.\r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://ut-southjordan.civicplus.com/241/City-Council for further instructions on the day of the meeting. Ability to connect is dependent on an individual's internet connection, not the City.\r\n\r\nTo assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Ryan Loose at rloose@sjc.utah.gov by 12:00 p.m. on September 15, 2026.  Attachments cannot exceed 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.\r\n\r\nGreg Schindler, AICP\r\nCity Planner",
-      "meeting_location": "1600 W. Towne Center Drive City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 04, 2026 10:26 AM",
-      "attachments": [
-        {
-          "file_name": "State Notice Website Combined Notice-City Council.doc.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1484333.pdf",
-          "date_added": "2026/09/04 10:25 AM",
-          "file_id": "1484333"
         }
       ],
       "canceled": false
