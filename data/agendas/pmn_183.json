@@ -4,8 +4,35 @@
   "public_body": "Planning Commission",
   "body_id": "183",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/183.html",
-  "scraped_at": "2026-11-16T18:02:39.571268+00:00",
+  "scraped_at": "2026-11-23T19:56:05.326092+00:00",
   "notices": [
+    {
+      "notice_id": "1124635",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1124635.html",
+      "title": "Planning Commission Public Notice",
+      "event_date": "December 2, 2026 06:30 PM",
+      "event_date_iso": "2026-12-02T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARINGS________________________________________\r\nNotice is hereby given that the American Fork City Planning Commission will hold a Public Hearing on December 2, 2026, in the City Hall, located at 31 N. Church Street, commencing at 6:30 PM. \r\nThe public and each affected entity is invited to provide information and comment for American Fork City to consider in the process of the proposed items.\r\n-\tNotice of public hearings and public meetings on adoption or modification of land use regulation.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Ordinance for Code Text Amendments related to the American Fork City Municipal Code. Amending Sections 17.1.700, 17.6.101, 17.7.212, 17.8.212, and 17.15.060, the Code Text Amendments plan to establish a land use hearing officer as the appeal authority for certain administrative land use decisions; and providing for related matters. \r\n\r\n \tDescription: The proposed amendment seeks to amend the American Fork Municipal Code to establish a land use hearing officer as the appeal authority for certain administrative land use decisions; and providing for related matters.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Code Text Amendment, known as Performance Guarantee, of the American Fork City Municipal Code. Amending Section 17.9, the Code Text Amendment clarifies improvements, public or private, required to be included in the performance guarantee that applicants provide to the City and clarifies expiration requirements.   \r\n\r\n \tDescription: The staff has initiated a Code Text Amendment to amend Section 17.9 of the American Fork City Municipal Code. The Code Text Amendment clarifies that performance guarantees need to be in place for the duration of the project without an expiration or that if they do have an expiration, a renewal will be required to ensure that a performance guarantee is in place until the project is completed and City Council has accepted the infrastructure and released the performance guarantee. It also requires the improvement warranty to be in place until the durability period for the project is completed, the applicant has completed all punchlist items, and all public infrastructure has been inspected by City Staff and meets all City standards. If the improvement warranty has an expiration, a renewal shall be required until the above mentioned items are complete. Further, it quantifies the contingency amount required for performance guarantees. Private infrastructure that is required to meet various qualifying criteria as outlined in Utah State code shall be included in the performance guarantee.\r\n \r\n-\tNotice of public hearings and public meetings to consider general plan modifications.\r\n\r\no\tPublic hearing, review, and recommendation on a proposed Zone Change, known as Payne Properties, located at approximately 20 S Jencks Ave, American Fork City. On approximately 0.235 acres, the property proposes to change from the R4-7500 Residential Zone to the CC-2 Central Commercial Zone. \r\n\r\n \tDescription: The proposed zone change seeks to amend the American Fork Zoning Map changing three parcels totaling 0.235 acres from R4-7500 Residential Zoning to CC-2 Commercial Zoning. The vacant lots lie on the west side of Jencks Avenue. No amendment to the General Plan Land Use Map is requested. \r\n\r\no\tPublic hearing, review, and recommendation on a proposed plan adoption known as the Polycentric City Center Master Plan.\r\n\r\n \tDescription: The proposed adoption of the Polycentric City Center Master Plan entails Planning Commission recommendation to the City Council for final determination on the adoption of the Master Plan. The plan examines improving connectivity, and solidifying neighborhood land uses and identity throughout American Fork through established nodes and centers.\r\nShortly before the public hearing, supporting documentation is posted on the city website at www.americanfork.gov or available by contacting the City Recorder at 801.763.3000.",
+      "meeting_location": "31 N Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
+      "contact_name": null,
+      "contact_email": null,
+      "posted_on": "November 18, 2026 01:15 PM",
+      "attachments": [
+        {
+          "file_name": "2026.12.02_PC Public Notice Letter.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1519343.pdf",
+          "date_added": "2026/11/18 01:15 PM",
+          "file_id": "1519343"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1121057",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121057.html",
@@ -43,7 +70,7 @@
     {
       "notice_id": "1117311",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1117311.html",
-      "title": "Planning Commission Public Notice, Agenda, and Packet",
+      "title": "Planning Commission Public Notice, Agenda, Packet, and Minutes",
       "event_date": "November 4, 2026 06:30 PM",
       "event_date_iso": "2026-11-04T18:30:00",
       "notice_types": [
@@ -57,6 +84,13 @@
       "contact_email": null,
       "posted_on": "October 21, 2026 12:53 PM",
       "attachments": [
+        {
+          "file_name": "11.04.2026 APPROVED PC Meeting Minutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1520077.pdf",
+          "date_added": "2026/11/19 11:11 AM",
+          "file_id": "1520077"
+        },
         {
           "file_name": "2026.11.04_PC Public Notice Letter.pdf",
           "category": "Public Information Handout",
@@ -329,31 +363,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1087445",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1087445.html",
-      "title": "Planning Commission Agenda - Canceled",
-      "event_date": "June 17, 2026 06:30 PM",
-      "event_date_iso": "2026-06-17T18:30:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "AMERICAN FORK CITY\r\nPLANNING COMMISSION AGENDA - CANCELED\r\n________________________________________\r\n\r\nRegular Session - Canceled\r\nJune 17, 2026\r\nWednesday 6:30 PM\r\n\r\nAmerican Fork City Hall\r\n31 North Church Street\r\nAmerican Fork City, UT 84003\r\nhttps://www.americanfork.gov/AgendaCenter\r\n\r\nPlanning Commission Members \r\nChristine Anderson, Chair\r\nChris Christiansen, Vice Chair   \r\nGeoff Dupaix\r\nRod Martin\r\nDavid Bird\r\nHarold Dudley\r\nClaire Oldham \r\n\r\nNotice is hereby given that the American Fork City Planning Commission regular session on June 17, 2026, has been canceled. \r\n\r\nDated this 9th day of June 2026\r\nPatrick O'Brien\r\nDevelopment Services Director\r\n\r\n*The order of agenda items may change at the discretion of the Planning Commission Chair",
-      "meeting_location": "31 North Church Street American Fork, UT 84003 Show in Apple Maps Show in Google Maps",
-      "contact_name": null,
-      "contact_email": null,
-      "posted_on": "June 09, 2026 10:48 AM",
-      "attachments": [
-        {
-          "file_name": "06.17.2026 Planning Commission Agenda - Canceled.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1445823.pdf",
-          "date_added": "2026/06/09 10:48 AM",
-          "file_id": "1445823"
-        }
-      ],
-      "canceled": true
     }
   ]
 }

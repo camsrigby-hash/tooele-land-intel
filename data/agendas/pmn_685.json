@@ -4,7 +4,7 @@
   "public_body": "City Council",
   "body_id": "685",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/685.html",
-  "scraped_at": "2026-11-16T17:59:28.119007+00:00",
+  "scraped_at": "2026-11-23T19:53:02.449540+00:00",
   "notices": [
     {
       "notice_id": "1123362",
@@ -24,6 +24,13 @@
       "posted_on": "November 13, 2026 04:34 PM",
       "attachments": [
         {
+          "file_name": "11.18.2026_CCAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1520177.mp3",
+          "date_added": "2026/11/19 12:15 PM",
+          "file_id": "1520177"
+        },
+        {
           "file_name": "11.18.2026_CCAgenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1516838.pdf",
@@ -36,6 +43,13 @@
           "url": "https://www.utah.gov/pmn/files/1516840.pdf",
           "date_added": "2026/11/13 04:34 PM",
           "file_id": "1516840"
+        },
+        {
+          "file_name": "11.18.2026_Public Materials Distributed-Presented at CC Meeting.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1520217.pdf",
+          "date_added": "2026/11/19 12:54 PM",
+          "file_id": "1520217"
         }
       ],
       "canceled": false
@@ -57,6 +71,13 @@
       "posted_on": "November 13, 2026 04:55 PM",
       "attachments": [
         {
+          "file_name": "11.18.2026_WKAudio.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1520183.mp3",
+          "date_added": "2026/11/19 12:17 PM",
+          "file_id": "1520183"
+        },
+        {
           "file_name": "11.18.2026_WKAgenda.pdf",
           "category": "Public Information Handout",
           "url": "https://www.utah.gov/pmn/files/1516858.pdf",
@@ -69,6 +90,13 @@
           "url": "https://www.utah.gov/pmn/files/1516860.pdf",
           "date_added": "2026/11/13 04:55 PM",
           "file_id": "1516860"
+        },
+        {
+          "file_name": "11.18.2026_Public Materials Distributed-Presented at WK Meeting.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1520205.pdf",
+          "date_added": "2026/11/19 12:42 PM",
+          "file_id": "1520205"
         }
       ],
       "canceled": false
@@ -95,6 +123,13 @@
           "url": "https://www.utah.gov/pmn/files/1511403.mp3",
           "date_added": "2026/11/05 09:08 AM",
           "file_id": "1511403"
+        },
+        {
+          "file_name": "11.04.2026_CCMinutes.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1520193.pdf",
+          "date_added": "2026/11/19 12:25 PM",
+          "file_id": "1520193"
         },
         {
           "file_name": "11.04.2026_CCAgenda.pdf",
@@ -178,6 +213,33 @@
       "canceled": false
     },
     {
+      "notice_id": "1111711",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111711.html",
+      "title": "Notice of Public Hearing to Consider FY27 Budget Amendments",
+      "event_date": "October 7, 2026 07:00 PM",
+      "event_date_iso": "2026-10-07T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "Public Notice\r\n\r\nNotice is hereby given that the Tooele Council of Tooele City, Utah, will hold a Public Hearing to consider approving budget amendments for fiscal year 2026-2027. The hearing will be held on Wednesday, October 7, 2026, at 7:00 p.m. The meeting will be held at the Tooele City Hall Council Chambers, located at 90 North Main Street, Tooele, Utah.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Recorder. Written comments must be submitted by 11:59 p.m. the day before the hearing. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodations should notify Shilo Baker, Tooele City Recorder, at 435-843-2113 or shilob@tooelecity.gov, prior to the meeting.",
+      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Clarissa Pankratz",
+      "contact_email": "clarissap@tooelecity.gov",
+      "posted_on": "September 29, 2026 03:34 PM",
+      "attachments": [
+        {
+          "file_name": "10.07.2026 Public Notice to Consider FY 2026–2027 Budget Amendments 09292026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1494457.pdf",
+          "date_added": "2026/09/29 03:32 PM",
+          "file_id": "1494457"
+        }
+      ],
+      "canceled": false
+    },
+    {
       "notice_id": "1112601",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1112601.html",
       "title": "Tooele City Council Business Meeting",
@@ -228,33 +290,6 @@
           "url": "https://www.utah.gov/pmn/files/1500917.pdf",
           "date_added": "2026/10/13 07:08 PM",
           "file_id": "1500917"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1111711",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1111711.html",
-      "title": "Notice of Public Hearing to Consider FY27 Budget Amendments",
-      "event_date": "October 7, 2026 07:00 PM",
-      "event_date_iso": "2026-10-07T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing"
-      ],
-      "agenda_text": "Public Notice\r\n\r\nNotice is hereby given that the Tooele Council of Tooele City, Utah, will hold a Public Hearing to consider approving budget amendments for fiscal year 2026-2027. The hearing will be held on Wednesday, October 7, 2026, at 7:00 p.m. The meeting will be held at the Tooele City Hall Council Chambers, located at 90 North Main Street, Tooele, Utah.\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Recorder. Written comments must be submitted by 11:59 p.m. the day before the hearing. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, individuals needing special accommodations should notify Shilo Baker, Tooele City Recorder, at 435-843-2113 or shilob@tooelecity.gov, prior to the meeting.",
-      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Clarissa Pankratz",
-      "contact_email": "clarissap@tooelecity.gov",
-      "posted_on": "September 29, 2026 03:34 PM",
-      "attachments": [
-        {
-          "file_name": "10.07.2026 Public Notice to Consider FY 2026–2027 Budget Amendments 09292026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1494457.pdf",
-          "date_added": "2026/09/29 03:32 PM",
-          "file_id": "1494457"
         }
       ],
       "canceled": false
@@ -314,34 +349,6 @@
       "canceled": false
     },
     {
-      "notice_id": "1105615",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105615.html",
-      "title": "Notice of Public Hearing with Respect to the Issuance of Sewer Revenue Bonds",
-      "event_date": "September 16, 2026 07:00 PM",
-      "event_date_iso": "2026-09-16T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "PUBLIC NOTICE\r\n\r\nTOOELE CITY, UTAH \r\nNOTICE OF PUBLIC HEARING WITH RESPECT TO \r\nSEWER REVENUE BONDS\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the City Council (the 'Council') of Tooele City, Utah (the 'City'), shall hold a public hearing to receive input from the public with respect to the issuance of its Sewer Revenue Bonds (the 'Bonds') to finance all or a portion of the cost of improvements (the 'Project') to the City's sewage collection and treatment system (collectively, the 'System') and the potential economic impact that the Project will have on the private sector, pursuant to the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (the 'Act'). \r\n\r\n\r\nPURPOSE FOR ISSUING BONDS\r\n\r\nThe City intends to issue the Bonds for the purpose of (1) financing all or a portion of the costs of the acquisition, construction and improvement of the Project, (2) funding any necessary reserves and contingencies in connection with the Bonds, and (3) paying the costs incurred in connection with the issuance and sale of the Bonds. \r\n\r\n\r\nMAXIMUM PRINCIPAL AMOUNT OF THE BONDS\r\n\r\nThe City intends to issue the Bonds in an aggregate principal amount not exceeding $14,000,000. \r\n\r\n\r\nSEWER REVENUES PROPOSED TO BE PLEDGED\r\n\t\r\nThe City proposes to pledge to the payment of the Bonds the net revenues from the System (the 'Net Revenues'). \r\n\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\n\r\nThe City will hold a public hearing during its City Council business meeting that begins at 7:00 p.m. on September 16, 2026. The public hearing will be held at the regular meeting place of the Council at 90 North Main Street, in Tooele, Utah. All members of the public are invited to attend and participate in the public hearing. Written comments may be submitted to the City, to the attention of the City Recorder, prior to the public hearing. \r\n\r\n\r\nPURPOSE FOR HEARING\r\n\r\nThe purpose of the hearing is to receive input from the public with respect to the issuance of the Bonds and the potential economic impact that the Project will have on the private sector. \r\n\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Recorder. Written comments must be submitted no later than the day prior to the meeting. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals Needing Special Accommodations Should Notify Shilo Baker, Tooele City Recorder, at 435-843-2113 or shilob@tooelecity.gov, Prior to the Meeting.\r\n\r\nDATED September 1, 2026",
-      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Clarissa Pankratz",
-      "contact_email": "clarissap@tooelecity.gov",
-      "posted_on": "September 01, 2026 04:11 PM",
-      "attachments": [
-        {
-          "file_name": "09.16.2026 Public Hearing for Issuance of the Series 2026 Sewer Revenue Bonds 09012026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1482641.pdf",
-          "date_added": "2026/09/01 04:11 PM",
-          "file_id": "1482641"
-        }
-      ],
-      "canceled": false
-    },
-    {
       "notice_id": "1108209",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1108209.html",
       "title": "Tooele City Council Business Meeting",
@@ -385,6 +392,34 @@
           "url": "https://www.utah.gov/pmn/files/1487435.pdf",
           "date_added": "2026/09/11 01:23 PM",
           "file_id": "1487435"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1105615",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1105615.html",
+      "title": "Notice of Public Hearing with Respect to the Issuance of Sewer Revenue Bonds",
+      "event_date": "September 16, 2026 07:00 PM",
+      "event_date_iso": "2026-09-16T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing",
+        "Bond"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\n\r\nTOOELE CITY, UTAH \r\nNOTICE OF PUBLIC HEARING WITH RESPECT TO \r\nSEWER REVENUE BONDS\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN that the City Council (the 'Council') of Tooele City, Utah (the 'City'), shall hold a public hearing to receive input from the public with respect to the issuance of its Sewer Revenue Bonds (the 'Bonds') to finance all or a portion of the cost of improvements (the 'Project') to the City's sewage collection and treatment system (collectively, the 'System') and the potential economic impact that the Project will have on the private sector, pursuant to the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (the 'Act'). \r\n\r\n\r\nPURPOSE FOR ISSUING BONDS\r\n\r\nThe City intends to issue the Bonds for the purpose of (1) financing all or a portion of the costs of the acquisition, construction and improvement of the Project, (2) funding any necessary reserves and contingencies in connection with the Bonds, and (3) paying the costs incurred in connection with the issuance and sale of the Bonds. \r\n\r\n\r\nMAXIMUM PRINCIPAL AMOUNT OF THE BONDS\r\n\r\nThe City intends to issue the Bonds in an aggregate principal amount not exceeding $14,000,000. \r\n\r\n\r\nSEWER REVENUES PROPOSED TO BE PLEDGED\r\n\t\r\nThe City proposes to pledge to the payment of the Bonds the net revenues from the System (the 'Net Revenues'). \r\n\r\n\r\nTIME, PLACE AND LOCATION OF PUBLIC HEARING\r\n\r\nThe City will hold a public hearing during its City Council business meeting that begins at 7:00 p.m. on September 16, 2026. The public hearing will be held at the regular meeting place of the Council at 90 North Main Street, in Tooele, Utah. All members of the public are invited to attend and participate in the public hearing. Written comments may be submitted to the City, to the attention of the City Recorder, prior to the public hearing. \r\n\r\n\r\nPURPOSE FOR HEARING\r\n\r\nThe purpose of the hearing is to receive input from the public with respect to the issuance of the Bonds and the potential economic impact that the Project will have on the private sector. \r\n\r\n\r\nTooele City public meetings may be recorded and transcribed for documentation and quality assurance purposes. By attending this meeting, you consent to being recorded. If you do not consent, we encourage you to join the City Council meeting electronically by visiting the Tooele City YouTube Channel, at https://www.youtube.com/@tooelecity or by going to YouTube.com and searching 'Tooele City Channel'. If you are attending electronically and would like to submit a written comment for the public comment period or for a public hearing item, please email cmpubliccomment@tooelecity.gov. If submission by email is not an option, written comments may be submitted to the City Recorder. Written comments must be submitted no later than the day prior to the meeting. Written comments will be addressed at the designated points in the meeting.\r\n\r\nPursuant to the Americans with Disabilities Act, Individuals Needing Special Accommodations Should Notify Shilo Baker, Tooele City Recorder, at 435-843-2113 or shilob@tooelecity.gov, Prior to the Meeting.\r\n\r\nDATED September 1, 2026",
+      "meeting_location": "90 North Main Street Tooele, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Clarissa Pankratz",
+      "contact_email": "clarissap@tooelecity.gov",
+      "posted_on": "September 01, 2026 04:11 PM",
+      "attachments": [
+        {
+          "file_name": "09.16.2026 Public Hearing for Issuance of the Series 2026 Sewer Revenue Bonds 09012026.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1482641.pdf",
+          "date_added": "2026/09/01 04:11 PM",
+          "file_id": "1482641"
         }
       ],
       "canceled": false

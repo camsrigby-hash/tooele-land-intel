@@ -4,8 +4,60 @@
   "public_body": "City Council",
   "body_id": "1031",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/1031.html",
-  "scraped_at": "2026-11-16T18:01:03.821302+00:00",
+  "scraped_at": "2026-11-23T19:54:34.036737+00:00",
   "notices": [
+    {
+      "notice_id": "1125525",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1125525.html",
+      "title": "Notice of Public Hearing",
+      "event_date": "December 1, 2026 06:30 PM",
+      "event_date_iso": "2026-12-01T18:30:00",
+      "notice_types": [
+        "Notice",
+        "Meeting",
+        "Hearing"
+      ],
+      "agenda_text": "NOTICE OF PUBLIC HEARING\r\n\r\nNotice is hereby given that the South Jordan City Council will hold an in-person meeting on Tuesday, December 1, 2026, beginning at 6:30 PM in the South Jordan City Hall, located at 1600 W. Towne Center Drive, South Jordan, Utah for the purpose of receiving public input on and reviewing each of the following:\r\n\r\n-\tZoning Ordinance 2026-07-Z, Public Hearing - Rezone Application No. PLZBA202600197, Rezone from R-1.8 to R-3, Address: 2929 W 11400 S., Val Brown (applicant) \r\n\r\nThe meeting may also be joined virtually via Zoom.us phone and video conferencing.  All those who desire to attend the meeting via Zoom, please visit https://ut-southjordan.civicplus.com/241/City-Council for further instructions on the day of the meeting. Ability to connect is dependent on an individual's internet connection, not the City.\r\n\r\nTo assure your comments are reviewed and included in the record, written comments may be submitted in advance of the meeting by emailing Ryan Loose at rloose@sjc.utah.gov by 12:00 p.m. on December 1, 2026.  Attachments cannot exceed 20 Mb in size.\r\nQuestions may be addressed Monday through Friday during regular business hours at the South Jordan City Offices at 801-254-3742.\r\n\r\nGreg Schindler, AICP\r\nCity Planner",
+      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 23, 2026 08:20 AM",
+      "attachments": [
+        {
+          "file_name": "State Notice Website Combined Notice-City Council.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1521741.pdf",
+          "date_added": "2026/11/23 08:20 AM",
+          "file_id": "1521741"
+        }
+      ],
+      "canceled": false
+    },
+    {
+      "notice_id": "1125059",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1125059.html",
+      "title": "Notice of Potential Quorum",
+      "event_date": "November 20, 2026 05:00 PM",
+      "event_date_iso": "2026-11-20T17:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "PUBLIC NOTICE\r\nNotice of Potential Quorum\r\n\r\nSouth Jordan City\r\nMayor & City Council Members may\r\nAttend the Following Event:\r\n\r\nLHM Winter Village Ballpark Lights & Giving Machines\r\nDowntown Daybreak - The Ballpark at America First Square\r\n11098 S. Grandville Avenue\r\nSouth Jordan, UT 84009\r\nFriday, November 20, 2026\r\n5:00 -  9:00 p.m.\r\n\r\nNOTE:   'No Motions or Actions will be taken by the South Jordan Council Members attending this Event.'\r\n\r\nCERTIFICATE OF POSTING\r\nSTATE OF UTAH\t\t)\r\n\t\t\t: §\r\nCOUNTY OF SALT LAKE\t)\r\n\t\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The notice was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov.  Dated and posted 19th Day of November 2026.",
+      "meeting_location": "11098 S. Grandville Avenue Downtown Daybreak The Ballpark at America First Square South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Anna Crookston",
+      "contact_email": "acrookston@sjc.utah.gov",
+      "posted_on": "November 19, 2026 02:33 PM",
+      "attachments": [
+        {
+          "file_name": "11-20-2026 Notice of Potential Quorum - LHM Winter Village.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1520365.pdf",
+          "date_added": "2026/11/19 02:33 PM",
+          "file_id": "1520365"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1123156",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1123156.html",
@@ -214,66 +266,6 @@
           "url": "https://www.utah.gov/pmn/files/1507003.pdf",
           "date_added": "2026/10/26 05:52 PM",
           "file_id": "1507003"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1116625",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1116625.html",
-      "title": "Notice of Meeting Cancelation - October 20, 2026 City Council Study Meeting and City Council Meeting",
-      "event_date": "October 20, 2026 04:30 PM",
-      "event_date_iso": "2026-10-20T16:30:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "CITY OF SOUTH JORDAN CITY COUNCIL MEETING\r\n\r\nNOTICE IS HEREBY GIVEN, the City Council Study Meeting at 4:30 p.m. and City Council Meeting at 6:30 p.m. scheduled for October 20, 2026 has been CANCELED.\r\n\r\nThe next City Council meeting is scheduled for November 17, 2026.\r\n\r\nI, Anna Crookston, the duly appointed City Recorder of South Jordan City, Utah, certify that the foregoing City Council Notice was emailed to at least one newspaper of general circulation within the geographic jurisdiction of the public body. The agenda was also posted at the principal office of the public body and also posted on the Utah State Public Notice Website http://www.utah.gov/pmn/index.html and on South Jordan City's website at www.sjc.utah.gov. Published and posted October 19, 2026.\r\n\r\n \r\nAnna Crookston, City Recorder\t\r\nCity of South Jordan, State of Utah",
-      "meeting_location": "1600 W, Towne Center Drive South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "October 19, 2026 01:30 PM",
-      "attachments": [
-        {
-          "file_name": "CITY COUNCIL STUDY MEETING_CANCELED MEETING NOTICE.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1503347.pdf",
-          "date_added": "2026/10/19 01:30 PM",
-          "file_id": "1503347"
-        },
-        {
-          "file_name": "CITY COUNCIL MEETING_CANCELED MEETING NOTICE.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1503349.pdf",
-          "date_added": "2026/10/19 01:30 PM",
-          "file_id": "1503349"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1109401",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1109401.html",
-      "title": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND AND PUBLIC HEARING",
-      "event_date": "October 6, 2026 06:30 PM",
-      "event_date_iso": "2026-10-06T18:30:00",
-      "notice_types": [
-        "Notice",
-        "Meeting",
-        "Hearing",
-        "Bond"
-      ],
-      "agenda_text": "NOTICE OF INTENT TO ISSUE A LEASE REVENUE BOND\r\nAND PUBLIC HEARING\r\n\r\nPUBLIC NOTICE IS HEREBY GIVEN pursuant to the provisions of the Local Building Authority Act, Title 17D, Chapter 2, Utah Code Annotated 1953, as amended, and the Local Government Bonding Act, Title 11, Chapter 14, Utah Code Annotated 1953, as amended (together, the 'Act'), that the Governing Board (the 'Board') of the Municipal Building Authority of the City of South Jordan, Utah (the 'Authority') intends to issue its Lease Revenue Bonds, Series 2026 (the 'Series 2026 Bonds') and will hold a public hearing to provide members of the public desiring to be heard an opportunity to present testimony on the proposed issuance of the Series 2026 Bonds in accordance with Sections 11-14-103 and 17D-2-501 of the Utah Code Annotated 1953, as amended.  Said public hearing will be held on October 6, 2026, at 6:30 p.m., at 1600 W. Towne Center Drive, South Jordan, Utah.  The purpose of the Series 2026 Bonds is to provide funds to finance the acquisition and construction of a new fire station and related improvements including a portion of fire training facilities located offsite (the 'Series 2026 Project'); (b) fund any required debt service reserve fund; and (c) pay costs associated with the issuance of the Series 2026 Bonds.  The length of term of the Series 2026 Bonds shall not exceed 26 years.  The average annual amount that the Authority will be required to pay in principal and interest on the Series 2026 Bonds is $1,732,500.  The intended lessee of the facility to be constructed using proceeds from the Series 2026 Bonds is the City of South Jordan, Utah (the 'City') and the expected annual amount of lease payments that the City will pay is $1,732,500.  The Authority anticipates taking action on the proposal to issue the Series 2026 Bonds directly following the public hearing at the same meeting listed above.\r\n\r\n\r\nDATED this September 16, 2026. \r\n\t/s/ Anna Crookston\t\r\n\tSecretary-Treasurer",
-      "meeting_location": "1600 W. Towne Center Drive South Jordan City Hall - City Council Chambers South Jordan, UT 84095 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Anna Crookston",
-      "contact_email": "acrookston@sjc.utah.gov",
-      "posted_on": "September 16, 2026 04:41 PM",
-      "attachments": [
-        {
-          "file_name": "10-06-2026 Notice of Intent - MBA South Jordan Lease Rev 2026.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1489565.pdf",
-          "date_added": "2026/09/16 04:41 PM",
-          "file_id": "1489565"
         }
       ],
       "canceled": false

@@ -4,8 +4,34 @@
   "public_body": "City Council",
   "body_id": "535",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/535.html",
-  "scraped_at": "2026-11-16T18:00:40.021176+00:00",
+  "scraped_at": "2026-11-23T19:54:11.104381+00:00",
   "notices": [
+    {
+      "notice_id": "1125161",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1125161.html",
+      "title": "Public Hearing",
+      "event_date": "December 1, 2026 07:00 PM",
+      "event_date_iso": "2026-12-01T19:00:00",
+      "notice_types": [
+        "Notice",
+        "Hearing"
+      ],
+      "agenda_text": "EAGLE MOUNTAIN CITY COUNCIL\r\nNOTICE OF PUBLIC HEARINGS\r\n\r\nThe Eagle Mountain City Council will hold public hearings on December 1, 2026, at 7:00 PM or as soon thereafter as business allows, in the Eagle Mountain City Council Chambers, 1650 E Stagecoach Run, Eagle Mountain, Utah 84005.  The City Council will receive public comments concerning the following items:\r\n\r\n\r\nRanch House Storage - Rezone/GP Amendment/Development Agreement:\r\n\r\n-\tThe Eagle Mountain City Council will conduct public hearings for proposed Future Land Use Map, Zoning Map amendments and a Development Agreement. This property is located on Pole Canyon Blvd between N 0 St. and N. Virtual Dr., parcel number 59:055:0026. Approximately 10 acres of land are included in this proposal. A map showing the property in question can be found by scanning the QR code provided on this notice. \r\nEMC Point of Contact: Planner, Mickie Mills: mmills@eaglemountain.gov\r\n\r\n \r\n\r\nMaterials for public hearing items may be viewed within three days of the meeting on the city website and at the Eagle Mountain City Recorder's Office, 1650 E Stagecoach Run, Eagle Mountain, UT, during normal business hours, Monday through Friday, 7:30 AM to 5:30 PM. If you need special accommodation to participate in the meeting, please call the City Recorder's Office at 801.789.6611.  Open portions of the meeting can be viewed at www.eaglemountain.gov. \r\n\r\n\r\nTHE PUBLIC IS INVITED TO PARTICIPATE IN ALL CITY COUNCIL MEETINGS.\r\n\r\n\r\nCertificate of Posting\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above public hearing notice was posted on this 20rd day of November, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website, www.eaglemountain.gov, and posted to the Utah State public notice website http://www.utah.gov/pmn/index.html.\r\n\r\nLacie A. Messerly\r\nCity Recorder",
+      "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Lacie Messerly",
+      "contact_email": "lmesserly@eaglemountain.gov",
+      "posted_on": "November 20, 2026 08:06 AM",
+      "attachments": [
+        {
+          "file_name": "CCPH 12.01.2026 - Ranch House Storage.pdf",
+          "category": "Other",
+          "url": "https://www.utah.gov/pmn/files/1520805.pdf",
+          "date_added": "2026/11/20 08:06 AM",
+          "file_id": "1520805"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1121233",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121233.html",
@@ -122,6 +148,13 @@
       "posted_on": "October 29, 2026 02:36 PM",
       "attachments": [
         {
+          "file_name": "11.04.2026 -CC Minutes - APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1519029.pdf",
+          "date_added": "2026/11/18 09:45 AM",
+          "file_id": "1519029"
+        },
+        {
           "file_name": "11.04.2026 City Council Agenda.pdf",
           "category": "Other",
           "url": "https://www.utah.gov/pmn/files/1508417.pdf",
@@ -153,6 +186,13 @@
       "contact_email": "lmesserly@eaglemountain.gov",
       "posted_on": "October 26, 2026 11:52 AM",
       "attachments": [
+        {
+          "file_name": "10.28.2026 - Joint Work Meeting Minutes - APPROVED.pdf",
+          "category": "Meeting Minutes",
+          "url": "https://www.utah.gov/pmn/files/1519033.pdf",
+          "date_added": "2026/11/18 09:47 AM",
+          "file_id": "1519033"
+        },
         {
           "file_name": "10.28.2026 Special Joint Work Meeting - Lake Mountain School District.pdf",
           "category": "Other",
@@ -234,31 +274,6 @@
           "url": "https://www.utah.gov/pmn/files/1504547.pdf",
           "date_added": "2026/10/21 12:16 PM",
           "file_id": "1504547"
-        }
-      ],
-      "canceled": false
-    },
-    {
-      "notice_id": "1114235",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1114235.html",
-      "title": "Notice of Quorum",
-      "event_date": "October 21, 2026 06:30 PM",
-      "event_date_iso": "2026-10-21T18:30:00",
-      "notice_types": [
-        "Notice"
-      ],
-      "agenda_text": "EAGLE MOUNTAIN CITY\r\nNOTICE OF POSSIBLE QUORUM\r\n\r\nNotice is hereby given that a quorum of the Eagle Mountain City Council may be present on Wednesday, October 21, 2026, from 6:30 PM to 8:30 PM at City Hall, (1650 E. Stagecoach Run, Eagle Mountain, Utah). The City is hosting Class 5 of 6 of the Citizen's Academy, with the general topic of Community Services. City Councilmembers may attend for informational purposes only. No official City business will be conducted, and no formal discussion or decisions will take place.  \r\n\r\nCERTIFICATE OF POSTING\r\nThe undersigned, duly appointed City Recorder, does hereby certify that the above notice of quorum was posted on this 9th day of October, 2026, on the Eagle Mountain City bulletin boards, the Eagle Mountain City website www.eaglemountain.gov, and posted to the Utah State Public Notice website http://www.utah.gov/pmn/index.html\r\n\t\t\t\t\t\t\t\t            Lacie A. Messerly, City Recorder",
-      "meeting_location": "1650 E StageCoach Run Eagle Mountain, UT 84005 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Lacie Messerly",
-      "contact_email": "lmesserly@eaglemountain.gov",
-      "posted_on": "October 09, 2026 09:42 AM",
-      "attachments": [
-        {
-          "file_name": "10.21.2026 Notice of Quorum - Citizen's Academy @ City Hall Class 5.pdf",
-          "category": "Other",
-          "url": "https://www.utah.gov/pmn/files/1499321.pdf",
-          "date_added": "2026/10/09 09:42 AM",
-          "file_id": "1499321"
         }
       ],
       "canceled": false

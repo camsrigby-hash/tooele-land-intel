@@ -4,8 +4,47 @@
   "public_body": "Erda City Council",
   "body_id": "7509",
   "body_url": "https://www.utah.gov/pmn/sitemap/publicbody/7509.html",
-  "scraped_at": "2026-11-16T17:59:03.866332+00:00",
+  "scraped_at": "2026-11-23T19:52:39.660013+00:00",
   "notices": [
+    {
+      "notice_id": "1124809",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1124809.html",
+      "title": "ERDA City Council Member Vacancy Notice",
+      "event_date": "November 19, 2026 09:00 AM",
+      "event_date_iso": "2026-11-19T09:00:00",
+      "notice_types": [
+        "Notice"
+      ],
+      "agenda_text": "Erda City 2026 City Council Vacancy Public Notice\r\n\r\nCity Council member Sheldon Birch has resigned from his Erda City Council Office effective December 31, 2026. This notice is to inform the public of the vacancy in District 5 and the procedure for filling that vacancy. The vacancy is filled by a vote from the remaining Erda City Council Members and Sheldon Birch who has reserved his right to participate in the vote under Utah Code 20A-1-510(4)(a). The applicants who must live in District 5 will be interviewed in an open public meeting and the vote to fill the vacancy will be done at that same meeting.\r\nThe public meeting where the vacancy will be filled will be  \r\nDate- Thursday, December 10, 2026 \r\nTime- 6:00 pm \r\nPlace- 2163 West Erda Way, Erda, UT, 84074 (Erda City Office/Fire Station) \r\nIf someone is interested in applying for the vacancy they must contact and meet with the City Recorder, Jennifer Poole, and file an application (in person). \r\nJennifer Poole \r\n435-243-5577 \r\njpoole@erda.gov  \r\nIn person appointments need to be made before the deadline.  \r\nApplication Submission Deadline Friday December 4, 2026 5:00 pm (this is a hard deadline, no exceptions) \r\nAvailable Appointment Dates Times 9:00 am- 5:00 pm Nov 19-20, 2026 Nov 23-25, 2026 Nov 30, - Dec 4, 2026 Applications will be available to the public as they are submitted and uploaded, please visit  Erda Vacancy Filings 2026  The Procedure for filling a midterm vacancy in municipality office are found in Utah State Code 20A-1-510",
+      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
+      "contact_name": "Sheldon Birch",
+      "contact_email": "sbirch@erda.gov",
+      "posted_on": "November 18, 2026 09:03 PM",
+      "attachments": [
+        {
+          "file_name": "2026 Council Vacancy Application.docx",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1519741.docx",
+          "date_added": "2026/11/18 09:01 PM",
+          "file_id": "1519741"
+        },
+        {
+          "file_name": "Conflict of Interest Form 2026 (1).pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1519743.pdf",
+          "date_added": "2026/11/18 09:02 PM",
+          "file_id": "1519743"
+        },
+        {
+          "file_name": "Erda Vacancy Notice 2026 11-21-26.pdf",
+          "category": "Public Information Handout",
+          "url": "https://www.utah.gov/pmn/files/1521651.pdf",
+          "date_added": "2026/11/21 01:58 PM",
+          "file_id": "1521651"
+        }
+      ],
+      "canceled": false
+    },
     {
       "notice_id": "1121991",
       "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1121991.html",
@@ -21,6 +60,13 @@
       "contact_email": "sbirch@erda.gov",
       "posted_on": "November 09, 2026 06:55 PM",
       "attachments": [
+        {
+          "file_name": "11-12-26 Audio of City Council Meeting.mp3",
+          "category": "Audio Recording",
+          "url": "https://www.utah.gov/pmn/files/1518605.mp3",
+          "date_added": "2026/11/17 03:00 PM",
+          "file_id": "1518605"
+        },
         {
           "file_name": "11-12-26 Agenda for City Council (1).docx",
           "category": "Public Information Handout",
@@ -252,45 +298,22 @@
       "canceled": false
     },
     {
-      "notice_id": "1096777",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1096777.html",
-      "title": "Notice of Public Hearing on Request to Disconnect from Erda City",
+      "notice_id": "1101875",
+      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101875.html",
+      "title": "**CANCELED*** Erda City Council Meeting",
       "event_date": "August 13, 2026 07:00 PM",
       "event_date_iso": "2026-08-13T19:00:00",
       "notice_types": [
         "Notice",
-        "Meeting",
-        "Hearing"
+        "Meeting"
       ],
-      "agenda_text": "NOTICE OF PUBLIC HEARING\r\nERDA CITY\r\nPROPOSED DISCONNECTION PETITION\r\nNOTICE IS HEREBY GIVEN as required by Utah Code Ann. §10-2-501 that the Erda City Council will hold a public hearing to consider a petition for the disconnection of certain real property (Parcel # 01-441-0-0001) from the corporate limits of Erda City.\r\nThe public hearing will be held on August 13, 2026, at 7:00 p.m., at the Erda City Offices/Fire Station, 2163 W. Erda Way, Erda, UT, 84074.\r\nIn the public hearing, any person may speak and submit documents regarding the disconnection proposal.\r\nWritten comments/documents may be submitted to:\r\nJennifer Poole, Erda City Recorder\r\njpoole@erda.gov\r\n(435) 243-5577\r\nA copy of the disconnection petition is available for public inspection during regular business hours at the Erda City Fire Station, 2163 W Erda Way, Erda, Utah 84074 and on the Erda City Website at erda.gov \r\nDATED this 20th day of July, 2026.\r\n/s/ Jennifer Poole\r\nErda City Recorder",
+      "agenda_text": "**PUBLIC NOTICE - CITY COUNCIL MEETING CANCELED**\r\n\r\nDue to the **Tornado Warning** and out of concern for the safety of our residents, staff, and City Council members, **today's City Council meeting has been canceled**.\r\n\r\nThe meeting will be **rescheduled for a future date**, which will be announced as soon as possible.\r\n\r\nPlease stay safe, remain weather-aware, and follow all emergency alerts and guidance from local authorities.\r\n\r\nThank you for your understanding.\r\n\r\n**City of Erda**",
       "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
       "contact_name": "Sheldon Birch",
       "contact_email": "sbirch@erda.gov",
-      "posted_on": "July 20, 2026 02:12 PM",
-      "attachments": [
-        {
-          "file_name": "Parcel 01-441-0-0001_Petition for Disconnection from Erda (4).pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464401.pdf",
-          "date_added": "2026/07/20 02:11 PM",
-          "file_id": "1464401"
-        },
-        {
-          "file_name": "Parcel # 01-441-0-0001 Disconnect Legal Notice  (2).docx",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464403.docx",
-          "date_added": "2026/07/20 02:12 PM",
-          "file_id": "1464403"
-        },
-        {
-          "file_name": "Parcel 01-441-0-0001_Petition for Disconnection Exhibit A.pdf",
-          "category": "Public Information Handout",
-          "url": "https://www.utah.gov/pmn/files/1464405.pdf",
-          "date_added": "2026/07/20 02:12 PM",
-          "file_id": "1464405"
-        }
-      ],
-      "canceled": false
+      "posted_on": "August 13, 2026 06:18 PM",
+      "attachments": [],
+      "canceled": true
     },
     {
       "notice_id": "1100891",
@@ -331,24 +354,6 @@
         }
       ],
       "canceled": false
-    },
-    {
-      "notice_id": "1101875",
-      "notice_url": "https://www.utah.gov/pmn/sitemap/notice/1101875.html",
-      "title": "**CANCELED*** Erda City Council Meeting",
-      "event_date": "August 13, 2026 07:00 PM",
-      "event_date_iso": "2026-08-13T19:00:00",
-      "notice_types": [
-        "Notice",
-        "Meeting"
-      ],
-      "agenda_text": "**PUBLIC NOTICE - CITY COUNCIL MEETING CANCELED**\r\n\r\nDue to the **Tornado Warning** and out of concern for the safety of our residents, staff, and City Council members, **today's City Council meeting has been canceled**.\r\n\r\nThe meeting will be **rescheduled for a future date**, which will be announced as soon as possible.\r\n\r\nPlease stay safe, remain weather-aware, and follow all emergency alerts and guidance from local authorities.\r\n\r\nThank you for your understanding.\r\n\r\n**City of Erda**",
-      "meeting_location": "2163 W Erda Way Erda, UT 84074 Show in Apple Maps Show in Google Maps",
-      "contact_name": "Sheldon Birch",
-      "contact_email": "sbirch@erda.gov",
-      "posted_on": "August 13, 2026 06:18 PM",
-      "attachments": [],
-      "canceled": true
     }
   ]
 }
